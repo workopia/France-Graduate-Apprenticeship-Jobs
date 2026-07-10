@@ -1,16 +1,17 @@
 {
  "meta": {
   "repo": "France-Graduate-Apprenticeship-Jobs",
-  "title": "France Graduate, Apprenticeship & Internship Jobs 2026",
+  "title": "Offres d'emploi jeunes diplômés, alternance et stages — France 2026",
   "country_iso": "FR",
   "country_name": "France",
   "adjective": "France",
   "segment": "fr",
   "site_slug": "france",
+  "lang": "fr",
   "as_of": "2026-07-10",
   "window_days": 60,
   "total_site_jobs_str": "7.3M+",
-  "generated_at": "2026-07-10T04:53:27.516Z"
+  "generated_at": "2026-07-10T05:04:53.132Z"
  },
  "categories": [
   {
