@@ -12,7 +12,7 @@ Maintenu par [**Workopia**](https://workopia.io/browsejobs/fr?utm_source=github&
 
 - 🎓 **[Jeunes diplômés & Alternance](#jeunes-diplomes-alternance)** (165) — Stages 80 · Jeunes diplômés 80 · Débutant 5
 - 💻 **[Tech](#tech)** (161) — Stages 80 · Jeunes diplômés 15 · Débutant 66
-- 📊 **[Data, IA & ML](#data-ia-ml)** (116) — Stages 3 · Jeunes diplômés 56 · Débutant 57
+- 📊 **[Data, AI & ML](#data-ai-ml)** (116) — Stages 3 · Jeunes diplômés 56 · Débutant 57
 - 💷 **[Finance & Comptabilité](#finance-comptabilite)** (110) — Stages 26 · Jeunes diplômés 26 · Débutant 58
 - 🏥 **[Santé](#sante)** (19) — Débutant 19
 - 🔧 **[Métiers techniques & Alternance](#metiers-techniques-alternance)** (80) — Débutant 80
@@ -46,7 +46,7 @@ Maintenu par [**Workopia**](https://workopia.io/browsejobs/fr?utm_source=github&
 
 > **À la recherche d'autre chose ?**
 > 🔒 Offres fermées/anciennes → [Listings inactifs](./README-Inactive.md)
-> 🌍 Autres pays → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [Singapore](https://github.com/workopia/Singapore-Graduate-Internship-Jobs) · [Germany](https://github.com/workopia/Germany-Graduate-Jobs) · [Canada](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) · [Spain](https://github.com/workopia/Spain-Graduate-Internship-Jobs) · [Netherlands](https://github.com/workopia/Netherlands-Graduate-Jobs) · [Hong Kong](https://github.com/workopia/Hong-Kong-Graduate-Internship-Jobs)
+> 🌍 Autres pays → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [Singapore](https://github.com/workopia/Singapore-Graduate-Internship-Jobs) · [Germany](https://github.com/workopia/Germany-Graduate-Jobs) · [Canada](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) · [Spain](https://github.com/workopia/Spain-Graduate-Internship-Jobs) · [Netherlands](https://github.com/workopia/Netherlands-Graduate-Jobs)
 > 🔎 La liste complète → [tous les postes en France sur Workopia](https://workopia.io/browsejobs/fr?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs)
 
 ## FAQs
@@ -454,7 +454,7 @@ Créez une alerte emploi sur Workopia par poste + ville et nous vous enverrons u
 <sub>[⬆️ Retour en haut](#offres-demploi-jeunes-diplomes-alternance-et-stages-france-2026)</sub>
 
 
-## 📊 Data, IA & ML
+## 📊 Data, AI & ML
 
 > 💡 Vous ne trouvez pas un poste de « jeunes diplômés » ici ? Consultez les **Débutant** ci-dessous — les postes proches comptent aussi (un ingénieur logiciel peut postuler à Backend / Full Stack / Ingénieur IA).
 
@@ -598,7 +598,7 @@ Créez une alerte emploi sur Workopia par poste + ville et nous vous enverrons u
 </tbody>
 </table>
 
-🔎 **[Parcourez et filtrez tous les postes Data, IA & ML actifs sur Workopia →](https://workopia.io/browsejobs/positions/fr/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs)** · 🎓 **[Tous les postes de jeunes diplômés & débutant Data, IA & ML →](https://workopia.io/graduates/france/data?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs)**
+🔎 **[Parcourez et filtrez tous les postes Data, AI & ML actifs sur Workopia →](https://workopia.io/browsejobs/positions/fr/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs)** · 🎓 **[Tous les postes de jeunes diplômés & débutant Data, AI & ML →](https://workopia.io/graduates/france/data?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs)**
 
 <sub>[⬆️ Retour en haut](#offres-demploi-jeunes-diplomes-alternance-et-stages-france-2026)</sub>
 
