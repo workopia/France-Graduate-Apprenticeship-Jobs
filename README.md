@@ -12,7 +12,7 @@ Maintenu par [**Workopia**](https://workopia.io/browsejobs/fr?utm_source=github&
 
 - 🎓 **[Jeunes diplômés & Alternance](#jeunes-diplomes-alternance)** (165) — Stages 80 · Jeunes diplômés 80 · Débutant 5
 - 💻 **[Tech](#tech)** (161) — Stages 80 · Jeunes diplômés 15 · Débutant 66
-- 📊 **[Data, AI & ML](#data-ai-ml)** (116) — Stages 3 · Jeunes diplômés 56 · Débutant 57
+- 📊 **[Data, IA & ML](#data-ia-ml)** (116) — Stages 3 · Jeunes diplômés 56 · Débutant 57
 - 💷 **[Finance & Comptabilité](#finance-comptabilite)** (110) — Stages 26 · Jeunes diplômés 26 · Débutant 58
 - 🏥 **[Santé](#sante)** (19) — Débutant 19
 - 🔧 **[Métiers techniques & Alternance](#metiers-techniques-alternance)** (80) — Débutant 80
@@ -46,7 +46,7 @@ Maintenu par [**Workopia**](https://workopia.io/browsejobs/fr?utm_source=github&
 
 > **À la recherche d'autre chose ?**
 > 🔒 Offres fermées/anciennes → [Listings inactifs](./README-Inactive.md)
-> 🌍 Autres pays → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [Singapore](https://github.com/workopia/Singapore-Graduate-Internship-Jobs) · [Germany](https://github.com/workopia/Germany-Graduate-Jobs) · [Canada](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) · [Spain](https://github.com/workopia/Spain-Graduate-Internship-Jobs) · [Netherlands](https://github.com/workopia/Netherlands-Graduate-Jobs)
+> 🌍 Autres pays → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [Singapore](https://github.com/workopia/Singapore-Graduate-Internship-Jobs) · [Germany](https://github.com/workopia/Germany-Graduate-Jobs) · [Canada](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) · [Spain](https://github.com/workopia/Spain-Graduate-Internship-Jobs) · [Netherlands](https://github.com/workopia/Netherlands-Graduate-Jobs) · [Hong Kong](https://github.com/workopia/Hong-Kong-Graduate-Internship-Jobs)
 > 🔎 La liste complète → [tous les postes en France sur Workopia](https://workopia.io/browsejobs/fr?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs)
 
 ## FAQs
@@ -454,7 +454,7 @@ Créez une alerte emploi sur Workopia par poste + ville et nous vous enverrons u
 <sub>[⬆️ Retour en haut](#offres-demploi-jeunes-diplomes-alternance-et-stages-france-2026)</sub>
 
 
-## 📊 Data, AI & ML
+## 📊 Data, IA & ML
 
 > 💡 Vous ne trouvez pas un poste de « jeunes diplômés » ici ? Consultez les **Débutant** ci-dessous — les postes proches comptent aussi (un ingénieur logiciel peut postuler à Backend / Full Stack / Ingénieur IA).
 
@@ -555,7 +555,7 @@ Créez une alerte emploi sur Workopia par poste + ville et nous vous enverrons u
 <tr><td>↳</td><td>Data And Quality Analyst - Stage</td><td>Paris</td><td>Python, Data Visualization</td><td><a href="https://workopia.io/jobs/45c14fe3babf4fdf4260b032804aa564?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Postuler →</a></td><td>11 j</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/viridien?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Viridien</a></strong></td><td>Data Scientist</td><td>France</td><td>Python, Machine Learning</td><td><a href="https://workopia.io/jobs/77e6ecfa0a126d66a2a1436241b9bb01?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Postuler →</a></td><td>12 j</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/xcenda?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Xcenda</a></strong></td><td>Stage - Data Analyst Finance (h/f)</td><td>Paris</td><td>Excel, Financial reporting</td><td><a href="https://workopia.io/jobs/25558d0968c870bee53a4cb29e3c03ed?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Postuler →</a></td><td>12 j</td></tr>
-<tr><td><strong><a href="https://workopia.io/hi/companies/pigment?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Pigment</a></strong></td><td>Engineering Data Analyst</td><td>Paris</td><td>R&D analytics, data modeling</td><td><a href="https://workopia.io/jobs/3f2b0386a685c76c18ccde18daf01000?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Postuler →</a></td><td>13 j</td></tr>
+<tr><td><strong><a href="https://workopia.io/hi/companies/pigment?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Pigment</a></strong></td><td>Engineering Data Analyst</td><td>Paris</td><td>R&D analytics, data modeling</td><td><a href="https://workopia.io/jobs/3f2b0386a685c76c18ccde18daf01000?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Postuler →</a></td><td>2 sem</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/renault-group?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Renault Group</a></strong></td><td>Ap26 - Bac+5 - Data Scientist - Extraction Des Co…</td><td>France</td><td>Data extraction, Knowledge management</td><td><a href="https://workopia.io/jobs/4d52e07a06bf81ba6cb86a7953aef174?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Postuler →</a></td><td>2 sem</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/nestle-sa?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Nestle Ltd</a></strong></td><td>Master Data Analyst F/h</td><td>Paris</td><td>Master Data Management, Product Information Ma</td><td><a href="https://workopia.io/jobs/86bf8af3f0bce3583edc23b6f4c67578?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Postuler →</a></td><td>2 sem</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/galileo-global-education?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Galileo Global Education</a></strong></td><td>Data Analyst H/f</td><td>Paris</td><td>Data analysis, Reporting tools</td><td><a href="https://workopia.io/jobs/b1c2d6b76960df534116f886f92f9795?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs">Postuler →</a></td><td>2 sem</td></tr>
@@ -598,7 +598,7 @@ Créez une alerte emploi sur Workopia par poste + ville et nous vous enverrons u
 </tbody>
 </table>
 
-🔎 **[Parcourez et filtrez tous les postes Data, AI & ML actifs sur Workopia →](https://workopia.io/browsejobs/positions/fr/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs)** · 🎓 **[Tous les postes de jeunes diplômés & débutant Data, AI & ML →](https://workopia.io/graduates/france/data?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs)**
+🔎 **[Parcourez et filtrez tous les postes Data, IA & ML actifs sur Workopia →](https://workopia.io/browsejobs/positions/fr/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs)** · 🎓 **[Tous les postes de jeunes diplômés & débutant Data, IA & ML →](https://workopia.io/graduates/france/data?utm_source=github&utm_medium=repo&utm_campaign=france-graduate-apprenticeship-jobs)**
 
 <sub>[⬆️ Retour en haut](#offres-demploi-jeunes-diplomes-alternance-et-stages-france-2026)</sub>
 
