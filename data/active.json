@@ -1,6 +1,6 @@
 {
  "asOf": "2026-07-12",
- "count": 826,
+ "count": 827,
  "jobs": {
   "19695": {
    "id": "19695",
@@ -3463,6 +3463,12 @@
    "company": "Sanofi Consumer Healthcare",
    "role": "Stage 6 Mois - Analyse Business & Planification Stratégique",
    "location": "Lyon"
+  },
+  "f533ee7296f2782aa3ae971627ad0529": {
+   "id": "f533ee7296f2782aa3ae971627ad0529",
+   "company": "Huron",
+   "role": "Analyst",
+   "location": "France"
   },
   "7ab126cba4bb6ebfcb72c3595869c686": {
    "id": "7ab126cba4bb6ebfcb72c3595869c686",
