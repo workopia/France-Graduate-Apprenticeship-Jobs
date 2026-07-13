@@ -272,4 +272,122 @@
 <tr><td>Kenvue (Rogaine brand)</td><td>Stage - Assistant(e) Chef De Produit Marketing Le Petit Marseillais Bodycare & New Projects H/f</td><td>Paris</td><td>2026-07-12</td></tr>
 <tr><td>Airbus</td><td>Coordinateur(trice) De Production (pac-sl) (h/f)</td><td>Toulouse</td><td>2026-07-12</td></tr>
 <tr><td>Valeo Service</td><td>Stagiaire Événementiel – Billetterie Mondial De L'auto</td><td>Paris</td><td>2026-07-12</td></tr>
+<tr><td>Estée Lauder</td><td>Apprenticeship - Online Assistant Le Labo</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Firmenich</td><td>Finance Apprentice</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Portalp</td><td>Assistant Commercial Clients Nationaux - 91 H/f</td><td>Le Plessis</td><td>2026-07-13</td></tr>
+<tr><td>Portalp</td><td>Alternant - Technicien Maintenance De Portes Automatiques H/f</td><td>Marseille</td><td>2026-07-13</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois – Performance Et Intelligence Stratégique</td><td>Lyon</td><td>2026-07-13</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois – Obsolescence Des Solutions Digitales</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois - Support Communication Et Transformation</td><td>Montpellier</td><td>2026-07-13</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois – Assurance Qualité R&d</td><td>Sisteron</td><td>2026-07-13</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 4 Mois - Développement De Procédés Biologiques</td><td>Marcy L’Etoile</td><td>2026-07-13</td></tr>
+<tr><td>Sanofi UK</td><td>Alternance 12 Mois – Affaires Médicales</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Sanofi UK</td><td>Alternance 12 Mois – Communication</td><td>Lyon</td><td>2026-07-13</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois - Marketing Stratégique Diabète</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternance - Contrôle De Gestion H/f</td><td>ÎLe</td><td>2026-07-13</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternant Automaticien</td><td>Avelin</td><td>2026-07-13</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternant(e) Chimiste R&d - Formulation Et Caractérisation</td><td>Le Barp</td><td>2026-07-13</td></tr>
+<tr><td>Arkema S.A.</td><td>Stagiaire Data Marketing H/f/x</td><td>ÎLe-De-France</td><td>2026-07-13</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternant/e Qualité</td><td>RibéCourt</td><td>2026-07-13</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) Ressources Humaines H/f - Innside Paris Charles De Gaulle</td><td>Val</td><td>2026-07-13</td></tr>
+<tr><td>ASMODEE</td><td>Alternance - Assistant Auditeur Et Contrôle Interne F/h</td><td>France</td><td>2026-07-13</td></tr>
+<tr><td>ASMODEE</td><td>Stagiaire Fiscaliste F/h</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>RATP Group</td><td>Stage De 6 Mois En Éco-conception (bac+3/+4) F/h</td><td>ÎLe-De-France</td><td>2026-07-13</td></tr>
+<tr><td>Hogan Lovells</td><td>Stagiaire Strategic Operations, Agreements And Regulation H/f (juillet À Décembre 2027)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>valeo.in</td><td>Alternance En Trade Marketing</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>114</td><td>Alternance En Trade Marketing</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Theatre Sponsor</td><td>Alternance - Développement Paiement En Ligne (f/h)</td><td>Tours</td><td>2026-07-13</td></tr>
+<tr><td>Fromageries Bel</td><td>Chargé Qualité (f/h) - Alternant - Mont Blanc</td><td>Sainte MèRe Eglise</td><td>2026-07-13</td></tr>
+<tr><td>Fromageries Bel</td><td>Alternant Chargé Qualité F/h</td><td>Sainte MèRe Eglise</td><td>2026-07-13</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Stage Marketing Marche Food & Pharma F/h</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Airi Quideer</td><td>Stage Marketing Marche Food & Pharma F/h</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Guest Relation Officer H/f/x - Stage</td><td>Lyon</td><td>2026-07-13</td></tr>
+<tr><td>jll.co.in</td><td>Stagiaire Building Consultant H/f, Pds Projects</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>539</td><td>Alternance Chargé De Projets Techniques H/f</td><td>Beaucouzé</td><td>2026-07-13</td></tr>
+<tr><td>Memorialdrivevetclinic</td><td>Alternance Chargé De Projets Techniques H/f</td><td>Beaucouzé</td><td>2026-07-13</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Alternant En Sourcing</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>GE VERNOVA</td><td>Alternant En Sourcing</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Intermarche</td><td>Technicien Poste De Travail - Stage</td><td>Rennes</td><td>2026-07-13</td></tr>
+<tr><td>G&F Châtelain</td><td>Alternance – Chargé De Ressources Humaines – Parfums Beauté – H/f/x</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Pular para o</td><td>Alternance - Sales Ops Junior H/f</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>plaud-ascenseur.fr</td><td>Apprenti Technicien Ascensoriste (h/f)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Cid Ascenseur</td><td>Apprenti Technicien Ascensoriste (h/f)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>nissan.de</td><td>Marketing Experience Apprentice</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Hydeparkbank</td><td>Apprenti-e Commercial-e Grands Comptes H/f</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Extendicareporthope</td><td>Apprenti-e Commercial-e Grands Comptes H/f</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Exotrail</td><td>Apprenti(e) Hygiène Sécurité Environnement (hse)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Eiffagemetal</td><td>Alternant(e) En Instrumentation H/f</td><td>Marseille</td><td>2026-07-13</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti(e) Agent/technicien De Maintenance (h/f/x)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>HPE (Hewlett Packard Enterprise)</td><td>Apprenti Presales Solution Architect - Hpe Services (h/f)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Apprenti(e) Comptabilité Clients Et Contrôle Crédit H/f/n</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Automatisation Des Bancs De Caractérisation Orientée Data Science - H/f</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Bristol Myers Squibb</td><td>Apprenti(e) Chef De Produit Marketing Poumon Et Gu</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>DocuSign, Inc.</td><td>Software Engineer Intern</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>NHC CARE</td><td>Infirmier Suivi Parkinson F/h/x</td><td>Seine-Et-Marne</td><td>2026-07-13</td></tr>
+<tr><td>Keolis</td><td>Technicien·ne Cycle - Agent D'accueil À La Maison Du Vélo F/h</td><td>Rennes</td><td>2026-07-13</td></tr>
+<tr><td>Keolis</td><td>Technicien Maintenance Bus F/h</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternance - Technicien(ne) Maintenance En Electricite H/f</td><td>Marseille</td><td>2026-07-13</td></tr>
+<tr><td>RTX Corporation</td><td>Technicien De Maintenance Confirme (tous Genres)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Maintenance (h/f)</td><td>Nice</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Montage - Nsa (h/f)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Travaux - Réparation (h/f) - Nsa</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Montage Escaliers Mécaniques (h/f)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Montage Ascensoriste (h/f)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Maintenance (h/f) - Nsa</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Technicien Montage (h/f)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Maintenance Escaliers (h/f)</td><td>Lyon</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Travaux - Réparation (h/f)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Régleur Ascensoriste (h/f)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Technicien Maintenance - Nsa (h/f)</td><td>Nice</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Maintenance - Portes (h/f)</td><td>Nantes</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Technicien Maintenance (h/f) - Nsa</td><td>Grenoble</td><td>2026-07-13</td></tr>
+<tr><td>ZEISS Group</td><td>Alternant Technicien Maintenance (f/h)</td><td>Rennes</td><td>2026-07-13</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Alternant Technicien Maintenance (f/h)</td><td>Rennes</td><td>2026-07-13</td></tr>
+<tr><td>Amazon</td><td>Technicien(ne) de Maintenance Industrielle (H/F), RME AMZL</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance (h/f)</td><td>DonzèRe</td><td>2026-07-13</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Technicien De Maintenance (h/f/x)</td><td>Lyon</td><td>2026-07-13</td></tr>
+<tr><td>Intermarche</td><td>Alternant Technique & Maintenance - Méthode H/f</td><td>Grand-Fougeray</td><td>2026-07-13</td></tr>
+<tr><td>a2matlas-ascenseur.fr</td><td>Technicien De Maintenance (h/f) - Nsa</td><td>D Irigny</td><td>2026-07-13</td></tr>
+<tr><td>OTIS</td><td>Technicien De Maintenance (h/f) - Nsa</td><td>D Irigny</td><td>2026-07-13</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Technicien De Maintenance Protection Incendie H/f - Secteur 60/80</td><td>Boves</td><td>2026-07-13</td></tr>
+<tr><td>BEAUMARLY</td><td>Responsable Technique/maintenance H/f</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien(ne) De Maintenance Ssi- H/f</td><td>Nice</td><td>2026-07-13</td></tr>
+<tr><td>Thales</td><td>Technicien Ivvq Mco Optro</td><td>Mantes La Jolie</td><td>2026-07-13</td></tr>
+<tr><td>PPG Industries</td><td>Technicien De Maintenance Électrique H/f</td><td>Saultain</td><td>2026-07-13</td></tr>
+<tr><td>RATP</td><td>Mainteneur Serrurier - H/f - M2e</td><td>ÎLe-De-France</td><td>2026-07-13</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Mécanicien(ne) Systèmes (h/f)</td><td>Toulouse</td><td>2026-07-13</td></tr>
+<tr><td>Amazon</td><td>Technicien.ne de maintenance industrielle (H/F)</td><td>Nice</td><td>2026-07-13</td></tr>
+<tr><td>kone.kz</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Nantes</td><td>2026-07-13</td></tr>
+<tr><td>Kone Corporation</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Nantes</td><td>2026-07-13</td></tr>
+<tr><td>KONE Romania</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Nantes</td><td>2026-07-13</td></tr>
+<tr><td>SYCLEF V2.0</td><td>Technicien Frigoriste Sav Cuisines Professionnelles - Polyfroid (h/f)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>kone.us</td><td>Technicien Maintenance H/f À Bordeaux</td><td>Bordeaux</td><td>2026-07-13</td></tr>
+<tr><td>Kone Corporation</td><td>Technicien Maintenance H/f À Bordeaux</td><td>Bordeaux</td><td>2026-07-13</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi Temps Partiel H/f</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>VF Corporation (Vans)</td><td>Demonstrateur (h/f) - Sales Specialist - Cdd 28h - Kipling - Galerie Lafayette</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>PVH</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdi 24h</td><td>Bordeaux</td><td>2026-07-13</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Stage 2 Mois</td><td>Lille</td><td>2026-07-13</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Calvin Klein - Roppenheim - Cdi 35h</td><td>Roppenheim</td><td>2026-07-13</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Nice - Stage 2 Mois</td><td>Nice</td><td>2026-07-13</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Cannes - Cdd 35h</td><td>Nice</td><td>2026-07-13</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Cdi 28h</td><td>Lille</td><td>2026-07-13</td></tr>
+<tr><td>Expliseat SaS</td><td>Stage Acheteur Projet Junior - H/f</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Talan</td><td>Alternance - Assistant Marketing - H/f</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti.e Coordinateur.rice Evènementiel H/f - Pullman Paris Montparnasse 4*</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>SGS Australia Pty Ltd</td><td>Responsable Planification & Suivi Clients H/f – Cdd 12 Mois</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>SGS Australia Pty Ltd</td><td>Stagiaire Assistant(e) Polyvalent(e) – Logistique Bâtiment</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Hermès International</td><td>Alternance - Assistant(e) Marketing Opérationnel International H/f</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>aigents.co</td><td>Executive Assistant To Vp, Cloud And Vp, Product</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Hitachi Rail</td><td>Alternance - Assistant,e Marketing Et Communication</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>SGS Australia Pty Ltd</td><td>Chimiste – Coordinateur(trice) De Projets En Analyses Environnementales (sites & Sols Pollués / Eaux)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>asud-ascenseur.fr</td><td>Alternant Chargé De Projets Stratégiques & Performance Commerciale (h/f) France</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Eiffage Génie Civil</td><td>Alternant(e) - Assistant(e) Administratif(ve) - Eiffage Génie Civil Idf F/h</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Assistant(e) Commercial(e) - F/h</td><td>Servon</td><td>2026-07-13</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Coordinateur De Production (pac-sl) Fal A321 (f/m)</td><td>Toulouse</td><td>2026-07-13</td></tr>
+<tr><td>Eiffagerail</td><td>Secretaire N1-2</td><td>Nontron</td><td>2026-07-13</td></tr>
+<tr><td>Thales Group</td><td>Cdd - Assistante D'équipe Sc F/h</td><td>Etrelles</td><td>2026-07-13</td></tr>
+<tr><td>Thales Group</td><td>Alternance – Project Management Officer – F/h</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Careers Marriott</td><td>Marketing Coordinator H/f</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Valeoservice Com Br</td><td>Stagiaire Événementiel – Billetterie Mondial De L'auto</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant(e) Approvisionnement (h/f)</td><td>Paris</td><td>2026-07-13</td></tr>
 </table>
