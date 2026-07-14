@@ -390,4 +390,37 @@
 <tr><td>Careers Marriott</td><td>Marketing Coordinator H/f</td><td>Paris</td><td>2026-07-13</td></tr>
 <tr><td>Valeoservice Com Br</td><td>Stagiaire Événementiel – Billetterie Mondial De L'auto</td><td>Paris</td><td>2026-07-13</td></tr>
 <tr><td>Hermès International</td><td>Stage - Assistant(e) Approvisionnement (h/f)</td><td>Paris</td><td>2026-07-13</td></tr>
+<tr><td>Keolis</td><td>Alternance - Chargé Du Contrôle Interne Junior H/f</td><td>Paris</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Alternant.e Qhse (h/f)</td><td>Paris</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Stage - Assistant.e Excellence Opérationnelle F/h</td><td>Rennes</td><td>2026-07-14</td></tr>
+<tr><td>Sanofi UK</td><td>Alternance 12 Mois - Communication Interne & Gestion De Projets</td><td>Paris</td><td>2026-07-14</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Alternance 12 Mois – Communication Interne</td><td>Montpellier</td><td>2026-07-14</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois – Performance Et Intelligence Stratégique</td><td>Lyon</td><td>2026-07-14</td></tr>
+<tr><td>Otis Worldwide Corporation</td><td>Apprenti Key Account Cs Junior (h/f)</td><td>Paris</td><td>2026-07-14</td></tr>
+<tr><td>CFM</td><td>Internship - Software Engineer - Distributed Compute Platform Revamp</td><td>Paris</td><td>2026-07-14</td></tr>
+<tr><td>CFM</td><td>Internship - Web Front-end Developer</td><td>Paris</td><td>2026-07-14</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Mécanicien Réparateur (f/h)</td><td>Gueugnon</td><td>2026-07-14</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Alternance - Technicien De Maintenance Bac +2/3 (h/f)</td><td>Aspach Le Haut</td><td>2026-07-14</td></tr>
+<tr><td>Daikin Europe NV</td><td>Assistant(e) Technicien Sav En Alternance F/h (lille)</td><td>Lille</td><td>2026-07-14</td></tr>
+<tr><td>Daikin Europe NV</td><td>Technicien Chiller F/h (nanterre) 1</td><td>Paris</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Industrielle Bus F/h</td><td>Le Mesnil-Amelot</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Technicien De Maintenance - Ligne 18 F/h</td><td>Paris</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Technicien Maintenance Métro Ligne B F/h</td><td>Rennes</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Agent Electrotechnicien : Infrastructures Électriques Tramway F/h</td><td>Bordeaux</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Matériel Roulant Bus H/f</td><td>Bordeaux</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Electromécanicien F/h</td><td>Corbeille</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Mécanicien H/f</td><td>Paris</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Technicien Cycle H/f</td><td>Bordeaux</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Métro F/h</td><td>Rennes</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Ouvrier Maintenance Préventive Metro F/h</td><td>Lille</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Mécanicien Bus - Pl Expert (f/h)</td><td>Lyon</td><td>2026-07-14</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Voies Du Métro F/h</td><td>Rennes</td><td>2026-07-14</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi Temps Partiel H/f 15h - 20h</td><td>Lyon</td><td>2026-07-14</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Vendeurs (f/h) - Cdi 25h - La Test De Buch</td><td>Bordeaux</td><td>2026-07-14</td></tr>
+<tr><td>VF Corporation (Vans)</td><td>Sales Associate - Vendeur (h/f) - Cdi 35h - The North Face - Villefontaine</td><td>Lyon</td><td>2026-07-14</td></tr>
+<tr><td>VF Corporation (Vans)</td><td>Sales Associate - Vendeur(h/f) - The North Face Cdi 14h - Villefontaine</td><td>Lyon</td><td>2026-07-14</td></tr>
+<tr><td>SGS Australia Pty Ltd</td><td>Assistant Administratif (h/f)</td><td>Lyon</td><td>2026-07-14</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Stage Sales / Event (6 Mois)</td><td>Paris</td><td>2026-07-14</td></tr>
+<tr><td>Egis</td><td>Stagiaire Bac+4 – Chargé De Projet Rse Climat H/f</td><td>Paris</td><td>2026-07-14</td></tr>
+<tr><td>FUGA</td><td>Stage Chef De Projet Évènementiel H/f [septembre 2026]</td><td>Paris</td><td>2026-07-14</td></tr>
 </table>
