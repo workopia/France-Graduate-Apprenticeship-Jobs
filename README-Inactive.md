@@ -423,4 +423,56 @@
 <tr><td>Sofitel Melbourne On Collins</td><td>Stage Sales / Event (6 Mois)</td><td>Paris</td><td>2026-07-14</td></tr>
 <tr><td>Egis</td><td>Stagiaire Bac+4 – Chargé De Projet Rse Climat H/f</td><td>Paris</td><td>2026-07-14</td></tr>
 <tr><td>FUGA</td><td>Stage Chef De Projet Évènementiel H/f [septembre 2026]</td><td>Paris</td><td>2026-07-14</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - R&d Pms Budget Bac +4/5 (h/f)</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Propriété Intellectuelle Bac +4/5 (h/f)</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Support Pmo Bac +4/5 (h/f)</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Hse Bac +3/5 (h/f)</td><td>Garchizy</td><td>2026-07-15</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Contrôleur De Gestion Bac + 4/5 (h/f)</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Juriste Commerce & Programmes Bac + 4/5 (h/f)</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Designer Innovation H/f</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Ferrero LADM</td><td>Assistant Chargé De Communication Interne - Stage (h/f/x)</td><td>Villers-ÉCalles</td><td>2026-07-15</td></tr>
+<tr><td>Keolis</td><td>Alternance - Juriste En Droit Social F/h</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Keolis</td><td>Stage - Juriste Droit Public Des Affaires F/h</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Keolis</td><td>Alternance Chargé(e) Marketing F/h</td><td>Mantes La Jolie</td><td>2026-07-15</td></tr>
+<tr><td>Thales</td><td>Alternance - Talent Acquisition Partner F/h</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>ENACO</td><td>Alternance - Manager En Restauration Rapide (apprentissage) H/f</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Otis Worldwide Corporation</td><td>Apprenti Technicien De Maintenance</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Apprenti Technicien De Maintenance</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>asud-ascenseur.fr</td><td>Apprenti Technicien De Maintenance</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti Commis De Cuisine (h/f/x)</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Parsons Corp.</td><td>Project Management Apprenticeship (neomma)</td><td>Marseille</td><td>2026-07-15</td></tr>
+<tr><td>Jobsathpe</td><td>Apprenti Presales Solution Architect - Hpe Services (h/f)</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Ingénieur D’étude Instruments Radar D’observation De La Terre -f/h</td><td>Toulouse</td><td>2026-07-15</td></tr>
+<tr><td>Bureau Veritas</td><td>Juriste Conformité - Alternance (f-h-x)</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Sonepar Climate</td><td>Technicien Sav H/f - Sonepar Climate Marseille (13)</td><td>Marseille</td><td>2026-07-15</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Technicien De Maintenance Sav Fermetures Industrielles H/f</td><td>Guitrancourt</td><td>2026-07-15</td></tr>
+<tr><td>Vandemoortele NV</td><td>Technicien(ne) De Maintenance F/h</td><td>Le Fossat</td><td>2026-07-15</td></tr>
+<tr><td>Vandemoortele NV</td><td>Maintenance Technician Arras 1</td><td>Arras 1</td><td>2026-07-15</td></tr>
+<tr><td>Vandemoortele NV</td><td>Maintenance Technician</td><td>Neuville Sur Sarthe</td><td>2026-07-15</td></tr>
+<tr><td>Vandemoortele NV</td><td>Technicien(ne) De Maintenance Week-end F/h</td><td>Le Fossat</td><td>2026-07-15</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien Multiservices - F/h</td><td>Toulouse</td><td>2026-07-15</td></tr>
+<tr><td>eaglefootballgroup</td><td>Technicien(ne) Multi-services (h/f)</td><td>Lyon</td><td>2026-07-15</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Technicien Dépanneur Machines Outils H/f</td><td>Les Ancizes</td><td>2026-07-15</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Technicien Maintenance Mécanique H/f</td><td>Gueugnon</td><td>2026-07-15</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Mécanicien Industriel (chantier)h/f</td><td>Marseille</td><td>2026-07-15</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Technicien Maintenance Industrielle/machines Outils H/f</td><td>Aix En Provence</td><td>2026-07-15</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Robinetier Nucléaire (mécanicien Grand Déplacement) (h/f)</td><td>Cattenom</td><td>2026-07-15</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Mécanicien Hydroélectrique (f/h)</td><td>Toulouse</td><td>2026-07-15</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 16h Cdi H/f/x</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Toulouse</td><td>2026-07-15</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 25h Cdi H/f/x</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Marionnaud</td><td>Cdi Conseiller(e) Beauté H/f</td><td>Annecy</td><td>2026-07-15</td></tr>
+<tr><td>Marionnaud</td><td>Cdd Conseiller(e) Beauté H/f</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Marionnaud</td><td>Evian - Conseiller(e) Beauté H/f - Cdd</td><td>Annecy</td><td>2026-07-15</td></tr>
+<tr><td>Boulanger</td><td>Vendeur / Vendeuse Conseil Cdi - Temps Plein (h/f)</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Weldom</td><td>Conseiller(ère) De Vente - H/f</td><td>Nice</td><td>2026-07-15</td></tr>
+<tr><td>Kiabi</td><td>Conseiller De Vente 25h</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Levis Media</td><td>Vendeur Cdd - La Vallée Village</td><td>Serris</td><td>2026-07-15</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique Outillage Quincaillerie H/f</td><td>Toulouse</td><td>2026-07-15</td></tr>
+<tr><td>La Casa de las Carcasas</td><td>Vendeur (h/f) - Cdi 20h - Bordeaux Meriadeck</td><td>Bordeaux</td><td>2026-07-15</td></tr>
+<tr><td>Xcenda</td><td>Stage Chef De Projet - Trade Marketing (h/f)</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Foodles</td><td>🎓 Alternant·e Administration Des Ventes (adv) (f/h)</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>Thales Group</td><td>Assistant D'équipe - F/h</td><td>Nice</td><td>2026-07-15</td></tr>
+<tr><td>Thales Group</td><td>Responsable De Lot Expédition - F/h</td><td>Paris</td><td>2026-07-15</td></tr>
+<tr><td>THALES</td><td>Assistant D'équipe - F/h</td><td>Nice</td><td>2026-07-15</td></tr>
 </table>
