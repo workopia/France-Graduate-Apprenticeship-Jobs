@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-15",
- "count": 845,
+ "asOf": "2026-07-16",
+ "count": 849,
  "jobs": {
   "19695": {
    "id": "19695",
@@ -74,6 +74,12 @@
    "role": "Technicien De Maintenance Portes Automatiques - 34 H/f",
    "location": "Saint"
   },
+  "c33f7cac7a9326bb310e194bbd2b3909": {
+   "id": "c33f7cac7a9326bb310e194bbd2b3909",
+   "company": "Xcenda",
+   "role": "Stage - Logistique (h/f)",
+   "location": "Chaponnay"
+  },
   "0db610727d51e4f11a4c96e9d3d53375": {
    "id": "0db610727d51e4f11a4c96e9d3d53375",
    "company": "CommScope Inc",
@@ -104,6 +110,24 @@
    "role": "Management Control - Internship / Apprenticeship",
    "location": "Paris"
   },
+  "764c2a8f7a685777329557d2cd6d7c55": {
+   "id": "764c2a8f7a685777329557d2cd6d7c55",
+   "company": "Christie's",
+   "role": "Stagiaire Collection Mode - 5 Mois",
+   "location": "Paris"
+  },
+  "ad923e799457e31ad80234ec22c13ede": {
+   "id": "ad923e799457e31ad80234ec22c13ede",
+   "company": "Four Seasons Hotels & Resorts",
+   "role": "Stage Finance Août 2026 Pour 6 Mois (h/f)",
+   "location": "Paris"
+  },
+  "d4b339d9a97028778ad6155ed24142df": {
+   "id": "d4b339d9a97028778ad6155ed24142df",
+   "company": "Intermarche",
+   "role": "Alternant Qhse",
+   "location": "Vert"
+  },
   "ff8cd78b25aea80866261515da4c4187": {
    "id": "ff8cd78b25aea80866261515da4c4187",
    "company": "Kone Corporation",
@@ -128,9 +152,21 @@
    "role": "Stagiaire Consultant Performance Environnementale H/f",
    "location": "Paris"
   },
+  "8f22fc580b4bfd0151fd91a74aeaea3d": {
+   "id": "8f22fc580b4bfd0151fd91a74aeaea3d",
+   "company": "42",
+   "role": "Stagiaire Consultant Performance Environnementale H/f",
+   "location": "Paris"
+  },
   "268a1a89a12ed3d204563a94848c1bcd": {
    "id": "268a1a89a12ed3d204563a94848c1bcd",
    "company": "Sofitel Melbourne On Collins",
+   "role": "Stage - Candidature Spontanée – Rejoins L’aventure Mama !",
+   "location": "Toulouse"
+  },
+  "a4ed417d2875d5e0245a971de381bedf": {
+   "id": "a4ed417d2875d5e0245a971de381bedf",
+   "company": "AccorHotels",
    "role": "Stage - Candidature Spontanée – Rejoins L’aventure Mama !",
    "location": "Toulouse"
   },
@@ -518,40 +554,22 @@
    "role": "Apprenticeship Channel And Porfolio Intern",
    "location": "Paris"
   },
-  "001a42630ee72692ed85aa646cbcbe1e": {
-   "id": "001a42630ee72692ed85aa646cbcbe1e",
-   "company": "Coty",
-   "role": "Stagiaire R&d Développement Packaging",
+  "394fa62f2c3415963bb1a172fb6d34bb": {
+   "id": "394fa62f2c3415963bb1a172fb6d34bb",
+   "company": "Sanofi",
+   "role": "Apprenticeship 24 Months – Digital Product Owner",
    "location": "Paris"
   },
-  "2eb5c6c4c56ce4a21642b0541abdb881": {
-   "id": "2eb5c6c4c56ce4a21642b0541abdb881",
-   "company": "eaglefootballgroup",
-   "role": "Alternance - Chargé(e) De Missions Rse / Fondation Ol",
-   "location": "Lyon"
+  "627e3d49508adc88c9a6d203a9b7b78c": {
+   "id": "627e3d49508adc88c9a6d203a9b7b78c",
+   "company": "OTIS ELEVATOR COMPANY",
+   "role": "Apprenti Technicien Portes Et Portails (h/f)",
+   "location": "Toulouse"
   },
-  "f75c28fd5c232888ca5d954893ead558": {
-   "id": "f75c28fd5c232888ca5d954893ead558",
-   "company": "eaglefootballgroup",
-   "role": "Ol Lyonnes - Stage / Redaction Digitale (h/f)",
-   "location": "Lyon"
-  },
-  "0e08690949418a39e41c42c25cac22d9": {
-   "id": "0e08690949418a39e41c42c25cac22d9",
-   "company": "BENETEAU",
-   "role": "[stage] - Assistant Architecte Naval H/f",
-   "location": "Dompierre Sur Yon"
-  },
-  "17f0f3dbaa61113c8e01b312c2edc467": {
-   "id": "17f0f3dbaa61113c8e01b312c2edc467",
-   "company": "Coloplast AS",
-   "role": "Stagiaire Ingénieur Supply Chain (24) - H/f",
-   "location": "Sarlat La Caneda"
-  },
-  "57bb26267115d5cdd32371dbd7b61781": {
-   "id": "57bb26267115d5cdd32371dbd7b61781",
-   "company": "Cockerill Maintenance & Ingenierie",
-   "role": "Arquus - Alternance - Chargé De Missions Hse Bac +3/4/5 (h/f)",
+  "8321e6596b85a22bcdb09c0d6db0bfff": {
+   "id": "8321e6596b85a22bcdb09c0d6db0bfff",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Apprenti(e) Cuisine H/f/x",
    "location": "Paris"
   },
   "e5b6c130236fb5a6a674ef5b60947558": {
@@ -593,6 +611,12 @@
   "b539e66cfcbab38482601e1d2f678121": {
    "id": "b539e66cfcbab38482601e1d2f678121",
    "company": "solaebelgiumcareers.be",
+   "role": "Apprentice Financial Controlling – Fine Fragrance Eame & Global Key Accounts (f/m/d)",
+   "location": "Paris"
+  },
+  "a46a3a6a2d5d9d8cf0da6620d9303560": {
+   "id": "a46a3a6a2d5d9d8cf0da6620d9303560",
+   "company": "International Flavors & Fragrances",
    "role": "Apprentice Financial Controlling – Fine Fragrance Eame & Global Key Accounts (f/m/d)",
    "location": "Paris"
   },
@@ -996,30 +1020,6 @@
    "id": "b37e46a52a9e9335f94cb6477ee249a7",
    "company": "Thales",
    "role": "Alternance - Automatisation Des Bancs De Caractérisation Orientée Data Science - H/f",
-   "location": "Paris"
-  },
-  "e1e08878fafe7e13c36f03848e65c883": {
-   "id": "e1e08878fafe7e13c36f03848e65c883",
-   "company": "Ecolab Pty Ltd",
-   "role": "Apprenti(e) Technicien(ne) Sav",
-   "location": "Paris"
-  },
-  "ecb8d49c90ad72d440e967de20a43b49": {
-   "id": "ecb8d49c90ad72d440e967de20a43b49",
-   "company": "RATP Group",
-   "role": "Apprentie Carrière, Rémunération Et Temps De Travail",
-   "location": "Paris"
-  },
-  "4375affdd81432d1963548ec1b9ee4a6": {
-   "id": "4375affdd81432d1963548ec1b9ee4a6",
-   "company": "RATP",
-   "role": "Apprentie Carrière, Rémunération Et Temps De Travail",
-   "location": "Paris"
-  },
-  "1443dc75ff2e35d59332ecb456e5d91a": {
-   "id": "1443dc75ff2e35d59332ecb456e5d91a",
-   "company": "Cytiva",
-   "role": "Apprenti(e) Rh Généraliste",
    "location": "Paris"
   },
   "e7b5eb3e882988f34c7afdfa37b47de8": {
@@ -3278,6 +3278,18 @@
    "role": "Business Analyst- Infectious Diseases- Rungis H/f",
    "location": "Paris"
   },
+  "3595da8ae811425211b8c573bb2f1acb": {
+   "id": "3595da8ae811425211b8c573bb2f1acb",
+   "company": "Lazard",
+   "role": "Stage H/f - Analyste Fixed Income Pôle High Yield – Janvier 2027",
+   "location": "Paris"
+  },
+  "e63ecb2dfbcb45e1cfd0d0b9ed98cb8c": {
+   "id": "e63ecb2dfbcb45e1cfd0d0b9ed98cb8c",
+   "company": "Lazard",
+   "role": "Stage H/f - Analyste Actions – Janvier 2027",
+   "location": "Paris"
+  },
   "cba6f2d266810f683bff7bfb84f1e1d2": {
    "id": "cba6f2d266810f683bff7bfb84f1e1d2",
    "company": "Talan",
@@ -3295,6 +3307,18 @@
    "company": "ATR (Airbus/Leonardo)",
    "role": "Sap Sales Business Analyst - Coe For Erp Spares & Services M/f",
    "location": "Toulouse"
+  },
+  "8bc4e49b66ca303995d2563a06c6c6c4": {
+   "id": "8bc4e49b66ca303995d2563a06c6c6c4",
+   "company": "Lazard",
+   "role": "Stage H/f - Analyste Financier Gestion Privée – Janvier 2027",
+   "location": "Paris"
+  },
+  "f86f07f590a6baa0fa6f1b19f645d24c": {
+   "id": "f86f07f590a6baa0fa6f1b19f645d24c",
+   "company": "Lazard",
+   "role": "Stage H/f - Compliance Officer Junior – Janvier 2027",
+   "location": "Paris"
   },
   "3a00a4faca2d0785e5573c480ee1c125": {
    "id": "3a00a4faca2d0785e5573c480ee1c125",
@@ -3692,6 +3716,12 @@
    "role": "Infirmier Conseil Atton H/f",
    "location": "France"
   },
+  "2735de927664aa217c487fbde9387816": {
+   "id": "2735de927664aa217c487fbde9387816",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Technicien De Maintenance (h/f/nb)",
+   "location": "Paris"
+  },
   "86c63acb5755bd949901ad1bb33f9de3": {
    "id": "86c63acb5755bd949901ad1bb33f9de3",
    "company": "Cemex Operaciones Mexico SA de CV",
@@ -3739,6 +3769,30 @@
    "company": "Bonduelle",
    "role": "Electromécanicien (h/f)",
    "location": "Vaulx Vraucourt"
+  },
+  "b39571c8622c2587013815c07b7b80eb": {
+   "id": "b39571c8622c2587013815c07b7b80eb",
+   "company": "HARTMANN",
+   "role": "Technicien De Maintenance Progressive",
+   "location": "Liepvre"
+  },
+  "13ff93fd2a50c4b0b26c3c79cb5169e7": {
+   "id": "13ff93fd2a50c4b0b26c3c79cb5169e7",
+   "company": "HARTMANN",
+   "role": "Technicien De Maintenance 2x8 (h/f)",
+   "location": "LièPvre"
+  },
+  "5fd9a41710bb26b85b666fa3809e5f1b": {
+   "id": "5fd9a41710bb26b85b666fa3809e5f1b",
+   "company": "kone.kz",
+   "role": "Technicien Maintenance Ascenseurs H/f À Paris",
+   "location": "Paris"
+  },
+  "6bb61455f1f5c0d1918ce93f5a204269": {
+   "id": "6bb61455f1f5c0d1918ce93f5a204269",
+   "company": "kone.kz",
+   "role": "Spécialiste Travaux / Réparateur Maintenance Ascenseurs (h/f/x)",
+   "location": "Paris"
   },
   "a674c5d617d995c2a08bfd8369d1fb2a": {
    "id": "a674c5d617d995c2a08bfd8369d1fb2a",
@@ -4130,41 +4184,23 @@
    "role": "Technicien.ne Après-vente",
    "location": "Lyon"
   },
-  "e16ff5866938105f1ab1dc5cfbc6f62f": {
-   "id": "e16ff5866938105f1ab1dc5cfbc6f62f",
-   "company": "KION",
-   "role": "Technicien.ne Après-vente",
-   "location": "Lyon"
-  },
-  "213abc956f183c2c322684e88702e51d": {
-   "id": "213abc956f183c2c322684e88702e51d",
-   "company": "SYCLEF V2.0",
-   "role": "Mécanicien En Maintenance Industrielle – Technologie Du Froid F/h - Matal",
-   "location": "Nantes"
-  },
-  "618419c024c4eaa29d4cd937fa38a645": {
-   "id": "618419c024c4eaa29d4cd937fa38a645",
-   "company": "SYCLEF V2.0",
-   "role": "Copy Of Technicien Metteur Au Point (h/f) - Froid Industriel F/h - Matal",
-   "location": "Rennes"
-  },
-  "32a25f9f27a4480a1061e1dddad81397": {
-   "id": "32a25f9f27a4480a1061e1dddad81397",
-   "company": "Sims Metal",
-   "role": "Technicien De Maintenance Ssi_ Bordeaux 33",
-   "location": "Bordeaux"
-  },
-  "1a3558c4e38f2147368d2bc1a7f169e2": {
-   "id": "1a3558c4e38f2147368d2bc1a7f169e2",
-   "company": "Eurofeu - SAcuritA Incendie",
-   "role": "Technicien De Maintenance Extincteurs - F/h",
-   "location": "Nice"
+  "b39611ce8e760c0403583f0242e1536a": {
+   "id": "b39611ce8e760c0403583f0242e1536a",
+   "company": "Boulanger",
+   "role": "Vendeur Conseil - Cdd Temps Partiel H/f",
+   "location": "Annecy"
   },
   "114a09119705ca96ffc387f17aff9ba2": {
    "id": "114a09119705ca96ffc387f17aff9ba2",
    "company": "Breitling SA",
    "role": "Btq Sales Associate - F/h/x",
    "location": "St-Tropez"
+  },
+  "22e290efc627aec240a05bc01eb78f9c": {
+   "id": "22e290efc627aec240a05bc01eb78f9c",
+   "company": "Nestlé",
+   "role": "Vendeur Cdd (h/f)",
+   "location": "Lyon"
   },
   "d5b687a112cef0b58683153ba42eaec4": {
    "id": "d5b687a112cef0b58683153ba42eaec4",
@@ -4508,12 +4544,6 @@
    "role": "Vendeur Conseil - Cdi H/f 15h",
    "location": "Toulouse"
   },
-  "1eef5bfa2b51e23e72eab545f71ee928": {
-   "id": "1eef5bfa2b51e23e72eab545f71ee928",
-   "company": "Boulanger",
-   "role": "Vendeur Conseil - Cdd Temps Partiel H/f",
-   "location": "Lyon"
-  },
   "e70ae3772c3a2fecb40eedf5b99ba488": {
    "id": "e70ae3772c3a2fecb40eedf5b99ba488",
    "company": "Boulanger",
@@ -4598,12 +4628,6 @@
    "role": "Conseiller(e) Beauté H/f - Cdi",
    "location": "Lyon"
   },
-  "8232db8fd5358fe35b8f2a5aa4d832ae": {
-   "id": "8232db8fd5358fe35b8f2a5aa4d832ae",
-   "company": "Marionnaud",
-   "role": "Conseiller(e) Beauté H/f",
-   "location": "Paris"
-  },
   "62514e6d606f9b3821ad4545ecc977b9": {
    "id": "62514e6d606f9b3821ad4545ecc977b9",
    "company": "Suez Group",
@@ -4626,6 +4650,12 @@
    "id": "34b3b593bf95c9a0e9a1b56644a9d214",
    "company": "IDEMIA",
    "role": "Apprenti(e) Hrbp / Chargé(e) De Missions Rh",
+   "location": "Paris"
+  },
+  "209ad610e29b31df04071d5d6557e02c": {
+   "id": "209ad610e29b31df04071d5d6557e02c",
+   "company": "FUGA",
+   "role": "Stage Chef De Projet Évènementiel H/f [septembre 2026]",
    "location": "Paris"
   },
   "7b0a374d6d4febbefea6c7ef4b54779a": {
@@ -5065,12 +5095,6 @@
    "company": "Hermès International",
    "role": "Stage - Chargé De Projets (h/f)",
    "location": "Paris"
-  },
-  "f8726f937fb16230a7899fb09d92d7a7": {
-   "id": "f8726f937fb16230a7899fb09d92d7a7",
-   "company": "SAICA",
-   "role": "Assistant(e) Administration Des Ventes",
-   "location": "Rennes"
   }
  }
 }

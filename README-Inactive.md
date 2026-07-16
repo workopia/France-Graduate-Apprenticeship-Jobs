@@ -475,4 +475,22 @@
 <tr><td>Thales Group</td><td>Assistant D'équipe - F/h</td><td>Nice</td><td>2026-07-15</td></tr>
 <tr><td>Thales Group</td><td>Responsable De Lot Expédition - F/h</td><td>Paris</td><td>2026-07-15</td></tr>
 <tr><td>THALES</td><td>Assistant D'équipe - F/h</td><td>Nice</td><td>2026-07-15</td></tr>
+<tr><td>Coty</td><td>Stagiaire R&d Développement Packaging</td><td>Paris</td><td>2026-07-16</td></tr>
+<tr><td>eaglefootballgroup</td><td>Alternance - Chargé(e) De Missions Rse / Fondation Ol</td><td>Lyon</td><td>2026-07-16</td></tr>
+<tr><td>eaglefootballgroup</td><td>Ol Lyonnes - Stage / Redaction Digitale (h/f)</td><td>Lyon</td><td>2026-07-16</td></tr>
+<tr><td>BENETEAU</td><td>[stage] - Assistant Architecte Naval H/f</td><td>Dompierre Sur Yon</td><td>2026-07-16</td></tr>
+<tr><td>Coloplast AS</td><td>Stagiaire Ingénieur Supply Chain (24) - H/f</td><td>Sarlat La Caneda</td><td>2026-07-16</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus - Alternance - Chargé De Missions Hse Bac +3/4/5 (h/f)</td><td>Paris</td><td>2026-07-16</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Apprenti(e) Technicien(ne) Sav</td><td>Paris</td><td>2026-07-16</td></tr>
+<tr><td>RATP Group</td><td>Apprentie Carrière, Rémunération Et Temps De Travail</td><td>Paris</td><td>2026-07-16</td></tr>
+<tr><td>RATP</td><td>Apprentie Carrière, Rémunération Et Temps De Travail</td><td>Paris</td><td>2026-07-16</td></tr>
+<tr><td>Cytiva</td><td>Apprenti(e) Rh Généraliste</td><td>Paris</td><td>2026-07-16</td></tr>
+<tr><td>KION</td><td>Technicien.ne Après-vente</td><td>Lyon</td><td>2026-07-16</td></tr>
+<tr><td>SYCLEF V2.0</td><td>Mécanicien En Maintenance Industrielle – Technologie Du Froid F/h - Matal</td><td>Nantes</td><td>2026-07-16</td></tr>
+<tr><td>SYCLEF V2.0</td><td>Copy Of Technicien Metteur Au Point (h/f) - Froid Industriel F/h - Matal</td><td>Rennes</td><td>2026-07-16</td></tr>
+<tr><td>Sims Metal</td><td>Technicien De Maintenance Ssi_ Bordeaux 33</td><td>Bordeaux</td><td>2026-07-16</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien De Maintenance Extincteurs - F/h</td><td>Nice</td><td>2026-07-16</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Partiel H/f</td><td>Lyon</td><td>2026-07-16</td></tr>
+<tr><td>Marionnaud</td><td>Conseiller(e) Beauté H/f</td><td>Paris</td><td>2026-07-16</td></tr>
+<tr><td>SAICA</td><td>Assistant(e) Administration Des Ventes</td><td>Rennes</td><td>2026-07-16</td></tr>
 </table>
