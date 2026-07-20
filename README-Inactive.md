@@ -752,4 +752,66 @@
 <tr><td>Valeo Service</td><td>Alternant(e) - Contrôleur De Gestion Achat(f/h)</td><td>Paris</td><td>2026-07-19</td></tr>
 <tr><td>Soldejaneiro</td><td>Coordinator, Marketing - Me (3-month fix-term Contract)</td><td>Paris</td><td>2026-07-19</td></tr>
 <tr><td>Testia France</td><td>Testia Sas - Assistant.e Administration Des Ventes (h/f) – Toulouse</td><td>Toulouse</td><td>2026-07-19</td></tr>
+<tr><td>Portalp</td><td>Technicien De Maintenance Portes Automatiques - 75 H/f</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Ami Paris</td><td>Cdd- Conseiller.ère De Vente - La Vallée Village</td><td>Serris</td><td>2026-07-20</td></tr>
+<tr><td>GroupE MONDIAL TISSUS - GMT SaS</td><td>Vendeur.euse Sallanches (3)</td><td>Annecy</td><td>2026-07-20</td></tr>
+<tr><td>Advancy</td><td>Stagiaire Chargé(e) De Projet Erp</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Portalp</td><td>Technicien De Maintenance Portes Automatiques - 34 H/f</td><td>Saint</td><td>2026-07-20</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) Ressources Humaines H/f - Innside Paris Charles De Gaulle</td><td>Val</td><td>2026-07-20</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) De Direction - Innside Paris Charles De Gaulle (paris, France)</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Seasonsaviara</td><td>Stagiaire (h/f) - In Room Dining - Hiver 26/27</td><td>France</td><td>2026-07-20</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire People & Culture (h/f)</td><td>Cap-Ferrat</td><td>2026-07-20</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire (h/f) - In Room Dining - Hiver 26/27</td><td>France</td><td>2026-07-20</td></tr>
+<tr><td>Barry Callebaut AG</td><td>Stagiaires Marketing</td><td>Mantes La Jolie</td><td>2026-07-20</td></tr>
+<tr><td>Xcenda</td><td>Stage - Logistique (h/f)</td><td>Chaponnay</td><td>2026-07-20</td></tr>
+<tr><td>Egis in ANZ</td><td>Stagiaire Bac+4 / Césure – Chargé De Projet Rse Et Développement Durable H/f</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Intermarche</td><td>Alternant Qhse H/f</td><td>Vert</td><td>2026-07-20</td></tr>
+<tr><td>jobs.abbott</td><td>Internship-market Development & Strategic Projects- Apoc- H/f</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Daikin Austria</td><td>Alternance - Assistant(e) En Transformation Digitale & Ia (h/f)</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Thales Group</td><td>Alternance – Communication – F/h</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>IDEMIA</td><td>Apprenticeship - Ai Governance, Privacy & Data Protection</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Sanofi UK</td><td>Apprenticeship 24 Months – Digital Product Owner</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Apprenticeship 24 Months – Digital Product Owner</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Sanofi UK</td><td>Apprenticeship 12 Months – Communication And Ecosystem Innovation</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Apprenticeship 12 Months – Communication And Ecosystem Innovation</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Sanofi UK</td><td>Apprenticeship 12 Months - erp Optimization & Ai</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Apprenticeship 12 Months - erp Optimization & Ai</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>RTX Corporation</td><td>Alternant Chef De Projet Programmes Clients (tous Genres)</td><td>Marseille</td><td>2026-07-20</td></tr>
+<tr><td>Otisjob</td><td>Alternant Talent, Formation, Inclusion (h/f)</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Otisjob</td><td>Apprenti Technicien De Montage (h/f)</td><td>Toulouse</td><td>2026-07-20</td></tr>
+<tr><td>Thales Defense and Security Inc</td><td>Alternance – Ingénieur Développement Logiciel & Devops - F/h</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Thales Defense and Security Inc</td><td>Alternance - Ingénieur Communications Optiques En Espace Libre - F/h</td><td>Toulouse</td><td>2026-07-20</td></tr>
+<tr><td>Riot</td><td>Backend Engineer / Awareness Team</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Riot</td><td>Backend Engineer / Slash Team</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Aircall</td><td>Software Engineer - Fullstack (react & Typescript)</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Vandemoortele NV</td><td>Maintenance Technician</td><td>Neuville Sur Sarthe</td><td>2026-07-20</td></tr>
+<tr><td>Bonduelle</td><td>Electromécanicien (futur Frigoriste) (h/f)</td><td>Renescure</td><td>2026-07-20</td></tr>
+<tr><td>Bonduelle</td><td>Mécanicien (h/f)</td><td>BordèRes</td><td>2026-07-20</td></tr>
+<tr><td>Bonduelle</td><td>Electrotechnicien (h/f)</td><td>EstréEs</td><td>2026-07-20</td></tr>
+<tr><td>Bonduelle</td><td>Electromécanicien (h/f)</td><td>Vaulx Vraucourt</td><td>2026-07-20</td></tr>
+<tr><td>HARTMANN</td><td>Technicien De Maintenance Progressive</td><td>Liepvre</td><td>2026-07-20</td></tr>
+<tr><td>HARTMANN</td><td>Technicien De Maintenance 2x8 (h/f)</td><td>LièPvre</td><td>2026-07-20</td></tr>
+<tr><td>Honeywell International</td><td>Exp R&o Maint Technician</td><td>Toulouse</td><td>2026-07-20</td></tr>
+<tr><td>kone.kz</td><td>Technicien Maintenance Ascenseurs H/f À Paris</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>KONE Romania</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Grenoble</td><td>2026-07-20</td></tr>
+<tr><td>kone.kz</td><td>Spécialiste Travaux / Réparateur Maintenance Ascenseurs (h/f/x)</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>KONE Romania</td><td>Spécialiste Travaux / Réparateur Maintenance Ascenseurs (h/f/x)</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Timberland</td><td>Demonstrateur - Vendeur (h/f) - Cdi 35h - Timberland - Citadium Caumartin</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Conforama</td><td>Vendeur Electroménager Electro-loisirs (h/f) Cdd</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Conforama</td><td>Vendeur Meubles (h/f) - Cdd</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Galeries Lafayette</td><td>Conseiller De Vente Galeries Lafayette Royal Quartz - Cdi Roissy F/h</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Paris Capucines - Stage 2 Mois</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Paris Capucines - Stage 2 Mois</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Cultura</td><td>Conseiller(e) De Vente Papeterie Et Art Créatif</td><td>Nice</td><td>2026-07-20</td></tr>
+<tr><td>Culta</td><td>Conseiller(e) De Vente Papeterie Et Art Créatif</td><td>Nice</td><td>2026-07-20</td></tr>
+<tr><td>Galeries Lafayette</td><td>Conseiller De Vente Espace Luxe F/h</td><td>Bordeaux</td><td>2026-07-20</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd - Temps Complet H/f - Ouverture Basse Goulaine</td><td>Nantes</td><td>2026-07-20</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Coordinateur Export (h/f) - 6 Mois Choisy-le-roi (94)</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Assistant(e) Chef(fe) De Produit Horlogerie - Horlogerie Joaillerie - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Atos</td><td>Alternance - Assistant Administratif (f/h)</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Coty</td><td>Burberry Make-up Marketing Assistant Intern</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Daikin Europe NV</td><td>Assistant(e) Back Office (alternance) F/h Siège</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Daikin Europe NV</td><td>Assistant(e) Juriste En Alternance F/h</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Keolis</td><td>Alternance - Assistant Achats Pièces De Rechange Bus & Cars F/h</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois – Évènementiel Et Congrès Diabète Type 1</td><td>Paris</td><td>2026-07-20</td></tr>
 </table>
