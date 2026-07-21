@@ -814,4 +814,38 @@
 <tr><td>Daikin Europe NV</td><td>Assistant(e) Juriste En Alternance F/h</td><td>Paris</td><td>2026-07-20</td></tr>
 <tr><td>Keolis</td><td>Alternance - Assistant Achats Pièces De Rechange Bus & Cars F/h</td><td>Paris</td><td>2026-07-20</td></tr>
 <tr><td>Sanofi UK</td><td>Stage 6 Mois – Évènementiel Et Congrès Diabète Type 1</td><td>Paris</td><td>2026-07-20</td></tr>
+<tr><td>Sonepar Group</td><td>Stage- Fiscalite H/f - Lyon 7e</td><td>Lyon</td><td>2026-07-21</td></tr>
+<tr><td>Nestle Ltd</td><td>Stage Chargé De Communication Interne F/h</td><td>Boué</td><td>2026-07-21</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur - Stage (h/f)</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>GroupE LIMAGRAIN HOLDING</td><td>Alternance - E Commerce & Performance Digitale</td><td>Saint-Quentin-Fallavier</td><td>2026-07-21</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stage Evénementiel Juillet Pour 6 Mois (h/f)</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>Four Seasons</td><td>Stage Evénementiel Juillet Pour 6 Mois (h/f)</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>Seasonsaviara</td><td>Stage Finance Août 2026 Pour 6 Mois (h/f)</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire Relations Publiques, Marketing & Communication (h/f)</td><td>Cap-Ferrat</td><td>2026-07-21</td></tr>
+<tr><td>Seasonsaviara</td><td>Stagiaire Relations Publiques, Marketing & Communication (h/f)</td><td>Cap-Ferrat</td><td>2026-07-21</td></tr>
+<tr><td>Seasonsaviara</td><td>Stagiaire Spa (h/f) - Hiver 26/27</td><td>France</td><td>2026-07-21</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire Spa (h/f) - Hiver 26/27</td><td>France</td><td>2026-07-21</td></tr>
+<tr><td>Seasonsaviara</td><td>Stagiaire People & Culture (h/f)</td><td>Cap-Ferrat</td><td>2026-07-21</td></tr>
+<tr><td>Keolis</td><td>Mécanicien En Alternance F/h</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>Sanofi UK</td><td>Apprenticeship 12 Months – Planet Care Data Science</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Apprenticeship 12 Months – Planet Care Data Science</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Business Analyst - Naturactive - Cdd H/f</td><td>Toulouse</td><td>2026-07-21</td></tr>
+<tr><td>Airbus Defence and Space SAS</td><td>Alt2026_apprenti(e) En Pilotage De L’activité Commerciale (f/h)</td><td>Toulouse</td><td>2026-07-21</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Stage 6 Mois - Analyse Business & Planification Stratégique</td><td>Lyon</td><td>2026-07-21</td></tr>
+<tr><td>Huron</td><td>Analyst</td><td>France</td><td>2026-07-21</td></tr>
+<tr><td>Sonepar Group</td><td>Responsable Maintenance Et Surete H/f - Saint Vulbas (01)</td><td>Saint Vulbas</td><td>2026-07-21</td></tr>
+<tr><td>Sonepar Climate</td><td>Technicien Sav H/f - Sonepar Climate Marseille (13)</td><td>Marseille</td><td>2026-07-21</td></tr>
+<tr><td>Cemex Operaciones Mexico SA de CV</td><td>Electro-mécanicien(ne) (h/f) - Salon De Provence (13) - Cdi</td><td>Aix En Provence</td><td>2026-07-21</td></tr>
+<tr><td>Cemex Operaciones Mexico SA de CV</td><td>Electro-mécanicien(ne) (h/f) - Marseille Port (13) - Cdi</td><td>Marseille</td><td>2026-07-21</td></tr>
+<tr><td>Cemex Operaciones Mexico SA de CV</td><td>Electro-mécanicien(ne) (h/f) - Alpes-maritimes (06) - Cdi</td><td>Nice</td><td>2026-07-21</td></tr>
+<tr><td>West</td><td>Tech Sup, Maintenance</td><td>Le Nouvion</td><td>2026-07-21</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Annecy</td><td>2026-07-21</td></tr>
+<tr><td>Primark</td><td>Vendeur Polyvalent-temps Partiel</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>Conforama</td><td>Vendeur Petit Electroménager (h/f) - Cdd</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>Sonepar Group</td><td>Alternance - Assistant Marketing Digital & Data H/f - Boulgone-billancourt (92)</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Juridique Marché France H/f</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Assistant(e) Juridique Marché France H/f</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Stage - Assistant(e) Juridique Marché France H/f</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Gestionnaire Logistique Sav - Horlogerie Joaillerie - H/f/x - Septembre 2026</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>G&F Châtelain</td><td>Cdd - Assistant(e) D’équipe Et Coordination Evènement, Marketing Parfums – Beauté Marché France H/f</td><td>Paris</td><td>2026-07-21</td></tr>
 </table>
