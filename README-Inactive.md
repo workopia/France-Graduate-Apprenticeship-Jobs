@@ -848,4 +848,41 @@
 <tr><td>Chanel (Australia) Pty Ltd</td><td>Stage - Assistant(e) Juridique Marché France H/f</td><td>Paris</td><td>2026-07-21</td></tr>
 <tr><td>G&F Châtelain</td><td>Stage - Gestionnaire Logistique Sav - Horlogerie Joaillerie - H/f/x - Septembre 2026</td><td>Paris</td><td>2026-07-21</td></tr>
 <tr><td>G&F Châtelain</td><td>Cdd - Assistant(e) D’équipe Et Coordination Evènement, Marketing Parfums – Beauté Marché France H/f</td><td>Paris</td><td>2026-07-21</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternance - Contrôle De Gestion H/f</td><td>Puteaux La DéFense</td><td>2026-07-22</td></tr>
+<tr><td>Chnetwork</td><td>Stagiaire - Juriste Généraliste - Manufactures De Mode (h/f/x)</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Chanel</td><td>Stagiaire - Juriste Généraliste - Manufactures De Mode (h/f/x)</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>G&F Châtelain</td><td>Stagiaire - Juriste Généraliste - Manufactures De Mode (h/f/x)</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Berkeley Research Group (BRG)</td><td>Internship - Competition Economics (german Speaker)</td><td>Brussels +1</td><td>2026-07-22</td></tr>
+<tr><td>Boston Consulting Group</td><td>Internship - Career Services & Communication (septembre 2026)</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Boston Consulting Group</td><td>Visiting Associate, Internship, France</td><td>France</td><td>2026-07-22</td></tr>
+<tr><td>Chiesi Farmaucetici S.p.A</td><td>Alternant(e) Affaires Réglementaires</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Intermarche</td><td>Stage – Chargé De Mission Enseigne H/f</td><td>Vert</td><td>2026-07-22</td></tr>
+<tr><td>Trustpair</td><td>Growth Marketing Intern/apprentice M/f/mx</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Egis</td><td>Stage Bac+5 - Ingénieur De Projet - Tramway H/f</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>ReedPOP Group</td><td>Stagiaire</td><td>France</td><td>2026-07-22</td></tr>
+<tr><td>Solvay</td><td>Alternance Hse (f/h/x)</td><td>Collonges</td><td>2026-07-22</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Apprenti Ingénieur Calcul Produit F/h</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Keolis</td><td>Apprenti Mécanicien Bus F/h</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation Expert</td><td>Lyon</td><td>2026-07-22</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Alternance - Technicien De Maintenance (h/f) - Lieusaint</td><td>Lieuxaint</td><td>2026-07-22</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Alternance - Technicien De Maintenance (h/f) - Vanves</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Alternance - Technicien De Maintenance (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Technicien De Maintenance (h/f/nb)</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Kone Corporation</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Lille</td><td>2026-07-22</td></tr>
+<tr><td>57</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Lille</td><td>2026-07-22</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi Temps Partiel H/f</td><td>Lyon</td><td>2026-07-22</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 25h Cdi H/f/x</td><td>Bordeaux</td><td>2026-07-22</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Cannes - Stage 2 Mois</td><td>Nice</td><td>2026-07-22</td></tr>
+<tr><td>PVH Corp.</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Cannes - Stage 2 Mois</td><td>Nice</td><td>2026-07-22</td></tr>
+<tr><td>Dim</td><td>Conseiller(e) De Vente H/f Roubaix - Tps Partiel 8h</td><td>Lille</td><td>2026-07-22</td></tr>
+<tr><td>Galeries Lafayette</td><td>Louis Pion Conseiller De Vente - Cdi 35h - Lyon Part Dieu F/h</td><td>Lyon</td><td>2026-07-22</td></tr>
+<tr><td>Cultura</td><td>Conseiller De Vente Librairie Jeunesse (f/h)</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Galeries Lafayette</td><td>Conseiller(e) De Vente Expert En Confection Femme F/h</td><td>Toulouse</td><td>2026-07-22</td></tr>
+<tr><td>Conforama</td><td>Vendeur (h/f) Cdi</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Sustainabilityleads</td><td>Sales Associate - Vendeur (h/f) - Cdi 35h - The North Face - Villefontaine</td><td>Lyon</td><td>2026-07-22</td></tr>
+<tr><td>Sustainabilityleads</td><td>Sales Associate - Vendeur(h/f) - The North Face Cdi 14h - Villefontaine</td><td>Lyon</td><td>2026-07-22</td></tr>
+<tr><td>Kipling</td><td>Demonstrateur (h/f) - Sales Specialist - Cdd 28h - Kipling - Galerie Lafayette</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Kiabi</td><td>Conseiller De Vente (h/f) Puget-sur-argens</td><td>Nice</td><td>2026-07-22</td></tr>
+<tr><td>ENACO</td><td>Alternance - Assistant(e) Chef D'équipe En Apprentissage H/f</td><td>Paris</td><td>2026-07-22</td></tr>
 </table>
