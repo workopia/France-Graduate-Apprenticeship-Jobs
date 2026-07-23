@@ -885,4 +885,58 @@
 <tr><td>Kipling</td><td>Demonstrateur (h/f) - Sales Specialist - Cdd 28h - Kipling - Galerie Lafayette</td><td>Paris</td><td>2026-07-22</td></tr>
 <tr><td>Kiabi</td><td>Conseiller De Vente (h/f) Puget-sur-argens</td><td>Nice</td><td>2026-07-22</td></tr>
 <tr><td>ENACO</td><td>Alternance - Assistant(e) Chef D'équipe En Apprentissage H/f</td><td>Paris</td><td>2026-07-22</td></tr>
+<tr><td>Cantire</td><td>Alternant Qualité Fournisseurs H/f</td><td>France</td><td>2026-07-23</td></tr>
+<tr><td>Carrier</td><td>Alternant Qualité Fournisseurs H/f</td><td>France</td><td>2026-07-23</td></tr>
+<tr><td>International SOS</td><td>Sales Executive Intern</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire (h/f) - Kaito - Hiver 26/27</td><td>France</td><td>2026-07-23</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire (h/f) - Pâtisserie - Hiver 26/27</td><td>France</td><td>2026-07-23</td></tr>
+<tr><td>Four Seasons</td><td>Stagiaire (h/f) - Kaito - Hiver 26/27</td><td>France</td><td>2026-07-23</td></tr>
+<tr><td>Seasonsaviara</td><td>Stagiaire (h/f) - Pâtisserie - Hiver 26/27</td><td>France</td><td>2026-07-23</td></tr>
+<tr><td>Ornikar</td><td>Chef De Projet Crm &amp; Marketing Digital - Stage/alternance</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Chnetwork</td><td>Internship – Marketing & Events Project Assistant – Watches & Fine Jewelry Europe – January 2027 – H/f/x</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Chanel</td><td>Internship – Marketing & Events Project Assistant – Watches & Fine Jewelry Europe – January 2027 – H/f/x</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>G&F Châtelain</td><td>Internship – Marketing & Events Project Assistant – Watches & Fine Jewelry Europe – January 2027 – H/f/x</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Internship – Marketing & Events Project Assistant – Watches & Fine Jewelry Europe – January 2027 – H/f/x</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>W Brisbane</td><td>Stagiaire Commercial B To B H/f</td><td>Roissy En France</td><td>2026-07-23</td></tr>
+<tr><td>SNOP</td><td>Apprenti (e) Administrateur Réseaux Et Sécurité</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Getinge AB</td><td>Apprenti Controleur De Gestion (h/f)</td><td>Toulouse</td><td>2026-07-23</td></tr>
+<tr><td>AptarGroup</td><td>Apprenti(e) Fiscaliste H/f</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Arrow Electronics Inc</td><td>Apprenti(e) Sales</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Innothera Services SARL</td><td>Apprenti(e) Charge(e) De Vigilances Et D Information Medicale</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Apprenti(e) Orienté(e) Projet</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Swiss Re</td><td>Assistant(e) De Souscription En Alternance</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>BENETEAU</td><td>[alternance] - Animateur Hsee H/f</td><td>Nantes</td><td>2026-07-23</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Alternance - Qualité R&d - Bac+4/5 (h/f)</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Méthodes Et Process Bac +4/5 (h/f)</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Nestle SA</td><td>Comptable F/h</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien Travaux Programmés (f/h)</td><td>France</td><td>2026-07-23</td></tr>
+<tr><td>Eiffagemetal</td><td>Monteur Industriel F/h</td><td>Mimizan</td><td>2026-07-23</td></tr>
+<tr><td>Eiffagemetal</td><td>Mécanicien Industriel H/f</td><td>Saclay</td><td>2026-07-23</td></tr>
+<tr><td>Eiffagemetal</td><td>Hydraulicien H/f</td><td>Saclay</td><td>2026-07-23</td></tr>
+<tr><td>Eiffagerail</td><td>Monteur Industriel F/h</td><td>Mimizan</td><td>2026-07-23</td></tr>
+<tr><td>Eiffagerail</td><td>Hydraulicien H/f</td><td>Saclay</td><td>2026-07-23</td></tr>
+<tr><td>Eiffagerail</td><td>Mécanicien Industriel H/f</td><td>Saclay</td><td>2026-07-23</td></tr>
+<tr><td>PPG Industries</td><td>Technicien De Maintenance Électrique H/f</td><td>Saultain</td><td>2026-07-23</td></tr>
+<tr><td>Chiesi Farmaucetici S.p.A</td><td>Technicien Méthodes</td><td>La Chaussee St Victor</td><td>2026-07-23</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Technicien Service Atelier (h/f), Engins Tp - Cdi - Taverny</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Technicien Service D'atelier Grues Mobiles (h/f) - Cdd 12 Mois - Niederhergheim</td><td>Niederhergheim</td><td>2026-07-23</td></tr>
+<tr><td>RATP</td><td>Mainteneur De Voies Ferrées Metro - F/h - (ratp/infras/voie)</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>RATP Group</td><td>Mainteneur De Voies Ferrées Metro - F/h - (ratp/infras/voie)</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Nouryon</td><td>Adjoint Responsable Maintenance</td><td>Toulouse</td><td>2026-07-23</td></tr>
+<tr><td>2lcollection</td><td>Technicien De Maintenance (h/f)</td><td>Chateau De Fonscolombe</td><td>2026-07-23</td></tr>
+<tr><td>perdigon-ascenseur.fr</td><td>Technicien De Maintenance (h/f)</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Daikin France</td><td>Assistant(e) Technicien Sav En Alternance F/h (lille)</td><td>Lille</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Maintenance Référent (h/f) - Paris</td><td>Paris 1</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Alternance - Technicien De Réparation (h/f) - Vanves</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation (h/f) - Vanves</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation (h/f) Monaco</td><td>Monaco</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation Expert (h/f) - Grenoble</td><td>Grenoble</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation (h/f) - Idf Sud</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdi 21h</td><td>Bordeaux</td><td>2026-07-23</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdi 14h</td><td>Bordeaux</td><td>2026-07-23</td></tr>
+<tr><td>PVH Corp.</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdd 35h</td><td>Bordeaux</td><td>2026-07-23</td></tr>
+<tr><td>PVH Corp.</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdi 14h</td><td>Bordeaux</td><td>2026-07-23</td></tr>
+<tr><td>Pawllywood</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Cannes - Stage 2 Mois</td><td>Nice</td><td>2026-07-23</td></tr>
+<tr><td>Chnetwork</td><td>Stage - Chef(fe) De Projets Gouvernance Et Reporting Qualité – Mode – Février 2027 – H/f/x</td><td>Paris</td><td>2026-07-23</td></tr>
 </table>
