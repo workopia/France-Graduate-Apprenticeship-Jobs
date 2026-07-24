@@ -939,4 +939,123 @@
 <tr><td>PVH Corp.</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdi 14h</td><td>Bordeaux</td><td>2026-07-23</td></tr>
 <tr><td>Pawllywood</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Cannes - Stage 2 Mois</td><td>Nice</td><td>2026-07-23</td></tr>
 <tr><td>Chnetwork</td><td>Stage - Chef(fe) De Projets Gouvernance Et Reporting Qualité – Mode – Février 2027 – H/f/x</td><td>Paris</td><td>2026-07-23</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) De Direction - Innside Paris Charles De Gaulle (paris, France)</td><td>Val-D'Oise</td><td>2026-07-24</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) Ressources Humaines H/f - Innside Paris Charles De Gaulle</td><td>Val-D'Oise</td><td>2026-07-24</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Marketing Digital - F/h</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Barry Callebaut AG</td><td>Stagiaires Marketing</td><td>Mantes La Jolie</td><td>2026-07-24</td></tr>
+<tr><td>Arkema France</td><td>Alternant(e) Chimiste R&d - Formulation Et Caractérisation</td><td>Le Barp</td><td>2026-07-24</td></tr>
+<tr><td>IDEMIA</td><td>Management Control - Internship / Apprenticeship</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Ardian</td><td>Learning Intern - Septembre 2026 Ou Janvier 2027 I Paris (m/f)</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Nestle SA</td><td>Vendeur - Stage (h/f)</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>SWAROVSKI</td><td>Conseiller De Vente Stagiaire (h/f/x) - Créteil</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Division Of Internal Oversight Services</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Office Of The Director-general</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Thales</td><td>Stage - Droit De La Concurrence - F/h</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Thales</td><td>Stage - Communication Interne - F/h</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Thales</td><td>Alternance - Ingenieur Pédagogique - F/h</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Thales</td><td>Alternance - Digital Learning F/h</td><td>Orleans</td><td>2026-07-24</td></tr>
+<tr><td>Thales</td><td>Alternance - Supply Chain F/h</td><td>Orleans</td><td>2026-07-24</td></tr>
+<tr><td>Thales</td><td>Stagiaire Droit Résolution Des Litiges Et Contentieux</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Governing Bodies Secretariat</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Culture Sector</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Intergovernmental Oceanographic Commission</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Coty</td><td>Stagiaire R&d Développement Packaging</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Coty</td><td>Apprenticeship Channel And Porfolio Intern</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Contrôleur Financier Global Rx H/f</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Finance H/f</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Stage - Controle De Gestion F/h</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Back Office Edi H/f</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>CommScope Holding</td><td>Intern, Sales</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Bosch Group</td><td>Stage Informatique Industrielle</td><td>Saint-ThéGonnec</td><td>2026-07-24</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Stage - Controle De Gestion F/h</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Digital Transformation</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Sonymusicpub</td><td>Trade And Segment Marketing Intern</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Juditechsono</td><td>Trade And Segment Marketing Intern</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Alternant 12 Mois – Contrôle Interne Des Fonctions Finance, Achats, Juridique, Ressources Humaines</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Sanofi UK</td><td>Alternant 12 Mois – Contrôle Interne Des Fonctions Finance, Achats, Juridique, Ressources Humaines</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois - Approvisionnement Matières Premières Et Produits Finis</td><td>Marcy L’Etoile</td><td>2026-07-24</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois - Approvisionnement Matières Premières Et Produits Finis</td><td>Marcy L’Etoile</td><td>2026-07-24</td></tr>
+<tr><td>Melia</td><td>Stagiaire F&b - Maison Colbert, Melia Collection - Paris, France</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Melia</td><td>Stagiaire F&b - Melia Paris Champs Elysées - Paris, France</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Genesis Energy</td><td>Internship – Internal Control Corporate – F/m</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Coloplast AS</td><td>Apprenti(e) Junior Product Manager (92) - H/f</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Coty</td><td>Global Education & Retail Apprentice</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Coty Inc.</td><td>Global Education & Retail Apprentice</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>solaebelgiumcareers.be</td><td>Apprentice Financial Controlling – Fine Fragrance Eame & Global Key Accounts (f/m/d)</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>International Flavors & Fragrances</td><td>Apprentice Financial Controlling – Fine Fragrance Eame & Global Key Accounts (f/m/d)</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti.e Pâtisserie (h/f)</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Bureau Veritas</td><td>Apprenticeship - General Services Administrative Assistant (f/m)</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Guerbet</td><td>Chargé Dip Process - Alternance</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>CEVA Logistics</td><td>Apprenticeship - Global Treasury Analyst</td><td>Marseille</td><td>2026-07-24</td></tr>
+<tr><td>CMA CGM Group</td><td>It Project Management Apprentice</td><td>Marseille</td><td>2026-07-24</td></tr>
+<tr><td>CMA CGM Group</td><td>Group Accounting Apprentice</td><td>Marseille</td><td>2026-07-24</td></tr>
+<tr><td>CMA CGM Group</td><td>Apprenti Chargé De Développement Commercial (f/h) En Alternance</td><td>Marseille</td><td>2026-07-24</td></tr>
+<tr><td>PALFINGER AG</td><td>Apprenti Assistant Qualité H/f/d</td><td>Toulouse</td><td>2026-07-24</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Apprenti Support Ingénieur Produit - H/f</td><td>Nantes</td><td>2026-07-24</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Apprentice - Internal Communications (h/f)</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Apprenti(e) Rams Engineer (f/m)</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Thales Defense and Security Inc</td><td>Alternance - Ingénieur Développeur Rpa (robotic Process Automation) - F/h</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Thales Defense and Security Inc</td><td>Alternance - Analyse De Données Ingénierie Coûts & Planning Pour Appels D’offres Équipements Électroniques- F/h</td><td>Toulouse</td><td>2026-07-24</td></tr>
+<tr><td>Thales Defense and Security Inc</td><td>Alternance - Ingénieur Communications Optiques/quantiques - F/h</td><td>Toulouse</td><td>2026-07-24</td></tr>
+<tr><td>Thales Defense and Security Inc</td><td>Alternance - Ingénieur Développement Logiciel C++ (f/h)</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Thales Defense and Security Inc</td><td>Alternance - Ingénieur Sécurité De L'ia Embarquée - F/h</td><td>Marseille</td><td>2026-07-24</td></tr>
+<tr><td>Sonepar Group</td><td>Data Analyst Intern</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Business Analyst Iam (f/m)</td><td>Toulouse</td><td>2026-07-24</td></tr>
+<tr><td>Keolis</td><td>Technicien Cycle H/f</td><td>Bordeaux</td><td>2026-07-24</td></tr>
+<tr><td>Sonepar Climate</td><td>Technicien Sav H/f - Sonepar Climate Marseille (13)</td><td>Marseille</td><td>2026-07-24</td></tr>
+<tr><td>Holcim</td><td>Technicien De Maintenance En Alternance - La Seyne Sur Mer</td><td>BERRE L ETANG</td><td>2026-07-24</td></tr>
+<tr><td>Vandemoortele NV</td><td>Maintenance Technician</td><td>Neuville Sur Sarthe</td><td>2026-07-24</td></tr>
+<tr><td>Disney</td><td>Technicien(ne) Maintenance Show / Electrotechnicien(ne) Cdi 35h Nf F/h/nb</td><td>Chessy</td><td>2026-07-24</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien(ne) De Réparation (h/f) - Salon De Provence</td><td>Aix En Provence</td><td>2026-07-24</td></tr>
+<tr><td>Arkema France</td><td>Technicien Instrumentation Spécialisé Analyseurs Industriels (f/h)</td><td>ChâTeau</td><td>2026-07-24</td></tr>
+<tr><td>Verallia Packaging</td><td>Opérateur Maintenance 5x8 H/f</td><td>Lyon</td><td>2026-07-24</td></tr>
+<tr><td>Verallia Packaging</td><td>Mécanicien Is H/f</td><td>Lyon</td><td>2026-07-24</td></tr>
+<tr><td>Verallia Packaging</td><td>Technicien Fluides H/f</td><td>Lyon</td><td>2026-07-24</td></tr>
+<tr><td>Verallia Packaging</td><td>Electromécanicien H/f</td><td>Lyon</td><td>2026-07-24</td></tr>
+<tr><td>diversey.cz</td><td>Alternant Technicien Commercial Nord</td><td>Lille</td><td>2026-07-24</td></tr>
+<tr><td>Diversey Com Hr</td><td>Alternant Technicien Commercial Nord</td><td>Lille</td><td>2026-07-24</td></tr>
+<tr><td>Diversey Inc</td><td>Alternant Technicien Commercial Nord</td><td>Lille</td><td>2026-07-24</td></tr>
+<tr><td>NextPharma Technologies</td><td>Technicien(ne) De Maintenance 2x8 (h/f)</td><td>Rennes</td><td>2026-07-24</td></tr>
+<tr><td>Thales</td><td>Technicien Ivvq Mco Optro</td><td>Mantes La Jolie</td><td>2026-07-24</td></tr>
+<tr><td>Thales</td><td>Technicien De Maintenance Bancs De Tests Electroniques F/h</td><td>Mantes La Jolie</td><td>2026-07-24</td></tr>
+<tr><td>Thales</td><td>Technicien De Maintenance Equipements Electroniques Et Alimentation Haute Tension H/f</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Technicien De Maintenance Sav Fermetures Industrielles H/f</td><td>Guitrancourt</td><td>2026-07-24</td></tr>
+<tr><td>Vandemoortele NV</td><td>Technicien(ne) De Maintenance F/h</td><td>Le Fossat</td><td>2026-07-24</td></tr>
+<tr><td>Vandemoortele NV</td><td>Technicien(ne) De Maintenance Week-end F/h</td><td>Le Fossat</td><td>2026-07-24</td></tr>
+<tr><td>Michelin Com Tw</td><td>Technicien Electro-mécanique F/h</td><td>Avallon</td><td>2026-07-24</td></tr>
+<tr><td>Michelin</td><td>Technicien Electro-mécanique F/h</td><td>Avallon</td><td>2026-07-24</td></tr>
+<tr><td>Eiffagerail</td><td>Chef D’équipe Électromécanique F/h</td><td>Saclay</td><td>2026-07-24</td></tr>
+<tr><td>Eiffagemetal</td><td>Chef D’équipe Électromécanique F/h</td><td>Saclay</td><td>2026-07-24</td></tr>
+<tr><td>Eiffageconstruction</td><td>Chef D’équipe Électromécanique F/h</td><td>Saclay</td><td>2026-07-24</td></tr>
+<tr><td>kone.kz</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Nantes</td><td>2026-07-24</td></tr>
+<tr><td>cfa-ascenseur.fr</td><td>Technicien De Maintenance Portes (h/f)</td><td>Nice</td><td>2026-07-24</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Technicien De Maintenance Portes (h/f)</td><td>Nice</td><td>2026-07-24</td></tr>
+<tr><td>perdigon-ascenseur.fr</td><td>Technicien De Maintenance Portes (h/f)</td><td>Nice</td><td>2026-07-24</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien De Mise En Service Ssi F/h</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Verisure S.A.</td><td>Technicien De Maintenance Roanne - F/h/x</td><td>Lyon</td><td>2026-07-24</td></tr>
+<tr><td>Howmet Aerospace</td><td>Technicien(ne) De Maintenance Week-end</td><td>Caen</td><td>2026-07-24</td></tr>
+<tr><td>Verisure S.A.</td><td>Technicien De Maintenance - Pays De Gex - F/h/x</td><td>Pays De Gex</td><td>2026-07-24</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Agent De Maintenance (h/f) - Cdi</td><td>France</td><td>2026-07-24</td></tr>
+<tr><td>Seasonsaviara</td><td>Agent De Maintenance (h/f) - Cdi</td><td>France</td><td>2026-07-24</td></tr>
+<tr><td>kone.kz</td><td>Technicien De Secteur Escaliers Mécaniques H/f</td><td>Marseille</td><td>2026-07-24</td></tr>
+<tr><td>KONE Oyj</td><td>Technicien De Secteur Escaliers Mécaniques H/f</td><td>Marseille</td><td>2026-07-24</td></tr>
+<tr><td>KONE Bulgaria</td><td>Technicien De Secteur Escaliers Mécaniques H/f</td><td>Marseille</td><td>2026-07-24</td></tr>
+<tr><td>57</td><td>Technicien De Secteur Escaliers Mécaniques H/f</td><td>Marseille</td><td>2026-07-24</td></tr>
+<tr><td>Illuminaticelebrities</td><td>Field Service Engineer, France (east Paris)</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>heidelbergmaterials.pl</td><td>Worker Maintenance</td><td>France</td><td>2026-07-24</td></tr>
+<tr><td>Eiffagemetal</td><td>Technicien En Électromécanique F/h</td><td>Bordeaux</td><td>2026-07-24</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien En Électromécanique F/h</td><td>Bordeaux</td><td>2026-07-24</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur 16h H/f - Les Clayes Sous Bois (78) - Boardriders</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur 35h H/f - Bordeaux - Boardriders</td><td>Bordeaux</td><td>2026-07-24</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur 15h H/f - Sainte Geneviève Des Bois - Boardriders</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 16h Cdi H/f/x</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur Saisonnier 35 Heures H/f - Chamonix - Boardriders Men</td><td>Annecy</td><td>2026-07-24</td></tr>
+<tr><td>Pawllywood</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdi 14h</td><td>Bordeaux</td><td>2026-07-24</td></tr>
+<tr><td>Pawllywood</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdd 35h</td><td>Bordeaux</td><td>2026-07-24</td></tr>
+<tr><td>Pawllywood</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdi 21h</td><td>Bordeaux</td><td>2026-07-24</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdd 35h</td><td>Bordeaux</td><td>2026-07-24</td></tr>
+<tr><td>Sonepar Group</td><td>Assistant Marketing Digital Business</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Thales Group</td><td>Afterwork Handi-engage => Venez Nous Rencontrer Le 23/09/2026 !</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Chanel</td><td>Stage - Chef(fe) De Projets Gouvernance Et Reporting Qualité – Mode – Février 2027 – H/f/x</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Chef(fe) De Projets Gouvernance Et Reporting Qualité – Mode – Février 2027 – H/f/x</td><td>Paris</td><td>2026-07-24</td></tr>
 </table>
