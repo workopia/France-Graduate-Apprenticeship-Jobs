@@ -1058,4 +1058,89 @@
 <tr><td>Thales Group</td><td>Afterwork Handi-engage => Venez Nous Rencontrer Le 23/09/2026 !</td><td>Paris</td><td>2026-07-24</td></tr>
 <tr><td>Chanel</td><td>Stage - Chef(fe) De Projets Gouvernance Et Reporting Qualité – Mode – Février 2027 – H/f/x</td><td>Paris</td><td>2026-07-24</td></tr>
 <tr><td>G&F Châtelain</td><td>Stage - Chef(fe) De Projets Gouvernance Et Reporting Qualité – Mode – Février 2027 – H/f/x</td><td>Paris</td><td>2026-07-24</td></tr>
+<tr><td>Coty Inc.</td><td>Stagiaire R&d Développement Packaging</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Nortonrosefulbright</td><td>Stage Département Concurrence – 2nd Semestre 2026</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Stage Communication & Rse H/f</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Stage Guest Relation H/f</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>IDEMIA</td><td>Stagiaire Digitalisation</td><td>Search By Location</td><td>2026-07-25</td></tr>
+<tr><td>57</td><td>Alternant Ingénieur Des Ventes - Commercial Service (h/f/x)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Kone Corporation</td><td>Alternant Ingénieur Des Ventes - Commercial Service (h/f/x)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>KONE International</td><td>Alternant Ingénieur Des Ventes - Commercial Service (h/f/x)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Karavel</td><td>Alternant(e) Crm &amp; Marketing Digital F/h</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Sonova Group</td><td>Alternance Audioprothésiste Paris 20e H/f</td><td>Cahors</td><td>2026-07-25</td></tr>
+<tr><td>Sonova Group</td><td>Alternance Audioprothésiste Paris 1er H/f</td><td>Cahors</td><td>2026-07-25</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Alternance - Communication Digitale (h/f)</td><td>Saint</td><td>2026-07-25</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stagiaire Fin D'étude Méthodes Essais H/f)</td><td>Hangenbieten</td><td>2026-07-25</td></tr>
+<tr><td>Lazard</td><td>March 2027 - M&a Intern - Large Cap Generalist / Technology Team - Paris</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Coloplast</td><td>Stagiaire Ingénieur Supply Chain (24) - H/f</td><td>Sarlat La Caneda</td><td>2026-07-25</td></tr>
+<tr><td>Sonepar Group</td><td>Stage- Fiscalite H/f - Lyon 7e</td><td>Lyon</td><td>2026-07-25</td></tr>
+<tr><td>Coloplast AS</td><td>Stagiaire Ingénieur Supply Chain (24) - H/f</td><td>Sarlat La Caneda</td><td>2026-07-25</td></tr>
+<tr><td>HR Path</td><td>Stage Chargé De Marketing (h/f)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Kering</td><td>Balenciaga - Sustainability Impact Intern - September 2026 - (f/m)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Automatic Data Processing</td><td>Alternant Pilotage Projets Et Financier Bu (h/f/x)</td><td>Nanterre Cedex</td><td>2026-07-25</td></tr>
+<tr><td>Thales</td><td>Alternance- Pilotage Projet Gestion Documentaire (f/h)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>IDEMIA</td><td>Apprenti(e) Gestionnaire Administratif(ve) Rh Et Paie</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Sanofi</td><td>Apprenticeship 24 Months – Digital Product Owner</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>BlaBlaCar</td><td>Content Apprentice - 1 Year</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>OTIS ELEVATOR COMPANY</td><td>Apprenti Technicien Portes Et Portails (h/f)</td><td>Toulouse</td><td>2026-07-25</td></tr>
+<tr><td>Cid Ascenseur</td><td>Apprenti Technicien Portes Et Portails (h/f)</td><td>Toulouse</td><td>2026-07-25</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Apprenti Technicien Portes Et Portails (h/f)</td><td>Toulouse</td><td>2026-07-25</td></tr>
+<tr><td>perdigon-ascenseur.fr</td><td>Apprenti Technicien Portes Et Portails (h/f)</td><td>Toulouse</td><td>2026-07-25</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Apprenti(e) Cuisine H/f/x</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>100</td><td>Apprentie Support Scheduling</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>IDEMIA</td><td>Apprentice- Purchasing Business Partner</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Thales Defense and Security Inc</td><td>Alternance - Ingénieur Méthodologie De Vérification Asic/fpga - F/h</td><td>Toulouse</td><td>2026-07-25</td></tr>
+<tr><td>Foodles</td><td>🏢 Alternant.e Informatique – Supervision, Ia &amp; Outils Maintenance - Saint-ouen (93)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Airbus Defence & Space SAS</td><td>Alt 2026 - Ivvq Engineer (h/f)</td><td>Mantes La Jolie</td><td>2026-07-25</td></tr>
+<tr><td>MAHLE Industries Inc</td><td>Local It Specialist</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>IDEXX Laboratories, Inc.</td><td>Représentant D’assistance Technique (secteur Idf)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance H/f Cdd Bayeux (14)</td><td>Caen</td><td>2026-07-25</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Vitré (35)</td><td>Rennes</td><td>2026-07-25</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance Industrielle (h/f) Châteaubourg (35)</td><td>Rennes</td><td>2026-07-25</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Engineer</td><td>Lille</td><td>2026-07-25</td></tr>
+<tr><td>Umicore</td><td>Technicien De Maintenance Mécanique (h/f)</td><td>Grenoble</td><td>2026-07-25</td></tr>
+<tr><td>Verisure S.A.</td><td>Technicien De Maintenance Tarare - F/h/x</td><td>Lyon</td><td>2026-07-25</td></tr>
+<tr><td>ResMed Inc</td><td>H/f Technicien(ne) Sav</td><td>Lyon</td><td>2026-07-25</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Agent De Maintenance En Alternance</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Agent De Maintenance En Alternance</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Kone Corporation</td><td>Technicien De Secteur Ascenseurs H/f</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>57</td><td>Technicien De Secteur Ascenseurs H/f</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Kone Corporation</td><td>Technicien Maintenance Ascenseurs H/f Pour Paca Ascenseurs Aux Pennes-mirabeau (13)</td><td>Marseille</td><td>2026-07-25</td></tr>
+<tr><td>57</td><td>Technicien Maintenance Ascenseurs H/f Pour Paca Ascenseurs Aux Pennes-mirabeau (13)</td><td>Marseille</td><td>2026-07-25</td></tr>
+<tr><td>Groupe Berto</td><td>Mécanicien Dépanneur Élévation En Alternance H/f</td><td>Nantes</td><td>2026-07-25</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Technicien Sav Ferroviaire H/f</td><td>Marseille</td><td>2026-07-25</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Fr - Agent/technicien De Maintenance (h/f/x)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Technicien De Maintenance (h/f)</td><td>Lyon</td><td>2026-07-25</td></tr>
+<tr><td>Cofabrikrh</td><td>Mécanicien En Maintenance Industrielle (h/f)</td><td>Lyon</td><td>2026-07-25</td></tr>
+<tr><td>santillana.cat</td><td>Technicien Sup Maintenance</td><td>Grenoble</td><td>2026-07-25</td></tr>
+<tr><td>Nestle Ltd</td><td>Technicien De Maintenance Creully H/f</td><td>Creully</td><td>2026-07-25</td></tr>
+<tr><td>Nilfisk</td><td>Maintenance Technician</td><td>54 (Meurthe-Et-Moselle)</td><td>2026-07-25</td></tr>
+<tr><td>Nestle SA</td><td>Technicien De Maintenance Creully H/f</td><td>Creully</td><td>2026-07-25</td></tr>
+<tr><td>Daikin Europe NV</td><td>Technicien Sav Dx Et Cta (nanterre) 1</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Recordati Industria Chimica e Farmaceutica S.p.A</td><td>Maintenance Technician</td><td>Saint Victor</td><td>2026-07-25</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien Travaux Programmés (f/h)</td><td>Les Ancizes Comps</td><td>2026-07-25</td></tr>
+<tr><td>Coloplast</td><td>Laser Maintenance Specialist - Region Europe</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Sonepar Group</td><td>Responsable Maintenance Et Surete H/f - Saint Vulbas (01)</td><td>Saint Vulbas</td><td>2026-07-25</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi Temps Partiel H/f</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Capri</td><td>Cdd Conseiller De Vente 30h Aout-decembre / Paris</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Nestle SA</td><td>Vendeur - 8h (h/f)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Kiabi</td><td>Conseiller De Vente 20h (h/f/nb)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Kiabi</td><td>Conseiller De Vente 35h (h/f/nb)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Kiabi</td><td>Conseillère De Mode – Cdd 35 H – Kiabi Herblay</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur 35h H/f - Les Clayes Sous Bois</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>FUGA</td><td>Stage Chef De Projet Évènementiel H/f [septembre 2026]</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Assistant.e Ressources Humaines F/h</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Harley-Davidson</td><td>Marketing Assistant - Alternance</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Perrigo Company</td><td>Coordinateur/trice Adv & Logistique Export</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>CMA CGM Group</td><td>Stage - Assistant(e) Chargé(e) D'études Marketing (f/h/x)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>CMA CGM Group</td><td>Ciso Office Pmo (apprenticeship)</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>lactalisexperience</td><td>Employé(e) Administratif (h/f) Matocq (64)</td><td>Larceveau</td><td>2026-07-25</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois – Gestion De Projet</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois – Gestion De Projet</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Valentino</td><td>Hr Assistant - Intern</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Holcim</td><td>Alternance (h/f) - Exploitant Transport - St Martin La Garenne (78)</td><td>St Martin La Garenne</td><td>2026-07-25</td></tr>
+<tr><td>Schindler Group</td><td>Assistant(e) Agence Service (h/f) - Toulouse</td><td>Toulouse</td><td>2026-07-25</td></tr>
+<tr><td>Schindler Group</td><td>Alternance - Assistant(e) Administratif(ve) (h/f) - Rungis</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Thales Group</td><td>Assistant.e De Direction</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>Thales Group</td><td>Alternance – Assistant Administratif – F/h</td><td>Paris</td><td>2026-07-25</td></tr>
 </table>
