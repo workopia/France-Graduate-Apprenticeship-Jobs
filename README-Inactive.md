@@ -1143,4 +1143,114 @@
 <tr><td>Schindler Group</td><td>Alternance - Assistant(e) Administratif(ve) (h/f) - Rungis</td><td>Paris</td><td>2026-07-25</td></tr>
 <tr><td>Thales Group</td><td>Assistant.e De Direction</td><td>Paris</td><td>2026-07-25</td></tr>
 <tr><td>Thales Group</td><td>Alternance – Assistant Administratif – F/h</td><td>Paris</td><td>2026-07-25</td></tr>
+<tr><td>AptarGroup</td><td>Alternant(e) - Digital Marketing H/f</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>lactalisexperience</td><td>Alternant Ingénieur Qualité (h/f) - 24 Mois Petit-fayt (59)</td><td>Petit</td><td>2026-07-26</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Trade Marketing Et Communication (h/f) 6 Mois - Proximité Rennes (35)</td><td>Bourgbarre</td><td>2026-07-26</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Chef De Secteur (h/f) - 6 Mois Lille (59)</td><td>Lille (59)</td><td>2026-07-26</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Qualité (h/f) - 4-6 Mois Franois (25)</td><td>FrançOis</td><td>2026-07-26</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Chef De Secteur (h/f) - 6 Mois Toulouse (31)</td><td>Toulouse</td><td>2026-07-26</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Qualité Sensorielle (h/f) - 6 Mois Bourgbarré (n°35)</td><td>Bourgbarre</td><td>2026-07-26</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Production (h/f) - 6 Mois Clermont De L'oise (60)</td><td>Clermont De L'Oise</td><td>2026-07-26</td></tr>
+<tr><td>lactalisexperience</td><td>Alternant Contrôleur De Gestion (h/f) Châteaubourg (35) 24 Mois</td><td>Rennes</td><td>2026-07-26</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant E-commerce (h/f) - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-07-26</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Technicien Packaging Europe (h/f) - 6 Mois Bourgbarré (35)</td><td>Bourgbarre</td><td>2026-07-26</td></tr>
+<tr><td>Essity</td><td>Finance Intern</td><td>France</td><td>2026-07-26</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Internship - Data & Performance Junior Analyst (m/f)</td><td>Chalifert</td><td>2026-07-26</td></tr>
+<tr><td>ASMODEE</td><td>Alternance - Assistant Auditeur Et Contrôle Interne F/h</td><td>France</td><td>2026-07-26</td></tr>
+<tr><td>Coty</td><td>Apprenticeship Channel And Porfolio Intern</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Stagiaire Butler F/h</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Stagiaire En Ressources Humaines</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Intermarche</td><td>Stage Qhse - 6 Mois (h/f)</td><td>DonzèRe</td><td>2026-07-26</td></tr>
+<tr><td>Egis in ANZ</td><td>Alternant Bac+4/bac+5 - Data - Power Bi - Metro Ligne Rouge L15/16/17 H/f</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>eaglefootballgroup</td><td>Ol Lyonnes - Stage / Redaction Digitale (h/f)</td><td>Lyon</td><td>2026-07-26</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Internship - Global Communication Assistant - Gallinée H/f - July 2026</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Alternance - Assistant Retail Education - Gallinée H/f - Septembre 2026</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternant Automaticien</td><td>Avelin</td><td>2026-07-26</td></tr>
+<tr><td>Arkema S.A.</td><td>Stagiaire Data Marketing H/f/x</td><td>ÎLe-De-France</td><td>2026-07-26</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternant/e Qualité</td><td>RibéCourt</td><td>2026-07-26</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternance : Chargé(e) Digital Marketing H/f</td><td>ÎLe-De-France</td><td>2026-07-26</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternance - Contrôle De Gestion H/f</td><td>ÎLe</td><td>2026-07-26</td></tr>
+<tr><td>Statkraft</td><td>Intern / Stagiaire - Origination France (m/f)</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Melia</td><td>Stagiaire Direction H/f - Melia Paris La Défense</td><td>Hauts-De-Seine</td><td>2026-07-26</td></tr>
+<tr><td>American Tower</td><td>Stagiaire/ Apprenti(e) Chef De Projet Télécom – Service Leasing</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>American Tower</td><td>Stage Gestion Locative (6 Mois)</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Lazard</td><td>January 2027 - M&a Internship - Lazardnext - Paris</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Solvay</td><td>Alternance Hse (f/h/x)</td><td>Collonges-Au-Mont-D'O</td><td>2026-07-26</td></tr>
+<tr><td>IDEMIA</td><td>Cybersecurity Apprentice - Pentest Automation & Collaboration</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Chnetwork</td><td>Apprenticeship – People Technology – Chanel Europe – September 2026 – M/f/d</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Chanel</td><td>Apprenticeship – People Technology – Chanel Europe – September 2026 – M/f/d</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>G&F Châtelain</td><td>Apprenticeship – People Technology – Chanel Europe – September 2026 – M/f/d</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Cytiva</td><td>Apprenti(e) Rh Généraliste</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Boston Consulting Group</td><td>Apprenticeship - Assistant Chargé De Projet Rse (septembre 2026)</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti(e) Guest Relation</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Chiesi Farmaucetici S.p.A</td><td>Apprenti(e) Affaires Médicales</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Chiesi Farmaucetici S.p.A</td><td>Apprenti Communication</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Chiesi Farmaucetici S.p.A</td><td>Apprenti(e) Marketing & Customer Experience Partner</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Genesis Energy</td><td>Apprenticeship - Disability Program Coordinator - F/m</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>joinairbus.us</td><td>Atr - Apprenticeship - Support To Customer Satisfaction & Fleet Performance Processes</td><td>Toulouse</td><td>2026-07-26</td></tr>
+<tr><td>Thales Defense and Security Inc</td><td>Alternance - Développement Logiciel (h/f)</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Ubisoft</td><td>Data Scientist - Audience Analytics</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Air Liquide</td><td>Alternance - Siège Social - Comptabilité Holdings H/f</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois - Juriste Protection Des Données Personnelles</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois - Analyse Business & Planification Stratégique</td><td>Lyon</td><td>2026-07-26</td></tr>
+<tr><td>Pernod Ricard</td><td>Cdd - Junior Legal Counsel – Compliance</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Régleur (h/f)</td><td>Bordeaux</td><td>2026-07-26</td></tr>
+<tr><td>plaud-ascenseur.fr</td><td>Régleur (h/f)</td><td>Bordeaux</td><td>2026-07-26</td></tr>
+<tr><td>Otis Worldwide</td><td>Régleur (h/f)</td><td>Bordeaux</td><td>2026-07-26</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Maintenance (h/f)</td><td>Lyon</td><td>2026-07-26</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Technicien De Travaux - Portes (h/f)</td><td>Marseille</td><td>2026-07-26</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Travaux - Portes (h/f)</td><td>Marseille</td><td>2026-07-26</td></tr>
+<tr><td>plaud-ascenseur.fr</td><td>Technicien De Travaux - Portes (h/f)</td><td>Marseille</td><td>2026-07-26</td></tr>
+<tr><td>Sealed Air</td><td>Technicien Sav ( Secteur Lyon Ouest) H/f</td><td>Lyon</td><td>2026-07-26</td></tr>
+<tr><td>Mersen</td><td>Alternant - Technicien De Maintenance Électrique</td><td>Pagny-Sur-Moselle</td><td>2026-07-26</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Maintenance Technician</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien Opération Maintenance</td><td>Crespin</td><td>2026-07-26</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Maintenance Mécanique 5x8 H/f</td><td>Biesheim</td><td>2026-07-26</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Fiabilisation Electrique (h/f)</td><td>Biesheim</td><td>2026-07-26</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien.ne De Fiabilisation Mécanique - Fonderie</td><td>Biesheim</td><td>2026-07-26</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Maintenance Mécanique (h/f) - Journée</td><td>Biesheim</td><td>2026-07-26</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Fiabilisation Mécanique H/f Laminage À Froid</td><td>Biesheim</td><td>2026-07-26</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Maintenance Electrique 5x8 H/f</td><td>Biesheim</td><td>2026-07-26</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Compagnon De Maintenance Préventive (h/f)</td><td>Biesheim</td><td>2026-07-26</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Technicien(ne) Polyvalent(e) - F/h</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 16h Cdi H/f/x</td><td>Strasbourg</td><td>2026-07-26</td></tr>
+<tr><td>Conforama</td><td>Vendeur (h/f) - Cdd</td><td>Saint</td><td>2026-07-26</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Kiabi</td><td>Etudiant_conseiller De Vente 8h (h/f/nb)</td><td>Lyon</td><td>2026-07-26</td></tr>
+<tr><td>La Fee Maraboutee</td><td>Conseiller/ère De Vente</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Galeries Lafayette</td><td>Louis Pion Conseiller De Vente - Cdi 35h - Villeneuve-d'ascq F/h</td><td>Lille</td><td>2026-07-26</td></tr>
+<tr><td>La Fee Maraboutee</td><td>Conseiller/ère De Vente Humility</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Vendeurs (f/h) - Cdi 25h - La Teste De Buch</td><td>Bordeaux</td><td>2026-07-26</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Partiel H/f</td><td>Annecy</td><td>2026-07-26</td></tr>
+<tr><td>Nestlé</td><td>Vendeur Cdd (h/f)</td><td>Lyon</td><td>2026-07-26</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 30h Cdd (6 Semaines) H/f/x</td><td>Nice</td><td>2026-07-26</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Vendeurs (f/h) - Cdi 35h/16h/8h - La Défense</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Boulanger</td><td>Alternance - Vente H/f</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>La Fee Maraboutee</td><td>Conseiller/ère De Vente Expérimenté/e</td><td>Lyon</td><td>2026-07-26</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Vendeurs (f/h) - Cdi 35h/16h/8h - Nice Massena</td><td>Nice</td><td>2026-07-26</td></tr>
+<tr><td>Samsung Electronics</td><td>Chargé(e) De Projets Digitaux Cx, (h/f)- Alternance 2 Ans</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Assistant Aministratif Protection Incendie</td><td>Lyon</td><td>2026-07-26</td></tr>
+<tr><td>Sims Metal</td><td>Assistant Aministratif Protection Incendie</td><td>Lyon</td><td>2026-07-26</td></tr>
+<tr><td>Chnetwork</td><td>Stage - Assistant Marketing Retail & Expérience Client - Mode Europe - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant Marketing Retail & Expérience Client - Mode Europe - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Assistant Marketing Retail & Expérience Client - Mode Europe - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Assistant(e) Commercial(e) - F/h</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Boston Consulting Group</td><td>Recruiting Specialist</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti.e Coordinateur.rice Evènementiel H/f - Pullman Paris Montparnasse 4*</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Administrative Assistant Apprentice - H/f - Apprentice Contract - Riviera Marriott Hotel La Porte De Monaco</td><td>Cap</td><td>2026-07-26</td></tr>
+<tr><td>Marriott International</td><td>Administrative Assistant Apprentice - H/f - Apprentice Contract - Riviera Marriott Hotel La Porte De Monaco</td><td>Cap</td><td>2026-07-26</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Coordinateur Logistique Bureau D’etudes (h/f)</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Coordinateur(trice) De Production (pac-sl) (h/f)</td><td>Toulouse</td><td>2026-07-26</td></tr>
+<tr><td>VIE-INDIA</td><td>Coordinateur(trice) De Production (pac-sl) (h/f)</td><td>Toulouse</td><td>2026-07-26</td></tr>
+<tr><td>Premium Aerotec</td><td>Coordinateur(trice) De Production (pac-sl) (h/f)</td><td>Toulouse</td><td>2026-07-26</td></tr>
+<tr><td>Videlio Com Inc</td><td>Chef De Projets En Alternance - H/f</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Assistante(e) Administratif(ve) Matériel (h/f/x)</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Jobgether</td><td>Accelerator Program - Content Specialist</td><td>France</td><td>2026-07-26</td></tr>
+<tr><td>Mango</td><td>Directeur Adjoint Haussmann, H/f</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Daikin Austria</td><td>Assistant(e) Juriste En Alternance F/h</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Daikin Austria</td><td>Assistant(e) Back Office (alternance) F/h Siège</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Davide Campari Milano S.p.A</td><td>Alternance Assistant(e) Rh (h/f)</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Bonduelle</td><td>Assistant(e) Qualité H/f - Stage</td><td>Lyon</td><td>2026-07-26</td></tr>
+<tr><td>IDEMIA</td><td>Apprenti(e) Hrbp / Chargé(e) De Missions Rh</td><td>Paris</td><td>2026-07-26</td></tr>
 </table>
