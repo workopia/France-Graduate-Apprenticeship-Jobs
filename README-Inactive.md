@@ -1253,4 +1253,69 @@
 <tr><td>Davide Campari Milano S.p.A</td><td>Alternance Assistant(e) Rh (h/f)</td><td>Paris</td><td>2026-07-26</td></tr>
 <tr><td>Bonduelle</td><td>Assistant(e) Qualité H/f - Stage</td><td>Lyon</td><td>2026-07-26</td></tr>
 <tr><td>IDEMIA</td><td>Apprenti(e) Hrbp / Chargé(e) De Missions Rh</td><td>Paris</td><td>2026-07-26</td></tr>
+<tr><td>Forvia</td><td>Alternance - Chargé(e) Maintenance Bâtiment & Services Généraux H/f</td><td>Lyon</td><td>2026-07-27</td></tr>
+<tr><td>SNOP</td><td>Stagiaire Master Data Achats (h/f)</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Mersen</td><td>Alternant Service Relations Clients F/h</td><td>Amiens</td><td>2026-07-27</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Stagiaire Chargé De Marketing Digital Sud-ouest Europe H/f</td><td>Rion De Landes</td><td>2026-07-27</td></tr>
+<tr><td>AptarGroup</td><td>Stagiaire Méthodes H/f</td><td>BréCey</td><td>2026-07-27</td></tr>
+<tr><td>AptarGroup</td><td>Stagiaire Industrialisation Produit H/f</td><td>Granville</td><td>2026-07-27</td></tr>
+<tr><td>AptarGroup</td><td>Alternant(e) - Technicien De Maintenance Moules H/f</td><td>Charleval</td><td>2026-07-27</td></tr>
+<tr><td>AptarGroup</td><td>Alternant Hse H/f</td><td>Granville</td><td>2026-07-27</td></tr>
+<tr><td>AptarGroup</td><td>Alternant Technicien Développement Produits</td><td>Le Neubourg</td><td>2026-07-27</td></tr>
+<tr><td>AptarGroup</td><td>Alternant Métrologie H/f</td><td>Granville</td><td>2026-07-27</td></tr>
+<tr><td>Lifeattinder</td><td>Apprenticeship - Junior Traffic Manager</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>THALES</td><td>Alternance – Développement D'une Application D'intelligence Artificielle - F/h</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Thales Group</td><td>Alternance – Développement D'une Application D'intelligence Artificielle - F/h</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti.e Cuisine (h/f/x)</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Alternance - Technicien Instrumentation Et Métrologie F/h</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Airbus SAS</td><td>Alt 2026 - Alt 2026 - Apprenti - Développeur D'outils Digital Workplace (f/h)</td><td>Toulouse</td><td>2026-07-27</td></tr>
+<tr><td>THALES</td><td>Alternance – Ingénieur Informatique & Electronique – F/h</td><td>Toulouse</td><td>2026-07-27</td></tr>
+<tr><td>THALES</td><td>Alternance - Support Technique Infrastructure - F/h</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Ingénieur Logiciel Banc De Test Rf- F/h</td><td>Toulouse</td><td>2026-07-27</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Ingénieur 5g/6g - F/h</td><td>Toulouse</td><td>2026-07-27</td></tr>
+<tr><td>Thales Group</td><td>Alternance – Ingénieur Full Stack – F/h</td><td>Toulouse</td><td>2026-07-27</td></tr>
+<tr><td>Murex</td><td>Alternance - Technicien De Proximité</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>G&F Châtelain</td><td>Alternance - Support It – Wholesale Europe -septembre 2026 - H/f/x</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Veepee Ad</td><td>Backend Developer (.net Core) - Navigation Team - Freelance (w/m/x)</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>THALES</td><td>Alternance - Ingénierie Business Data Analyst - F/h</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Data &tools - Outil De Suivi Des Offres - F/h</td><td>Marseille</td><td>2026-07-27</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Alt 2026 - Apprenti(e) Data Scientist (f/h)</td><td>Marseille</td><td>2026-07-27</td></tr>
+<tr><td>AIRBUS DS GEO SA</td><td>Alt 2026 - Apprenti(e) Data Analyst Pour Les Services De Maintenance (h/f)</td><td>Marseille</td><td>2026-07-27</td></tr>
+<tr><td>Vossloh North America</td><td>Dual Study Program Bachelor Of Science Data Science (m/f/d) Starting October 1, 2026</td><td>France</td><td>2026-07-27</td></tr>
+<tr><td>Renault Group</td><td>Ap26 Bac+5 Leader Digital Conditional Maintenance (h/f)</td><td>France</td><td>2026-07-27</td></tr>
+<tr><td>Renault Group</td><td>Ap26 - Bac+5 - Data Scientist Pour Le Déploiement Solutions Ia (h/f)</td><td>Toulouse</td><td>2026-07-27</td></tr>
+<tr><td>Jobgether</td><td>Data Science Pyspark And Ia Generativa</td><td>France</td><td>2026-07-27</td></tr>
+<tr><td>THALES</td><td>Alternance - Assistant Comptable De L'activité Étrangère - F/h</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Internship 6 Months – Tax Reporting</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois – Consolidation & Finance</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois – Consolidation & Finance</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Sanofi UK</td><td>Internship 6 Months – Tax Reporting</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Accélérateur D'innovation - F/h</td><td>Marseille</td><td>2026-07-27</td></tr>
+<tr><td>35</td><td>Infirmier Conseil Atton H/f</td><td>France</td><td>2026-07-27</td></tr>
+<tr><td>Bridgestone EMEA</td><td>Technicien Spécialiste Maintenance Pneumatique Véhicules Industriels</td><td>Bordeaux</td><td>2026-07-27</td></tr>
+<tr><td>Keolis</td><td>Ouvrier Maintenance Préventive Metro F/h</td><td>Lille</td><td>2026-07-27</td></tr>
+<tr><td>RATP</td><td>Mainteneur Serrurier - H/f - M2e</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>lne.fr</td><td>Technicien Sur Site En Métrologie Température / Pression H/f</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Technicien De Maintenance</td><td>Rennes</td><td>2026-07-27</td></tr>
+<tr><td>Schneider Electric</td><td>Technicien Maintenance Onduleur F/h</td><td>Rennes</td><td>2026-07-27</td></tr>
+<tr><td>700</td><td>Alternant Technicien Commercial Bretagne</td><td>Rennes</td><td>2026-07-27</td></tr>
+<tr><td>Diversey Com Tw</td><td>Alternant Technicien Commercial Bretagne</td><td>Rennes</td><td>2026-07-27</td></tr>
+<tr><td>Diversey</td><td>Alternant Technicien Commercial Bretagne</td><td>Rennes</td><td>2026-07-27</td></tr>
+<tr><td>diversey.si</td><td>Alternant Technicien Commercial Bretagne</td><td>Rennes</td><td>2026-07-27</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Electromécanicien(ne) F/h</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Electromécanicien(ne) F/h</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Pierre Fabre</td><td>Technicien(ne) De Maintenance - Alternance - H/f</td><td>Orleans</td><td>2026-07-27</td></tr>
+<tr><td>Pierrefabrepharmaceuticals</td><td>Technicien(ne) De Maintenance - Alternance - H/f</td><td>Orleans</td><td>2026-07-27</td></tr>
+<tr><td>Naturactive</td><td>Technicien(ne) De Maintenance - Alternance - H/f</td><td>Orleans</td><td>2026-07-27</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur 35h H/f - Bordeaux - Boardriders</td><td>Bordeaux</td><td>2026-07-27</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur 15h H/f - Sainte Geneviève Des Bois - Boardriders</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdi 35h (septembre 2026)</td><td>Bordeaux</td><td>2026-07-27</td></tr>
+<tr><td>Nouryon</td><td>Vendeur(se) Conseil</td><td>Bordeaux</td><td>2026-07-27</td></tr>
+<tr><td>Nouryon</td><td>Vendeur Conseil Alternant(e)</td><td>Lyon</td><td>2026-07-27</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Alternance - Assistant Trade Marketing H/f</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>G&F Châtelain</td><td>Cdd - Coordination Des Opérations Logistiques (h/f/x)</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Chanel</td><td>Cdd - Coordination Des Opérations Logistiques (h/f/x)</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Chnetwork</td><td>Cdd - Coordination Des Opérations Logistiques (h/f/x)</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>Samsung SDS</td><td>Chargé(e) De Projets Digitaux Cx, (h/f)- Alternance 2 Ans</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>oberrheinischer-jobanzeiger.de</td><td>Chargé(e) De Projets Digitaux Cx, (h/f)- Alternance 2 Ans</td><td>Paris</td><td>2026-07-27</td></tr>
 </table>
