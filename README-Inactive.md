@@ -1318,4 +1318,44 @@
 <tr><td>Chnetwork</td><td>Cdd - Coordination Des Opérations Logistiques (h/f/x)</td><td>Paris</td><td>2026-07-27</td></tr>
 <tr><td>Samsung SDS</td><td>Chargé(e) De Projets Digitaux Cx, (h/f)- Alternance 2 Ans</td><td>Paris</td><td>2026-07-27</td></tr>
 <tr><td>oberrheinischer-jobanzeiger.de</td><td>Chargé(e) De Projets Digitaux Cx, (h/f)- Alternance 2 Ans</td><td>Paris</td><td>2026-07-27</td></tr>
+<tr><td>IDEMIA</td><td>Stagiaire Digitalisation</td><td>Rennes</td><td>2026-07-28</td></tr>
+<tr><td>RATP</td><td>Alternance - Chargé.e De Missions Rse Ratp Solutions Ville</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Eiffagemetal</td><td>Alternant Qualité F/h - Métal - Cdd - F/h</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>35</td><td>Stagiaire</td><td>France</td><td>2026-07-28</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Stagiaire</td><td>France</td><td>2026-07-28</td></tr>
+<tr><td>Air Liquide</td><td>Stagiaire</td><td>France</td><td>2026-07-28</td></tr>
+<tr><td>Latecoere</td><td>Stage - Hse (h/f)</td><td>Montredon</td><td>2026-07-28</td></tr>
+<tr><td>Lifeattinder</td><td>Apprenticeship - Junior Brand Designer</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Tinder</td><td>Apprenticeship - Junior Brand Copywriter</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Lifeattinder</td><td>Apprenticeship - Junior Brand Copywriter</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Eiffagerail</td><td>Alternance - Animateur Qualité Sécurité Prévention - F/h</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Eiffagemetal</td><td>Alternance - Animateur Qualité Sécurité Prévention - F/h</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Tinder</td><td>Apprenticeship - Junior Traffic Manager</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>CHANEL</td><td>Alternance - Support It – Wholesale Europe -septembre 2026 - H/f/x</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Alt 2026 - Apprenti(e) En Transformation Digitale Et Expérience Client (f/h)</td><td>Marseille</td><td>2026-07-28</td></tr>
+<tr><td>Airbus DS GEO SA</td><td>Alt 2026 - Apprenti En Analyse De Données Ressources Humaines (all Gender)</td><td>Toulouse</td><td>2026-07-28</td></tr>
+<tr><td>AIRBUS DS GEO SA</td><td>Alt 2026 - Apprenti En Data Science (h/f)</td><td>Marseille</td><td>2026-07-28</td></tr>
+<tr><td>Schaeffler</td><td>Data Scientist - R&d H/f</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>GlaxoSmithKline</td><td>2 Alternances - Business Intelligence / Chef De Marché (h/f)</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Client Intelligence Analyst - Mode Europe - Juillet 2026</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant.e Chef De Projet M.o.a Business Intelligence & Visualisation Data (h/f/x)</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Stage - Assistant(e) Client Intelligence Analyst - Mode Europe - Juillet 2026</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Chanel</td><td>Alternance – Assistant(e) Comptable Gestion – Parfums Beauté – Septembre 2026 – H/f/x</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Alternance - Siège Social - Comptabilité Holdings H/f</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>American International Group, Inc. (AIG)</td><td>Alternance - Assistant Audit & Contrôle Interne H/f</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Bureau Veritas</td><td>Chargé De Conformité Transports Cee (f-h-x)</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>IQVIA UK</td><td>Clinical Research Associate - Iqvia Biotech (homebased In Paris)</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Daikin Europe NV</td><td>Assistant(e) Technicien Sav En Alternance F/h (lille)</td><td>Lille</td><td>2026-07-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Alternance - Technicien De Maintenance (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Alternance - Technicien De Réparation (h/f) - Vanves</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation (h/f) - Vanves</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>BIA Group</td><td>Technicien Matériels Tp (dept 44) F/h (vigneux‑de‑bretagne)</td><td>Nantes</td><td>2026-07-28</td></tr>
+<tr><td>BIA Group</td><td>Technicien(ne) Sav F/h (vigneux‑de‑bretagne)</td><td>Nantes</td><td>2026-07-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 16h Cdi H/f/x</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 35h Cdi H/f/x</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Assistant.e. Rémunération & Avantages Sociaux - Emea F/h</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Assistant Trade Marketing Digital F/h</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Assistant Trade Marketing H/f</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Alternance - Assistant.e. Rémunération & Avantages Sociaux - Emea F/h</td><td>Paris</td><td>2026-07-28</td></tr>
 </table>
