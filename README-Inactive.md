@@ -1358,4 +1358,47 @@
 <tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Assistant Trade Marketing Digital F/h</td><td>Paris</td><td>2026-07-28</td></tr>
 <tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Assistant Trade Marketing H/f</td><td>Paris</td><td>2026-07-28</td></tr>
 <tr><td>EssilorLuxottica SA</td><td>Alternance - Assistant.e. Rémunération & Avantages Sociaux - Emea F/h</td><td>Paris</td><td>2026-07-28</td></tr>
+<tr><td>Recordati Industria Chimica e Farmaceutica S.p.A</td><td>Trainee Regulatory affairs export</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Alternance - Chargé(e) Développement Rh (h/f) - Vélizy-villacoublay</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Bonduelle</td><td>Alternance Assistant(e) Moa H/f</td><td>Lille</td><td>2026-07-29</td></tr>
+<tr><td>Bonduelle</td><td>Alternance Juriste H/f</td><td>Lille</td><td>2026-07-29</td></tr>
+<tr><td>IDEMIA</td><td>Management Control - Internship / Apprenticeship</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Tinder</td><td>Apprenticeship - Junior Brand Designer</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Onebacardi</td><td>Assistant.e Support Informatique - Alternance Paris (sept 2026)</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Concentrix</td><td>Technicien Support Client H/f</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Pierre Fabre</td><td>It Data Analyst - Alternance - H/f</td><td>Toulouse</td><td>2026-07-29</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Data Analyst - Alternance - H/f</td><td>Toulouse</td><td>2026-07-29</td></tr>
+<tr><td>Airbus Atlantic</td><td>Alt 2026 - Apprenti En Analyse De Données Ressources Humaines (all Gender)</td><td>Toulouse</td><td>2026-07-29</td></tr>
+<tr><td>gssi.world</td><td>Alternant(e) Gestion De Projet Et Intelligence D'affaires</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>ViiV Healthcare</td><td>Alternant(e) Gestion De Projet Et Intelligence D'affaires</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Chanel</td><td>Alternance - Data Analyst / Bi & Pilotage De Projets - Parfums Beauté - Septembre 2026 (h/f/x)</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>AIRBUS DS GEO SA</td><td>Alt 2026 - Apprenti(e) En Data Analyse De Données Industrielles Au Manufacturing Engineering (f/h)</td><td>Toulouse</td><td>2026-07-29</td></tr>
+<tr><td>OVHcloud</td><td>Stage Septembre 2026 - Ai Agents - F/h/n</td><td>France</td><td>2026-07-29</td></tr>
+<tr><td>Samsung Electronics France</td><td>Assistant Comptabilité/reporting, Saint-ouen, 93 (h/f)</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Valeo Service</td><td>Alternance En Sas</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>THALES</td><td>Alternance - Contrôle De Gestion Projets - F/h</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Eiffage Immobilier</td><td>Comptable (h/f)</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>medhunter.de</td><td>Alternance Attaché(e) De Recherche Clinique H/f</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>med-in.at</td><td>Alternance Attaché(e) De Recherche Clinique H/f</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>IQVIA Biotech</td><td>Clinical Research Associate - Iqvia Biotech (homebased In Paris)</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>AMETEK Inc</td><td>Technicien En Mécanique, Hydraulique Et Trains</td><td>Campsas</td><td>2026-07-29</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation (h/f) - Idf Sud</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation Expert</td><td>Lyon</td><td>2026-07-29</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation Expert (h/f) - Grenoble</td><td>Grenoble</td><td>2026-07-29</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Alternance - Technicien De Maintenance (h/f) - Vanves</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Kiabi</td><td>Conseiller De Vente (h/f) Cdd 35h</td><td>Grand Est</td><td>2026-07-29</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi/cdd - Temps Complet 35h H/f - Ouverture Basse Goulaine</td><td>Nantes</td><td>2026-07-29</td></tr>
+<tr><td>Pawllywood</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdi 35h (septembre 2026)</td><td>Bordeaux</td><td>2026-07-29</td></tr>
+<tr><td>PVH Corp.</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdi 35h (septembre 2026)</td><td>Bordeaux</td><td>2026-07-29</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Coordinateur Export (h/f) - 6 Mois Choisy-le-roi (94)</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>ferring.in</td><td>Chef.fe De Produits Junior Marketing Digital En Alternance</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Ferring Pharmaceuticals</td><td>Chef.fe De Produits Junior Marketing Digital En Alternance</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>ferring.co.kr</td><td>Chef.fe De Produits Junior Marketing Digital En Alternance</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Ferring</td><td>Chef.fe De Produits Junior Marketing Digital En Alternance</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Thales</td><td>Alternance - Chargé De Gestion De Projets Rh - F/h</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Thales</td><td>Alternance - Project Management Officer (pmo) - F/h</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Thales</td><td>Cdd De 12 Mois - Assistant Cse F/h</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>Thales</td><td>Alternance - Assistant De Direction & Office Management F/h</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Alt - Coordinateur(trice) Du Réseau Mondial De Distributeurs</td><td>Paris</td><td>2026-07-29</td></tr>
 </table>
