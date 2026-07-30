@@ -1401,4 +1401,59 @@
 <tr><td>Thales</td><td>Cdd De 12 Mois - Assistant Cse F/h</td><td>Paris</td><td>2026-07-29</td></tr>
 <tr><td>Thales</td><td>Alternance - Assistant De Direction & Office Management F/h</td><td>Paris</td><td>2026-07-29</td></tr>
 <tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Alt - Coordinateur(trice) Du Réseau Mondial De Distributeurs</td><td>Paris</td><td>2026-07-29</td></tr>
+<tr><td>International SOS</td><td>Sales Executive Intern</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage – Assistant(e) Performance & Reporting Esg – Parfums Beauté – Janvier 2027 – H/f/x</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Gsicareers</td><td>Alternance - Chef De Produit Junior Bpco (h/f)</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>GSK plc</td><td>Alternance - Chef De Produit Junior Bpco (h/f)</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Chargé De Communications Dsi (h/f)</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Daikin Austria</td><td>Alternance - Assistant(e) En Transformation Digitale & Ia (h/f)</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>AVL List GmbH</td><td>Stage - Simulation Architecture Véhicule(h/f)</td><td>Lardy</td><td>2026-07-30</td></tr>
+<tr><td>IDEMIA</td><td>Apprenticeship - Ai Governance, Privacy & Data Protection</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Coloplast AS</td><td>Apprenti(e) Finance</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Coloplast</td><td>Apprenti(e) Finance</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti(e) Communication (h/f/x)</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Alternance 12 Mois – Ingénierie Logicielle Native Ia</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Sanofi UK</td><td>Alternance 12 Mois – Ingénierie Logicielle Native Ia</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Pernod Ricard</td><td>Alternance - It Support (h/f)</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Ingénieur Outils Logiciels Avionique (h/f)</td><td>Toulouse</td><td>2026-07-30</td></tr>
+<tr><td>Valeo</td><td>Alternant(e) Market Intelligence And Business Monitoring Analyst (h/f)</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Sanofi</td><td>Alternance 12 Mois – Bio-informatique</td><td>Marcy L'Etoile</td><td>2026-07-30</td></tr>
+<tr><td>Sanofi</td><td>Alternance 24 Mois – Data Science</td><td>Aramon</td><td>2026-07-30</td></tr>
+<tr><td>Sanofi</td><td>Alternance 12 Mois – Analyse Intelligence Stratégique</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Alt 2026 - Apprenti(e) Data Analyst Pour Les Services De Maintenance (h/f)</td><td>Marseille</td><td>2026-07-30</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Alt 2026 - Apprenti En Data Science (h/f)</td><td>Marseille</td><td>2026-07-30</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Alt 2026 - Apprenti(e) Data Scientist (f/h)</td><td>Marseille</td><td>2026-07-30</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Alt 2026 Ai & Data Analyst For Research And Technology (f/m)</td><td>Toulouse</td><td>2026-07-30</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Internship 6 Months – Tax Reporting</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Samsung</td><td>Assistant Comptabilité/reporting, Saint-ouen, 93 (h/f)</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois – Consolidation & Finance</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Sanofi</td><td>Internship 6 Months – Tax Reporting</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Air Liquide</td><td>Alternance - Siège Social - Éthique Et Conformité H/f</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Air Liquide France Industrie</td><td>Alternance Business Analyst & Development Junior F/h</td><td>France</td><td>2026-07-30</td></tr>
+<tr><td>RATP Group</td><td>Infirmier Du Travail F/h (drh)</td><td>Ile De France</td><td>2026-07-30</td></tr>
+<tr><td>RATP</td><td>Infirmier Du Travail F/h (drh)</td><td>Ile De France</td><td>2026-07-30</td></tr>
+<tr><td>VitalAire / Air Liquide Healthcare</td><td>Infirmier Conseil Respiratoire (h/f)</td><td>France</td><td>2026-07-30</td></tr>
+<tr><td>Sanofi</td><td>Alternance 12 Mois – Technicien.ne D’études In Vivo</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien Multiservices - F/h</td><td>Lyon</td><td>2026-07-30</td></tr>
+<tr><td>Keolis</td><td>Technicien·ne Cycle - Agent D'accueil À La Maison Du Vélo F/h</td><td>Rennes</td><td>2026-07-30</td></tr>
+<tr><td>Keolis</td><td>Mecanicien Bus Et Car H/f</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Keolis</td><td>Technicien Cycle H/f</td><td>Bordeaux</td><td>2026-07-30</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Curatif - Matériel Roulant Tram - (jour) F/h</td><td>Bordeaux</td><td>2026-07-30</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Curatif - Matériel Roulant Tram (nuit) F/h</td><td>Bordeaux</td><td>2026-07-30</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Métro F/h</td><td>Rennes</td><td>2026-07-30</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Adjoint Responsable Maintenance</td><td>Toulouse</td><td>2026-07-30</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien Instrumentiste H/f</td><td>SERQUIGNY</td><td>2026-07-30</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien De Maintenance En Analyse F/h</td><td>Nord-Normandie</td><td>2026-07-30</td></tr>
+<tr><td>Chiesi Farmaucetici S.p.A</td><td>Technicien Méthodes</td><td>La Chaussee St Victor</td><td>2026-07-30</td></tr>
+<tr><td>Daikin Europe NV</td><td>Technicien Sav Dx Et Cta (nanterre) 1</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Chnetwork</td><td>Cdd - Conseiller De Vente - Printemps Haussmann H/f</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Chanel</td><td>Cdd - Conseiller De Vente - Printemps Haussmann H/f</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>G&F Châtelain</td><td>Cdd - Conseiller De Vente - Printemps Haussmann H/f</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Cdd - Conseiller De Vente - Printemps Haussmann H/f</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Kiabi</td><td>Conseiller De Vente (h/f/nb)</td><td>Nantes</td><td>2026-07-30</td></tr>
+<tr><td>Kering</td><td>Boucheron – Asset Protection Coordinator F/h/x</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Thales</td><td>Assistante De Direction F/h</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Arkema France</td><td>Alternance - Assistant(e) Achats Distribution (h/f)</td><td>ÎLe-De-France</td><td>2026-07-30</td></tr>
+<tr><td>Nestle SA</td><td>Cdd - Planificateur Transport (h/f)</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Kiabi</td><td>_alternant Directeur Adjoint Magasin (h/f-nb) - Herblay-sur-seine</td><td>Paris</td><td>2026-07-30</td></tr>
 </table>
