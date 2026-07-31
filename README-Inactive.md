@@ -1456,4 +1456,77 @@
 <tr><td>Arkema France</td><td>Alternance - Assistant(e) Achats Distribution (h/f)</td><td>ÎLe-De-France</td><td>2026-07-30</td></tr>
 <tr><td>Nestle SA</td><td>Cdd - Planificateur Transport (h/f)</td><td>Paris</td><td>2026-07-30</td></tr>
 <tr><td>Kiabi</td><td>_alternant Directeur Adjoint Magasin (h/f-nb) - Herblay-sur-seine</td><td>Paris</td><td>2026-07-30</td></tr>
+<tr><td>Ericsson</td><td>Apprenticeship In Marketing & Communication</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Ami Paris</td><td>Cdd - Conseiller.ère De Vente - Galeries Lafayette Haussmann Femme</td><td>ÎLe</td><td>2026-07-31</td></tr>
+<tr><td>varef.fr</td><td>Assistant(e) Responsable De Secteur - Le Luc En Provence</td><td>Le Luc En Provence</td><td>2026-07-31</td></tr>
+<tr><td>BENETEAU</td><td>[stage] - Assistant Architecte Naval H/f</td><td>Dompierre Sur Yon</td><td>2026-07-31</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Support Pmo Bac +4/5 (h/f)</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Alternance - Rh Et Formation Bac +4/5</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Contrôleur De Gestion Bac + 4/5 (h/f)</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Juriste Commerce & Programmes Bac + 4/5 (h/f)</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Chargé(e) Rh Bac +4/5 (h/f)</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - R&d Pms Budget Bac +4/5 (h/f)</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Smart Communications Inc</td><td>Intern Marketing (f/m/d)</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Stage - Juriste Droit Public Des Affaires F/h</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Alternance Chargé(e) Marketing F/h</td><td>Mantes La Jolie</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Stage - Assistant.e Excellence Opérationnelle F/h</td><td>Rennes</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Stage - Corporate M&a F/h 1</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Coty Inc.</td><td>Apprenticeship Channel And Porfolio Intern</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Eiffagemetal</td><td>Alternance - Qhse</td><td>France</td><td>2026-07-31</td></tr>
+<tr><td>valeo.in</td><td>Apprenti(e) Purchasing Performance And Reporting Analyst</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Recordati Industria Chimica e Farmaceutica S.p.A</td><td>Apprentice Legal</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti(e) Barman</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Sonepar Group</td><td>Proxy Product Owner E-commerce Apprentice</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Coty Inc.</td><td>Merchandising Apprentice</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Coty Inc.</td><td>Merchandising Alternance</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Recordati Industria Chimica e Farmaceutica S.p.A</td><td>Apprenti Production Pharmaceutique Et Amélioration Continue</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Data Analyst - F/h</td><td>Toulouse</td><td>2026-07-31</td></tr>
+<tr><td>Intermarche</td><td>Stage - Business Analyst H/f</td><td>Vert</td><td>2026-07-31</td></tr>
+<tr><td>NSA (Nouvelle Société d'Ascenseurs)</td><td>Auditeur Qualité Chantier Ascensoriste (h/f) - Nsa</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>OTIS / NSA</td><td>Auditeur Qualité Chantier Ascensoriste (h/f) - Nsa</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Thales Defense and Security Inc</td><td>Comptable Client F/h</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>leHACK</td><td>Alternance Attaché(e) De Recherche Clinique H/f</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien De Maintenance Cvc F/h</td><td>Toulouse</td><td>2026-07-31</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance (f/h)</td><td>Saint Georges De Mons</td><td>2026-07-31</td></tr>
+<tr><td>BENETEAU</td><td>[alternance] - Technicien De Maintenance Usine H/f</td><td>Bordeaux</td><td>2026-07-31</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Mécanicien Réparateur (f/h)</td><td>Gueugnon</td><td>2026-07-31</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Alternance - Technicien De Maintenance Bac +2/3 (h/f)</td><td>Aspach Le Haut</td><td>2026-07-31</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Technicien Maintenance Mécanique H/f</td><td>Gueugnon</td><td>2026-07-31</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Mécanicien Industriel (chantier)h/f</td><td>Marseille</td><td>2026-07-31</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Technicien Maintenance Industrielle/machines Outils H/f</td><td>Aix En Provence</td><td>2026-07-31</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Robinetier Nucléaire (mécanicien Grand Déplacement) (h/f)</td><td>Cattenom</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Technicien De Maintenance Bus Et Car Itinérant H/f</td><td>Arnas</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Mécanicien Bus - Pl Expert F/h</td><td>Lyon</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Voies Du Métro F/h</td><td>Rennes</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Electromécanicien F/h</td><td>Ormoy</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Technicien Maintenance Bus F/h</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Industrielle Bus F/h</td><td>Le Mesnil-Amelot</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Technicien De Maintenance - Ligne 18 F/h</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Agent Electromécanicien - Infrastructures Voie Et Lac Tramway F/h</td><td>Bordeaux</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Technicien.ne Matériels Roulants</td><td>Rivery</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Agent Electrotechnicien : Infrastructures Électriques Tramway F/h</td><td>Bordeaux</td><td>2026-07-31</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Matériel Roulant Bus H/f</td><td>Bordeaux</td><td>2026-07-31</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur Boulangerie (h/f)</td><td>France</td><td>2026-07-31</td></tr>
+<tr><td>Cultura</td><td>Conseiller De Vente Multimédia (f/h)</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>SWAROVSKI</td><td>Cdd - Conseiller De Vente (h/f/x) 21h - Printemps Velizy</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>SWAROVSKI</td><td>Cdi – Conseiller De Vente (h/f/x) 35h – Galeries Lafayette Haussmann</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>SWAROVSKI</td><td>Cdi – Conseiller De Vente (h/f/x) - 35h – Créteil</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>PVH</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Cdd 35h</td><td>Lille</td><td>2026-07-31</td></tr>
+<tr><td>PVH Corp.</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Cdd 35h</td><td>Lille</td><td>2026-07-31</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Cdd 35h</td><td>Lille</td><td>2026-07-31</td></tr>
+<tr><td>VFC Corporation</td><td>Demonstrateur - Vendeur (h/f) - Cdi 35h - Timberland - Citadium Caumartin</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Diversey.ba</td><td>Assistant(e) Trade Marketing En Alternance</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Employé(e) Administratif - F/h</td><td>Sainte-Pazanne</td><td>2026-07-31</td></tr>
+<tr><td>Davide Campari Milano S.p.A</td><td>Stage Assistant Chef De Produit Marketing International (h/f) Courvoisier</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Eventeam</td><td>Stage - Chargé(e) De Projets Conseil Brands &amp; Sponsoring</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>BioSerenity</td><td>Etudiant(e) Employé(e) Administratif(ve) Plateforme Médicale F/h</td><td>France</td><td>2026-07-31</td></tr>
+<tr><td>ASMODEE</td><td>Coordinateur Evenementiel F/h</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Sonepar Group</td><td>Assistant Marketing Digital Business</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Fever</td><td>Onsite Event Coordinator</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Murfy</td><td>Alternance - Chargé·e De Projets Marketing &amp; Événementiel Solaire</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Support À La Gestion De Projets - F/h</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Event Coordinator (h/f)</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Coloplast</td><td>Coordinateur Marketing Et Événementiel Cdd F/h</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Sonepar Group</td><td>Alternance - Assistant Marketing Digital & Data H/f - Boulgone-billancourt (92)</td><td>Paris</td><td>2026-07-31</td></tr>
+<tr><td>Kering</td><td>Kering Assistant/e Achats (stage)</td><td>Paris</td><td>2026-07-31</td></tr>
 </table>
