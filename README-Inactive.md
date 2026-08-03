@@ -1718,4 +1718,80 @@
 <tr><td>Chanel</td><td>Stage - Assistant(e) Chef De Produit Marketing Opérationnel Parfums – Parfums Beauté – Janvier 2027 – H/f/x</td><td>Paris</td><td>2026-08-02</td></tr>
 <tr><td>Carrier</td><td>Order Management Specialist M/f</td><td>Paris</td><td>2026-08-02</td></tr>
 <tr><td>Carrier Global</td><td>Order Management Specialist M/f</td><td>Paris</td><td>2026-08-02</td></tr>
+<tr><td>GroupE MONDIAL TISSUS - GMT SaS</td><td>Vendeur.euse Oullins</td><td>Lyon</td><td>2026-08-03</td></tr>
+<tr><td>GroupE MONDIAL TISSUS - GMT SaS</td><td>Vendeur.euse Annemasse</td><td>Annecy</td><td>2026-08-03</td></tr>
+<tr><td>Renault Group</td><td>Cs27 Bac+2 - Mission Hse Et Amélioration Des Moyens De Mesures (h/f)</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire Relations Publiques & Communication (h/f)</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Roquette</td><td>Stage – Service Rh - Paie & Administration Du Personnel (h/f)</td><td>Lestrem</td><td>2026-08-03</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois - Marketing Client</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Sanrafaelvet</td><td>Stage 6 Mois - Marketing Client</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois - Marketing Client</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Ardian</td><td>Private Equity Semiconductor Stage - Janvier 2027 I Paris (h/f)</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>EssilorLuxottica</td><td>Stage - Global Intern Marketing H/f</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Reckitt</td><td>Alternance - Marketing Digital / Septembre 2026</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Tumi</td><td>Stagiaire</td><td>Serris</td><td>2026-08-03</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Hr & Transformation</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Sanrafaelvet</td><td>Stage 6 Mois – Amélioration Continue En Production</td><td>Tours</td><td>2026-08-03</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois – Amélioration Continue En Production</td><td>Tours</td><td>2026-08-03</td></tr>
+<tr><td>Egis in ANZ</td><td>Stage Bac+5 – Intégration Des Démarches Terres Fertiles Dans Les Projets D’aménagement Urbain H/f</td><td>Marseille</td><td>2026-08-03</td></tr>
+<tr><td>Eiffageconstruction</td><td>Stage Bac Pro Melec - Electricien Tertiaire F/h</td><td>Rodez</td><td>2026-08-03</td></tr>
+<tr><td>Arkema France</td><td>Stagiaire Data Marketing H/f/x</td><td>ÎLe-De-France</td><td>2026-08-03</td></tr>
+<tr><td>Arkema France</td><td>Alternant Automaticien</td><td>Avelin</td><td>2026-08-03</td></tr>
+<tr><td>Otis Worldwide</td><td>Apprenti Achats (h/f)</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>OTIS</td><td>Apprenti Achats (h/f)</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Apprenti - Innovation Excellence (h/f)</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Hr Learning & Development Apprentice</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>CEVA Logistics</td><td>Apprenticehsip Global Category Procurement Buyer</td><td>Marseille</td><td>2026-08-03</td></tr>
+<tr><td>euroexecutive.de</td><td>Tooling Engineer Intern – Capacity & Performance</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Harmattan AI</td><td>Mechanical Design Intern</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>BlaBlaCar</td><td>Confirmed Backend Engineer - Care</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>245</td><td>Confirmed Backend Engineer - Care</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Dedalus</td><td>Regional End User Services Operator</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Samsung Electronics France</td><td>Ai Specialist Intern</td><td>France</td><td>2026-08-03</td></tr>
+<tr><td>Sanofi UK</td><td>Data & Ai Engineer</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Jobgether</td><td>Mcp Engineer / Ai Backend Engineer</td><td>France</td><td>2026-08-03</td></tr>
+<tr><td>Kering</td><td>Kering Financial Systems Analyst (stage)</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Sap Sales Business Analyst - Coe For Erp Spares & Services M/f</td><td>Toulouse</td><td>2026-08-03</td></tr>
+<tr><td>Airbus</td><td>Sap Sales Business Analyst - Coe For Erp Spares & Services M/f</td><td>Toulouse</td><td>2026-08-03</td></tr>
+<tr><td>Fresenius Medical Care</td><td>Infirmier Diplômé D’etat (h/f)</td><td>BièVres</td><td>2026-08-03</td></tr>
+<tr><td>FMC</td><td>Infirmier Diplômé D’etat (h/f)</td><td>BièVres</td><td>2026-08-03</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Technicien Apres-vente (h/f)</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Technicien Service Atelier (h/f), Engins Tp - Cdi - Taverny</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Technicien Service D'atelier Grues Mobiles (h/f) - Cdd 12 Mois - Niederhergheim</td><td>Niederhergheim</td><td>2026-08-03</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien Analyseur F/h</td><td>Lyon</td><td>2026-08-03</td></tr>
+<tr><td>Eiffagemetal</td><td>Technicien Analyseur F/h</td><td>Lyon</td><td>2026-08-03</td></tr>
+<tr><td>HARTMANN</td><td>Technicien De Maintenance 2x8 (h/f)</td><td>LièPvre</td><td>2026-08-03</td></tr>
+<tr><td>Thales Group</td><td>Field Support Technician/engineer (f/h)</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Sur Parcs Éoliens (h/f), Saint-geoges-sur-arnon (36)</td><td>Saint-Geoges-Sur-Arnon</td><td>2026-08-03</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Préventive Sur Parcs Éoliens,germinon, Marne (51), H/f</td><td>Germinon</td><td>2026-08-03</td></tr>
+<tr><td>Sealed Air</td><td>Technicien Sav ( Secteur Lyon Ouest) H/f</td><td>Lyon</td><td>2026-08-03</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien De Maintenance Cvc F/h</td><td>Roche</td><td>2026-08-03</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien De Maintenance Electricité H/f</td><td>Grenoble</td><td>2026-08-03</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien De Maintenance Ht F/h</td><td>Grenoble</td><td>2026-08-03</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien De Maintenance Electricité Ht F/h</td><td>Lyon</td><td>2026-08-03</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien De Maintenance Électricité F/h</td><td>Orleans</td><td>2026-08-03</td></tr>
+<tr><td>essity.de</td><td>Electromécanicien H/f</td><td>Le Theil</td><td>2026-08-03</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Agent/technicien De Maintenance - Temps Plein (h/f)</td><td>Le Conquet</td><td>2026-08-03</td></tr>
+<tr><td>Pierre Fabre</td><td>Technicien(ne) Maintenance Production - Cdi (h/f)</td><td>Loiret (45)</td><td>2026-08-03</td></tr>
+<tr><td>Pierrefabrepharmaceuticals</td><td>Technicien(ne) Maintenance Production - Cdi (h/f)</td><td>Loiret (45)</td><td>2026-08-03</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance (35h - 4j/semaine - Journée) H/f</td><td>Cornillé</td><td>2026-08-03</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance H/f (matin/après-midi)</td><td>Cornillé</td><td>2026-08-03</td></tr>
+<tr><td>Kiabi</td><td>Conseiller De Vente Evolutif (h/f/nb)</td><td>France</td><td>2026-08-03</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Toulouse</td><td>2026-08-03</td></tr>
+<tr><td>Diptyque Paris</td><td>Conseiller De Vente - Galeries Lafayette Nice Masséna - H/f</td><td>Nice</td><td>2026-08-03</td></tr>
+<tr><td>Conforama</td><td>Vendeur (h/f) Cdi</td><td>Lyon</td><td>2026-08-03</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur Cdd (h/f)</td><td>Lyon</td><td>2026-08-03</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Conseiller(e) De Vente - Cannes Antibes (h/f)</td><td>Nice</td><td>2026-08-03</td></tr>
+<tr><td>Galeries Lafayette</td><td>Louis Pion Conseiller De Vente - Cdi 15h - Annecy Epagny F/h</td><td>Annecy</td><td>2026-08-03</td></tr>
+<tr><td>Tinder</td><td>Apprenticeship - Junior Marketing Assistant</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>sysco.ca</td><td>Acheteur(se) (alt.)</td><td>Noyal-Pontivy</td><td>2026-08-03</td></tr>
+<tr><td>sysco.ca</td><td>Coordinateur(trice) Supply Chain</td><td>Limonest</td><td>2026-08-03</td></tr>
+<tr><td>Subsea Inc</td><td>Legal Trainee</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Subsea 7</td><td>Legal Trainee</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Carrier Global</td><td>Coordinateur Technique H/f</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Carrier</td><td>Coordinateur Technique H/f</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Assistant Emea Marketing Lens & Frames Cross-category Coordinator H/f</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Keolis</td><td>Alternance - Assistant Achats Pièces De Rechange Bus & Cars F/h</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Nomura International PLC</td><td>Assistant To Deputy Ceo & Cao</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Bureau Veritas</td><td>Alternance - Assistant(e) Administratif(ve) Facturation (f/h)</td><td>Paris</td><td>2026-08-03</td></tr>
 </table>
