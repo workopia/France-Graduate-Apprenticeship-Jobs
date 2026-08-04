@@ -1794,4 +1794,44 @@
 <tr><td>Keolis</td><td>Alternance - Assistant Achats Pièces De Rechange Bus & Cars F/h</td><td>Paris</td><td>2026-08-03</td></tr>
 <tr><td>Nomura International PLC</td><td>Assistant To Deputy Ceo & Cao</td><td>Paris</td><td>2026-08-03</td></tr>
 <tr><td>Bureau Veritas</td><td>Alternance - Assistant(e) Administratif(ve) Facturation (f/h)</td><td>Paris</td><td>2026-08-03</td></tr>
+<tr><td>Coty</td><td>Apprenticeship Channel And Porfolio Intern</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Coty</td><td>Stagiaire R&d Développement Packaging</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Culture Sector</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Transport, Manufacturing & Retail</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Energy, Transport & Manufacturing</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Stagiaire F&b</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Arkema France</td><td>Alternant(e) Chimiste R&d - Formulation Et Caractérisation</td><td>Le Barp</td><td>2026-08-04</td></tr>
+<tr><td>Arkema France</td><td>Alternance : Chargé(e) Digital Marketing H/f</td><td>ÎLe-De-France</td><td>2026-08-04</td></tr>
+<tr><td>Arkema France</td><td>Alternance - Contrôle De Gestion H/f</td><td>ÎLe</td><td>2026-08-04</td></tr>
+<tr><td>Soeur</td><td>Stage - Assistant.e Influence Et Réseaux Sociaux</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Marriott International</td><td>Finance Intern</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Valeo</td><td>Alternance En Trade Marketing</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>valeo.in</td><td>Alternance En Trade Marketing</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Renault Group</td><td>Cs27 Bac+5 – Stagiaire Transformation Digitale & Excellence Opérationnelle (h/f)</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>plaud-ascenseur.fr</td><td>Apprenti Achats (h/f)</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>ZOLL</td><td>Stagiaire- Assistant(e) Compliance Officer</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Coty Inc</td><td>Finance Intern</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Merck & Co., Inc.</td><td>Alternance Attaché(e) De Recherche Clinique H/f</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Eiffagemetal</td><td>Technicien De Maintenance Multi-technique - Site Posté F/h</td><td>Mignieres</td><td>2026-08-04</td></tr>
+<tr><td>35</td><td>Alfi - Technicien Maintenance F/h</td><td>Grenoble</td><td>2026-08-04</td></tr>
+<tr><td>Airi Quideer</td><td>Alfi - Technicien Maintenance F/h</td><td>Grenoble</td><td>2026-08-04</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Alfi - Technicien Maintenance F/h</td><td>Grenoble</td><td>2026-08-04</td></tr>
+<tr><td>Vitalaire</td><td>Alfi - Technicien Maintenance F/h</td><td>Grenoble</td><td>2026-08-04</td></tr>
+<tr><td>PPG Industries</td><td>Technicien De Maintenance Électrique H/f</td><td>Saultain</td><td>2026-08-04</td></tr>
+<tr><td>IDEXX Laboratories, Inc.</td><td>Représentant D’assistance Technique (secteur Idf)</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>3m</td><td>Technicien De Maintenance Automatismes / Instrumentation (h/f/*)</td><td>Tilloy-Lez-Cambrai</td><td>2026-08-04</td></tr>
+<tr><td>3m.co.kr</td><td>Technicien De Maintenance Automatismes / Instrumentation (h/f/*)</td><td>Tilloy-Lez-Cambrai</td><td>2026-08-04</td></tr>
+<tr><td>Arkema S.A.</td><td>Technicien Instrumentation Spécialisé Analyseurs Industriels (f/h)</td><td>ChâTeau-Arnoux-Saint-Auban</td><td>2026-08-04</td></tr>
+<tr><td>Atos</td><td>Technicien De Maintenance Électronique (h/f)</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>CRH plc</td><td>Technicien Maintenance F/h Chaumes-en-retz (44)</td><td>Chaumes-En-Retz</td><td>2026-08-04</td></tr>
+<tr><td>Ball</td><td>Technicien De Maintenance Journée - Spécialisation Électrique / Électrotechnique (h/f)</td><td>Beaurepaire</td><td>2026-08-04</td></tr>
+<tr><td>Keolis</td><td>Mecanicien Bus Et Car H/f</td><td>Sarreguemines</td><td>2026-08-04</td></tr>
+<tr><td>Keolis</td><td>Technicien·ne Cycle - Agent D'accueil À La Maison Du Vélo F/h</td><td>Rennes</td><td>2026-08-04</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Field Services Technician</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Technicien(ne) De Maintenance Rs</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Rs Maintenance Technician</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi Temps Partiel H/f</td><td>Lyon</td><td>2026-08-04</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Assistant(e) Administratif(ve) - H/f</td><td>Rouen</td><td>2026-08-04</td></tr>
+<tr><td>Harley-Davidson</td><td>Marketing Assistant - Alternance</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Lifeattinder</td><td>Apprenticeship - Junior Marketing Assistant</td><td>Paris</td><td>2026-08-04</td></tr>
 </table>
