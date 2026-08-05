@@ -1834,4 +1834,50 @@
 <tr><td>Eurofeu - SAcuritA Incendie</td><td>Assistant(e) Administratif(ve) - H/f</td><td>Rouen</td><td>2026-08-04</td></tr>
 <tr><td>Harley-Davidson</td><td>Marketing Assistant - Alternance</td><td>Paris</td><td>2026-08-04</td></tr>
 <tr><td>Lifeattinder</td><td>Apprenticeship - Junior Marketing Assistant</td><td>Paris</td><td>2026-08-04</td></tr>
+<tr><td>Nestle SA</td><td>Vendeur - Stage (h/f)</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Air Liquide</td><td>Alhist - Stage - Data Analyst</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Alternance - Assistant Retail Education - Gallinée H/f - Septembre 2026</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Internship - Global Communication Assistant - Gallinée H/f - July 2026</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternant Automaticien</td><td>Avelin</td><td>2026-08-05</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Apprenti(e) Barman F/h</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Apprenti(e) Barman F/h</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Biocodex</td><td>Global Medical Advisor Apprentice - Rare Diseases - All Genders</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Apprenti Achats (h/f)</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>SAP SE</td><td>Apprenticeship: Ai-enabled Software Engineer (full Stack Developer) - F/m</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Atos SE</td><td>Ingénieur Validation Software R&d Hpc (f/h)</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Ingenico</td><td>Junior Software Engineer</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>THALES</td><td>Ingénieur Développement Algorithmes De Navigation F/h</td><td>Toulouse</td><td>2026-08-05</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Développement Algorithmes De Navigation F/h</td><td>Toulouse</td><td>2026-08-05</td></tr>
+<tr><td>Jobgether</td><td>Research Scientist / Research Engineer</td><td>France</td><td>2026-08-05</td></tr>
+<tr><td>SAP SE</td><td>Phd Student : Agentic Ai : Knowledge Graphs, Llms & Autonomous Query Reasoning F/m</td><td>Mougins Cedex</td><td>2026-08-05</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Maintenance - Nsa (h/f)</td><td>Bourgin Jallieu</td><td>2026-08-05</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Maintenance - Nsa (h/f)</td><td>Nice</td><td>2026-08-05</td></tr>
+<tr><td>Cid Ascenseur</td><td>Technicien De Maintenance - Nsa (h/f)</td><td>Nice</td><td>2026-08-05</td></tr>
+<tr><td>Eiffageconstruction</td><td>Alternant Bts Électrotechnique Maintenance F/h</td><td>Lyon</td><td>2026-08-05</td></tr>
+<tr><td>Eiffagerail</td><td>Alternant Bts Électrotechnique Maintenance F/h</td><td>Lyon</td><td>2026-08-05</td></tr>
+<tr><td>KONE Bulgaria</td><td>Spécialiste Travaux / Réparateur Maintenance Ascenseurs (h/f/x)</td><td>St Laurent Du Var</td><td>2026-08-05</td></tr>
+<tr><td>Keolis</td><td>Mécanicien Bus - Pl Expert F/h</td><td>Lyon</td><td>2026-08-05</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Technicien De Maintenance (h/f)</td><td>Agen</td><td>2026-08-05</td></tr>
+<tr><td>Mersen</td><td>Alternant - Technicien De Maintenance Électrique</td><td>Pagny-Sur-Moselle</td><td>2026-08-05</td></tr>
+<tr><td>Kardex</td><td>Technicien De Maintenance Itinérant</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Recordati Industria Chimica e Farmaceutica S.p.A</td><td>Technicien(ne) De Maintenance</td><td>Saint Victor</td><td>2026-08-05</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Technicien De Maintenance Point Service Toulouse</td><td>Toulouse</td><td>2026-08-05</td></tr>
+<tr><td>Eiffagemetal</td><td>Alternant Technicien De Maintenance Cvc F/h</td><td>Roche</td><td>2026-08-05</td></tr>
+<tr><td>adidas AG</td><td>Vendeur Polyvalent Adidas (h/f/d) - Cdi 35h - Factory Outlet / Saint Julien 10800</td><td>Annecy</td><td>2026-08-05</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 16h Cdi H/f/x</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Vendeurs (f/h) - Cdi 25h/16h - Rosny</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 8h Cdi H/f/x</td><td>Strasbourg</td><td>2026-08-05</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Vendeur(se) Conseil</td><td>Bordeaux</td><td>2026-08-05</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Vendeur Conseil Alternant(e)</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>AptarGroup Inc</td><td>Specialist, Events Projecth/f</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Assistant(e) De Gestion / Gestionnaire Adv - Bureau De Paris La Défense</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Assistant(e) De Gestion / Gestionnaire Adv - Bureau De Lyon</td><td>Lyon</td><td>2026-08-05</td></tr>
+<tr><td>Marriott International</td><td>Coordinateur-trice Évènementiel (h/f) En Cdi</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Terlivazrems</td><td>Assistant(e) Trade Marketing En Alternance</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Diversey</td><td>Assistant(e) Trade Marketing En Alternance</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>ALTAVIA</td><td>Chef De Projet Achats - F/h Stage</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>PwC Poland</td><td>Chargé De Projet Formation Cdd F/h</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>Upstate New York College Collaboration</td><td>Chargé De Projet Formation Cdd F/h</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>ALTAVIA</td><td>Assistant Achats - F/h Alternance</td><td>Paris</td><td>2026-08-05</td></tr>
 </table>
