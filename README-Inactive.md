@@ -1880,4 +1880,50 @@
 <tr><td>PwC Poland</td><td>Chargé De Projet Formation Cdd F/h</td><td>Paris</td><td>2026-08-05</td></tr>
 <tr><td>Upstate New York College Collaboration</td><td>Chargé De Projet Formation Cdd F/h</td><td>Paris</td><td>2026-08-05</td></tr>
 <tr><td>ALTAVIA</td><td>Assistant Achats - F/h Alternance</td><td>Paris</td><td>2026-08-05</td></tr>
+<tr><td>JLL UK</td><td>Stagiaire Responsable De Projets Amo/mod F/h</td><td>Lille</td><td>2026-08-06</td></tr>
+<tr><td>Jll Com Au</td><td>Stagiaire Responsable De Projets Amo/mod F/h</td><td>Lille</td><td>2026-08-06</td></tr>
+<tr><td>JLL</td><td>Stagiaire Responsable De Projets Amo/mod F/h</td><td>Lille</td><td>2026-08-06</td></tr>
+<tr><td>Intermarche</td><td>Alternant Qhse H/f</td><td>Vert</td><td>2026-08-06</td></tr>
+<tr><td>EssilorLuxottica</td><td>Alternance - Commercial Planning (h/f)</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>CMA CGM Group</td><td>Alternant Qualité</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>Boston Scientific Foundation Inc</td><td>Stagiaire En Communication D'entreprise 1</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>RATP Group</td><td>Stage De 6 Mois - Analyste Stratégique F/h (sfd)</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>SCOR</td><td>Emea Cfo Controlling Intern</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Stagiaire Marketing Et Communication H/f</td><td>Toulouse</td><td>2026-08-06</td></tr>
+<tr><td>Marriott International</td><td>Stagiaire Marketing Et Communication H/f</td><td>Toulouse</td><td>2026-08-06</td></tr>
+<tr><td>IDEMIA</td><td>Apprenti(e) En Comptabilité</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>IDEMIA</td><td>Apprenti(e) Gestionnaire Administratif(ve) Rh Et Paie</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>IDEMIA</td><td>Apprenti(e) Chargé(e) De Mission Résilience</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>Chart Industries Inc</td><td>Business Development Apprentice</td><td>Nantes</td><td>2026-08-06</td></tr>
+<tr><td>Otis Worldwide</td><td>Alternant Ingénieur D’affaires (h/f)</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>SSP Group</td><td>Technicien Support De Niveau 1 H/f - Alfortville</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>Sanofi UK</td><td>Consolidation Analyst</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>IQVIA Holdings</td><td>Clinical Research Associate - Iqvia Biotech (homebased In Paris)</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Sur Parcs Éoliens (h/f), Champniers (16), Charente</td><td>Champniers</td><td>2026-08-06</td></tr>
+<tr><td>CRH plc</td><td>Technicien De Maintenance Industrielle Maxilly (21) F/h</td><td>Cote</td><td>2026-08-06</td></tr>
+<tr><td>VELUX Group</td><td>Technicien / Support Maintenance H/f</td><td>Somme</td><td>2026-08-06</td></tr>
+<tr><td>velux.ro</td><td>Technicien / Support Maintenance H/f</td><td>En</td><td>2026-08-06</td></tr>
+<tr><td>Hager Group</td><td>Technicien Outilleur Découpe H/f/x</td><td>Où Voulez</td><td>2026-08-06</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Chargé(e) De Maintenance Mécanique Pluriannuelle (h/f)</td><td>Grandpuits</td><td>2026-08-06</td></tr>
+<tr><td>35</td><td>Chargé(e) De Maintenance Mécanique Pluriannuelle (h/f)</td><td>Grandpuits</td><td>2026-08-06</td></tr>
+<tr><td>Liquidfusioninc</td><td>Chargé(e) De Maintenance Mécanique Pluriannuelle (h/f)</td><td>Grandpuits</td><td>2026-08-06</td></tr>
+<tr><td>Holcim</td><td>Mécanicien Maintenance Industrielle (h/f) - Bouc Bel Air</td><td>Aix En Provence</td><td>2026-08-06</td></tr>
+<tr><td>Holcim</td><td>Mécanicien Engins - Périmètre Var</td><td>Var</td><td>2026-08-06</td></tr>
+<tr><td>Holcim</td><td>Technicien De Maintenance H/f - Cdd - Var</td><td>Var</td><td>2026-08-06</td></tr>
+<tr><td>Holcim</td><td>Mécanicien Engins Multisites H/f - Callas (83)</td><td>Callas</td><td>2026-08-06</td></tr>
+<tr><td>Holcim</td><td>Technicien De Maintenance H/f - Cdi - Villenave D'ornon (33)</td><td>Bordeaux</td><td>2026-08-06</td></tr>
+<tr><td>Holcim</td><td>Préparateur D'entretien Mécanique Usine De Martres Tolosane</td><td>Martres Tolosane</td><td>2026-08-06</td></tr>
+<tr><td>Holcim</td><td>Technicien De Maintenance (h/f) - Rennes</td><td>Rennes</td><td>2026-08-06</td></tr>
+<tr><td>Holcim</td><td>Technicien De Maintenance En Alternance - Toulouse Larrieu</td><td>Toulouse</td><td>2026-08-06</td></tr>
+<tr><td>michelin.be</td><td>Technicien De Maintenance F/h</td><td>Lyon</td><td>2026-08-06</td></tr>
+<tr><td>Michelin</td><td>Technicien De Maintenance F/h</td><td>Lyon</td><td>2026-08-06</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Maintenance Expert (h/f)</td><td>Paris-Stephenson</td><td>2026-08-06</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur 16h H/f - Les Clayes Sous Bois (78) - Boardriders</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>Scaleway</td><td>Event Operations Intern</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>Hermès International</td><td>Stage - Chargé(e) De Projets Formation - Hermès Maison (h/f)</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Assistant.e Ressources Humaines F/h</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>Xcenda</td><td>Stage – Chef De Projet Excellence Opérationnelle (h/f)</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Coordinateur-trice Évènementiel (h/f) En Cdi</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage -assistant(e) Achats - Projets Sous-traitance (f/h/x) - Juillet 2026</td><td>Paris</td><td>2026-08-06</td></tr>
+<tr><td>Fromageries Bel</td><td>Alternance - Assistant(e) Achats Pommes (f/h/x) - Septembre 2026</td><td>Boué</td><td>2026-08-06</td></tr>
 </table>
