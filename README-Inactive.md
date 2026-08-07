@@ -1926,4 +1926,76 @@
 <tr><td>St. Regis Hotels & Resorts</td><td>Coordinateur-trice Évènementiel (h/f) En Cdi</td><td>Paris</td><td>2026-08-06</td></tr>
 <tr><td>Fromageries Bel</td><td>Stage -assistant(e) Achats - Projets Sous-traitance (f/h/x) - Juillet 2026</td><td>Paris</td><td>2026-08-06</td></tr>
 <tr><td>Fromageries Bel</td><td>Alternance - Assistant(e) Achats Pommes (f/h/x) - Septembre 2026</td><td>Boué</td><td>2026-08-06</td></tr>
+<tr><td>GroupE MONDIAL TISSUS - GMT SaS</td><td>Vendeur.euse St Brieuc</td><td>St Brieuc</td><td>2026-08-07</td></tr>
+<tr><td>eaglefootballgroup</td><td>Ol Lyonnes - Stage / Redaction Digitale (h/f)</td><td>Ville</td><td>2026-08-07</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) Ressources Humaines H/f - Innside Paris Charles De Gaulle</td><td>Val-D'Oise</td><td>2026-08-07</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) De Direction - Innside Paris Charles De Gaulle (paris, France)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Stage - Bac+5 - Pilote Digital (h/f)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Latecoere</td><td>Stage - Hse (h/f)</td><td>Montredon</td><td>2026-08-07</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stage Evénementiel Juillet Pour 6 Mois (h/f)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Seasonsaviara</td><td>Stage Evénementiel Juillet Pour 6 Mois (h/f)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Recordati Industria Chimica e Farmaceutica S.p.A</td><td>Trainee Regulatory affairs export</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Chanel</td><td>Stage – Assistant(e) Influence Internationale (h/f/x) – Mode – Janvier 2027</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage – Assistant(e) Influence Internationale (h/f/x) – Mode – Janvier 2027</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Stage – Assistant(e) Influence Internationale (h/f/x) – Mode – Janvier 2027</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Roquette</td><td>Stage - Talent Acquisition, Mobilité Interne & Marque Employeur (h/f)</td><td>Lestrem</td><td>2026-08-07</td></tr>
+<tr><td>Egis in ANZ</td><td>Alternance Chargé De Projet Sig/opengis H/f</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Stage - Assistant(e) Contrôle De Gestion Image Et Orchestration (h/f/x) – Mode – Janvier 2027</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Stage - Assistant(e) Relations Célébrités Internationales (h/f/x) - Mode – Janvier 2027</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Relations Célébrités Internationales (h/f/x) - Mode – Janvier 2027</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Contrôle De Gestion Image Et Orchestration (h/f/x) – Mode – Janvier 2027</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Assistant(e) Contrôle De Gestion Image Et Orchestration (h/f/x) – Mode – Janvier 2027</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Assistant(e) Relations Célébrités Internationales (h/f/x) - Mode – Janvier 2027</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Digital Transformation</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Building Engines</td><td>Stagiaire Responsable De Projets Amo/mod F/h</td><td>Lille</td><td>2026-08-07</td></tr>
+<tr><td>BENETEAU</td><td>[alternance] - Animateur Hsee H/f</td><td>Nantes</td><td>2026-08-07</td></tr>
+<tr><td>Keolis</td><td>Apprenti Mécanicien Bus F/h</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Keolis</td><td>Mécanicien En Alternance F/h</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Keolis</td><td>Apprenti Technicien Matériel Embarqué H/f</td><td>Nantes</td><td>2026-08-07</td></tr>
+<tr><td>Coty Inc.</td><td>Global Education & Retail Apprentice</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Apprenti(e) - Ingénieur(e) Performance Système F/h</td><td>Toulouse</td><td>2026-08-07</td></tr>
+<tr><td>Bureau Veritas</td><td>Apprenticeship - General Services Administrative Assistant (f/m)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Apprenti Cuisine F/h</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>GE HealthCare UK</td><td>Stagiaire Ingénieur(e) - Révolutionner Le "design-to-code" : Automatisation Et Agents Ai Dans Un Contexte Médical Critique (h/f)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Alexion</td><td>Alternance - Apprentice Business Analyst</td><td>France</td><td>2026-08-07</td></tr>
+<tr><td>microsatsystems.biz</td><td>Alternance Attaché(e) De Recherche Clinique H/f</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>NephroCare / Fresenius Medical Care</td><td>Infirmier Diplômé D’etat (h/f)</td><td>BièVres</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation Expert (h/f) - Grenoble</td><td>Grenoble</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Alternance - Technicien De Maintenance (h/f) - Lieusaint</td><td>Lieuxaint</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Alternance - Technicien De Maintenance (h/f) - Vanves</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Alternance - Technicien De Maintenance (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Technicien(ne) De Réparation (h/f) - Salon De Provence</td><td>Aix En Provence</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Alternance - Technicien De Réparation (h/f) - Vanves</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Maintenance Référent (h/f) - Paris</td><td>Paris 1</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation (h/f) - Vanves</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation (h/f) Monaco</td><td>Monaco</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation (h/f) - Idf Sud</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation Expert</td><td>Lyon</td><td>2026-08-07</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien Travaux Programmés (f/h)</td><td>Les Ancizes Comps</td><td>2026-08-07</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Dépannage Maintenance F/h</td><td>Les Ancizes Comps</td><td>2026-08-07</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance Services Généraux (f/h)</td><td>Les Ancizes Comps</td><td>2026-08-07</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance (f/h)</td><td>Les Ancizes Comps +1</td><td>2026-08-07</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Maintenance (h/f)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Cid Ascenseur</td><td>Technicien De Maintenance (h/f)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Maintenance (h/f)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Bordeaux</td><td>2026-08-07</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Conseiller(ère) Beauté Le Bon Marché - Cdi (h/f)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur 15h H/f - Sainte Geneviève Des Bois - Boardriders</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Nestlé</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Fanatics</td><td>Fanatics Paris Flagship Store - Sales Advisor Part-time</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Fanatics</td><td>Fanatics Paris Flagship Store - Sales Advisor Full-time</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Paris Capucines - Cdi Temps Partiel</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Pfh</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Paris Capucines - Cdi Temps Partiel</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Kiabi</td><td>_conseiller De Vente Week-end 13h (h/f/nb)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Conforama</td><td>Vendeur (h/f) - Cdd</td><td>Cahors</td><td>2026-08-07</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur Saisonnier 35 Heures H/f - Chamonix - Boardriders Men</td><td>Annecy</td><td>2026-08-07</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Coordinateur Evènements Junior F/h</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Tumi</td><td>Assistant(e) Commmunication</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Coordinateur Relations Presse Et Communication (f/h)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>AccorHotels</td><td>Coordinateur Relations Presse Et Communication (f/h)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Johnson & Johnson Innovative Medicine</td><td>Alternance - Assistant(e) Chef De Produit Hematologie (h/f)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Johnson & Johnson</td><td>Alternance - Assistant(e) Chef De Produit Hematologie (h/f)</td><td>Paris</td><td>2026-08-07</td></tr>
+<tr><td>Jdch</td><td>Alternance - Assistant(e) Chef De Produit Hematologie (h/f)</td><td>Paris</td><td>2026-08-07</td></tr>
 </table>
