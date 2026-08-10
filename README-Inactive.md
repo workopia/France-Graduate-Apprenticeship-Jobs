@@ -2158,4 +2158,36 @@
 <tr><td>Hermès International</td><td>Alternance - Assistant Business Analyst Achats Prêt-à-porter Homme (h/f)</td><td>Paris</td><td>2026-08-09</td></tr>
 <tr><td>C3 Presents</td><td>Stage - Assistant.e Chef.fe De Projet Événementiel</td><td>Paris</td><td>2026-08-09</td></tr>
 <tr><td>Livenation</td><td>Stage - Assistant.e Chef.fe De Projet Événementiel</td><td>Paris</td><td>2026-08-09</td></tr>
+<tr><td>Estée Lauder</td><td>Apprenticeship - Project Management Assistant</td><td>Paris</td><td>2026-08-10</td></tr>
+<tr><td>SAP Concur</td><td>Internship: Partner Solution Enablement Associate F/m</td><td>Paris</td><td>2026-08-10</td></tr>
+<tr><td>COTY Inc</td><td>Alternance - Ecommerce & Digital Trade Marketing H/f</td><td>Paris</td><td>2026-08-10</td></tr>
+<tr><td>Thales</td><td>Alternance – Is/it – F/h</td><td>Paris</td><td>2026-08-10</td></tr>
+<tr><td>Thales</td><td>Alternance - Chargé Marketing Opérationnel (f/h)</td><td>Paris</td><td>2026-08-10</td></tr>
+<tr><td>SGS UK</td><td>Alternance - Ingénieur Technique Packaging / Dispositifs (h/f)</td><td>Paris</td><td>2026-08-10</td></tr>
+<tr><td>Atos</td><td>Ingénieur Validation Software R&d Hpc (f/h)</td><td>Paris</td><td>2026-08-10</td></tr>
+<tr><td>Holcim</td><td>Mécanicien Maintenance Industrielle (h/f) - Bouc Bel Air</td><td>SEPTEMES LES VALLONS</td><td>2026-08-10</td></tr>
+<tr><td>Holcim</td><td>Mécanicien Engins - Périmètre Var</td><td>Signes</td><td>2026-08-10</td></tr>
+<tr><td>Atos</td><td>Technicien De Maintenance Électronique (h/f)</td><td>Paris</td><td>2026-08-10</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Technicien Sav Détection Incendie Rhône-alpes (h/f)</td><td>Lyon</td><td>2026-08-10</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Mécanicien Réparateur (f/h)</td><td>Gueugnon</td><td>2026-08-10</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Alternance - Technicien De Maintenance Bac +2/3 (h/f)</td><td>Aspach Le Haut</td><td>2026-08-10</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Technicien Maintenance Mécanique H/f</td><td>Gueugnon</td><td>2026-08-10</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Mécanicien Industriel (chantier)h/f</td><td>Marseille</td><td>2026-08-10</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Technicien Maintenance Industrielle/machines Outils H/f</td><td>Aix En Provence</td><td>2026-08-10</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Robinetier Nucléaire (mécanicien Grand Déplacement) (h/f)</td><td>Cattenom</td><td>2026-08-10</td></tr>
+<tr><td>Intermarche</td><td>Technicien(ne) De Maintenance H/f</td><td>Rennes</td><td>2026-08-10</td></tr>
+<tr><td>Verisure S.A.</td><td>Technicien De Maintenance Tarare - F/h/x</td><td>Lyon</td><td>2026-08-10</td></tr>
+<tr><td>Atos SE</td><td>Technicien De Maintenance Électronique (h/f)</td><td>Paris</td><td>2026-08-10</td></tr>
+<tr><td>RATP</td><td>Electricien / Electromécanicien Mainteneur En Signalisation Ferroviaire (h/f) (infras/ct)</td><td>Batiment Bourdon</td><td>2026-08-10</td></tr>
+<tr><td>asud-ascenseur.fr</td><td>Technicien De Maintenance Portes (h/f)</td><td>Lyon</td><td>2026-08-10</td></tr>
+<tr><td>Daikin France</td><td>Assistant(e) Technicien Sav En Alternance F/h (lille)</td><td>Lille</td><td>2026-08-10</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Préventive Sur Parcs Éoliens,germinon, Marne (51), H/f</td><td>Germinon</td><td>2026-08-10</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Sur Parcs Éoliens (h/f), Champniers (16), Charente</td><td>Champniers</td><td>2026-08-10</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Sur Parcs Éoliens (h/f), Saint-geoges-sur-arnon (36)</td><td>Saint-Geoges-Sur-Arnon</td><td>2026-08-10</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Bordeaux</td><td>2026-08-10</td></tr>
+<tr><td>ENACO</td><td>Alternance - Vendeur Animalier En Apprentissage H/f</td><td>Paris</td><td>2026-08-10</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Paris</td><td>2026-08-10</td></tr>
+<tr><td>Kiabi</td><td>_conseiller De Vente Cdd Nice (h/f/nb)</td><td>Nice</td><td>2026-08-10</td></tr>
+<tr><td>The North Face</td><td>Sales Associate - Vendeur (h/f) - Cdd 35h - The North Face - Lyon</td><td>Lyon</td><td>2026-08-10</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Employé(e) Administratif - F/h</td><td>Sainte-Pazanne</td><td>2026-08-10</td></tr>
 </table>

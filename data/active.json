@@ -1,13 +1,7 @@
 {
- "asOf": "2026-08-09",
- "count": 831,
+ "asOf": "2026-08-10",
+ "count": 830,
  "jobs": {
-  "26876": {
-   "id": "26876",
-   "company": "Estée Lauder",
-   "role": "Apprenticeship - Project Management Assistant",
-   "location": "Paris"
-  },
   "79196": {
    "id": "79196",
    "company": "Firmenich",
@@ -74,11 +68,35 @@
    "role": "Technicien.ne Sav",
    "location": "Lyon"
   },
+  "2704332": {
+   "id": "2704332",
+   "company": "GroupE MONDIAL TISSUS - GMT SaS",
+   "role": "Vendeur.euse Sallanches",
+   "location": "Annecy"
+  },
   "3166616": {
    "id": "3166616",
    "company": "HP",
    "role": "Apprenti-e Responsable E-commerce B2b Junior H/f",
    "location": "Paris"
+  },
+  "e6f4302c6634c477f679b1e5a6648fb9": {
+   "id": "e6f4302c6634c477f679b1e5a6648fb9",
+   "company": "SNOP",
+   "role": "Stagiaire Master Data Achats (h/f)",
+   "location": "Paris"
+  },
+  "e9f85e0ba2a2fbc28c1f60b21d03810f": {
+   "id": "e9f85e0ba2a2fbc28c1f60b21d03810f",
+   "company": "Sonepar Group",
+   "role": "Stage- Fiscalite H/f - Lyon 7e",
+   "location": "Lyon"
+  },
+  "17f0f3dbaa61113c8e01b312c2edc467": {
+   "id": "17f0f3dbaa61113c8e01b312c2edc467",
+   "company": "Coloplast AS",
+   "role": "Stagiaire Ingénieur Supply Chain (24) - H/f",
+   "location": "Sarlat La Caneda"
   },
   "9727227032639db21a9daedfb68f7967": {
    "id": "9727227032639db21a9daedfb68f7967",
@@ -101,6 +119,12 @@
   "3a30d360af5207af7727ebd7e3b391c7": {
    "id": "3a30d360af5207af7727ebd7e3b391c7",
    "company": "Pharmajobber",
+   "role": "Alternant Ehs - Compliance Ehs H/f",
+   "location": "Saint"
+  },
+  "83f4dc55d4f17f89d0a7104f8c3bcf8d": {
+   "id": "83f4dc55d4f17f89d0a7104f8c3bcf8d",
+   "company": "GSK plc",
    "role": "Alternant Ehs - Compliance Ehs H/f",
    "location": "Saint"
   },
@@ -536,28 +560,22 @@
    "role": "Alternance Audioprothésiste Paris 1er H/f",
    "location": "Cahors"
   },
-  "a6da945e818f0b3ca93320acd5a4f7f2": {
-   "id": "a6da945e818f0b3ca93320acd5a4f7f2",
-   "company": "SAP Concur",
-   "role": "Internship: Partner Solution Enablement Associate F/m",
+  "a7ec6fc34626dba362e99449bbd6c927": {
+   "id": "a7ec6fc34626dba362e99449bbd6c927",
+   "company": "Recordati Industria Chimica e Farmaceutica S.p.A",
+   "role": "Apprentice Regulatory affairs",
    "location": "Paris"
   },
-  "56bf400900346489984d94afb941a829": {
-   "id": "56bf400900346489984d94afb941a829",
-   "company": "COTY Inc",
-   "role": "Alternance - Ecommerce & Digital Trade Marketing H/f",
-   "location": "Paris"
+  "26140b7c4e4ae75eb08aa3d18ed68e8b": {
+   "id": "26140b7c4e4ae75eb08aa3d18ed68e8b",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Apprenti(e) - Ingénieur(e) Conception Logiciel Embarqué F/h",
+   "location": "Toulouse"
   },
-  "76806b4a8c918f865cb3fb519d7d08de": {
-   "id": "76806b4a8c918f865cb3fb519d7d08de",
-   "company": "Thales",
-   "role": "Alternance – Is/it – F/h",
-   "location": "Paris"
-  },
-  "6b62b07410c0d87ba793e2f6861a0221": {
-   "id": "6b62b07410c0d87ba793e2f6861a0221",
-   "company": "Thales",
-   "role": "Alternance - Chargé Marketing Opérationnel (f/h)",
+  "75e945b751cfbec179d9bf3423fcf55a": {
+   "id": "75e945b751cfbec179d9bf3423fcf55a",
+   "company": "Coloplast AS",
+   "role": "Apprenti(e) Junior Product Manager (92) - H/f",
    "location": "Paris"
   },
   "50e376960f97d3d73395fe3a126e71b0": {
@@ -764,12 +782,6 @@
    "role": "Apprenti-e Responsable E-commerce B2b Junior H/f",
    "location": "Paris"
   },
-  "a7ec6fc34626dba362e99449bbd6c927": {
-   "id": "a7ec6fc34626dba362e99449bbd6c927",
-   "company": "Recordati Industria Chimica e Farmaceutica S.p.A",
-   "role": "Apprentice Regulatory affairs",
-   "location": "Paris"
-  },
   "e30359aa829a8c4608b6813bd3f81d99": {
    "id": "e30359aa829a8c4608b6813bd3f81d99",
    "company": "Astemo",
@@ -835,12 +847,6 @@
    "company": "ENACO",
    "role": "Alternance - Assistant.e Administratif.ve En Apprentissage H/f",
    "location": "Paris"
-  },
-  "26140b7c4e4ae75eb08aa3d18ed68e8b": {
-   "id": "26140b7c4e4ae75eb08aa3d18ed68e8b",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Apprenti(e) - Ingénieur(e) Conception Logiciel Embarqué F/h",
-   "location": "Toulouse"
   },
   "c178778c65311885a644aaadf476a9d4": {
    "id": "c178778c65311885a644aaadf476a9d4",
@@ -1568,12 +1574,6 @@
    "role": "Stage 6 Mois - Ingénieur Application En Electrophysiologie- Issy-les-moulineaux ( H/f)",
    "location": "Paris"
   },
-  "76a6031f74e4f5583bc6d15fa4c3c146": {
-   "id": "76a6031f74e4f5583bc6d15fa4c3c146",
-   "company": "SGS UK",
-   "role": "Alternance - Ingénieur Technique Packaging / Dispositifs (h/f)",
-   "location": "Paris"
-  },
   "ded0fe964405e3fdb220a744383f8b8d": {
    "id": "ded0fe964405e3fdb220a744383f8b8d",
    "company": "Hitachi Vantara",
@@ -1638,6 +1638,12 @@
    "id": "2c3b6e831993f3e08ea5f9e7d3423861",
    "company": "ADP",
    "role": "Alternance support de proximite IT (H/F)",
+   "location": "Paris"
+  },
+  "fba81a393adac19088eab4f1866b6f8d": {
+   "id": "fba81a393adac19088eab4f1866b6f8d",
+   "company": "Atos",
+   "role": "Ingénieur Validation Software R&d Hpc (f/h)",
    "location": "Paris"
   },
   "62a7f96172ce4510f3f99564da091ca1": {
@@ -1741,12 +1747,6 @@
    "company": "Jobgether",
    "role": "Game Developer - Voxel-based Engine (java)",
    "location": "France"
-  },
-  "a038ba11c212b583d030b84e8ecb20c0": {
-   "id": "a038ba11c212b583d030b84e8ecb20c0",
-   "company": "Atos",
-   "role": "Ingénieur Validation Software R&d Hpc (f/h)",
-   "location": "Paris"
   },
   "4ae338c198bdcee85f3205873e11e65e": {
    "id": "4ae338c198bdcee85f3205873e11e65e",
@@ -3086,6 +3086,12 @@
    "role": "Alternance 12 Mois - Gestionnaire De La Conformité",
    "location": "Paris"
   },
+  "a169050231dcddc50e5642de42c7206b": {
+   "id": "a169050231dcddc50e5642de42c7206b",
+   "company": "SNOP",
+   "role": "Comptable Fournisseurs (h-f)",
+   "location": "Paris"
+  },
   "2c187736338ae3d5192a7b58ed8ec6b9": {
    "id": "2c187736338ae3d5192a7b58ed8ec6b9",
    "company": "PwC",
@@ -3270,12 +3276,6 @@
    "id": "4d244b4a136e97174c97be8c5a413c38",
    "company": "Rothschild & Co UK",
    "role": "Business Analyst (h/f) – Cdd",
-   "location": "Paris"
-  },
-  "a169050231dcddc50e5642de42c7206b": {
-   "id": "a169050231dcddc50e5642de42c7206b",
-   "company": "SNOP",
-   "role": "Comptable Fournisseurs (h-f)",
    "location": "Paris"
   },
   "38ba7268ffc8d49e424f51c7ba152ae4": {
@@ -3578,6 +3578,108 @@
    "role": "Clinical Research Associate - Iqvia Biotech (homebased In Paris)",
    "location": "Paris"
   },
+  "2b1d9dfa36bf25192de7ef23c9572e88": {
+   "id": "2b1d9dfa36bf25192de7ef23c9572e88",
+   "company": "Alfred Kaercher SE Co KG",
+   "role": "Technicien De Maintenance Point Service Toulouse",
+   "location": "Toulouse"
+  },
+  "6d023b9667fc3355a025b3fd75d8003c": {
+   "id": "6d023b9667fc3355a025b3fd75d8003c",
+   "company": "Corning",
+   "role": "Technicien Maintenance (f/h)",
+   "location": "Borre"
+  },
+  "068591dd72df9e9c2c994f9378694add": {
+   "id": "068591dd72df9e9c2c994f9378694add",
+   "company": "Aubert & Duval",
+   "role": "Technicien De Maintenance - F/h",
+   "location": "Toulouse"
+  },
+  "ff9da97ab0c4057aa7f76beecd612ee6": {
+   "id": "ff9da97ab0c4057aa7f76beecd612ee6",
+   "company": "Aubert & Duval",
+   "role": "Technicien Utilités F/h",
+   "location": "Toulouse"
+  },
+  "050a689f6adc3778b1b0b6deb79e6cf8": {
+   "id": "050a689f6adc3778b1b0b6deb79e6cf8",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Technicien Service Atelier (h/f), Engins Tp - Cdi - Taverny",
+   "location": "Paris"
+  },
+  "1859eb6a0841444034df7282e46327ef": {
+   "id": "1859eb6a0841444034df7282e46327ef",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Technicien Service D'atelier Grues Mobiles (h/f) - Cdd 12 Mois - Niederhergheim",
+   "location": "Niederhergheim"
+  },
+  "9294f43e2a9ef59ded9d50ce0f062040": {
+   "id": "9294f43e2a9ef59ded9d50ce0f062040",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Technicien Apres-vente (h/f)",
+   "location": "Paris"
+  },
+  "0b12f391e1d3aa8da1275b387d7f2aba": {
+   "id": "0b12f391e1d3aa8da1275b387d7f2aba",
+   "company": "Umicore",
+   "role": "Technicien De Maintenance Mécanique (h/f)",
+   "location": "Grenoble"
+  },
+  "66ec3f1549cff2d54b80104c669f5085": {
+   "id": "66ec3f1549cff2d54b80104c669f5085",
+   "company": "Holcim",
+   "role": "Technicien De Maintenance H/f - Cdd - Var",
+   "location": "Var"
+  },
+  "3610284bed6b049b30ebb454b043f8fb": {
+   "id": "3610284bed6b049b30ebb454b043f8fb",
+   "company": "Holcim",
+   "role": "Mécanicien Engins Multisites H/f - Callas (83)",
+   "location": "Callas"
+  },
+  "9f45a3770204e3bc7c414d5c273d0fb9": {
+   "id": "9f45a3770204e3bc7c414d5c273d0fb9",
+   "company": "Holcim",
+   "role": "Technicien De Maintenance H/f - Cdi - Villenave D'ornon (33)",
+   "location": "Bordeaux"
+  },
+  "4aa7d6d2f6a393bed371041d3406bc5c": {
+   "id": "4aa7d6d2f6a393bed371041d3406bc5c",
+   "company": "Holcim",
+   "role": "Technicien De Maintenance En Alternance - Toulouse Larrieu",
+   "location": "Toulouse"
+  },
+  "3880d6cd96036de8c72bbebef2c24792": {
+   "id": "3880d6cd96036de8c72bbebef2c24792",
+   "company": "Holcim",
+   "role": "Technicien De Maintenance (h/f) - Rennes",
+   "location": "Rennes"
+  },
+  "e540e9eba156607f50540b2cf3577bb1": {
+   "id": "e540e9eba156607f50540b2cf3577bb1",
+   "company": "Holcim",
+   "role": "Mécanicien Maintenance Industrielle (h/f) - Bouc Bel Air",
+   "location": "Aix En Provence"
+  },
+  "135d745836e02ddc03b2d7fd5aec6e61": {
+   "id": "135d745836e02ddc03b2d7fd5aec6e61",
+   "company": "Holcim",
+   "role": "Mécanicien Engins - Périmètre Var",
+   "location": "Var"
+  },
+  "4d7351eecdbfbab49ecdcd0aefae4e06": {
+   "id": "4d7351eecdbfbab49ecdcd0aefae4e06",
+   "company": "Sonepar Climate",
+   "role": "Technicien Sav H/f - Sonepar Climate Marseille (13)",
+   "location": "Marseille"
+  },
+  "f1c49d145fc8434d4a7bd80f6f9ee717": {
+   "id": "f1c49d145fc8434d4a7bd80f6f9ee717",
+   "company": "Atos",
+   "role": "Technicien De Maintenance Électronique (h/f)",
+   "location": "Paris"
+  },
   "a00bd8c4076f64e4dd15af9f6283e111": {
    "id": "a00bd8c4076f64e4dd15af9f6283e111",
    "company": "Alstom",
@@ -3587,6 +3689,12 @@
   "b7cc90f90962a1123bbe56322355e65b": {
    "id": "b7cc90f90962a1123bbe56322355e65b",
    "company": "Menselsa",
+   "role": "Technicien De Maintenance & Automatismes (h,f,x) - La Haye-fouassière",
+   "location": "La Haye Fouassiere"
+  },
+  "67e1cd4e827b776e716d60cd778deec2": {
+   "id": "67e1cd4e827b776e716d60cd778deec2",
+   "company": "Mondelēz International",
    "role": "Technicien De Maintenance & Automatismes (h,f,x) - La Haye-fouassière",
    "location": "La Haye Fouassiere"
   },
@@ -3611,6 +3719,12 @@
   "c1757f57db9efea24710e239af336fbf": {
    "id": "c1757f57db9efea24710e239af336fbf",
    "company": "Eiffage Énergie Systèmes",
+   "role": "Technicien Maintenance Ssi/cfo/cfa",
+   "location": "Rodez"
+  },
+  "168812f5daed9f0d1aa9882b0bb2426e": {
+   "id": "168812f5daed9f0d1aa9882b0bb2426e",
+   "company": "Eiffageconstruction",
    "role": "Technicien Maintenance Ssi/cfo/cfa",
    "location": "Rodez"
   },
@@ -3643,18 +3757,6 @@
    "company": "Alfa Laval",
    "role": "Technicien.ne De Maintenance F/h En Interim",
    "location": "Nevers"
-  },
-  "bb32e8b905fc7dd2ce2470ee2df2b39c": {
-   "id": "bb32e8b905fc7dd2ce2470ee2df2b39c",
-   "company": "Holcim",
-   "role": "Mécanicien Maintenance Industrielle (h/f) - Bouc Bel Air",
-   "location": "SEPTEMES LES VALLONS"
-  },
-  "b70bc03aa3aa0dfd087376092dd7eb92": {
-   "id": "b70bc03aa3aa0dfd087376092dd7eb92",
-   "company": "Holcim",
-   "role": "Mécanicien Engins - Périmètre Var",
-   "location": "Signes"
   },
   "7e216deeb5a139ee8a47b5691e742803": {
    "id": "7e216deeb5a139ee8a47b5691e742803",
@@ -3691,12 +3793,6 @@
    "company": "Xylem Inc",
    "role": "Technicien De Maintenance (h/f)",
    "location": "Noyal Sur Vilaine"
-  },
-  "9ca18df1dbe2671b1b7d055de72c7537": {
-   "id": "9ca18df1dbe2671b1b7d055de72c7537",
-   "company": "Atos",
-   "role": "Technicien De Maintenance Électronique (h/f)",
-   "location": "Paris"
   },
   "31927ee81dc6b59f710f81decbc1a7bf": {
    "id": "31927ee81dc6b59f710f81decbc1a7bf",
@@ -3950,101 +4046,29 @@
    "role": "Technicien De Montage (h/f)",
    "location": "Paris"
   },
-  "b5542f2b7802d8ef25eece837f6df4e3": {
-   "id": "b5542f2b7802d8ef25eece837f6df4e3",
-   "company": "Johnson Controls Inc",
-   "role": "Technicien Sav Détection Incendie Rhône-alpes (h/f)",
-   "location": "Lyon"
+  "4b0468b2be0445bac81e9bf17b0ff574": {
+   "id": "4b0468b2be0445bac81e9bf17b0ff574",
+   "company": "SWAROVSKI",
+   "role": "Cdd - Conseiller De Vente (h/f/x) 28h - Galeries Lafayette Nice",
+   "location": "Nice"
   },
-  "b9731d13eb282ef64219cabbb49b279d": {
-   "id": "b9731d13eb282ef64219cabbb49b279d",
-   "company": "Cockerill Maintenance & Ingenierie",
-   "role": "Mécanicien Réparateur (f/h)",
-   "location": "Gueugnon"
-  },
-  "c908293bd21ad04275a9325e4e1a50b3": {
-   "id": "c908293bd21ad04275a9325e4e1a50b3",
-   "company": "Cockerill Maintenance & Ingenierie",
-   "role": "Alternance - Technicien De Maintenance Bac +2/3 (h/f)",
-   "location": "Aspach Le Haut"
-  },
-  "f7f233b39df60275d0666e1fa4ef6b37": {
-   "id": "f7f233b39df60275d0666e1fa4ef6b37",
-   "company": "Cockerill Maintenance & Ingenierie",
-   "role": "Technicien Maintenance Mécanique H/f",
-   "location": "Gueugnon"
-  },
-  "7df02fff6c15094f2d3c3c05982d07a1": {
-   "id": "7df02fff6c15094f2d3c3c05982d07a1",
-   "company": "Cockerill Maintenance & Ingenierie",
-   "role": "Mécanicien Industriel (chantier)h/f",
-   "location": "Marseille"
-  },
-  "aad8f9d953185f448bcc69216dad7643": {
-   "id": "aad8f9d953185f448bcc69216dad7643",
-   "company": "Cockerill Maintenance & Ingenierie",
-   "role": "Technicien Maintenance Industrielle/machines Outils H/f",
-   "location": "Aix En Provence"
-  },
-  "b7332dc88a348f7328b5ce65af8f5a6a": {
-   "id": "b7332dc88a348f7328b5ce65af8f5a6a",
-   "company": "Cockerill Maintenance & Ingenierie",
-   "role": "Robinetier Nucléaire (mécanicien Grand Déplacement) (h/f)",
-   "location": "Cattenom"
-  },
-  "1888d6c6d7f5db588009e83a4e27ca0c": {
-   "id": "1888d6c6d7f5db588009e83a4e27ca0c",
-   "company": "Intermarche",
-   "role": "Technicien(ne) De Maintenance H/f",
-   "location": "Rennes"
-  },
-  "a3a030689e84fc34586a0db47028fc61": {
-   "id": "a3a030689e84fc34586a0db47028fc61",
-   "company": "Verisure S.A.",
-   "role": "Technicien De Maintenance Tarare - F/h/x",
-   "location": "Lyon"
-  },
-  "f77145f0fd591f2d54b44d1a03177622": {
-   "id": "f77145f0fd591f2d54b44d1a03177622",
-   "company": "Atos SE",
-   "role": "Technicien De Maintenance Électronique (h/f)",
+  "b34fb5be5f4e06de67ed08621afa9550": {
+   "id": "b34fb5be5f4e06de67ed08621afa9550",
+   "company": "Mango",
+   "role": "Vendeur/euse Polyvalent/e // Stage",
    "location": "Paris"
   },
-  "f6956deec1805bf6cd88264fc503b910": {
-   "id": "f6956deec1805bf6cd88264fc503b910",
-   "company": "RATP",
-   "role": "Electricien / Electromécanicien Mainteneur En Signalisation Ferroviaire (h/f) (infras/ct)",
-   "location": "Batiment Bourdon"
+  "1e8c6d30fe6c335e913b66b54b8a574d": {
+   "id": "1e8c6d30fe6c335e913b66b54b8a574d",
+   "company": "Mango",
+   "role": "Multifunctional Sales Associate",
+   "location": "ÉPagny"
   },
-  "59cfab49e0da39da201955c6e5fcdb3d": {
-   "id": "59cfab49e0da39da201955c6e5fcdb3d",
-   "company": "asud-ascenseur.fr",
-   "role": "Technicien De Maintenance Portes (h/f)",
-   "location": "Lyon"
-  },
-  "200a881ed32b7ba2a657583660ebb7ea": {
-   "id": "200a881ed32b7ba2a657583660ebb7ea",
-   "company": "Daikin France",
-   "role": "Assistant(e) Technicien Sav En Alternance F/h (lille)",
-   "location": "Lille"
-  },
-  "5dbfa2e8e96d4b8820ff5a6f2c706a64": {
-   "id": "5dbfa2e8e96d4b8820ff5a6f2c706a64",
-   "company": "Nordex SE",
-   "role": "Technicien De Maintenance Préventive Sur Parcs Éoliens,germinon, Marne (51), H/f",
-   "location": "Germinon"
-  },
-  "b6c5c7fcd6ef1e32133fbf1d7b255ce0": {
-   "id": "b6c5c7fcd6ef1e32133fbf1d7b255ce0",
-   "company": "Nordex SE",
-   "role": "Technicien De Maintenance Sur Parcs Éoliens (h/f), Champniers (16), Charente",
-   "location": "Champniers"
-  },
-  "3335a6268e358828d69569a9831dfbc4": {
-   "id": "3335a6268e358828d69569a9831dfbc4",
-   "company": "Nordex SE",
-   "role": "Technicien De Maintenance Sur Parcs Éoliens (h/f), Saint-geoges-sur-arnon (36)",
-   "location": "Saint-Geoges-Sur-Arnon"
+  "35ec374b3c3b96980ee83d89eafc060b": {
+   "id": "35ec374b3c3b96980ee83d89eafc060b",
+   "company": "Boulanger",
+   "role": "Vendeur Conseil Temps Partiel Cdd/cdi",
+   "location": "Nice"
   },
   "486e7990bb6d559dc77239df873be540": {
    "id": "486e7990bb6d559dc77239df873be540",
@@ -4243,12 +4267,6 @@
    "company": "Mango",
    "role": "Vendeur/euse Polyvalent/e // Cdi 30h",
    "location": "Paris"
-  },
-  "4347630eab7cf509308b82bbb7629893": {
-   "id": "4347630eab7cf509308b82bbb7629893",
-   "company": "Mango",
-   "role": "Multifunctional Sales Associate",
-   "location": "Bordeaux"
   },
   "4df37ab7a4be9b293c09456fb587212c": {
    "id": "4df37ab7a4be9b293c09456fb587212c",
@@ -4490,35 +4508,23 @@
    "role": "Vendeur.se Levallois - 35h/sem - Cdi",
    "location": "Paris"
   },
-  "701f92e0dda950ce5310fd9bc361efbe": {
-   "id": "701f92e0dda950ce5310fd9bc361efbe",
-   "company": "ENACO",
-   "role": "Alternance - Vendeur Animalier En Apprentissage H/f",
-   "location": "Paris"
-  },
-  "ded6abff5c72ed79f0ed9854d82b3462": {
-   "id": "ded6abff5c72ed79f0ed9854d82b3462",
-   "company": "Boulanger",
-   "role": "Vendeur Conseil - Cdd H/f",
-   "location": "Paris"
-  },
-  "4e267f8171937c28b52ba077e765ddba": {
-   "id": "4e267f8171937c28b52ba077e765ddba",
-   "company": "Kiabi",
-   "role": "_conseiller De Vente Cdd Nice (h/f/nb)",
-   "location": "Nice"
-  },
-  "86904a676e11826ad59dcdd97743cd63": {
-   "id": "86904a676e11826ad59dcdd97743cd63",
-   "company": "The North Face",
-   "role": "Sales Associate - Vendeur (h/f) - Cdd 35h - The North Face - Lyon",
-   "location": "Lyon"
-  },
   "62514e6d606f9b3821ad4545ecc977b9": {
    "id": "62514e6d606f9b3821ad4545ecc977b9",
    "company": "Suez Group",
    "role": "Assistant(e) D'agence - Relais Rh (f/h)",
    "location": "Nice"
+  },
+  "333e566b26c4a9c8d71c50fb92c787e9": {
+   "id": "333e566b26c4a9c8d71c50fb92c787e9",
+   "company": "Holcim",
+   "role": "Coordinateur Exploitation Et Logistique H/f",
+   "location": "Longeault"
+  },
+  "270b7ea82832cc9cb64a206233c957a1": {
+   "id": "270b7ea82832cc9cb64a206233c957a1",
+   "company": "Sonepar Group",
+   "role": "Assistant Marketing Digital Business",
+   "location": "Paris"
   },
   "2f37c67f67de4e4ae1265da93ad626ce": {
    "id": "2f37c67f67de4e4ae1265da93ad626ce",
@@ -4928,12 +4934,6 @@
    "role": "Alternance - Assistant Commercial/administratif (h/f) - Rennes",
    "location": "Rennes"
   },
-  "333e566b26c4a9c8d71c50fb92c787e9": {
-   "id": "333e566b26c4a9c8d71c50fb92c787e9",
-   "company": "Holcim",
-   "role": "Coordinateur Exploitation Et Logistique H/f",
-   "location": "Longeault"
-  },
   "8e08f142cd492a0fbfeefa47ef11e47e": {
    "id": "8e08f142cd492a0fbfeefa47ef11e47e",
    "company": "URW",
@@ -4981,12 +4981,6 @@
    "company": "Thales Group",
    "role": "Ingénieur Logistique Projets - F/h",
    "location": "Paris"
-  },
-  "4209e94b903be13f7d137490f36cc80f": {
-   "id": "4209e94b903be13f7d137490f36cc80f",
-   "company": "Eurofeu - SAcuritA Incendie",
-   "role": "Employé(e) Administratif - F/h",
-   "location": "Sainte-Pazanne"
   }
  }
 }
