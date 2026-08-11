@@ -2190,4 +2190,61 @@
 <tr><td>Kiabi</td><td>_conseiller De Vente Cdd Nice (h/f/nb)</td><td>Nice</td><td>2026-08-10</td></tr>
 <tr><td>The North Face</td><td>Sales Associate - Vendeur (h/f) - Cdd 35h - The North Face - Lyon</td><td>Lyon</td><td>2026-08-10</td></tr>
 <tr><td>Eurofeu - SAcuritA Incendie</td><td>Employé(e) Administratif - F/h</td><td>Sainte-Pazanne</td><td>2026-08-10</td></tr>
+<tr><td>Firmenich</td><td>Technicien De Maintenance Instrumentiste (h/f)</td><td>Village</td><td>2026-08-11</td></tr>
+<tr><td>AptarGroup</td><td>Stagiaire Industrialisation Produit H/f</td><td>Granville</td><td>2026-08-11</td></tr>
+<tr><td>AptarGroup</td><td>Alternant Technicien Développement Produits</td><td>Le Neubourg</td><td>2026-08-11</td></tr>
+<tr><td>AptarGroup</td><td>Alternant Métrologie H/f</td><td>Granville</td><td>2026-08-11</td></tr>
+<tr><td>AptarGroup</td><td>Alternant(e) - Digital Marketing H/f</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>AptarGroup</td><td>Stagiaire Méthodes H/f</td><td>BréCey</td><td>2026-08-11</td></tr>
+<tr><td>Thales</td><td>Alternance - Marketing Digital - F/h</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>Coloplast</td><td>Stagiaire Ingénieur Supply Chain (24) - H/f</td><td>Sarlat La Caneda</td><td>2026-08-11</td></tr>
+<tr><td>Sonova Group</td><td>Alternance Audioprothésiste Paris 20e H/f</td><td>Cahors</td><td>2026-08-11</td></tr>
+<tr><td>Sonova Group</td><td>Alternance Audioprothésiste Paris 1er H/f</td><td>Cahors</td><td>2026-08-11</td></tr>
+<tr><td>Cytiva</td><td>Apprenti(e) Rh Généraliste</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>SKF Sverige AB</td><td>Apprenti(e) Master Architecture Applicative Et Logicielle (f/h)</td><td>Marseille</td><td>2026-08-11</td></tr>
+<tr><td>SKF Group</td><td>Apprenti(e) Master Architecture Applicative Et Logicielle (f/h)</td><td>Marseille</td><td>2026-08-11</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Stage - Ingénieur Support Données Nouvelles Usines (f/h)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>jobs.abbott</td><td>Stage 6 Mois - Ingénieur Application En Electrophysiologie- Issy-les-moulineaux ( H/f)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>ATEME</td><td>Ingénieur(e) Fullstack (python, React, Apis, Integration Si, Ia)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>Valeo SA</td><td>Alternance Ai Research Engineer – Multiphysics E-machine Simulation H/f</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>Boston Consulting Group</td><td>Forward Deployed Ai Scientist, France - Bcg X</td><td>France</td><td>2026-08-11</td></tr>
+<tr><td>Boston Consulting Group</td><td>Internship - Finance Assistant (juillet 2026)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>Aggreko</td><td>Comptable / Accountant Ap ( Accounts Payable) - Essonne</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Sap Sales Business Analyst - Coe For Erp Spares & Services M/f</td><td>Toulouse</td><td>2026-08-11</td></tr>
+<tr><td>clayens</td><td>Technicien Maintenance F/h</td><td>Belmont Tramonet</td><td>2026-08-11</td></tr>
+<tr><td>clayens</td><td>Technicien De Maintenance</td><td>Izernore</td><td>2026-08-11</td></tr>
+<tr><td>AccorHotels</td><td>Fr - Agent/technicien De Maintenance (h/f/x)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien Opération Maintenance</td><td>Crespin</td><td>2026-08-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Opérateur Maintenance Métro (h/f)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Opérateur Maintenance Train (h/f)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Chargé De Maintenance Moyens Industriels (h/f)</td><td>La Rochelle</td><td>2026-08-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h)</td><td>Saint</td><td>2026-08-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Agent De Maintenance</td><td>Saint Denis Les Sens</td><td>2026-08-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien.ne Maintenance Et Essais Ferroviaires</td><td>Duppigheim</td><td>2026-08-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h) 1 1</td><td>Crespin</td><td>2026-08-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h) 1</td><td>Saint</td><td>2026-08-11</td></tr>
+<tr><td>cfa-ascenseur.fr</td><td>Technicien De Maintenance (h/f)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>RTX Corporation</td><td>Technicien(ne) De Maintenance Electronique</td><td>Toulouse</td><td>2026-08-11</td></tr>
+<tr><td>Collins Aerospace</td><td>Technicien(ne) De Maintenance Electronique</td><td>Toulouse</td><td>2026-08-11</td></tr>
+<tr><td>Raytheon Australia</td><td>Technicien(ne) De Maintenance Electronique</td><td>Toulouse</td><td>2026-08-11</td></tr>
+<tr><td>Dematic Inc</td><td>Maintenance Technician</td><td>Castelnau D'Estrefonds</td><td>2026-08-11</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Apprenti Technicien</td><td>Vertus</td><td>2026-08-11</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Maintenance Technician</td><td>Castelnau D'Estrefonds</td><td>2026-08-11</td></tr>
+<tr><td>Vandemoortele NV</td><td>Maintenance Technician</td><td>Neuville Sur Sarthe</td><td>2026-08-11</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Maintenance (h/f)</td><td>Bordeaux</td><td>2026-08-11</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance (h/f)</td><td>Bordeaux</td><td>2026-08-11</td></tr>
+<tr><td>Cid Ascenseur</td><td>Technicien De Maintenance (h/f)</td><td>Mantes La Jolie</td><td>2026-08-11</td></tr>
+<tr><td>Otisjob</td><td>Régleur (h/f)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>Otis</td><td>Régleur (h/f)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>Otisjob</td><td>Technicien De Montage (h/f)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>Otis</td><td>Technicien De Montage (h/f)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>UNDIZ</td><td>Vendeur.se Levallois - 35h/sem - Cdi</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>Daikin Europe NV</td><td>Assistant(e) Planification F/h (lyon) 1</td><td>Lyon</td><td>2026-08-11</td></tr>
+<tr><td>Daikin Europe NV</td><td>Assistant(e) Juriste En Alternance F/h</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>Amgen Australia Pty Ltd</td><td>Alternance - Assistant(e) Chef(fe) De Produit Biosimilaires H/f</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>SAUVEGARDE ISERE ASSOC PROTECTION ENFANCE ET ACCOMP DES ADULTES</td><td>Agent Administratif / Secrétaire H/f</td><td>Tencin</td><td>2026-08-11</td></tr>
+<tr><td>Eiffagerail</td><td>Coordinateur Études Technique - Génie Civil - Cdi F/h</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>THALES</td><td>Ingénieur Logistique Projets - F/h</td><td>Paris</td><td>2026-08-11</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Logistique Projets - F/h</td><td>Paris</td><td>2026-08-11</td></tr>
 </table>
