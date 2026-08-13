@@ -2360,4 +2360,25 @@
 <tr><td>URW</td><td>Executive Assistant (f/m) - Permanent Contract</td><td>Paris</td><td>2026-08-12</td></tr>
 <tr><td>unibail-rodamco-westfield.de</td><td>Executive Assistant (f/m) - Permanent Contract</td><td>Paris</td><td>2026-08-12</td></tr>
 <tr><td>Amgen UK</td><td>Alternance - Assistant(e) Chef(fe) De Produit Biosimilaires H/f</td><td>Paris</td><td>2026-08-12</td></tr>
+<tr><td>GroupE MONDIAL TISSUS - GMT SaS</td><td>Technicien.ne Sav</td><td>Lyon</td><td>2026-08-13</td></tr>
+<tr><td>Arkema France</td><td>Alternance : Chargé(e) Digital Marketing H/f</td><td>ÎLe-De-France</td><td>2026-08-13</td></tr>
+<tr><td>Fromageries Bel</td><td>Alternance - Chargé(e) De Mission Innovation Et Impact (h/f) - Septembre 2026</td><td>Paris</td><td>2026-08-13</td></tr>
+<tr><td>Fromageries Bel</td><td>Alternant Chargé Qualité F/h</td><td>Sainte MèRe Eglise</td><td>2026-08-13</td></tr>
+<tr><td>RATP</td><td>Alternance Gouvernance Des Si Pour La Bu Ratp Infrastructures</td><td>Paris</td><td>2026-08-13</td></tr>
+<tr><td>Nestle SA</td><td>Vendeur - Stage (h/f)</td><td>Paris</td><td>2026-08-13</td></tr>
+<tr><td>IPSEN</td><td>Stagiaire Relations Investisseur Et Fusions Acquisitions H/f - 6 Mois / Investor Relations And M&a Intern - 6 Months</td><td>Paris</td><td>2026-08-13</td></tr>
+<tr><td>Keolis</td><td>Technicien.ne Matériels Roulants</td><td>Rivery</td><td>2026-08-13</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Industrielle Bus F/h</td><td>Le Mesnil-Amelot</td><td>2026-08-13</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien Maintenance Ssi/cfo/cfa</td><td>Rodez</td><td>2026-08-13</td></tr>
+<tr><td>Heidelberg Materials Australia Pty Ltd</td><td>Worker Maintenance</td><td>Bussac-ForêT</td><td>2026-08-13</td></tr>
+<tr><td>Heidelberg Materials US, Inc</td><td>Worker Maintenance</td><td>Bussac-ForêT</td><td>2026-08-13</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien De Mise En Service Ssi F/h</td><td>Paris</td><td>2026-08-13</td></tr>
+<tr><td>SANTE CIE</td><td>Technicien(ne) De Maintenance</td><td>Veurey-Voroize</td><td>2026-08-13</td></tr>
+<tr><td>Alfa Laval</td><td>Technicien.ne De Maintenance F/h En Interim</td><td>Nevers</td><td>2026-08-13</td></tr>
+<tr><td>Galeries Lafayette</td><td>Louis Pion Conseiller De Vente - Cdd 30h - Noisy-le-grand 049</td><td>Paris</td><td>2026-08-13</td></tr>
+<tr><td>Kiabi</td><td>Cdd - Conseiller De Vente (h/f) Temps Partiel Cdd 25h</td><td>Thumesnil</td><td>2026-08-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant(e) Paie & Administration Du Personnel (h/f)</td><td>Paris</td><td>2026-08-13</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Assistant Chef De Projet Merchandising Permanent Make-up - Parfums Beauté - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-08-13</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Stage - Assistant Chef De Projet Merchandising Permanent Make-up - Parfums Beauté - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-08-13</td></tr>
+<tr><td>Chnetwork</td><td>Stage - Assistant Chef De Projet Merchandising Permanent Make-up - Parfums Beauté - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-08-13</td></tr>
 </table>
