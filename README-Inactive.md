@@ -2604,4 +2604,271 @@
 <tr><td>Intermarche</td><td>Itm Lai Montsoult – Coordinateur Logistique Multisite H/f</td><td>Saint Mard</td><td>2026-08-15</td></tr>
 <tr><td>Sofitel Melbourne On Collins</td><td>Coordinateur Relations Presse Et Communication (f/h)</td><td>Paris</td><td>2026-08-15</td></tr>
 <tr><td>EssilorLuxottica SA</td><td>Stage - Assistant Si Logistique - H/f</td><td>Paris</td><td>2026-08-15</td></tr>
+<tr><td>Firmenich</td><td>Finance Apprentice</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Firmenich</td><td>Hr Apprentice</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>HP</td><td>Apprenti-e Responsable E-commerce B2b Junior H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Chanel</td><td>Stage - Global It Client Programme Office Manager - Corporate - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>why LLP</td><td>Stagiaire Propriété Intellectuelle - Dès Que Possible Jusque Fin Décembre 2026</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Linklaters</td><td>Stagiaire Propriété Intellectuelle - Dès Que Possible Jusque Fin Décembre 2026</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Stage - Ewholesale Development Intern H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Magasins Généraux</td><td>Magasins Généraux - Assistant Communication (h/f/x) - Stage</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>4 Stages - Communication - Coordination Et Production De Contenus - Janvier 2027 (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>2 Stages - Visual Merchandising - Janvier 2027 (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Celebrity Talent & Entertainment</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stages Evénementiel - 4 Postes (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Janvier 2027 - Asset Content Management (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Assistant Relations Presse Internationales</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Janvier 2027 - Assistant Développement Industriel Objets & Accessoires</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Van Cleef & Arpels</td><td>Stagiaire Amélioration Continue</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Janvier 2027 - Chargé De Missions Transformation Rse & Digital (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Droit Social</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Chargé De Projet Qualification & Fiabilité Produit (h/f) Stage Talent Day</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Assistant Hospitality & Vic</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Chargé De Projets Performance Ateliers Connexes (h/f) Stage Talent Day</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Chargé De Projet Performance Et Amélioration Continue Bureau D'etudes (h/f) Stage Talent Day</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Janvier 2027 - Assistant Développement Packaging Parfums (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Janvier 2027 - Stage Assistant(e) Chef(fe) De Projet International Vip Experience – Network Animation & Gifting (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Chargé De Logistique Et Organisation Ateliers (h/f) Stage Talent Day</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Chargé D'amélioration Continue Et Performance Logistique (h/f) Stage Talent Day</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>OTB S.p.A</td><td>Intern Assistant Presse</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>CMA CGM Group</td><td>Alternant Qualité</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Performance & Operations Management Officer</td><td>Marseille</td><td>2026-08-16</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Division Of Internal Oversight Services</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Office Of The Director-general</td><td>Headquarters</td><td>2026-08-16</td></tr>
+<tr><td>Coty Inc.</td><td>Global Education & Retail Apprentice</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Hp</td><td>Apprenti-e Chef-fe De Produit - Pc Commercial H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Apprenti(e) Rams Engineer (f/m)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Coty</td><td>Advocacy Apprentice</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Coty</td><td>Apprenti(e) - Demand Planning</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Colgate-Palmolive</td><td>Human Resources Apprenticeship</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Alternance - Apprenti Ingénieur Calcul Produit F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Coty Inc.</td><td>Apprenti(e) - Demand Planning</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Alternance - Qualité R&d - Bac+4/5 (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Méthodes Et Process Bac +4/5 (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Electricien Prototypiste Bac+2/3 (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Murex</td><td>Apprenti-e Sirh Workday</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Idexx</td><td>Data Innovation & International Strategy Apprentice (m/f/d)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Marriott International</td><td>Apprenti Pâtisserie F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Jobsathpe</td><td>Apprenti Digital Sales Representative (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>HPE (Hewlett Packard Enterprise)</td><td>Apprenti Digital Sales Representative (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Ogury</td><td>Client Services Executive - 1 Year Apprenticeship</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>HP Inc</td><td>Apprenti-e Responsable E-commerce B2b Junior H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Hydeparkbank</td><td>Apprenti-e Responsable E-commerce B2b Junior H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Astemo</td><td>Data Engineer Apprentice</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Prysmian Australia</td><td>La Defense - Recruitment Assistant - Apprenticeship</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Prysmian</td><td>La Defense - Recruitment Assistant - Apprenticeship</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Innothera Services SARL</td><td>Apprenti(e) Assistant(e) Chef(fe) De Produits International(e)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Coty</td><td>Global Education & Retail Apprentice</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>GE HealthCare</td><td>Apprenti(e) – Technicien(ne) Maintenance (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>GEHC</td><td>Apprenti(e) – Technicien(ne) Maintenance (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>ENACO</td><td>Alternance - Assistant.e Administratif.ve En Apprentissage H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti(e) Ressources Humaines (h/f/x)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>RATP Group</td><td>Apprentissage - Assistant.e Gestionnaire De Plateforme Lms/e-learning H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>RATP</td><td>Apprentissage - Assistant.e Gestionnaire De Plateforme Lms/e-learning H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Arabelle Solutions</td><td>Alternance_ingénieur Pédagogique Et Digital Learning (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>RATP Group</td><td>Chargés D'affaires De Maintenance Des Infrastructures Tramway En Apprentissage</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>RATP</td><td>Chargés D'affaires De Maintenance Des Infrastructures Tramway En Apprentissage</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Seasonsaviara</td><td>Apprentissage Fleuriste (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Apprentissage Fleuriste (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprentissage - Technicien De Maintenance (h/f/x)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>RATP Group</td><td>Mainteneur En Électromécanique En Contrat D’apprentissage - F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>FUGA</td><td>Apprentissage Service En Cuisine H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Subsea 7</td><td>Alternance En Géotechnique Marine - F/h/nb</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Subsea Inc</td><td>Alternance En Géotechnique Marine - F/h/nb</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Alternant/stagiaire - Ingénieur Methodes & Nomenclature (h/f)</td><td>Nantes</td><td>2026-08-16</td></tr>
+<tr><td>Hitachi Rail GTS France SAS</td><td>Alternance - Ingénieur Réseaux & Télécoms (5g/ip) H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>asud-ascenseur.fr</td><td>Apprenti Ingénieur Chantier (h/f)</td><td>Nantes</td><td>2026-08-16</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Ingénieur Exploitation / Maintenance / Déploiement - F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Valeo SA</td><td>Alternance Ingénieur D'essais Laboratoire Banc Système / Boucle Climatisation H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Valeo SA</td><td>Alternance Ingénieur Électronique H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Valeo SA</td><td>Alternance Ingénieur Matériaux H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Valeo SA</td><td>Alternant(e) - Ingénieur(e) Innovation De La Sûreté De Fonctionnement (f/h)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Valeo SA</td><td>Alternance Ingénieur Conception Mécanique H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Valeo SA</td><td>Alternant(e) Ingénieur(e) R&d Systèmes Embarqués (f/h)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>medhunter.de</td><td>Stage - Assistant(e) De L'ingénieur Développement Mécanique H/f</td><td>Toulouse</td><td>2026-08-16</td></tr>
+<tr><td>Drugdiscovery</td><td>Stage - Assistant(e) De L'ingénieur Développement Mécanique H/f</td><td>Toulouse</td><td>2026-08-16</td></tr>
+<tr><td>Valeo Service</td><td>Alternant(e) Ingénieur(e) Développement C++ / Python (f/h)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>114</td><td>Alternant(e) Ingénieur(e) Développement C++ / Python (f/h)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Valeo SA</td><td>Alternant(e) Ingénieur(e) Développement C++ / Python (f/h)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>ADP</td><td>Alternance support de proximite IT (H/F)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Fanaticscollectibles</td><td>Gtm Engineer</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>LSEG</td><td>It Repoclear And Dcl Support Analyst</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer P2p</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer – Intersystems Caché & Trakcare His</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Home Assistant Python Developer For Hardware</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>C# Engineer</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Information Technology - Software Engineer</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Platform</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Python Software Engineer - Ubuntu Hardware Certification Team</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Platform / Core Infrastructure</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>C++ Developer</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Python - Container Images</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Mobile Game Unity Developer</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer: Iac Platform Experience</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Ingénieur Logiciel Pour Les Essais Satellites (f/h)</td><td>Toulouse</td><td>2026-08-16</td></tr>
+<tr><td>GE HealthCare</td><td>Ingénieur(e) Logiciel (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Dashlane</td><td>Junior Software Engineer - Frontend</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Doctolib GmbH</td><td>Software Engineer Fullstack - Java / React (x/f/m)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Middle Node.js Backend Developer</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Sopra Steria UK</td><td>Ingénieur(e) En Développement Logiciel Scientifique Et En Modélisation De La Dispersion - Industrie - Le Plessis Robinson</td><td>Le Plessis</td><td>2026-08-16</td></tr>
+<tr><td>Harmattan AI</td><td>Software Engineer (r&d Hardware Tooling)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Scaleway</td><td>Software Engineer Object Storage</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Software Craftsperson/python/ai</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Ornikar</td><td>Software Engineer Python</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer - Extensions</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Kering</td><td>Balenciaga – Emea Client Engagement Data Analyst Intern (f/m)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Kering</td><td>Kering Data Analyst Intern</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Data Analyst</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Equativ</td><td>Data Scientist Intern</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Karavel</td><td>Stagiaire Business Analyst F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Thales Group</td><td>Alternance – Cellule Data, Kpis & Reportings - F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Business Intelligence & Data - F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>NEMERA</td><td>Alternance Data Analyst - Performance Industrielle & Lean (f/h/x)</td><td>Lyon</td><td>2026-08-16</td></tr>
+<tr><td>Chnetwork</td><td>Alternance - Data Analyst - Corporate - Septembre 2026 - F/h/x</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>G&F Châtelain</td><td>Alternance - Data Analyst - Corporate - Septembre 2026 - F/h/x</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Chanel</td><td>Alternance - Data Analyst - Corporate - Septembre 2026 - F/h/x</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Alternance - Data Analyst - Corporate - Septembre 2026 - F/h/x</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Data Analyst Bac +3/4/5 (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Supply Chain Data Analyst & Ai Transformation F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Sanofi UK</td><td>Alternance 12 Mois – Data Analyse</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Alternance 12 Mois – Data Analyse</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Alternance - Data Analyst Sécurité (f/h) - Paris</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Naturactive</td><td>Data Analyst - Beamy & Sam - Alternance - H/f</td><td>Toulouse</td><td>2026-08-16</td></tr>
+<tr><td>Pierrefabrepharmaceuticals</td><td>Data Analyst - Beamy & Sam - Alternance - H/f</td><td>Toulouse</td><td>2026-08-16</td></tr>
+<tr><td>Genesis Energy</td><td>Alternance – Hr Data Analyst – F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>T.EN Career Site</td><td>Alternance – Hr Data Analyst – F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance Data Analyst (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Galileo Global Education</td><td>Data Analyst En Alternance - Paris</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Galileo Global Education</td><td>Data Analyst En Alternance - Paris - 2 Ans</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Galileo Global Education</td><td>Data Analyste En Alternance - Paris</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Galileo Global Education</td><td>Data Analyst – Alternance H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Data Analyst & Performance Digitale (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Junior Data Analyst – Ux & Conversion (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Data Analyst (h/f) / Data & Ia</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Data Scientist (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Plato Data Analyst - F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Valeoservice Com Br</td><td>Alternance - Data Scientist</td><td>Etaples-Sur-Mer</td><td>2026-08-16</td></tr>
+<tr><td>Suez Group</td><td>Alternance - Reporting et maitrise de la donnée Clientèle - H/F</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Thales Group</td><td>Core Hr Data Analyst - F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Vibe.co</td><td>Data Scientist</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Milliman</td><td>Artificial Intelligence (ai) Engineer</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Ai Engineer</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Claims Performance Analyst</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Dashlane</td><td>Ai Deployment Software Engineer</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Qonto</td><td>Compliance Expert Data Analyst</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Sanofi UK</td><td>Data Scientist</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Data Scientist</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Ai Engineer [gn] (agentic Ai & Automation)</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Ai Developer</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>GSK</td><td>2 Alternances - Business Intelligence / Chef De Marché (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>GSK (GlaxoSmithKline)</td><td>2 Alternances - Business Intelligence / Chef De Marché (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Ai/ml Research Engineer</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Ai Systems Engineer (claude)</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>THALES</td><td>Learning Hr Data Analyst</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Thales Group</td><td>Learning Hr Data Analyst</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Product Engineer, Ai</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Airi Quideer</td><td>Data Analyst - Stage</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Airi Quideer</td><td>Data And Quality Analyst - Stage</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Xcenda</td><td>Stage - Data Analyst Finance (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Pigment</td><td>Engineering Data Analyst</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Marriott International</td><td>Finance Intern M/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Signify</td><td>Stage: Business Analyst Intern (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Condé Nast</td><td>Business Analyst Junior Intern</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>SCOR</td><td>Rating Agencies And Financial Credit Analyst Intern</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Corby Spirit and Wine Ltd</td><td>Financial Analyst Intern</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Pernod Ricard</td><td>Financial Analyst Intern</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Business Analyst - Frames Category H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Alternance- Client Data Platform Business Analyst- Corporate- Septembre 2026- X/f/x</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>G&F Châtelain</td><td>Alternance- Client Data Platform Business Analyst- Corporate- Septembre 2026- X/f/x</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Verisure S.A.</td><td>Alternance - Business Analyst Junior - Septembre 2026 F/h/x</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>AptarGroup</td><td>Alternant Assistant Kam / Business Analyst H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Xcenda</td><td>Alternance - Business Data Analyst (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Sopra Steria UK</td><td>Alternance - Consultant.e Conseil - Transformation Digitale - Edition De Logiciels - Limonest Ou Ile De France</td><td>Limonest</td><td>2026-08-16</td></tr>
+<tr><td>Sopra Steria</td><td>Alternance - Consultant.e Conseil - Transformation digitale - Edition de logiciels - Limonest ou Ile de France</td><td>Limonest</td><td>2026-08-16</td></tr>
+<tr><td>Diversey</td><td>Alternant(e) Business Analyst & Data Insights</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>diversey.in</td><td>Alternant(e) Business Analyst & Data Insights</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>diversey.si</td><td>Alternant(e) Business Analyst & Data Insights</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Solenis Australia Pty Limited</td><td>Alternant(e) Business Analyst & Data Insights</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>G&F Châtelain</td><td>Alternance - Assistant(e) Business Analyst & Projets Internationaux Sav - Septembre 2026 - Horlogerie Joaillerie - H/f/x</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>ArianeGroup</td><td>Alternance - Business Analyst H/f</td><td>Issac</td><td>2026-08-16</td></tr>
+<tr><td>academiespatiale.fr</td><td>Alternance - Business Analyst H/f</td><td>Issac</td><td>2026-08-16</td></tr>
+<tr><td>La Mutuelle Generale</td><td>Analyste Corporate Finance & Strategie - F/h - Alternance</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Business Analyst Fashion (h/f/x) – Mode – Janvier 2027</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Stage - Business Analyst Fashion (h/f/x) – Mode – Janvier 2027</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Stage - Assistant(e) Business Analyst Sales (h/f/x) - Mode - Janvier 2027</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Assistant(e) Business Analyst Sales (h/f/x) - Mode - Janvier 2027</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Talan</td><td>Business Analyst Capital Market Front Office - H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Talan</td><td>Post Trade Business Analyst - H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Talan</td><td>Business Analyst Front Office _ Taux Non Linéaires - H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Talan</td><td>Capital Market _business Analyst Alm Treasury - H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Rothschild & Co UK</td><td>Business Analyst (h/f) – Cdd</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Talan</td><td>Business Analyst Trade Finance - H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Talan</td><td>Business Analyst Risque De Marché - H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Coloplast</td><td>Cdd 18 Mois - Business Analyst H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Sonepar Group</td><td>Business Analyste Erp Commerce H/f - Boulogne-billancourt</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Stage - Business Analytics</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Stage - Business Analytics</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Bac +5 - Business Analyst Processus S&op (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Beastly Agency</td><td>Comptable Polyvalent Confirmé - Cdd 6 Mois (h/f/x)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>AFRY</td><td>Stage - Conseil En Stratégie - Energie</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Nestle Ltd</td><td>Business Analyst Commercial Excellence - F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Nestle SA</td><td>Business Analyst Commercial Excellence - F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois – Analyse Trésorerie Internationale</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Renault Group</td><td>Data Business Analyst</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Assistant Business Analyst Demand Planning - Parfums Beauté Europe - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant Business Analyst Demand Planning - Parfums Beauté Europe - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Product Analyst (muslima)</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Abbott</td><td>Business Analyst- Infectious Diseases- Rungis H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>jobs.abbott</td><td>Business Analyst- Infectious Diseases- Rungis H/f</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Lazard</td><td>Stage H/f - Analyste Fixed Income Pôle High Yield – Janvier 2027</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Lazard</td><td>Stage H/f - Analyste Actions – Janvier 2027</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Lazard</td><td>Stage H/f - Analyste Financier Gestion Privée – Janvier 2027</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Lazard</td><td>Stage H/f - Compliance Officer Junior – Janvier 2027</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>RATP</td><td>Comptable Général</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Virtualspaces Stage Pwc</td><td>Business Analyst</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>ICON Clinical Research, LP</td><td>Cra I</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>IQVIA Inc</td><td>Clinical Research Associate - Iqvia Biotech (homebased In Paris)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Keolis</td><td>Technicien.ne Matériels Roulants</td><td>Rivery</td><td>2026-08-16</td></tr>
+<tr><td>AptarGroup Inc</td><td>Technicien De Maintenance Niveau 2</td><td>Charleval</td><td>2026-08-16</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant Maintenance H/f</td><td>Granville</td><td>2026-08-16</td></tr>
+<tr><td>AptarGroup Inc</td><td>Technicien Maintenance Presses H/f</td><td>Neubourg</td><td>2026-08-16</td></tr>
+<tr><td>DHL Group</td><td>Technicien Maintenance (f/h) - Cdi - Saint-barthelemy-d'anjou (49)</td><td>Saint-BarthéLemy-D'Anjou</td><td>2026-08-16</td></tr>
+<tr><td>clayens</td><td>Technicien Maintenance F/h</td><td>Belmont Tramonet</td><td>2026-08-16</td></tr>
+<tr><td>clayens</td><td>Technicien De Maintenance</td><td>Izernore</td><td>2026-08-16</td></tr>
+<tr><td>Sims Metal</td><td>Technicien Maintenance</td><td>Rue Michel Poulmarch</td><td>2026-08-16</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance (f/h)</td><td>Saint-Georges-De-Mons</td><td>2026-08-16</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance Services Généraux (f/h)</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien Travaux Programmés (f/h)</td><td>Fr</td><td>2026-08-16</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Dépannage Maintenance F/h</td><td>Les Ancizes</td><td>2026-08-16</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) - Le Massegros (48)</td><td>Le Massegros</td><td>2026-08-16</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Clermont De L'oise (60)</td><td>Clermont De L'Oise</td><td>2026-08-16</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Laval (53)</td><td>Rennes</td><td>2026-08-16</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance Journée H/f Bayeux (14)</td><td>Caen</td><td>2026-08-16</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Domfront (61)</td><td>Domfront En Poiraie</td><td>2026-08-16</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Livarot (14)</td><td>Livarot</td><td>2026-08-16</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien Multi-services - H/f</td><td>Lyon</td><td>2026-08-16</td></tr>
+<tr><td>MANGO</td><td>Multifunctional Sales Associate</td><td>Serris</td><td>2026-08-16</td></tr>
+<tr><td>Hermès International</td><td>Cdi - Conseiller De Vente H/f – Cannes</td><td>Nice</td><td>2026-08-16</td></tr>
+<tr><td>Skechers</td><td>Conseiller De Vente H/f</td><td>Lyon</td><td>2026-08-16</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur Cdd (h/f)</td><td>Lyon</td><td>2026-08-16</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent/e // Stage</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Kiabi</td><td>Conseiller(e) De Mode Kiabi Herblay Cdd 30h (cdd Longue Durée)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Conforama</td><td>Vendeur Electroménager (h/f) Cdi</td><td>Lyon</td><td>2026-08-16</td></tr>
+<tr><td>Nike</td><td>Athlete Nike (vendeur/euse En Magasin) – H / F Cdd 25h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Timberland</td><td>Sales Associate - Vendeur (h/f) - Cdd 20h - Timberland - La Defense</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>VF Corporation</td><td>Sales Associate - Vendeur (h/f) - Cdd 20h - Timberland - La Defense</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Timberland</td><td>Vendeur (h/f) - Sales Associate - Cdd Temps Plein - Timberland - La Defense</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>VFC Corporation</td><td>Vendeur (h/f) - Sales Associate - Cdd Temps Plein - Timberland - La Defense</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Galeries Lafayette</td><td>Conseiller(e) De Vente H/f - 35h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Galeries Lafayette</td><td>Personal Stylist / Conseiller De Vente Beauté Cdi F/h</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>CLAAS Réseau Agricole S.A.S.</td><td>Vendeur Conseil Viticole (h/f)</td><td>Lyon</td><td>2026-08-16</td></tr>
+<tr><td>La Casa de las Carcasas</td><td>Vendeur (h/f) - Cdi 15h - Bègles</td><td>Bordeaux</td><td>2026-08-16</td></tr>
+<tr><td>Hermès International</td><td>Cdd -chef De Projet Planning Et Organisation Showroom (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Marriott International</td><td>Coord-events</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Chef De Produit Développement - Parfum Et Beauté (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>It Support Specialist</td><td>France</td><td>2026-08-16</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant.e Administratif.ve (h/f)</td><td>Tours</td><td>2026-08-16</td></tr>
+<tr><td>Haier Europe</td><td>Alternant Chargé D'évènementiel (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Gestionnaire Logistique Materiel</td><td>Saclay</td><td>2026-08-16</td></tr>
 </table>
