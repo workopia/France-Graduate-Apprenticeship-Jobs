@@ -2871,4 +2871,73 @@
 <tr><td>Galileo Global Education</td><td>Assistant.e Administratif.ve (h/f)</td><td>Tours</td><td>2026-08-16</td></tr>
 <tr><td>Haier Europe</td><td>Alternant Chargé D'évènementiel (h/f)</td><td>Paris</td><td>2026-08-16</td></tr>
 <tr><td>Eiffage Énergie Systèmes</td><td>Gestionnaire Logistique Materiel</td><td>Saclay</td><td>2026-08-16</td></tr>
+<tr><td>GroupE MONDIAL TISSUS - GMT SaS</td><td>Vendeur.euse Sallanches</td><td>Annecy</td><td>2026-08-17</td></tr>
+<tr><td>Vandemoortele NV</td><td>Alternant(e) Qualité F/h</td><td>Le Fossat</td><td>2026-08-17</td></tr>
+<tr><td>Intermarche</td><td>Alternant(e) Architecture D'entreprise H/f</td><td>Rennes</td><td>2026-08-17</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Internship - Lidar Technology & System Design Engineer F/h</td><td>Saint</td><td>2026-08-17</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Internship - Railway Design Engineer H/f</td><td>Saint</td><td>2026-08-17</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Qualité Sensorielle (h/f) - 6 Mois Bourgbarré (n°35)</td><td>Bougbarré</td><td>2026-08-17</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Technicien Packaging Europe (h/f) - 6 Mois Bourgbarré (35)</td><td>Bourgbarré</td><td>2026-08-17</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant E-commerce (h/f) - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-08-17</td></tr>
+<tr><td>lactalisexperience</td><td>Alternant Ingénieur Qualité (h/f) - 24 Mois Petit-fayt (59)</td><td>Petit-Fayt</td><td>2026-08-17</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Qualité (h/f) - 4-6 Mois Franois (25)</td><td>Franois</td><td>2026-08-17</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Production (h/f) - 6 Mois Clermont De L'oise (60)</td><td>Clermont De L'Oise</td><td>2026-08-17</td></tr>
+<tr><td>BETC</td><td>Betc - Assistant Achat D'art (h/f/x) - Stage</td><td>Les Magasins GéNéRaux</td><td>2026-08-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stages Marketing - 9 Postes (h/f)</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Long Assistant De Vente - Montblanc (h/f)</td><td>Lyon</td><td>2026-08-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Janvier 2027 – Assistant(e) Chef(fe) De Projet Marketing International Joaillerie (h/f)</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Chargé De Projets Industrialisation Composants Fondus (h/f) Stage</td><td>Bezannes</td><td>2026-08-17</td></tr>
+<tr><td>createyourowncareer</td><td>Alternance Qualité Systèmes H/f</td><td>Mantes La Jolie</td><td>2026-08-17</td></tr>
+<tr><td>Etat de Fribourg - SITel</td><td>Stagiaire Pré-heg</td><td>France</td><td>2026-08-17</td></tr>
+<tr><td>Eiffagerail</td><td>Alternant Soudeur F/h</td><td>Nantes</td><td>2026-08-17</td></tr>
+<tr><td>Eiffagemetal</td><td>Alternant Soudeur F/h</td><td>Nantes</td><td>2026-08-17</td></tr>
+<tr><td>Sims Metal</td><td>Apprenti Chargé D'affaires</td><td>Toulouse</td><td>2026-08-17</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti Barman (f/h/nb)</td><td>Toulouse</td><td>2026-08-17</td></tr>
+<tr><td>CMA CGM Group</td><td>Apprenticeship - Junior Hrbp</td><td>Marseille</td><td>2026-08-17</td></tr>
+<tr><td>BENETEAU</td><td>[alternance] - Animateur Hsee H/f</td><td>Nantes</td><td>2026-08-17</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Apprenti(e) - Ingénieur(e) Performance Système F/h</td><td>Toulouse</td><td>2026-08-17</td></tr>
+<tr><td>Chart Industries Inc</td><td>Business Development Apprentice</td><td>Nantes</td><td>2026-08-17</td></tr>
+<tr><td>joinairbus.us</td><td>Atr - Apprenticeship - Support To Customer Satisfaction & Fleet Performance Processes</td><td>Toulouse</td><td>2026-08-17</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Apprenti Technicien Portes Et Portails (h/f)</td><td>Toulouse</td><td>2026-08-17</td></tr>
+<tr><td>CMA CGM Group</td><td>It Project Management Apprentice</td><td>Marseille</td><td>2026-08-17</td></tr>
+<tr><td>CMA CGM Group</td><td>Group Accounting Apprentice</td><td>Marseille</td><td>2026-08-17</td></tr>
+<tr><td>PALFINGER AG</td><td>Apprenti Assistant Qualité H/f/d</td><td>Toulouse</td><td>2026-08-17</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Apprenti Support Ingénieur Produit - H/f</td><td>Nantes</td><td>2026-08-17</td></tr>
+<tr><td>Constellium</td><td>Technicien De Maintenance Mécanique (h/f) - Journée</td><td>Neuf-Brisach</td><td>2026-08-17</td></tr>
+<tr><td>Constellium</td><td>Technicien De Maintenance Mécanique 5x8 H/f</td><td>Neuf-Brisach +1</td><td>2026-08-17</td></tr>
+<tr><td>Constellium</td><td>Technicien De Fiabilisation Electrique (h/f)</td><td>Neuf-Brisach</td><td>2026-08-17</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Adjoint Responsable Maintenance</td><td>Toulouse</td><td>2026-08-17</td></tr>
+<tr><td>CEMEX</td><td>Electro-mécanicien(ne) (h/f) - Salon De Provence (13) - Cdi</td><td>Aix En Provence</td><td>2026-08-17</td></tr>
+<tr><td>CEMEX</td><td>Electro-mécanicien(ne) (h/f) - Marseille Port (13) - Cdi</td><td>Marseille</td><td>2026-08-17</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Technicien(e) Maintenance Des Bâtiments Et Infrastructures, Site Bourgoin</td><td>Bourgoin</td><td>2026-08-17</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Technicien De Maintenance Sav Fermetures Industrielles H/f</td><td>Guitrancourt</td><td>2026-08-17</td></tr>
+<tr><td>Verisure S.A.</td><td>Technicien De Maintenance Tarare - F/h/x</td><td>Lyon</td><td>2026-08-17</td></tr>
+<tr><td>Keolis</td><td>Mécanicien Pl</td><td>Nancy</td><td>2026-08-17</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Industrielle Bus F/h</td><td>Le Mesnil Amelot</td><td>2026-08-17</td></tr>
+<tr><td>Equinix Inc.</td><td>Technicien(ne) De Maintenance Multitechnique</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>Eiffage Services</td><td>Technicien De Maintenance Multi-technique F/h</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Technicien De Maintenance H/f</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>KONE Belgique & Luxembourg</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Nice</td><td>2026-08-17</td></tr>
+<tr><td>Kone Corporation</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Nice</td><td>2026-08-17</td></tr>
+<tr><td>KONE GmbH</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Nice</td><td>2026-08-17</td></tr>
+<tr><td>KONE Belgique & Luxembourg</td><td>Technicien Maintenance Ascenseurs H/f À Puteaux (92)</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>Kone Corporation</td><td>Technicien Maintenance Ascenseurs H/f À Puteaux (92)</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>KONE GmbH</td><td>Technicien Maintenance Ascenseurs H/f À Puteaux (92)</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>KONE Belgique & Luxembourg</td><td>Technicien Maintenance Ascenseurs H/f À Courbevoie (92)</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>Kone Corporation</td><td>Technicien Maintenance Ascenseurs H/f À Courbevoie (92)</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>KONE GmbH</td><td>Technicien Maintenance Ascenseurs H/f À Courbevoie (92)</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance Électricien N1 F/h</td><td>Toulouse</td><td>2026-08-17</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance N 1 F/h</td><td>Toulouse</td><td>2026-08-17</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien Utilités F/h</td><td>Toulouse</td><td>2026-08-17</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance - F/h</td><td>Toulouse</td><td>2026-08-17</td></tr>
+<tr><td>Ardagh Group</td><td>Electro-technicien Qualité (h-f)</td><td>Marseille</td><td>2026-08-17</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil Temps Partiel Cdd/cdi</td><td>Nice</td><td>2026-08-17</td></tr>
+<tr><td>adidas AG</td><td>Visual Merchandising Specialist Adidas (h/f/d) - Flagship Champs Elysées</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>adidas AG</td><td>Visual Merchandising Specialist Adidas (h/f/d) - Le Marais</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>Kiabi</td><td>Conseiller De Vente (h/f/nb) 25h Cdi</td><td>Lyon</td><td>2026-08-17</td></tr>
+<tr><td>JYSK</td><td>Vendeur Polyvalent (h/f) - Jfr Cdi</td><td>Saint Doulchard</td><td>2026-08-17</td></tr>
+<tr><td>Puma</td><td>Vendeur·se Polyvalent Cdd (35h) – Puma Villefontaine</td><td>Lyon</td><td>2026-08-17</td></tr>
+<tr><td>Dolce</td><td>Client Advisor Paris Galeries Lafayette H/f</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>Fromageries Bel</td><td>Alternance - Assistant(e) Achats Pommes (f/h/x) - Septembre 2026</td><td>Boué</td><td>2026-08-17</td></tr>
+<tr><td>Nomura International PLC</td><td>Hr Advisor - 6 Month Fixed Term Contract</td><td>Paris</td><td>2026-08-17</td></tr>
 </table>
