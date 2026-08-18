@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-17",
- "count": 739,
+ "asOf": "2026-08-18",
+ "count": 738,
  "jobs": {
   "26628": {
    "id": "26628",
@@ -79,6 +79,36 @@
    "company": "HP",
    "role": "Apprenti-e Chef-fe De Produit - Pc Commercial H/f",
    "location": "Paris"
+  },
+  "7941162839e4bc4d3a53736a73f2f830": {
+   "id": "7941162839e4bc4d3a53736a73f2f830",
+   "company": "Coloplast",
+   "role": "Stagiaire Ingénieur Supply Chain (24) - H/f",
+   "location": "Sarlat La Caneda"
+  },
+  "8a47767cec088cb603b9979207eb6086": {
+   "id": "8a47767cec088cb603b9979207eb6086",
+   "company": "Arkema France",
+   "role": "Alternant(e) Chimiste R&d - Formulation Et Caractérisation",
+   "location": "Le Barp"
+  },
+  "76806b4a8c918f865cb3fb519d7d08de": {
+   "id": "76806b4a8c918f865cb3fb519d7d08de",
+   "company": "Thales",
+   "role": "Alternance – Is/it – F/h",
+   "location": "Paris"
+  },
+  "334677bc15ee43b47a5194a8f676d308": {
+   "id": "334677bc15ee43b47a5194a8f676d308",
+   "company": "Thales",
+   "role": "Alternance - Supply Chain F/h",
+   "location": "Orleans"
+  },
+  "355bcc27f971de3636818ce638c518df": {
+   "id": "355bcc27f971de3636818ce638c518df",
+   "company": "Thales",
+   "role": "Alternance - Digital Learning F/h",
+   "location": "Orleans"
   },
   "f75c28fd5c232888ca5d954893ead558": {
    "id": "f75c28fd5c232888ca5d954893ead558",
@@ -512,34 +542,22 @@
    "role": "Cs27 - Stage - Bac +5 - Juriste Droit Social (h/f)",
    "location": "Paris"
   },
-  "25b6c10fa57d5b42d773068afd621969": {
-   "id": "25b6c10fa57d5b42d773068afd621969",
-   "company": "International SOS",
-   "role": "Sales Executive Intern",
+  "eee5ecd6a73cd6f4275258aa2c0c5a42": {
+   "id": "eee5ecd6a73cd6f4275258aa2c0c5a42",
+   "company": "Coty",
+   "role": "Merchandising Alternance",
    "location": "Paris"
   },
-  "83c06ea4e63051a36d2d512500d7c5c6": {
-   "id": "83c06ea4e63051a36d2d512500d7c5c6",
-   "company": "Paramount Group Inc",
-   "role": "Publicity Intern",
+  "23a92dd2d8da8e6f5bb03f34b1025676": {
+   "id": "23a92dd2d8da8e6f5bb03f34b1025676",
+   "company": "Thales",
+   "role": "Apprenti Développeur Informatique Technique - (f/h)",
    "location": "Paris"
   },
-  "9bb2ac3038b082e2534e5733377ccc78": {
-   "id": "9bb2ac3038b082e2534e5733377ccc78",
-   "company": "Nestlé",
-   "role": "Vendeur - Stage (h/f)",
-   "location": "Paris"
-  },
-  "7cf9e8e370e1b23c092c7a9fa9c49414": {
-   "id": "7cf9e8e370e1b23c092c7a9fa9c49414",
-   "company": "AVL List GmbH",
-   "role": "Stage - Simulation Architecture Véhicule(h/f)",
-   "location": "Lardy"
-  },
-  "1e55bd53899a259d7fda7d7dfe4da831": {
-   "id": "1e55bd53899a259d7fda7d7dfe4da831",
-   "company": "Euronext",
-   "role": "Internship – M&a Analyst",
+  "0366d5ebc650d8c0d4f1c0e1348e0abf": {
+   "id": "0366d5ebc650d8c0d4f1c0e1348e0abf",
+   "company": "Genesis Energy",
+   "role": "Apprenticeship - Solution Architect F/m",
    "location": "Paris"
   },
   "3c50a5255753d4b137886bf23e980ffc": {
@@ -944,12 +962,6 @@
    "role": "Marketing Apprentice",
    "location": "Paris"
   },
-  "23a92dd2d8da8e6f5bb03f34b1025676": {
-   "id": "23a92dd2d8da8e6f5bb03f34b1025676",
-   "company": "Thales",
-   "role": "Apprenti Développeur Informatique Technique - (f/h)",
-   "location": "Paris"
-  },
   "95a005224a2872cf533d49cc2aa6cfd7": {
    "id": "95a005224a2872cf533d49cc2aa6cfd7",
    "company": "Recordati Industria Chimica e Farmaceutica S.p.A",
@@ -979,18 +991,6 @@
    "company": "AccorHotels",
    "role": "Apprenti Barman (f/h/nb)",
    "location": "Toulouse"
-  },
-  "4ef07b3f282d9b255deac431c78a0341": {
-   "id": "4ef07b3f282d9b255deac431c78a0341",
-   "company": "SKF Sverige AB",
-   "role": "Apprenti(e) Master Architecture Applicative Et Logicielle (f/h)",
-   "location": "Marseille"
-  },
-  "0fc69fc82b2275ba91369c74fe55b391": {
-   "id": "0fc69fc82b2275ba91369c74fe55b391",
-   "company": "SKF Group",
-   "role": "Apprenti(e) Master Architecture Applicative Et Logicielle (f/h)",
-   "location": "Marseille"
   },
   "2041cd47810c965c3ba3310e4ae09d30": {
    "id": "2041cd47810c965c3ba3310e4ae09d30",
@@ -1045,6 +1045,24 @@
    "company": "Sartorius",
    "role": "Contrat D'apprentissage - Comptabilité Client (f/h)",
    "location": "Marseille"
+  },
+  "a124cc7854dcbccf6a39b2a242e8adfa": {
+   "id": "a124cc7854dcbccf6a39b2a242e8adfa",
+   "company": "Thales",
+   "role": "Alternance - Ingénieur Développement Logiciel C++ (f/h)",
+   "location": "Paris"
+  },
+  "0758e0aacdc430912a9081e0ed870715": {
+   "id": "0758e0aacdc430912a9081e0ed870715",
+   "company": "Thales",
+   "role": "Alternance - Technicien Méthodes F/h",
+   "location": "Paris"
+  },
+  "ab51f6e93da19f6e8962ff25173f45b6": {
+   "id": "ab51f6e93da19f6e8962ff25173f45b6",
+   "company": "Thales",
+   "role": "Alternance - Ingénieur Démonstrations De Navigation Par Satellite - F/h",
+   "location": "Toulouse"
   },
   "bff88cd534480a45e1282c2bf60cc3ce": {
    "id": "bff88cd534480a45e1282c2bf60cc3ce",
@@ -1136,29 +1154,11 @@
    "role": "Ingénieur Logiciel Ada F.h",
    "location": "Paris"
   },
-  "0758e0aacdc430912a9081e0ed870715": {
-   "id": "0758e0aacdc430912a9081e0ed870715",
-   "company": "Thales",
-   "role": "Alternance - Technicien Méthodes F/h",
-   "location": "Paris"
-  },
-  "a124cc7854dcbccf6a39b2a242e8adfa": {
-   "id": "a124cc7854dcbccf6a39b2a242e8adfa",
-   "company": "Thales",
-   "role": "Alternance - Ingénieur Développement Logiciel C++ (f/h)",
-   "location": "Paris"
-  },
   "c3587011b382e457504f5fbd1f848118": {
    "id": "c3587011b382e457504f5fbd1f848118",
    "company": "Thales",
    "role": "Ingénieur Développement Logiciel Temps Réel Embarqué F.h",
    "location": "Paris"
-  },
-  "ab51f6e93da19f6e8962ff25173f45b6": {
-   "id": "ab51f6e93da19f6e8962ff25173f45b6",
-   "company": "Thales",
-   "role": "Alternance - Ingénieur Démonstrations De Navigation Par Satellite - F/h",
-   "location": "Toulouse"
   },
   "63a21abe36b0b288b7d65bd508530ed2": {
    "id": "63a21abe36b0b288b7d65bd508530ed2",
@@ -1478,12 +1478,6 @@
    "role": "Stagiaire Développement Logiciel Diagnostic Box (h/f)",
    "location": "Paris"
   },
-  "4502e5bc3bd475497dea05468ad1cf70": {
-   "id": "4502e5bc3bd475497dea05468ad1cf70",
-   "company": "Case Law Reporter",
-   "role": "Alternance Éditeur De Développement F/h",
-   "location": "Paris"
-  },
   "ded0fe964405e3fdb220a744383f8b8d": {
    "id": "ded0fe964405e3fdb220a744383f8b8d",
    "company": "Hitachi Vantara",
@@ -1526,10 +1520,16 @@
    "role": "Alternance - It Support (h/f)",
    "location": "Paris"
   },
-  "48f416d3b42f988d2cda608d5325bffb": {
-   "id": "48f416d3b42f988d2cda608d5325bffb",
-   "company": "Cabaia",
-   "role": "Assistant(e) Support It - Alternance",
+  "70f946b12091cd5c0ac00a60c3cc0504": {
+   "id": "70f946b12091cd5c0ac00a60c3cc0504",
+   "company": "Thales",
+   "role": "Ingénieur Développement Logiciel F/h",
+   "location": "Paris"
+  },
+  "cd7bf6040aeb4e0661e2e06cde4ae2ab": {
+   "id": "cd7bf6040aeb4e0661e2e06cde4ae2ab",
+   "company": "Thales",
+   "role": "Ingénieur Développement Logiciel Temps Réel F.h",
    "location": "Paris"
   },
   "fb4f13d30837807b5bbb265381eb489a": {
@@ -1663,12 +1663,6 @@
    "company": "Thales Group",
    "role": "Ingénieur Full Stack Data/ia – H/f",
    "location": "Toulouse"
-  },
-  "cd7bf6040aeb4e0661e2e06cde4ae2ab": {
-   "id": "cd7bf6040aeb4e0661e2e06cde4ae2ab",
-   "company": "Thales",
-   "role": "Ingénieur Développement Logiciel Temps Réel F.h",
-   "location": "Paris"
   },
   "e272706c7ce6412848c56a889a651c34": {
    "id": "e272706c7ce6412848c56a889a651c34",
@@ -2576,6 +2570,12 @@
    "role": "Alternance – Analyste Financier (h/f)",
    "location": "Paris"
   },
+  "80316051b25f0ffb63b27c9020d0d7a1": {
+   "id": "80316051b25f0ffb63b27c9020d0d7a1",
+   "company": "Thales",
+   "role": "Business Analyst Supply Chain F/h",
+   "location": "Paris"
+  },
   "2fdaecdc69af2c71a8893ca6ff305ffd": {
    "id": "2fdaecdc69af2c71a8893ca6ff305ffd",
    "company": "Avanade",
@@ -2682,12 +2682,6 @@
    "id": "e3415553a920030680fa6db235b4074d",
    "company": "Air Liquide Healthcare",
    "role": "Cdd (3 Mois) - Business Analyst / Data Quality (h/f)",
-   "location": "Paris"
-  },
-  "80316051b25f0ffb63b27c9020d0d7a1": {
-   "id": "80316051b25f0ffb63b27c9020d0d7a1",
-   "company": "Thales",
-   "role": "Business Analyst Supply Chain F/h",
    "location": "Paris"
   },
   "cafe92498b596666d0c6e9bb7182e4b0": {
@@ -2876,12 +2870,6 @@
    "role": "Business Analyst Pharmaceutical Care - Stage - H/f",
    "location": "Toulouse"
   },
-  "smartrecruiters:SGS:744000132828545": {
-   "id": "smartrecruiters:SGS:744000132828545",
-   "company": "SGS & Co",
-   "role": "Auditeur Food Certifié GFSI H/F",
-   "location": "Paris"
-  },
   "9914fdb6a22be3ba94efb99a30ea69b5": {
    "id": "9914fdb6a22be3ba94efb99a30ea69b5",
    "company": "ASDIA",
@@ -3019,6 +3007,60 @@
    "company": "Airi Quideer",
    "role": "Infirmier Conseil Diabète H/f",
    "location": "France"
+  },
+  "ab61d5f3d79751e91747f2004937afb5": {
+   "id": "ab61d5f3d79751e91747f2004937afb5",
+   "company": "creche-and-go.fr",
+   "role": "Infirmier",
+   "location": "France"
+  },
+  "ef63d8f1311f79500fe4e8f3fbb4fd83": {
+   "id": "ef63d8f1311f79500fe4e8f3fbb4fd83",
+   "company": "Intermarche",
+   "role": "Reparateur Contenants (h/f)",
+   "location": "ErbréE"
+  },
+  "df1fc831dd2c5582ede9210c66b0850a": {
+   "id": "df1fc831dd2c5582ede9210c66b0850a",
+   "company": "Coloplast",
+   "role": "Laser Maintenance Specialist - Region Europe",
+   "location": "Paris"
+  },
+  "e3293d702edab4cab8ac5cd69475a23a": {
+   "id": "e3293d702edab4cab8ac5cd69475a23a",
+   "company": "Arkema France",
+   "role": "Chargé(e) De Travaux Électricité / Instrumentation F/h",
+   "location": "Genay"
+  },
+  "7ff0421ee012ce5049317cd6a995d1b7": {
+   "id": "7ff0421ee012ce5049317cd6a995d1b7",
+   "company": "Thales",
+   "role": "Technicien Maintenance Banc De Test (h/f)",
+   "location": "Etrelles"
+  },
+  "b2b7dda0c92bddb2d78a70d53315841b": {
+   "id": "b2b7dda0c92bddb2d78a70d53315841b",
+   "company": "Thales",
+   "role": "Technicien Maintenance Des Moyens Industriels-f/h",
+   "location": "Toulouse"
+  },
+  "2cd7ae4532270260b7dc5088ff3ff4e5": {
+   "id": "2cd7ae4532270260b7dc5088ff3ff4e5",
+   "company": "Thales",
+   "role": "Technicien Ivvq Mco Optro",
+   "location": "Mantes La Jolie"
+  },
+  "28f48b6a0b9ac68bc3ee1b78cd3c2823": {
+   "id": "28f48b6a0b9ac68bc3ee1b78cd3c2823",
+   "company": "Thales",
+   "role": "Technicien De Maintenance Bancs De Tests Electroniques F/h",
+   "location": "Mantes La Jolie"
+  },
+  "26214e07db3df03dec3af945dd54cd19": {
+   "id": "26214e07db3df03dec3af945dd54cd19",
+   "company": "Thales",
+   "role": "Technicien De Maintenance Equipements Electroniques Et Alimentation Haute Tension H/f",
+   "location": "Paris"
   },
   "b6c5c7fcd6ef1e32133fbf1d7b255ce0": {
    "id": "b6c5c7fcd6ef1e32133fbf1d7b255ce0",
@@ -3446,53 +3488,11 @@
    "role": "Technicien De Maintenance",
    "location": "Rue Michel Poulmarch"
   },
-  "fd08379e7ecebf426683b84ba3452d4a": {
-   "id": "fd08379e7ecebf426683b84ba3452d4a",
-   "company": "GXO Logistics",
-   "role": "Technicien De Maintenance F/h",
-   "location": "Le Coudray-Montceaux"
-  },
-  "7489b718d6ed47e143d804538d819a50": {
-   "id": "7489b718d6ed47e143d804538d819a50",
-   "company": "Holcim",
-   "role": "Mécanicien Maintenance Industrielle (h/f) - Le Teil",
-   "location": "Viviers"
-  },
-  "960484e0dfd00ccec5f8cf7423e30a40": {
-   "id": "960484e0dfd00ccec5f8cf7423e30a40",
-   "company": "RTX Corporation",
-   "role": "Technicien(ne) De Maintenance Electronique",
-   "location": "Toulouse"
-  },
-  "354995d5b0669803735f635834b07548": {
-   "id": "354995d5b0669803735f635834b07548",
-   "company": "PPG Industries",
-   "role": "Technicien De Maintenance Industrielle H/f",
-   "location": "Ruitz"
-  },
-  "167de928ba77996882f9336f69befccd": {
-   "id": "167de928ba77996882f9336f69befccd",
-   "company": "Constellium",
-   "role": "Intervenants Maintenance",
-   "location": "Montreuil-Juigné"
-  },
-  "919d0fe8b4927fb729098027976736ef": {
-   "id": "919d0fe8b4927fb729098027976736ef",
-   "company": "Constellium",
-   "role": "Technicien De Maintenance Electrique 5x8 H/f",
-   "location": "Neuf-Brisach"
-  },
-  "801e9c470e2305063dee7c7631aae916": {
-   "id": "801e9c470e2305063dee7c7631aae916",
-   "company": "Constellium",
-   "role": "Compagnon De Maintenance Préventive (h/f)",
-   "location": "Neuf-Brisach"
-  },
-  "219abb6b28d5ca317d5bd202d26e0f7d": {
-   "id": "219abb6b28d5ca317d5bd202d26e0f7d",
-   "company": "Constellium",
-   "role": "Technicien.ne De Fiabilisation Mécanique - Fonderie",
-   "location": "Biesheim"
+  "6658a4efc36c0877764c45e967224dd4": {
+   "id": "6658a4efc36c0877764c45e967224dd4",
+   "company": "SWAROVSKI",
+   "role": "Cdi - Conseiller De Vente (h/f/x) 25h - Outlet Roubaix",
+   "location": "Lille"
   },
   "fe8445229e0be8922330215bf05e7113": {
    "id": "fe8445229e0be8922330215bf05e7113",
@@ -3950,17 +3950,41 @@
    "role": "Cdd - Conseiller De Vente (h/f/x) 28h - Galeries Lafayette Nice",
    "location": "Nice"
   },
-  "6525d53272ed6c8e924359f3b15ed443": {
-   "id": "6525d53272ed6c8e924359f3b15ed443",
-   "company": "Coty",
-   "role": "Beauty Advisor",
-   "location": "Nice"
-  },
   "62514e6d606f9b3821ad4545ecc977b9": {
    "id": "62514e6d606f9b3821ad4545ecc977b9",
    "company": "Suez Group",
    "role": "Assistant(e) D'agence - Relais Rh (f/h)",
    "location": "Nice"
+  },
+  "9f322ff3d67de50677378c9ebcde6ea1": {
+   "id": "9f322ff3d67de50677378c9ebcde6ea1",
+   "company": "Bilbr",
+   "role": "Alternance - Assistant(e) Chef De Produits (12 Mois À Partir D'octobre 2026)",
+   "location": "Paris"
+  },
+  "da9ca693f15bae279a4bd8fc64a18e9e": {
+   "id": "da9ca693f15bae279a4bd8fc64a18e9e",
+   "company": "Thales",
+   "role": "Afterwork Handi-engage => Venez Nous Rencontrer Le 23/09/2026 !",
+   "location": "Paris"
+  },
+  "853c729597f09d6453e6506b8ddc77a6": {
+   "id": "853c729597f09d6453e6506b8ddc77a6",
+   "company": "Thales",
+   "role": "Responsable De Lot Expédition - F/h",
+   "location": "Paris"
+  },
+  "d995161d5641354d231a5dca4eed7450": {
+   "id": "d995161d5641354d231a5dca4eed7450",
+   "company": "Thales",
+   "role": "Assistante De Direction F/h",
+   "location": "Paris"
+  },
+  "07672ca79a383b08f6d5c4879ef1daa6": {
+   "id": "07672ca79a383b08f6d5c4879ef1daa6",
+   "company": "Thales",
+   "role": "Cdd De 12 Mois - Assistant Cse F/h",
+   "location": "Paris"
   },
   "acd4db6fca4b9e7dce6c8b080d6a6da5": {
    "id": "acd4db6fca4b9e7dce6c8b080d6a6da5",
@@ -4404,36 +4428,6 @@
    "id": "d80409a06fa037fdb011b2a803ce3933",
    "company": "Pawllywood",
    "role": "Marketing Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)",
-   "location": "Paris"
-  },
-  "9178d4251df68ee3a5184ad714912f55": {
-   "id": "9178d4251df68ee3a5184ad714912f55",
-   "company": "Tommy Hilfiger",
-   "role": "Marketing Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)",
-   "location": "Paris"
-  },
-  "086153018e477e21e9428bba132d5793": {
-   "id": "086153018e477e21e9428bba132d5793",
-   "company": "Dmhvh",
-   "role": "Marketing & Communication Assistant (m/f/d*) – Calvin Klein – Stage Janvier 2027 (6 Mois)",
-   "location": "Paris"
-  },
-  "07d6ba9c88906d0701051abc0db526de": {
-   "id": "07d6ba9c88906d0701051abc0db526de",
-   "company": "Fromageries Bel",
-   "role": "Stage - Assistant(e) Marketing Opérationnel Foodservice (f/h/x) - Janvier 2027",
-   "location": "Paris"
-  },
-  "a18a735071b3b535e28d56a47411f5af": {
-   "id": "a18a735071b3b535e28d56a47411f5af",
-   "company": "Fromageries Bel",
-   "role": "Stage - Assistant(e) Chef De Produit France (f/h/x) - Janvier 2027",
-   "location": "Paris"
-  },
-  "590cd612aa3990c930cac44cae3c2983": {
-   "id": "590cd612aa3990c930cac44cae3c2983",
-   "company": "Fromageries Bel",
-   "role": "Stage -assistant(e) Achats - Projets Sous-traitance (f/h/x) - Juillet 2026",
    "location": "Paris"
   }
  }

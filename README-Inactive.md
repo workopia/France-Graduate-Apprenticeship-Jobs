@@ -2940,4 +2940,28 @@
 <tr><td>Dolce</td><td>Client Advisor Paris Galeries Lafayette H/f</td><td>Paris</td><td>2026-08-17</td></tr>
 <tr><td>Fromageries Bel</td><td>Alternance - Assistant(e) Achats Pommes (f/h/x) - Septembre 2026</td><td>Boué</td><td>2026-08-17</td></tr>
 <tr><td>Nomura International PLC</td><td>Hr Advisor - 6 Month Fixed Term Contract</td><td>Paris</td><td>2026-08-17</td></tr>
+<tr><td>International SOS</td><td>Sales Executive Intern</td><td>Paris</td><td>2026-08-18</td></tr>
+<tr><td>Paramount Group Inc</td><td>Publicity Intern</td><td>Paris</td><td>2026-08-18</td></tr>
+<tr><td>Nestlé</td><td>Vendeur - Stage (h/f)</td><td>Paris</td><td>2026-08-18</td></tr>
+<tr><td>AVL List GmbH</td><td>Stage - Simulation Architecture Véhicule(h/f)</td><td>Lardy</td><td>2026-08-18</td></tr>
+<tr><td>Euronext</td><td>Internship – M&a Analyst</td><td>Paris</td><td>2026-08-18</td></tr>
+<tr><td>SKF Sverige AB</td><td>Apprenti(e) Master Architecture Applicative Et Logicielle (f/h)</td><td>Marseille</td><td>2026-08-18</td></tr>
+<tr><td>SKF Group</td><td>Apprenti(e) Master Architecture Applicative Et Logicielle (f/h)</td><td>Marseille</td><td>2026-08-18</td></tr>
+<tr><td>Case Law Reporter</td><td>Alternance Éditeur De Développement F/h</td><td>Paris</td><td>2026-08-18</td></tr>
+<tr><td>Cabaia</td><td>Assistant(e) Support It - Alternance</td><td>Paris</td><td>2026-08-18</td></tr>
+<tr><td>SGS & Co</td><td>Auditeur Food Certifié GFSI H/F</td><td>Paris</td><td>2026-08-18</td></tr>
+<tr><td>GXO Logistics</td><td>Technicien De Maintenance F/h</td><td>Le Coudray-Montceaux</td><td>2026-08-18</td></tr>
+<tr><td>Holcim</td><td>Mécanicien Maintenance Industrielle (h/f) - Le Teil</td><td>Viviers</td><td>2026-08-18</td></tr>
+<tr><td>RTX Corporation</td><td>Technicien(ne) De Maintenance Electronique</td><td>Toulouse</td><td>2026-08-18</td></tr>
+<tr><td>PPG Industries</td><td>Technicien De Maintenance Industrielle H/f</td><td>Ruitz</td><td>2026-08-18</td></tr>
+<tr><td>Constellium</td><td>Intervenants Maintenance</td><td>Montreuil-Juigné</td><td>2026-08-18</td></tr>
+<tr><td>Constellium</td><td>Technicien De Maintenance Electrique 5x8 H/f</td><td>Neuf-Brisach</td><td>2026-08-18</td></tr>
+<tr><td>Constellium</td><td>Compagnon De Maintenance Préventive (h/f)</td><td>Neuf-Brisach</td><td>2026-08-18</td></tr>
+<tr><td>Constellium</td><td>Technicien.ne De Fiabilisation Mécanique - Fonderie</td><td>Biesheim</td><td>2026-08-18</td></tr>
+<tr><td>Coty</td><td>Beauty Advisor</td><td>Nice</td><td>2026-08-18</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Marketing Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-18</td></tr>
+<tr><td>Dmhvh</td><td>Marketing & Communication Assistant (m/f/d*) – Calvin Klein – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-18</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Assistant(e) Marketing Opérationnel Foodservice (f/h/x) - Janvier 2027</td><td>Paris</td><td>2026-08-18</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Assistant(e) Chef De Produit France (f/h/x) - Janvier 2027</td><td>Paris</td><td>2026-08-18</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage -assistant(e) Achats - Projets Sous-traitance (f/h/x) - Juillet 2026</td><td>Paris</td><td>2026-08-18</td></tr>
 </table>
