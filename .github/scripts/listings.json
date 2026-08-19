@@ -12,8 +12,8 @@
   "as_of": "2026-08-19",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 11027,
-  "generated_at": "2026-08-19T01:15:34.674Z"
+  "country_live_total": 11022,
+  "generated_at": "2026-08-19T09:48:21.001Z"
  },
  "categories": [
   {
@@ -2116,6 +2116,23 @@
   },
   {
    "salary_display": null,
+   "id": "bd638735a0feb31843a726ef457a8e00",
+   "source": "Workopia",
+   "company_name": "St. Regis Hotels & Resorts",
+   "company_hi_slug": "st-regis-hotels-resorts",
+   "title": "Apprenti Technique F/h",
+   "location": "Paris",
+   "skills": "Maintenance, Technical Support",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-13T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/bd638735a0feb31843a726ef457a8e00",
+   "category": "grad",
+   "tier": "Graduate"
+  },
+  {
+   "salary_display": null,
    "id": "9d3705fbef16fb2b8df1e202b0414fd0",
    "source": "Workopia",
    "company_name": "Genesis Energy",
@@ -2774,23 +2791,6 @@
    "date_posted": "2026-08-05T02:53:39.677Z",
    "active": true,
    "url": "https://workopia.io/jobs/80014",
-   "category": "grad",
-   "tier": "Graduate"
-  },
-  {
-   "salary_display": null,
-   "id": "81300",
-   "source": "Workopia",
-   "company_name": "Firmenich",
-   "company_hi_slug": "firmenich",
-   "title": "Apprentice Consumer Insights & Market Intelligence",
-   "location": "Paris",
-   "skills": "Consumer studies, Data analysis",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-05T02:53:39.665Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/81300",
    "category": "grad",
    "tier": "Graduate"
   },

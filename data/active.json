@@ -32,12 +32,6 @@
    "role": "Apprenti Gestion De Stock Et Logistique",
    "location": "Paris"
   },
-  "81300": {
-   "id": "81300",
-   "company": "Firmenich",
-   "role": "Apprentice Consumer Insights & Market Intelligence",
-   "location": "Paris"
-  },
   "2564529": {
    "id": "2564529",
    "company": "Dev Audio Hiflow",
@@ -761,6 +755,12 @@
   "748b2077396d1949cf176eaf8e16ad6a": {
    "id": "748b2077396d1949cf176eaf8e16ad6a",
    "company": "The Ritz-Carlton",
+   "role": "Apprenti Technique F/h",
+   "location": "Paris"
+  },
+  "bd638735a0feb31843a726ef457a8e00": {
+   "id": "bd638735a0feb31843a726ef457a8e00",
+   "company": "St. Regis Hotels & Resorts",
    "role": "Apprenti Technique F/h",
    "location": "Paris"
   },

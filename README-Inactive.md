@@ -3021,4 +3021,5 @@
 <tr><td>PVH</td><td>Marketing & Communication Assistant (m/f/d*) – Calvin Klein – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-19</td></tr>
 <tr><td>Pawllywood</td><td>Marketing & Communication Assistant (m/f/d*) – Calvin Klein – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-19</td></tr>
 <tr><td>Pawllywood</td><td>Marketing Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Firmenich</td><td>Apprentice Consumer Insights & Market Intelligence</td><td>Paris</td><td>2026-08-19</td></tr>
 </table>
