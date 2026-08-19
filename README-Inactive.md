@@ -2964,4 +2964,61 @@
 <tr><td>Fromageries Bel</td><td>Stage - Assistant(e) Marketing Opérationnel Foodservice (f/h/x) - Janvier 2027</td><td>Paris</td><td>2026-08-18</td></tr>
 <tr><td>Fromageries Bel</td><td>Stage - Assistant(e) Chef De Produit France (f/h/x) - Janvier 2027</td><td>Paris</td><td>2026-08-18</td></tr>
 <tr><td>Fromageries Bel</td><td>Stage -assistant(e) Achats - Projets Sous-traitance (f/h/x) - Juillet 2026</td><td>Paris</td><td>2026-08-18</td></tr>
+<tr><td>Firmenich</td><td>Consumer Insights Apprentice</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Ami Paris</td><td>Stage - Assistant.e Développement & Maintenance Retail H/f</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>IDEMIA</td><td>Stagiaire Digitalisation</td><td>Rennes</td><td>2026-08-19</td></tr>
+<tr><td>Sonova Group</td><td>Alternance Audioprothésiste Paris 1er H/f</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Stage - Conception Et Développement Bi - Contrôle De Gestion Opérations France H/f 1</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Stage - Controle De Gestion F/h</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>AptarGroup</td><td>Alternant(e) - Supply Chain Et Datas H/f</td><td>Verneuil D'Avre Et D'Iton</td><td>2026-08-19</td></tr>
+<tr><td>Boston Scientific Foundation Inc</td><td>Stagiaire En Communication D'entreprise 1</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Winter@richemont Montblanc</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>HR Path</td><td>Stage Chargé De Marketing (h/f)</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Coty Inc</td><td>Apprenticeship Channel And Porfolio Intern</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Stagiaire Business Resilience & Supply Chain Risk Hf</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Procter & Gamble (P&G)</td><td>Stage De 6 Mois - Supply Chain Octobre 2026 – Mars 2027 – Master 1 Ou 2 - 1600€/mois (h/f)</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>P&G</td><td>Stage De 6 Mois - Supply Chain Octobre 2026 – Mars 2027 – Master 1 Ou 2 - 1600€/mois (h/f)</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Séritel</td><td>Stagiaire Développement Commercial (h/f)</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>AptarGroup Inc</td><td>Stagiaire Méthodes H/f</td><td>BréCey</td><td>2026-08-19</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant Métrologie H/f</td><td>Granville</td><td>2026-08-19</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant(e) - Digital Marketing H/f</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>AptarGroup Inc</td><td>Stagiaire Industrialisation Produit H/f</td><td>Granville</td><td>2026-08-19</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant Technicien Développement Produits</td><td>Le Neubourg</td><td>2026-08-19</td></tr>
+<tr><td>RENAULT s.a.s.</td><td>Cs27 – Stage - Bac+5 – Chargée D'études De Marché & Connaissance Clients (h/f)</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Stage - Bac +5 - Assistant Launching ( H/f)</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Stage - Bac +5 - Juriste Droit Social (h/f)</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Coloplast AS</td><td>Apprenti(e) Junior Product Manager (92) - H/f</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Infobip</td><td>Marketing Apprentice</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Recordati Industria Chimica e Farmaceutica S.p.A</td><td>Apprentice Legal</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Mitel</td><td>Ai Strategy Apprentice - Services</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>HPE</td><td>Apprenti Digital Sales Representative (h/f)</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>CMA CGM Group</td><td>Apprenti Chargé De Développement Commercial (f/h) En Alternance</td><td>Marseille</td><td>2026-08-19</td></tr>
+<tr><td>AccorHotels</td><td>Apprenti Barman (f/h/nb)</td><td>Toulouse</td><td>2026-08-19</td></tr>
+<tr><td>afa'afea</td><td>Apprentice Bac +4/5 Data Analyst Fleet Management Africa & Lapac H/f</td><td>Lyon</td><td>2026-08-19</td></tr>
+<tr><td>Schindler Group</td><td>Alternance - Technicien De Maintenance (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Schindler Group</td><td>Technicien Agence Service (h/f) - Vanves</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Schindler Group</td><td>Alternance - Technicien De Réparation (h/f) - Vanves</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Technicien De Maintenance Point Service Toulouse</td><td>Toulouse</td><td>2026-08-19</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Cfo Multitechnique Itinérant Idf F/h</td><td>Saint</td><td>2026-08-19</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance Cfo Multitechnique Itinérant Idf F/h</td><td>Saint</td><td>2026-08-19</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Cvc/froid Data Center Bussy-saint-georges 77 F/h</td><td>Bussy</td><td>2026-08-19</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Fr - Agent/technicien De Maintenance (h/f/x)</td><td>Marseille</td><td>2026-08-19</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Fr - Agent/technicien De Maintenance (h/f/x)</td><td>Marseille</td><td>2026-08-19</td></tr>
+<tr><td>Sonoco Employees Benefit Trust</td><td>Technicien De Maintenance Électrique</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Tetra Pak</td><td>Future Talent - Maintenance Engineer - Paris Or Orleans</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Tetra Pak</td><td>Future Talent - Maintenance Engineer</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Tetra Pak</td><td>Technicienne / Technicien De Maintenance (f/h)</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Verallia Packaging</td><td>Opérateur Maintenance 5x8 H/f</td><td>Lyon</td><td>2026-08-19</td></tr>
+<tr><td>Verallia Packaging</td><td>Mécanicien Is H/f</td><td>Lyon</td><td>2026-08-19</td></tr>
+<tr><td>CHUBB FIRE & SECURITY</td><td>Technicien De Maintenance</td><td>Rue Michel Poulmarch</td><td>2026-08-19</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>CLAAS Group</td><td>Vendeur Conseil H/f</td><td>ChâTeau Gaillard</td><td>2026-08-19</td></tr>
+<tr><td>CLAAS Group</td><td>Vendeur Conseil Viticole (h/f)</td><td>Lyon</td><td>2026-08-19</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Vendeurs (f/h) - Cdi 16h - Chateauroux</td><td>Chateauroux</td><td>2026-08-19</td></tr>
+<tr><td>Galeries Lafayette</td><td>Conseiller De Vente - Galeries Lafayette Royal Quartz Roissy H/f</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Pradagroup</td><td>Prada Client Advisor Cdd (h/f) Paris</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>SWAROVSKI</td><td>Cdd - Conseiller De Vente (h/f/x) 28h - Galeries Lafayette Nice</td><td>Nice</td><td>2026-08-19</td></tr>
+<tr><td>PVH</td><td>Marketing & Communication Assistant (m/f/d*) – Calvin Klein – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Pawllywood</td><td>Marketing & Communication Assistant (m/f/d*) – Calvin Klein – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Pawllywood</td><td>Marketing Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-19</td></tr>
 </table>
