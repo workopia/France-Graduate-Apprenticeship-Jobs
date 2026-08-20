@@ -3022,4 +3022,57 @@
 <tr><td>Pawllywood</td><td>Marketing & Communication Assistant (m/f/d*) – Calvin Klein – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-19</td></tr>
 <tr><td>Pawllywood</td><td>Marketing Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-19</td></tr>
 <tr><td>Firmenich</td><td>Apprentice Consumer Insights & Market Intelligence</td><td>Paris</td><td>2026-08-19</td></tr>
+<tr><td>Estée Lauder</td><td>Internship - Visual Merchandising Project</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Firmenich</td><td>Apprenti Gestion De Stock Et Logistique</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Division Of Internal Oversight Services</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Melia</td><td>Stagiaire F&b - Maison Colbert, Melia Collection - Paris, France</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) Ressources Humaines H/f - Innside Paris Charles De Gaulle</td><td>Val</td><td>2026-08-20</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) De Direction - Innside Paris Charles De Gaulle (paris, France)</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>GitGuardian</td><td>Product Marketing Intern</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Mersen</td><td>Alternant - Support Opérationnel/amélioration Continue (h/f)</td><td>54</td><td>2026-08-20</td></tr>
+<tr><td>Mersen</td><td>Alternant Service Relations Clients F/h</td><td>Amiens</td><td>2026-08-20</td></tr>
+<tr><td>Nestle Ltd</td><td>Stage Category Manager Nescafé F/h</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>HSH Management Services Ltd</td><td>Internship In Room Dining</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>SO/ Paris</td><td>Stagiaire En Réception</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Theatre Sponsor</td><td>Alternant Securite Informatique - H/f</td><td>Tours</td><td>2026-08-20</td></tr>
+<tr><td>Theatre Sponsor</td><td>Marketing Operations Intern</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Worldline</td><td>Alternance - Group Benefits F/h</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Edgewell Personal Care Brands LLC</td><td>Stage De Category Manager Enseignes & Trade Marketing Wilkinson H/f</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Boston Consulting Group</td><td>Visiting Associate, Internship, France</td><td>France</td><td>2026-08-20</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Attaché De Presse Institutionnelle Internationale (h/f)</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Stage - Bac +5 - Assistant Marketing Communication Transformation (h/f)</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Stagiaire Chargé De Marketing Digital Sud-ouest Europe H/f</td><td>Rion Des Landes</td><td>2026-08-20</td></tr>
+<tr><td>Sofitel Paris Le Faubourg</td><td>Stagiaire Réception (h/f/x)</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Barry Callebaut AG</td><td>Stagiaires Marketing</td><td>Mantes La Jolie</td><td>2026-08-20</td></tr>
+<tr><td>Procter & Gamble (P&G)</td><td>Stage De 6 Mois - Supply Chain Janvier 2027 – Juin 2027 – Master 1 Ou 2 - 1600€/mois (h/f) - One Day Recruitment</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>P&G</td><td>Stage De 6 Mois - Supply Chain Janvier 2027 – Juin 2027 – Master 1 Ou 2 - 1600€/mois (h/f) - One Day Recruitment</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>PG Solutions</td><td>Stage De 6 Mois - Supply Chain Janvier 2027 – Juin 2027 – Master 1 Ou 2 - 1600€/mois (h/f) - One Day Recruitment</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Sonoco Employees Benefit Trust</td><td>Internal Audit Intern</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Sonoco</td><td>Internal Audit Intern</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Sonova Group</td><td>Alternance Audioprothésiste Paris 20e H/f</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Coty Inc.</td><td>Global Education & Retail Apprentice</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>GSK plc</td><td>Alternant - Ingénieur Technique H/f</td><td>Mantes La Jolie</td><td>2026-08-20</td></tr>
+<tr><td>GE VERNOVA</td><td>Stagiaire Développement Logiciel Diagnostic Box (h/f)</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Atos</td><td>Ingénieur Validation Software R&d Hpc (f/h)</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Alternance 12 Mois - Marketing Stratégique Et Business Intelligence</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Salonichopra</td><td>Alternance 12 Mois – Analyse Intelligence Stratégique</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Avanade</td><td>Business Analyst D365 F&o (bams)</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Nestle SA</td><td>Comptable F/h</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation (h/f) - Vanves</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation Expert (h/f) - Grenoble</td><td>Grenoble</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation (h/f) - Idf Sud</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Maintenance Référent</td><td>Nantes</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation Expert</td><td>Lyon</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Alternance - Technicien De Maintenance (h/f) - Vanves</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur Cdd (h/f)</td><td>Toulouse</td><td>2026-08-20</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Conseiller(ère) Beauté Le Bon Marché - Cdi (h/f)</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>JYSK</td><td>Responsable De Rayon (h/f)</td><td>Augny</td><td>2026-08-20</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 16h Cdi H/f/x</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 25h Cdi H/f/x</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 35h Cdi H/f/x</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Ferrero LADM</td><td>Promoteur Des Ventes Gms F/h/x - Clichy Sous Bois (93)</td><td>Paris</td><td>2026-08-20</td></tr>
+<tr><td>Intermarche</td><td>Itm Lai Montsoult - Coordinateur Logistique - H/f</td><td>Montsoult</td><td>2026-08-20</td></tr>
 </table>
