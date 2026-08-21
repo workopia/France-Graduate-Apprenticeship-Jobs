@@ -3075,4 +3075,51 @@
 <tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 35h Cdi H/f/x</td><td>Paris</td><td>2026-08-20</td></tr>
 <tr><td>Ferrero LADM</td><td>Promoteur Des Ventes Gms F/h/x - Clichy Sous Bois (93)</td><td>Paris</td><td>2026-08-20</td></tr>
 <tr><td>Intermarche</td><td>Itm Lai Montsoult - Coordinateur Logistique - H/f</td><td>Montsoult</td><td>2026-08-20</td></tr>
+<tr><td>Portalp</td><td>Technicien De Maintenance Portes Automatiques - 81 H/f</td><td>Toulouse</td><td>2026-08-21</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire Stewarding (h/f)</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire Service F&b - Restauration Etoilée (h/f)</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Stage - Conception Et Développement Bi - Contrôle De Gestion Opérations France H/f 1</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Stage - Controle De Gestion F/h</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Alternance - Back Office Edi H/f</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Stage - Conception Et Développement Bi - Contrôle De Gestion Opérations France H/f 1</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Stage - Controle De Gestion F/h</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Back Office Edi H/f</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternant Automaticien</td><td>Avelin</td><td>2026-08-21</td></tr>
+<tr><td>Arkema S.A.</td><td>Stage : Juriste Droit Social H/f</td><td>ÎLe-De-France</td><td>2026-08-21</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternance - Contrôle De Gestion H/f</td><td>ÎLe</td><td>2026-08-21</td></tr>
+<tr><td>MyUnisoft</td><td>Hr Executive Apprentice (h/f)</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Payfit</td><td>Growth Marketing Apprentice - Starting In November (1 Year)</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Colgate-Palmolive</td><td>Apprentice - Beauty Advisor</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Sartorius</td><td>Contrat D'apprentissage - Comptabilité Client (f/h)</td><td>Marseille</td><td>2026-08-21</td></tr>
+<tr><td>57</td><td>Alternance - Ingénieur Travaux (h/f)</td><td>Nantes</td><td>2026-08-21</td></tr>
+<tr><td>Valeoservice Com Br</td><td>Alternant(e) Market Intelligence And Business Monitoring Analyst (h/f)</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Data Analyst - Export Control & National Security (m/f)</td><td>Marseille</td><td>2026-08-21</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Sur Parcs Éoliens (h/f), Champniers (16), Charente</td><td>Champniers</td><td>2026-08-21</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Préventive Sur Parcs Éoliens,germinon, Marne (51), H/f</td><td>Germinon</td><td>2026-08-21</td></tr>
+<tr><td>Bridgestone EMEA</td><td>Technicien Spécialiste Maintenance Pneumatique Véhicules Industriels</td><td>Bordeaux</td><td>2026-08-21</td></tr>
+<tr><td>Mersen</td><td>Alternant - Technicien De Maintenance Électrique</td><td>Pagny-Sur-Moselle</td><td>2026-08-21</td></tr>
+<tr><td>Mersen</td><td>Technicien Maintenance F/h</td><td>Lyon</td><td>2026-08-21</td></tr>
+<tr><td>Mersen</td><td>Technicien De Maintenance F/h</td><td>Grenoble</td><td>2026-08-21</td></tr>
+<tr><td>Carrier Global</td><td>Attaché Technique - Rodez H/f</td><td>Toulouse</td><td>2026-08-21</td></tr>
+<tr><td>Carrier</td><td>Attaché Technique - Rodez H/f</td><td>Toulouse</td><td>2026-08-21</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Matériel Roulant Bus H/f</td><td>Bordeaux</td><td>2026-08-21</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Equipements Industriels</td><td>Orleans</td><td>2026-08-21</td></tr>
+<tr><td>Schindler Group</td><td>Technicien(ne) De Réparation (h/f) - Salon De Provence</td><td>Aix En Provence</td><td>2026-08-21</td></tr>
+<tr><td>Schindler Group</td><td>Technicien(ne) Spécialiste Réparation (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Schindler Group</td><td>Technicien(ne) De Montage Référent(e) (h/f) - Rungis</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Maintenance Référent (h/f) - Paris</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Maintenance (h/f) -toulouse</td><td>Toulouse</td><td>2026-08-21</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Lyon</td><td>2026-08-21</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur Boulangerie (h/f)</td><td>Annecy</td><td>2026-08-21</td></tr>
+<tr><td>Nike</td><td>Athlete Nike (vendeur.se En Magasin) – H / F Cdd 35h</td><td>St. Maximin</td><td>2026-08-21</td></tr>
+<tr><td>Coty Inc.</td><td>Promoteur Des Ventes Cahors</td><td>Cahors</td><td>2026-08-21</td></tr>
+<tr><td>Coty Inc.</td><td>Beauty Advisor</td><td>Nice</td><td>2026-08-21</td></tr>
+<tr><td>Kiabi</td><td>_conseiller De Vente (h/f/nb)/cdd 35heures / 2 Mois</td><td>Toulouse</td><td>2026-08-21</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Press & Influence Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Priorityhondaroanoke</td><td>Marketing & Communication Assistant (m/f/d*) – Calvin Klein – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Priorityhondaroanoke</td><td>Marketing Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Pvhcc</td><td>Marketing & Communication Assistant (m/f/d*) – Calvin Klein – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Pvhcc</td><td>Marketing Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Designeroutletberlin</td><td>Marketing Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>PVH</td><td>Marketing & Communication Assistant (m/f/d*) – Calvin Klein – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-21</td></tr>
 </table>
