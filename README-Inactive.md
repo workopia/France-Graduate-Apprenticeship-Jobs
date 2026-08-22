@@ -3122,4 +3122,49 @@
 <tr><td>Pvhcc</td><td>Marketing Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-21</td></tr>
 <tr><td>Designeroutletberlin</td><td>Marketing Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-21</td></tr>
 <tr><td>PVH</td><td>Marketing & Communication Assistant (m/f/d*) – Calvin Klein – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-21</td></tr>
+<tr><td>Forvia</td><td>Purchasing Excellence Leader Intern (m/f)</td><td>Bavans</td><td>2026-08-22</td></tr>
+<tr><td>RENAULT s.a.s.</td><td>Cs27 6 Stage - Bac +5 - Chef De Projet Ia Générative & Automatisation Pour La Qualité Des Dossiers D'homologation Automobile (h/f)</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Vandemoortele NV</td><td>Alternant(e) Qualité F/h</td><td>Le Fossat</td><td>2026-08-22</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stage - Alstom Relation Investisseur F/h</td><td>Saint</td><td>2026-08-22</td></tr>
+<tr><td>createyourowncareer</td><td>Alternance Qualité Systèmes H/f</td><td>Chanteloup-En-Brie</td><td>2026-08-22</td></tr>
+<tr><td>Four Seasons Hotel George V, Paris</td><td>Stagiaire Boulangerie (h/f)</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Four Seasons Hotel George V, Paris</td><td>Stagiaire Commis Sommelier - Restaurant Le George (h/f)</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire Boulangerie (h/f)</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire Commis Sommelier - Restaurant Le George (h/f)</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Four Seasons Hotel George V, Paris</td><td>Stagiaire Stewarding (h/f)</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Four Seasons Hotel George V, Paris</td><td>Stagiaire Service F&b - Restauration Etoilée (h/f)</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Ardagh Group</td><td>Apprentis Supply And Demand / Adv (h-f)</td><td>Marseille</td><td>2026-08-22</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Alt 2026_apprenti(e) Marketing Stratégique & Opérationnel (h/f)</td><td>Toulouse</td><td>2026-08-22</td></tr>
+<tr><td>ArianeGroup</td><td>Alternance - Ingénieure / Ingénieur Chaîne De Télémesure Et Communication Spatiale</td><td>Mantes La Jolie</td><td>2026-08-22</td></tr>
+<tr><td>Keolis</td><td>Mecanicien Bus Et Car H/f</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Bonduelle</td><td>Référent Mécanicien H/f</td><td>BordèRes-Et-Lamensans</td><td>2026-08-22</td></tr>
+<tr><td>Bonduelle</td><td>Electromécanicien Parage (h/f)</td><td>Renescure</td><td>2026-08-22</td></tr>
+<tr><td>Bonduelle</td><td>Technicien (h /f) - Equipe Elec Auto Détection</td><td>Renescure</td><td>2026-08-22</td></tr>
+<tr><td>Bonduelle</td><td>Electromécanicien</td><td>EstréEs</td><td>2026-08-22</td></tr>
+<tr><td>Bombardier</td><td>Licensed Technician B1/b2 - Paris</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>santecie</td><td>Technicien(ne) De Maintenance</td><td>Veurey-Voroize +1</td><td>2026-08-22</td></tr>
+<tr><td>Curium PET France</td><td>Technicien De Maintenance Itinérant - Cdd - H/f</td><td>Saint-Beauzire</td><td>2026-08-22</td></tr>
+<tr><td>Curium PET France</td><td>Technicien De Maintenance Région Sud-ouest - Cdi (h/f)</td><td>RéGion Sud-Ouest</td><td>2026-08-22</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h) 1 1</td><td>Crespin</td><td>2026-08-22</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h) 1</td><td>Saint</td><td>2026-08-22</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Chargé De Maintenance Moyens Industriels (h/f)</td><td>La Rochelle</td><td>2026-08-22</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien(ne) Maintenance - Mécanique - F/h</td><td>Ornans</td><td>2026-08-22</td></tr>
+<tr><td>Equinix Inc.</td><td>Technicien(ne) De Maintenance Multitechnique Datacenter</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Technicien De Maintenance De Parcs Éoliens (h/f) - Candé (49)</td><td>Candé</td><td>2026-08-22</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Technicien De Maintenance De Parcs Éoliens (h/f) - Bournezeau (85)</td><td>Bournezeau</td><td>2026-08-22</td></tr>
+<tr><td>ANTAVIA</td><td>Technicien En Electromecanique (h/f)</td><td>Campsas</td><td>2026-08-22</td></tr>
+<tr><td>AMETEK Inc</td><td>Technicien En Mécanique, Hydraulique Et Trains</td><td>Campsas</td><td>2026-08-22</td></tr>
+<tr><td>Getinge AB</td><td>Alternant Technicien De Maintenance Industrielle (h/f)</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>CHUBB FIRE & SECURITY</td><td>Technicien De Maintenance Pi</td><td>Lille</td><td>2026-08-22</td></tr>
+<tr><td>Holcim</td><td>Technicien De Maintenance Navale (h/f) - Nanterre (92)</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Fenwick-Linde Opérations</td><td>Technicien De Maintenance</td><td>Cenon-Sur-Vienne</td><td>2026-08-22</td></tr>
+<tr><td>Arkema S.A.</td><td>Technicien Instrumentation Spécialisé Analyseurs Industriels (f/h)</td><td>ChâTeau</td><td>2026-08-22</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Multitechnique Antony 92 F/h</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Nice</td><td>2026-08-22</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Skechers</td><td>Conseiller De Vente H/f</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Advisor</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Pvhcc</td><td>Press & Influence Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>PVH</td><td>Press & Influence Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>Pawllywood</td><td>Press & Influence Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-22</td></tr>
 </table>
