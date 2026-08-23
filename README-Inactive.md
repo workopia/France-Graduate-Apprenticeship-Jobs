@@ -3281,4 +3281,26 @@
 <tr><td>Medtronic</td><td>Stage – Chef(fe) De Projet Communication H/f</td><td>Paris</td><td>2026-08-23</td></tr>
 <tr><td>Medline Industries Inc</td><td>Assistant(e) Administratif(ve) Service Finances - Cdd 6 Mois</td><td>Paris</td><td>2026-08-23</td></tr>
 <tr><td>Priorityhondaroanoke</td><td>Press & Influence Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant(e) - Supply Chain Et Datas H/f</td><td>Mantes La Jolie</td><td>2026-08-23</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant(e) - Digital Marketing H/f</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant Qualité Produits H/f</td><td>Granville</td><td>2026-08-23</td></tr>
+<tr><td>IDEMIA</td><td>Stagiaire Digitalisation</td><td>Search By Location</td><td>2026-08-23</td></tr>
+<tr><td>Kiabi</td><td>Chargé De Formation Rh (h/f/nb) – Stage 6 Mois</td><td>Lezennes</td><td>2026-08-23</td></tr>
+<tr><td>Standard Chartered</td><td>Transaction Services Intern France 2027</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Standard Chartered</td><td>Coverage Banking Intern France 2027</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Apprenti Cuisine (h/f) - Paris Marriott Champs Elysees Hotel</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Valeo</td><td>Digital Marketing Apprentice</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Western Union</td><td>Junior Aml Compliance Specialist – Paris, France</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Technicien De Maintenance Sav Fermetures Industrielles H/f</td><td>Guitrancourt</td><td>2026-08-23</td></tr>
+<tr><td>URSA Insultaion</td><td>Efbp-aun- Maintenance Technician Iii</td><td>Auneuil</td><td>2026-08-23</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Agent De Maintenance H/f/x</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Sur Parcs Éoliens, Romilly-sur-seine, Aube (10)</td><td>Romilly</td><td>2026-08-23</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Sur Parcs Éoliens (h/f), Champniers (16), Charente</td><td>Champniers</td><td>2026-08-23</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi H/f</td><td>Lyon</td><td>2026-08-23</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Conseiller De Vente H/f</td><td>Lyon</td><td>2026-08-23</td></tr>
+<tr><td>Dim</td><td>Conseiller(e) De Vente H/f 28h Villefontaine</td><td>Lyon</td><td>2026-08-23</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente - 25h Cdi H/f/x</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente - 35h Cdi H/f/x</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Marriott International</td><td>Stagiaire Évènementiel Commercial Réservation H/f</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Diptyque Paris</td><td>Assistant(e) De Direction H/f</td><td>Paris</td><td>2026-08-23</td></tr>
 </table>
