@@ -3167,4 +3167,118 @@
 <tr><td>Pvhcc</td><td>Press & Influence Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-22</td></tr>
 <tr><td>PVH</td><td>Press & Influence Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-22</td></tr>
 <tr><td>Pawllywood</td><td>Press & Influence Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-22</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stagiaire Fin D'étude Méthodes Essais H/f)</td><td>Hangenbieten</td><td>2026-08-23</td></tr>
+<tr><td>Boston Scientific Foundation Inc</td><td>Stagiaire En Communication D'entreprise 1</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Qualité - 6 Mois - Bouvron (n°44)</td><td>Bouvron</td><td>2026-08-23</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Environnement - 6 Mois - Bouvron (n°44)</td><td>Bouvron</td><td>2026-08-23</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Qualité (h/f) - 6 Mois Vallet 44</td><td>Nantes</td><td>2026-08-23</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Stage - Bac+5 - Chargé De Projet Innovations Sustainability (f/h)</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Chanel</td><td>Stage - Chargé(e) De Développement Durable (h/f/x) - Mode - Janvier 2027</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Stage - Chargé(e) De Développement Durable (h/f/x) - Mode - Janvier 2027</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Stagiaire Ressources Humaines (h/f/nb)</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Coloplast</td><td>Stagiaire Ingénieur Supply Chain (24) - H/f</td><td>Sarlat La Caneda</td><td>2026-08-23</td></tr>
+<tr><td>Coloplast AS</td><td>Stagiaire Ingénieur Supply Chain (24) - H/f</td><td>Sarlat La Caneda</td><td>2026-08-23</td></tr>
+<tr><td>Arkema France</td><td>Alternant(e) Chimiste R&d - Formulation Et Caractérisation</td><td>Le Barp</td><td>2026-08-23</td></tr>
+<tr><td>Thales</td><td>Alternance – Is/it – F/h</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Thales</td><td>Alternance - Supply Chain F/h</td><td>Orleans</td><td>2026-08-23</td></tr>
+<tr><td>Thales</td><td>Alternance - Digital Learning F/h</td><td>Orleans</td><td>2026-08-23</td></tr>
+<tr><td>Atos</td><td>R&d Study Of Experimental Embedded Software For Supercomputers Internship</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Atos SE</td><td>R&d Study Of Experimental Embedded Software For Supercomputers Internship</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Communications And Public Engagement</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Governing Bodies Secretariat</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Digital Business Solutions</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Culture Sector</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Intergovernmental Oceanographic Commission</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>SAP Ariba</td><td>Internship: Partner Solution Enablement Associate F/m</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>CommScope Holding</td><td>Intern, Sales</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Eaglefootballgroup</td><td>Ol Lyonnes - Stage / Redaction Digitale (h/f)</td><td>France</td><td>2026-08-23</td></tr>
+<tr><td>FAURECIA SERVICES GroupE</td><td>Purchasing Excellence Leader Intern (m/f)</td><td>Bavans</td><td>2026-08-23</td></tr>
+<tr><td>FAURECIA SERVICES GroupE</td><td>Digital Learning Intern Hr</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>FAURECIA SERVICES GroupE</td><td>Me Trainee/intern</td><td>Caligny</td><td>2026-08-23</td></tr>
+<tr><td>FAURECIA SERVICES GroupE</td><td>Quality Intern</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>FAURECIA SERVICES GroupE</td><td>Quality Trainee/intern 1</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>FAURECIA SERVICES GroupE</td><td>Pc&l Intern</td><td>Bavans</td><td>2026-08-23</td></tr>
+<tr><td>IDEMIA</td><td>Proposal Content & Data Management Intern</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Valeo SA</td><td>Digital Marketing Apprentice</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Coty Inc.</td><td>Advocacy Apprentice</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Nouryon</td><td>Apprenti(e) Maintenance</td><td>Toulouse</td><td>2026-08-23</td></tr>
+<tr><td>IDEXX Laboratories, Inc.</td><td>Data Innovation & International Strategy Apprentice (m/f/d)</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Liverpool Victoria (LV=)</td><td>Apprenti(e) Business Developer</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>itjobber.de</td><td>Internship Smart Automation & Agentic Ai Dev</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Eiffageconstruction</td><td>Ingénieur Commercial H/f</td><td>Toulouse</td><td>2026-08-23</td></tr>
+<tr><td>Airi Quideer</td><td>Stage Ingénieur Conception Pour Le Spatial (solidworks) - Septembre 2026 - H/f</td><td>Mantes La Jolie</td><td>2026-08-23</td></tr>
+<tr><td>Corby Spirit and Wine Ltd</td><td>Alternance - It Support (h/f)</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Atos</td><td>Ingénieur Validation Software R&d Hpc (f/h)</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Daedalus</td><td>Regional End User Services Operator</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Exotrail</td><td>Ground Software Engineer (h/f)</td><td>Toulouse</td><td>2026-08-23</td></tr>
+<tr><td>Airi Quideer</td><td>Stage - Siège Social - Organisation Et Méthodes Comptables H/f</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Nestle SA</td><td>Comptable F/h</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Western Union</td><td>Junior Aml Compliance Specialist – Paris, France</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Préventive Sur Parcs Éoliens,germinon, Marne (51), H/f</td><td>Germinon</td><td>2026-08-23</td></tr>
+<tr><td>Bunge Global</td><td>Mécanicien</td><td>Brest</td><td>2026-08-23</td></tr>
+<tr><td>Bonduelle</td><td>Electromécanicien (h/f)</td><td>Vaulx Vraucourt</td><td>2026-08-23</td></tr>
+<tr><td>BIA Group</td><td>Technicien(ne) Sav F/h (vigneux‑de‑bretagne)</td><td>Nantes</td><td>2026-08-23</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Technicien De Maintenance En Alternance H/f</td><td>Tremblay</td><td>2026-08-23</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Technicien De Maintenance (h/f)</td><td>Lyon</td><td>2026-08-23</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance Industrielle H/f</td><td>CléGuéRec</td><td>2026-08-23</td></tr>
+<tr><td>Pierre Fabre</td><td>Agent De Maintenance Polyvalent</td><td>CorrèZe (19)</td><td>2026-08-23</td></tr>
+<tr><td>naturactive.fr</td><td>Agent De Maintenance Polyvalent</td><td>CorrèZe (19)</td><td>2026-08-23</td></tr>
+<tr><td>Naturactive</td><td>Agent De Maintenance Polyvalent</td><td>CorrèZe (19)</td><td>2026-08-23</td></tr>
+<tr><td>Atos</td><td>Technicien De Maintenance Électronique (h/f)</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>RATP Group</td><td>Mainteneur De Voies Ferrées Rer - F/h - (ratp/infras/voie)</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>RATP</td><td>Mainteneur De Voies Ferrées Rer - F/h - (ratp/infras/voie)</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Carrier Global</td><td>Technicien Sav Itinérant Viessmann Industrie - Lille H/f</td><td>Lille</td><td>2026-08-23</td></tr>
+<tr><td>Carrier</td><td>Technicien Sav Itinérant Viessmann Industrie - Lille H/f</td><td>Lille</td><td>2026-08-23</td></tr>
+<tr><td>CRH PLC</td><td>Technicien Maintenance F/h Chaumes-en-retz (44)</td><td>Chaumes-En-Retz</td><td>2026-08-23</td></tr>
+<tr><td>Nestle SA</td><td>Technicien De Maintenance Creully H/f</td><td>Creully</td><td>2026-08-23</td></tr>
+<tr><td>AptarGroup Inc</td><td>Technicien De Maintenance Niveau 2</td><td>Charleval</td><td>2026-08-23</td></tr>
+<tr><td>AptarGroup Inc</td><td>Technicien Maintenance Presses H/f</td><td>Neubourg</td><td>2026-08-23</td></tr>
+<tr><td>Nestlé</td><td>Technicien De Maintenance Creully H/f</td><td>Creully</td><td>2026-08-23</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance Industrielle (h/f) Châteaubourg (35)</td><td>Rennes</td><td>2026-08-23</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance H/f Cdd Bayeux (14)</td><td>Caen</td><td>2026-08-23</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Vercel (25)</td><td>Vercel</td><td>2026-08-23</td></tr>
+<tr><td>lactalisexperience</td><td>Alternant Maintenance (h/f) - 12 À 24 Mois Livarot (14)</td><td>Livarot</td><td>2026-08-23</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance H/f Sainte Cécile (50)</td><td>Villedieu</td><td>2026-08-23</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Bouvron (44)</td><td>Bouvron</td><td>2026-08-23</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Maintenance Mécanique 5x8 H/f</td><td>Biesheim</td><td>2026-08-23</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Fiabilisation Electrique (h/f)</td><td>Biesheim</td><td>2026-08-23</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Maintenance Electrique 5x8 H/f</td><td>Biesheim</td><td>2026-08-23</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Compagnon De Maintenance Préventive (h/f)</td><td>Biesheim</td><td>2026-08-23</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien.ne De Fiabilisation Mécanique - Fonderie</td><td>Biesheim</td><td>2026-08-23</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Maintenance Mécanique (h/f) - Journée</td><td>Biesheim</td><td>2026-08-23</td></tr>
+<tr><td>Menselsa</td><td>Technicien De Maintenance (h/f/x) - Jussy</td><td>Jussy</td><td>2026-08-23</td></tr>
+<tr><td>Nilfisk</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Technicien Maintenance</td><td>Nice</td><td>2026-08-23</td></tr>
+<tr><td>Intermarche</td><td>Reparateur Contenants (h/f)</td><td>ErbréE</td><td>2026-08-23</td></tr>
+<tr><td>Coloplast</td><td>Laser Maintenance Specialist - Region Europe</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Coloplast AS</td><td>Laser Maintenance Specialist - Region Europe</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Arkema France</td><td>Chargé(e) De Travaux Électricité / Instrumentation F/h</td><td>Genay</td><td>2026-08-23</td></tr>
+<tr><td>Thales</td><td>Technicien Maintenance Banc De Test (h/f)</td><td>Etrelles</td><td>2026-08-23</td></tr>
+<tr><td>Thales</td><td>Technicien Maintenance Des Moyens Industriels-f/h</td><td>Toulouse</td><td>2026-08-23</td></tr>
+<tr><td>Thales</td><td>Technicien Ivvq Mco Optro</td><td>Mantes La Jolie</td><td>2026-08-23</td></tr>
+<tr><td>Thales</td><td>Technicien De Maintenance Bancs De Tests Electroniques F/h</td><td>Mantes La Jolie</td><td>2026-08-23</td></tr>
+<tr><td>Thales</td><td>Technicien De Maintenance Equipements Electroniques Et Alimentation Haute Tension H/f</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Technicien Itinérant Polyvalent Dept. 93/95</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Ball</td><td>Technicien De Maintenance Journée - Spécialisation Électrique / Électrotechnique (h/f)</td><td>Beaurepaire</td><td>2026-08-23</td></tr>
+<tr><td>Vandemoortele NV</td><td>Technicien(ne) De Maintenance F/h</td><td>Le Fossat</td><td>2026-08-23</td></tr>
+<tr><td>Vandemoortele NV</td><td>Maintenance Technician</td><td>Neuville Sur Sarthe</td><td>2026-08-23</td></tr>
+<tr><td>Bonduelle</td><td>Mécanicien (h/f)</td><td>BordèRes</td><td>2026-08-23</td></tr>
+<tr><td>Bonduelle</td><td>Electrotechnicien (h/f)</td><td>EstréEs</td><td>2026-08-23</td></tr>
+<tr><td>Bonduelle</td><td>Mécanicien Expérimenté (h/f)</td><td>EstréEs</td><td>2026-08-23</td></tr>
+<tr><td>Bonduelle</td><td>Électricien Électromécanicien (h /f) - Equipe Elec Auto Drimt</td><td>Renescure</td><td>2026-08-23</td></tr>
+<tr><td>Bonduelle</td><td>Mécanicien Stérilisation (h /f) - Equipe Maintenance Stérilisation</td><td>Renescure</td><td>2026-08-23</td></tr>
+<tr><td>Kiabi</td><td>Conseiller De Vente (h/f/nb)</td><td>Lyon</td><td>2026-08-23</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi H/f</td><td>Toulouse</td><td>2026-08-23</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Cdi - Sales Advisor (h/f)</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Montblanc</td><td>Cdi Sales Advisor - Champs Elysées H/f</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Cdi Sales Advisor - Galeries Lafayette Haussmann H/f</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Cdd - Sales Advisor (h/f)</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Conseiller De Vente H/f</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Hitachi Rail GTS France SAS</td><td>Stagiaire Achat</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Valeo</td><td>Alternance En Marketing Digital</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Valeo SA</td><td>Alternance En Marketing Digital</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Medtronic Diabetes</td><td>Stage – Chef(fe) De Projet Communication H/f</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Medtronic</td><td>Stage – Chef(fe) De Projet Communication H/f</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Medline Industries Inc</td><td>Assistant(e) Administratif(ve) Service Finances - Cdd 6 Mois</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>Priorityhondaroanoke</td><td>Press & Influence Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-08-23</td></tr>
 </table>
