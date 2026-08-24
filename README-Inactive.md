@@ -3303,4 +3303,34 @@
 <tr><td>H&M</td><td>Conseiller(ère) De Vente - 35h Cdi H/f/x</td><td>Paris</td><td>2026-08-23</td></tr>
 <tr><td>Marriott International</td><td>Stagiaire Évènementiel Commercial Réservation H/f</td><td>Paris</td><td>2026-08-23</td></tr>
 <tr><td>Diptyque Paris</td><td>Assistant(e) De Direction H/f</td><td>Paris</td><td>2026-08-23</td></tr>
+<tr><td>My Jewellery</td><td>Conseiller(ère) De Vente Lille (24 Heures)</td><td>Lille</td><td>2026-08-24</td></tr>
+<tr><td>GE VERNOVA</td><td>Apprenti</td><td>Montpellier</td><td>2026-08-24</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Internship - Global Communication Assistant - Gallinée H/f - July 2026</td><td>Paris</td><td>2026-08-24</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Alternance - Assistant Retail Education - Gallinée H/f - Septembre 2026</td><td>Paris</td><td>2026-08-24</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) Ressources Humaines H/f - Innside Paris Charles De Gaulle</td><td>Val-D'Oise</td><td>2026-08-24</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) De Direction - Innside Paris Charles De Gaulle (paris, France)</td><td>Paris</td><td>2026-08-24</td></tr>
+<tr><td>Melia</td><td>Stagiaire F&b - Maison Colbert, Melia Collection - Paris, France</td><td>Paris</td><td>2026-08-24</td></tr>
+<tr><td>AptarGroup Inc</td><td>Stagiaire Méthodes H/f</td><td>BréCey</td><td>2026-08-24</td></tr>
+<tr><td>AptarGroup Inc</td><td>Stagiaire Industrialisation Produit H/f</td><td>Granville</td><td>2026-08-24</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant Technicien Développement Produits</td><td>Le Neubourg</td><td>2026-08-24</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant Hse F/h</td><td>Verneuil D’Avre Et D’Iton</td><td>2026-08-24</td></tr>
+<tr><td>IDEMIA</td><td>Cybersecurity Apprentice - Pentest Automation & Collaboration</td><td>Paris</td><td>2026-08-24</td></tr>
+<tr><td>Careers at Marriott</td><td>Apprenti Cuisine (h/f) - Paris Marriott Champs Elysees Hotel</td><td>Paris</td><td>2026-08-24</td></tr>
+<tr><td>Pierrefabrepharmaceuticals</td><td>Data Analyst - Alternance - H/f</td><td>Toulouse</td><td>2026-08-24</td></tr>
+<tr><td>Pierrefabrepharmaceuticals</td><td>Business Analyst Pharmaceutical Care - Stage - H/f</td><td>Toulouse</td><td>2026-08-24</td></tr>
+<tr><td>Keolis</td><td>Ouvrier Maintenance Préventive Metro F/h</td><td>Lille</td><td>2026-08-24</td></tr>
+<tr><td>Keolis</td><td>Technicien Matériel Embarqué</td><td>Mantes La Jolie</td><td>2026-08-24</td></tr>
+<tr><td>Daikin Europe NV</td><td>Assistant(e) Technicien Sav En Alternance F/h (lille)</td><td>Lille</td><td>2026-08-24</td></tr>
+<tr><td>Cemex Operaciones Mexico SA de CV</td><td>Electro-mécanicien(ne) (h/f) - Marseille Port (13) - Cdi</td><td>Marseille</td><td>2026-08-24</td></tr>
+<tr><td>Cemex Operaciones Mexico SA de CV</td><td>Electro-mécanicien(ne) (h/f) - Alpes-maritimes (06) - Cdi</td><td>Nice</td><td>2026-08-24</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien Opération Maintenance</td><td>Crespin</td><td>2026-08-24</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Lille</td><td>2026-08-24</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Cdd De 1 Mois Conseiller De Vente 28h</td><td>Paris</td><td>2026-08-24</td></tr>
+<tr><td>Capri</td><td>Shop Sales Associate, Cdi 35h, Galeries Lafayette Paris, Footwear</td><td>Paris</td><td>2026-08-24</td></tr>
+<tr><td>Nestlé</td><td>Vendeur Cdd (h/f)</td><td>Lyon</td><td>2026-08-24</td></tr>
+<tr><td>Dim</td><td>Conseiller(e) De Vente H/f 25h Bordeaux</td><td>Bordeaux</td><td>2026-08-24</td></tr>
+<tr><td>JYSK</td><td>Vendeur Polyvalent (h/f)</td><td>Andelnans</td><td>2026-08-24</td></tr>
+<tr><td>Dim</td><td>Conseiller(e) De Vente H/f Passy - Tps Partiel 15h</td><td>Paris</td><td>2026-08-24</td></tr>
+<tr><td>Swiss Re</td><td>Hr Assistant (apprenticeship - M/f/x/d - Hybrid)</td><td>Paris</td><td>2026-08-24</td></tr>
+<tr><td>Diptyque Paris</td><td>Alternance - Assistante De Direction H/f</td><td>Paris</td><td>2026-08-24</td></tr>
 </table>
