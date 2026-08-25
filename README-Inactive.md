@@ -3333,4 +3333,46 @@
 <tr><td>Dim</td><td>Conseiller(e) De Vente H/f Passy - Tps Partiel 15h</td><td>Paris</td><td>2026-08-24</td></tr>
 <tr><td>Swiss Re</td><td>Hr Assistant (apprenticeship - M/f/x/d - Hybrid)</td><td>Paris</td><td>2026-08-24</td></tr>
 <tr><td>Diptyque Paris</td><td>Alternance - Assistante De Direction H/f</td><td>Paris</td><td>2026-08-24</td></tr>
+<tr><td>Coty</td><td>Stagiaire R&d Développement Packaging</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage - Assistant(e) Chargé(e) De Communication Interne (h/f)</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Ass Relation Presse Europe</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Office Of The Director-general</td><td>Multiple</td><td>2026-08-25</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Division Of Internal Oversight Services</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Stage - Ui Designer Intern (h/f)</td><td>Nantes</td><td>2026-08-25</td></tr>
+<tr><td>GE VERNOVA</td><td>Stage - Ui Designer Intern (h/f)</td><td>Nantes</td><td>2026-08-25</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Apprenti</td><td>Montpellier</td><td>2026-08-25</td></tr>
+<tr><td>Coty</td><td>Global Education & Retail Apprentice</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Ardagh Group</td><td>Apprentis Supply And Demand / Adv (h-f)</td><td>Marseille</td><td>2026-08-25</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Ingénieur En Sureté De Fonctionnement - F/h</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Thales Group</td><td>Alternance – Ingénieur Développement Logiciel Simulation – F/h</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Thales Group</td><td>Architecte Développement Logiciel Embarqué F.h</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Technicien Méthodes F/h</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Ingénieur Développement Ia H/f</td><td>Bordeaux</td><td>2026-08-25</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Ingénieur Démonstrations De Navigation Par Satellite - F/h</td><td>Toulouse</td><td>2026-08-25</td></tr>
+<tr><td>Thales Group</td><td>Alternance Ingénieur Software Robotique F/h</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>URW (Unibail-Rodamco-Westfield)</td><td>Stagiaire Analyste Développement Retail France – (f/h)</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Développement Logiciel Temps Réel F.h</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Dashlane</td><td>Software Engineer - Backend</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Business Elements</td><td>Ingénieur Support Technique Clients</td><td>Toulouse</td><td>2026-08-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Data Scientist Big Data & Intelligence Artificielle (h/f)</td><td>Toulouse</td><td>2026-08-25</td></tr>
+<tr><td>Valeo SA</td><td>Alternance - Data Scientist</td><td>Etaples-Sur-Mer</td><td>2026-08-25</td></tr>
+<tr><td>Renault Group</td><td>Ap26 - Bac+5 - Data Scientist - Extraction Des Connaissances Mutli-sources Et La Mise En Place D’un Rag (h/f)</td><td>France</td><td>2026-08-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Analyste Financier En Alternance - Paris</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Analyste Financier (h/f)</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Valeo SA</td><td>Analyste Trésorerie D'exploitation - Stage</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Intermarche</td><td>Business Partner Confirmé H/f</td><td>Vert</td><td>2026-08-25</td></tr>
+<tr><td>Bureau Veritas</td><td>Auditeur Qualité Irca Aéronautique (f-h-x)</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien De Maintenance Extincteurs - H/f</td><td>Nantes</td><td>2026-08-25</td></tr>
+<tr><td>med-in.at</td><td>Technicien De Maintenance H/f</td><td>Rennes</td><td>2026-08-25</td></tr>
+<tr><td>Vetamc</td><td>Technicien De Maintenance H/f</td><td>Rennes</td><td>2026-08-25</td></tr>
+<tr><td>Air Liquide France Industrie</td><td>Charge De Maintenance ( Instrumentation/vannes )</td><td>Lyon</td><td>2026-08-25</td></tr>
+<tr><td>35</td><td>Charge De Maintenance ( Instrumentation/vannes )</td><td>Lyon</td><td>2026-08-25</td></tr>
+<tr><td>SWAROVSKI</td><td>Cdi - Conseiller De Vente (h/f/x) 21h - Forum Des Halles Paris 6</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Vendeur(se) Conseil</td><td>Lyon</td><td>2026-08-25</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Vendeur Conseil Alternant(e)</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>JYSK</td><td>Vendeur Responsable De Réserve (h/f)</td><td>Montmorot</td><td>2026-08-25</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi/cdd - Temps Partiel 8h H/f - Ouverture Basse Goulaine</td><td>Nantes</td><td>2026-08-25</td></tr>
+<tr><td>Levis Media</td><td>Cdd Stylist 20h</td><td>Up</td><td>2026-08-25</td></tr>
+<tr><td>Otis Elevator Co.</td><td>Alternant - Chef De Projet Digital Technology (h/f) (h/f)</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Otis France</td><td>Alternant - Chef De Projet Digital Technology (h/f) (h/f)</td><td>Paris</td><td>2026-08-25</td></tr>
 </table>
