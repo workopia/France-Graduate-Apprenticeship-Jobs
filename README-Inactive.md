@@ -3375,4 +3375,31 @@
 <tr><td>Levis Media</td><td>Cdd Stylist 20h</td><td>Up</td><td>2026-08-25</td></tr>
 <tr><td>Otis Elevator Co.</td><td>Alternant - Chef De Projet Digital Technology (h/f) (h/f)</td><td>Paris</td><td>2026-08-25</td></tr>
 <tr><td>Otis France</td><td>Alternant - Chef De Projet Digital Technology (h/f) (h/f)</td><td>Paris</td><td>2026-08-25</td></tr>
+<tr><td>Ami Paris</td><td>Cdi - Conseiller.ère De Vente - Galeries Lafayette Haussmann Femme</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Arkema France</td><td>Alternant Automaticien</td><td>Avelin</td><td>2026-08-26</td></tr>
+<tr><td>Pernod Ricard</td><td>Alternance Douane & Accises H/f Marseille - Septembre 2026</td><td>Marseille</td><td>2026-08-26</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Stagiaire Restaurant (h/f/nb) - 2 Mois</td><td>Lyon</td><td>2026-08-26</td></tr>
+<tr><td>Coty Inc.</td><td>Stagiaire R&d Développement Packaging</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Coty Inc.</td><td>Apprenticeship Channel And Porfolio Intern</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Coty Inc.</td><td>Real Estate Intern</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Concentrix</td><td>Stage - Assistant Marketing / Data (h/f)</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Internship - Data & Performance Junior Analyst (m/f) 1</td><td>Chalifert</td><td>2026-08-26</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Janvier 2027 - Community And Content Intern Women's Initiative (h/f)</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire En Librairie (h/f)</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Internship - High Jewelry Business Development Assistant</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Thales Group</td><td>Alternance – Ingénieur Développement Web - F/h</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>BlaBlaCar</td><td>Confirmed Front-end Engineer - Door To Door</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Schaeffler</td><td>Data Scientist - R&d H/f</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Mama Shelter</td><td>Technicien De Maintenance (h/f/nb)</td><td>Toulouse</td><td>2026-08-26</td></tr>
+<tr><td>Keolis</td><td>Technicien Maintenance Métro Ligne B F/h</td><td>Rennes</td><td>2026-08-26</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Matériel Roulant Bus H/f</td><td>Bordeaux</td><td>2026-08-26</td></tr>
+<tr><td>Keolis</td><td>Mecanicien Bus Et Car H/f</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Keolis</td><td>Technicien Maintenance Mobilier Urbain - Secteur Vélo F/h</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>SAICA</td><td>Technicien De Maintenance</td><td>Rennes</td><td>2026-08-26</td></tr>
+<tr><td>microsatsystems.biz</td><td>Technicien De Maintenance H/f</td><td>Rennes</td><td>2026-08-26</td></tr>
+<tr><td>MSD (Merck)</td><td>Technicien De Maintenance H/f</td><td>Rennes</td><td>2026-08-26</td></tr>
+<tr><td>skechers.cl</td><td>Conseiller De Vente H/f</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Partiel H/f Cdd/cdi 8h/semaine</td><td>Basse</td><td>2026-08-26</td></tr>
+<tr><td>BIC World</td><td>Assistante Commerciale Btoc (grande Distribution)</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Sonepar Group</td><td>Assistant Marketing Digital Business</td><td>Paris</td><td>2026-08-26</td></tr>
 </table>
