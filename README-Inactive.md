@@ -3402,4 +3402,105 @@
 <tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Partiel H/f Cdd/cdi 8h/semaine</td><td>Basse</td><td>2026-08-26</td></tr>
 <tr><td>BIC World</td><td>Assistante Commerciale Btoc (grande Distribution)</td><td>Paris</td><td>2026-08-26</td></tr>
 <tr><td>Sonepar Group</td><td>Assistant Marketing Digital Business</td><td>Paris</td><td>2026-08-26</td></tr>
+<tr><td>Estée Lauder</td><td>Cdd - Maquilleuse / Vendeuse - Mac Cosmetics Aéroville - 35h H/f/x</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Barry Callebaut AG</td><td>Stagiaires Marketing</td><td>Mantes La Jolie</td><td>2026-08-27</td></tr>
+<tr><td>SAP SE</td><td>Internship: Partner Solution Enablement Associate F/m</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Janvier 2027 - Product & Corporate Pr (f/m)</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>RELX (LexisNexis)</td><td>Alternance/stage Sales Academy- 12 Mois (h/f)</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>valeo.in</td><td>Stagiaire Front Office</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Valeo</td><td>Stagiaire Front Office</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Alstom</td><td>Stagiaire Fin D'étude Méthodes Essais H/f)</td><td>Hangenbieten</td><td>2026-08-27</td></tr>
+<tr><td>Atos</td><td>R&d Study Of Experimental Embedded Software For Supercomputers Internship</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Concur</td><td>Internship: Partner Solution Enablement Associate F/m</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Melia</td><td>Stagiaire Direction H/f - Melia Paris La Défense</td><td>Hauts-De-Seine</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Stage - Juriste Droit Public Des Affaires F/h</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Stage - Corporate M&a F/h 1</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Alternance Chargé(e) Marketing F/h</td><td>Mantes La Jolie</td><td>2026-08-27</td></tr>
+<tr><td>Paramount Group Inc</td><td>Publicity Intern</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Danaher Corp</td><td>Stagiaire Amélioration Continue</td><td>Bazet</td><td>2026-08-27</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Internship - Lidar Technology & System Design Engineer F/h</td><td>Saint</td><td>2026-08-27</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Internship - Railway Design Engineer H/f</td><td>Saint</td><td>2026-08-27</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Alternant Site (h/f)</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Alternant(e) En Communication & Digitalisation H/f</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Stagiaire Sales (h/f/x)</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Cultura</td><td>Stagiaire (f/h) Secteur Editorial (librairie-multimédia-instruments De Musique)</td><td>Toulouse</td><td>2026-08-27</td></tr>
+<tr><td>Marriott International</td><td>Stagiaire Cuisine H/f</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>itjobber.de</td><td>Legal Intern</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Pernod Ricard Inc</td><td>Alternance Douane & Accises H/f Marseille - Septembre 2026</td><td>Marseille</td><td>2026-08-27</td></tr>
+<tr><td>Pernod Ricard Winemakers</td><td>Alternance Douane & Accises H/f Marseille - Septembre 2026</td><td>Marseille</td><td>2026-08-27</td></tr>
+<tr><td>Seagramsgin Com Inc</td><td>Alternance Douane & Accises H/f Marseille - Septembre 2026</td><td>Marseille</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Apprenti Technicien Matériel Embarqué H/f</td><td>Nantes</td><td>2026-08-27</td></tr>
+<tr><td>Recordati Industria Chimica e Farmaceutica S.p.A</td><td>Apprentice Regulatory affairs</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Apprenti(e) - Ingénieur(e) Conception Logiciel Embarqué F/h</td><td>Toulouse</td><td>2026-08-27</td></tr>
+<tr><td>Marriott International</td><td>Front Office Apprentice</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Valeo Service</td><td>Alternant(e) Ingénieur(e) R&d Systèmes Embarqués (f/h)</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>vetshired.us</td><td>Stage - Assistant(e) De L'ingénieur Développement Mécanique H/f</td><td>Toulouse</td><td>2026-08-27</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Corning</td><td>Technicien Maintenance (f/h)</td><td>Borre</td><td>2026-08-27</td></tr>
+<tr><td>Vandemoortele NV</td><td>Maintenance Technician</td><td>Neuville Sur Sarthe</td><td>2026-08-27</td></tr>
+<tr><td>Tetra Pak</td><td>Future Talent - Maintenance Engineer - Paris Or Orleans</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Tetra Pak</td><td>Future Talent - Maintenance Engineer</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>AMETEK Inc</td><td>Technicien En Mécanique, Hydraulique Et Trains</td><td>Campsas</td><td>2026-08-27</td></tr>
+<tr><td>NextPharma Technologies</td><td>Technicien(ne) De Maintenance 2x8 (h/f)</td><td>Unknown</td><td>2026-08-27</td></tr>
+<tr><td>Guerbet</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Verallia Packaging</td><td>Opérateur Maintenance 5x8 H/f</td><td>Lyon</td><td>2026-08-27</td></tr>
+<tr><td>Verallia Packaging</td><td>Mécanicien Is H/f</td><td>Lyon</td><td>2026-08-27</td></tr>
+<tr><td>CEMEX</td><td>Electro-mécanicien(ne) (h/f) - Salon De Provence (13) - Cdi</td><td>Aix En Provence</td><td>2026-08-27</td></tr>
+<tr><td>Constellium</td><td>Intervenants Maintenance</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Holcim</td><td>Technicien De Maintenance (h/f) - Rennes</td><td>Rennes</td><td>2026-08-27</td></tr>
+<tr><td>Holcim</td><td>Technicien De Maintenance En Alternance - Toulouse Larrieu</td><td>Toulouse</td><td>2026-08-27</td></tr>
+<tr><td>Holcim</td><td>Mécanicien Maintenance Industrielle (h/f) - Bouc Bel Air</td><td>Aix En Provence</td><td>2026-08-27</td></tr>
+<tr><td>Sonepar Climate</td><td>Technicien Sav H/f - Sonepar Climate Marseille (13)</td><td>Marseille</td><td>2026-08-27</td></tr>
+<tr><td>35</td><td>Technicien Aga F/h - Cdi - Marseille</td><td>Marseille</td><td>2026-08-27</td></tr>
+<tr><td>Orkyn’</td><td>Technicien Aga F/h - Cdi - Marseille</td><td>Marseille</td><td>2026-08-27</td></tr>
+<tr><td>Alstom</td><td>Opérateur Maintenance Train (h/f)</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Alstom</td><td>Opérateur Maintenance Métro (h/f)</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Atos</td><td>Technicien De Maintenance Électronique (h/f)</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Technicien Sav Ferroviaire H/f</td><td>Marseille</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Technicien·ne Cycle - Agent D'accueil À La Maison Du Vélo F/h</td><td>Rennes</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Technicien De Maintenance Bus Et Car Itinérant H/f</td><td>Arnas</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Mécanicien Bus - Pl Expert F/h</td><td>Lyon</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Voies Du Métro F/h</td><td>Rennes</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Electromécanicien F/h</td><td>Ormoy</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Technicien Maintenance Bus F/h</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Industrielle Bus F/h</td><td>Le Mesnil-Amelot</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Technicien De Maintenance - Ligne 18 F/h</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Agent Electrotechnicien : Infrastructures Électriques Tramway F/h</td><td>Bordeaux</td><td>2026-08-27</td></tr>
+<tr><td>Keolis</td><td>Technicien.ne Matériels Roulants</td><td>Rivery</td><td>2026-08-27</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Partiel H/f</td><td>Bordeaux</td><td>2026-08-27</td></tr>
+<tr><td>Cultura</td><td>Conseiller(e) De Vente Service</td><td>Bordeaux</td><td>2026-08-27</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique Cour Matériaux H/f</td><td>Toulouse</td><td>2026-08-27</td></tr>
+<tr><td>skechers.dk</td><td>Conseiller De Vente H/f</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>sportsconnection.dk</td><td>Conseiller De Vente H/f</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi Temps Partiel 15h/20h H/f</td><td>Lyon</td><td>2026-08-27</td></tr>
+<tr><td>Galeries Lafayette</td><td>Louis Pion Conseiller De Vente - Cdd 35h - Fenouillet F/h</td><td>Fenouillet</td><td>2026-08-27</td></tr>
+<tr><td>Biofrais</td><td>Adjoint Au Responsable De Rayon Fruits Et Légumes (h/f)</td><td>Annecy</td><td>2026-08-27</td></tr>
+<tr><td>Biofrais</td><td>Vendeur Fruits Et Légumes (h/f)</td><td>Domancy</td><td>2026-08-27</td></tr>
+<tr><td>Grand Frais</td><td>Vendeur Crèmerie Grand Frais (h/f)</td><td>Boissise</td><td>2026-08-27</td></tr>
+<tr><td>Grand Frais</td><td>Vendeur Fruits Et Légumes/marée Grand Frais (h/f)</td><td>Lyon</td><td>2026-08-27</td></tr>
+<tr><td>Grand Frais</td><td>Second De Rayon Fruits Et Légumes/marée Grand Frais (h/f)</td><td>Toulouse</td><td>2026-08-27</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique Menuiserie H/f</td><td>Nantes</td><td>2026-08-27</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Vendeurs (f/h) - Cdi 25/8h - Macon Crêches</td><td>CrêChes</td><td>2026-08-27</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdi 25/8h - Macon Crêches</td><td>CrêChes</td><td>2026-08-27</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Vendeurs (f/h) - Cdi 35/16/8h - Cagnes</td><td>Nice</td><td>2026-08-27</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdi 35/16/8h - Cagnes</td><td>Nice</td><td>2026-08-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Stage - Assistant(e) Trade Marketing Luxe & Premium Et Fast Fashion F/h</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Directeur Adjoint De Boutique</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Boutique Assistant</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Janvier 2027 - Stage Assistant(e) Chef(fe) De Projet International Vip Experience - Activations (h/f)</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Chargé De Coordination Evénements Haute Joaillerie (h/f) Stage Talent Day</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>High Jewelry Business Development Assistant</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage - Assistant(e) Administration Du Personnel</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Assistante Chef De Produit Hj</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Assistant(e) Approvisionnement</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Assistant.e Ressources Humaines F/h</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Apprenti Coordinateur Congrès F/h</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Alternance - Assistant.e. Rémunération & Avantages Sociaux - Emea F/h</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Eurofeu</td><td>Assistant(e) Administratif(ve) - H/f</td><td>Bordeaux</td><td>2026-08-27</td></tr>
+<tr><td>Arkema France</td><td>Alternance - Assistant(e) Achats Distribution (h/f)</td><td>ÎLe-De-France</td><td>2026-08-27</td></tr>
+<tr><td>T.EN Career Site</td><td>Assistant Administration Des Ventes (h/f)</td><td>Marseille</td><td>2026-08-27</td></tr>
+<tr><td>Genesis Energy</td><td>Assistant Administration Des Ventes (h/f)</td><td>Marseille</td><td>2026-08-27</td></tr>
+<tr><td>Marriott International</td><td>Coordinateur Congrès F/h</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Holcim</td><td>Assistant Administratif Sap H/f En Alternance</td><td>Paris</td><td>2026-08-27</td></tr>
 </table>
