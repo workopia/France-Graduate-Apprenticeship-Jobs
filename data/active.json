@@ -1,6 +1,6 @@
 {
  "asOf": "2026-08-28",
- "count": 730,
+ "count": 732,
  "jobs": {
   "26880": {
    "id": "26880",
@@ -115,6 +115,30 @@
    "company": "Soho House & Co Inc.",
    "role": "Stagiaire Club \"restaurant\" - Soho House Paris H/f",
    "location": "Paris"
+  },
+  "9166262be66fdc11179a6ed3fc49a4ea": {
+   "id": "9166262be66fdc11179a6ed3fc49a4ea",
+   "company": "why LLP",
+   "role": "Stagiaire Contentieux - Juillet/décembre 2027",
+   "location": "Paris"
+  },
+  "81226c3dba7aa37b3778ac65f337f90b": {
+   "id": "81226c3dba7aa37b3778ac65f337f90b",
+   "company": "Fritz Egger GmbH & Co. OG",
+   "role": "Stagiaire Chargé De Marketing Digital Sud-ouest Europe H/f",
+   "location": "Rion Des Landes"
+  },
+  "e69d8db31937bebd9be44b1d117ca0be": {
+   "id": "e69d8db31937bebd9be44b1d117ca0be",
+   "company": "clayens",
+   "role": "Stage Innovation - Démonstrateur Tms H/f",
+   "location": "Lyon"
+  },
+  "5d72d3fc85266d51b92a9b100e6de9c0": {
+   "id": "5d72d3fc85266d51b92a9b100e6de9c0",
+   "company": "createyourowncareer",
+   "role": "Alternance Qualité Systèmes H/f",
+   "location": "Mantes La Jolie"
   },
   "1914419b15759c622b42841687e81fc4": {
    "id": "1914419b15759c622b42841687e81fc4",
@@ -296,12 +320,6 @@
    "role": "Final Year Internship Consultant - Transport, Manufacturing & Retail",
    "location": "Paris"
   },
-  "f288c827bb95f2129a9a7eb235880efc": {
-   "id": "f288c827bb95f2129a9a7eb235880efc",
-   "company": "Sia Partners",
-   "role": "Final Year Internship - Marketing Data Scientist",
-   "location": "Paris"
-  },
   "51cc24c417aedd9974e9322f32598e61": {
    "id": "51cc24c417aedd9974e9322f32598e61",
    "company": "Ardian",
@@ -361,12 +379,6 @@
    "company": "Richemont Australia Pty Ltd",
    "role": "Intern - Fashion Market Analyst (h/f)",
    "location": "Paris"
-  },
-  "83ab19d1ac3cc27ed93bcc9eb9af9d1f": {
-   "id": "83ab19d1ac3cc27ed93bcc9eb9af9d1f",
-   "company": "Fritz Egger GmbH & Co. OG",
-   "role": "Stagiaire Chargé De Marketing Digital Sud-ouest Europe H/f",
-   "location": "Rion De Landes"
   },
   "0c96995276f49d35feb6b1f8809fcb7f": {
    "id": "0c96995276f49d35feb6b1f8809fcb7f",
@@ -535,18 +547,6 @@
    "company": "Coty Inc.",
    "role": "Stagiaire R&d Développement Packaging",
    "location": "Paris"
-  },
-  "8724c28b9fbed6eeb839298d1ea526bd": {
-   "id": "8724c28b9fbed6eeb839298d1ea526bd",
-   "company": "Arkema S.A.",
-   "role": "Stage : Juriste Droit Social H/f",
-   "location": "ÎLe-De-France"
-  },
-  "6f29069f85f2e6f213bf3c1bfc616956": {
-   "id": "6f29069f85f2e6f213bf3c1bfc616956",
-   "company": "Arkema S.A.",
-   "role": "Alternance - Contrôle De Gestion H/f",
-   "location": "ÎLe"
   },
   "1641671feb530468ec5b77109e3abae7": {
    "id": "1641671feb530468ec5b77109e3abae7",
@@ -1832,6 +1832,12 @@
    "role": "Data Analyst Intern",
    "location": "Paris"
   },
+  "f288c827bb95f2129a9a7eb235880efc": {
+   "id": "f288c827bb95f2129a9a7eb235880efc",
+   "company": "Sia Partners",
+   "role": "Final Year Internship - Marketing Data Scientist",
+   "location": "Paris"
+  },
   "5d54673fae8c970705fd6eb5a5e5763f": {
    "id": "5d54673fae8c970705fd6eb5a5e5763f",
    "company": "Sonepar Group",
@@ -2389,6 +2395,12 @@
    "company": "ATR (Airbus/Leonardo)",
    "role": "Data Analyst - Export Control & National Security (m/f)",
    "location": "Marseille"
+  },
+  "b25145463e0892f13e3864a6d82d2900": {
+   "id": "b25145463e0892f13e3864a6d82d2900",
+   "company": "KFC France",
+   "role": "Stagiaire Junior Business Analyst (h/f)",
+   "location": "Paris"
   },
   "450c6e443729889ee31a7833dd9ac9b7": {
    "id": "450c6e443729889ee31a7833dd9ac9b7",
@@ -2996,6 +3008,72 @@
    "role": "Technicien De Maintenance",
    "location": "France"
   },
+  "fea990091a3faaf983fb7796f796dae1": {
+   "id": "fea990091a3faaf983fb7796f796dae1",
+   "company": "57",
+   "role": "Technicien Maintenance Ascenseurs H/f",
+   "location": "Lyon"
+  },
+  "9315db12f3524ec6c01475217a6ecbf1": {
+   "id": "9315db12f3524ec6c01475217a6ecbf1",
+   "company": "clayens",
+   "role": "Technicien Maintenance F/h",
+   "location": "Belmont Tramonet"
+  },
+  "646e0aeb9adc32bfb058a83947fa22e0": {
+   "id": "646e0aeb9adc32bfb058a83947fa22e0",
+   "company": "clayens",
+   "role": "Technicien De Maintenance",
+   "location": "Izernore"
+  },
+  "c34cbab4c580a4e23984aff61c4352db": {
+   "id": "c34cbab4c580a4e23984aff61c4352db",
+   "company": "Bombardier",
+   "role": "Licensed Technician B1/b2 - Paris",
+   "location": "Paris"
+  },
+  "f40b595034337fc461200d535e9677ad": {
+   "id": "f40b595034337fc461200d535e9677ad",
+   "company": "Aubert & Duval",
+   "role": "Technicien De Dépannage Maintenance F/h",
+   "location": "Les Ancizes"
+  },
+  "e0577793a01923d1bbb760c9a2d3aca9": {
+   "id": "e0577793a01923d1bbb760c9a2d3aca9",
+   "company": "Aubert & Duval",
+   "role": "Technicien De Maintenance - F/h",
+   "location": "Toulouse"
+  },
+  "2bd12f3d3b209db9ff4e38fe409ea898": {
+   "id": "2bd12f3d3b209db9ff4e38fe409ea898",
+   "company": "Aubert & Duval",
+   "role": "Technicien De Maintenance Services Généraux (f/h)",
+   "location": "France"
+  },
+  "930de47df4f8d4ae082cc573dbeafc5e": {
+   "id": "930de47df4f8d4ae082cc573dbeafc5e",
+   "company": "Aubert & Duval",
+   "role": "Technicien Travaux Programmés (f/h)",
+   "location": "Fr"
+  },
+  "3b8940575825ee947f598ff904d55f59": {
+   "id": "3b8940575825ee947f598ff904d55f59",
+   "company": "Aubert & Duval",
+   "role": "Technicien De Maintenance N 1 F/h",
+   "location": "Toulouse"
+  },
+  "1448a1a4a32a94a44d88594858e4ec3b": {
+   "id": "1448a1a4a32a94a44d88594858e4ec3b",
+   "company": "Aubert & Duval",
+   "role": "Technicien De Maintenance Électricien N1 F/h",
+   "location": "Toulouse"
+  },
+  "ea291dceb9fda7a5d4a17e4e22f29d77": {
+   "id": "ea291dceb9fda7a5d4a17e4e22f29d77",
+   "company": "Aubert & Duval",
+   "role": "Technicien Utilités F/h",
+   "location": "Toulouse"
+  },
   "b489e3af80257c7f7e269c8a5ed6e726": {
    "id": "b489e3af80257c7f7e269c8a5ed6e726",
    "company": "Eiffage Énergie Systèmes",
@@ -3176,18 +3254,6 @@
    "role": "Représentant D’assistance Technique (secteur Idf)",
    "location": "Paris"
   },
-  "a1afaafd8e9569636dd3a801f2bfc677": {
-   "id": "a1afaafd8e9569636dd3a801f2bfc677",
-   "company": "STRADAL",
-   "role": "Technicien De Maintenance Industrielle Maxilly (21) F/h",
-   "location": "Maxilly"
-  },
-  "0accbdacd55d0fc3cc1480ec2da7e4ca": {
-   "id": "0accbdacd55d0fc3cc1480ec2da7e4ca",
-   "company": "CRH PLC",
-   "role": "Technicien Maintenance F/h Chaumes-en-retz (44)",
-   "location": "Chaumes-En-Retz"
-  },
   "1c84271d9de1aac83309a808b1ba0eb7": {
    "id": "1c84271d9de1aac83309a808b1ba0eb7",
    "company": "Rehlko",
@@ -3199,12 +3265,6 @@
    "company": "Rehlko",
    "role": "Technician, Ps Emea",
    "location": "Paris"
-  },
-  "a1acfd18a5d7d5041e88201fe69dae5e": {
-   "id": "a1acfd18a5d7d5041e88201fe69dae5e",
-   "company": "Hydrotech",
-   "role": "Electromécanicien F/h",
-   "location": "Mamoudzou"
   },
   "83a0d21b5a496c790f567b5957e04364": {
    "id": "83a0d21b5a496c790f567b5957e04364",
@@ -3275,12 +3335,6 @@
   "992b81841476b2f668c949b6a1d3be97": {
    "id": "992b81841476b2f668c949b6a1d3be97",
    "company": "Applied Materials",
-   "role": "Technicien.ne De Maintenance (horaires Postés)",
-   "location": "Rousset"
-  },
-  "583473c25dfebe2dbff38a88fbd73841": {
-   "id": "583473c25dfebe2dbff38a88fbd73841",
-   "company": "944game Inc",
    "role": "Technicien.ne De Maintenance (horaires Postés)",
    "location": "Rousset"
   },
@@ -3428,47 +3482,23 @@
    "role": "Technicien De Maintenance F/h",
    "location": "Bordeaux"
   },
-  "764c2beb2c2b0d6ac6183d0817c40958": {
-   "id": "764c2beb2c2b0d6ac6183d0817c40958",
-   "company": "Eiffageconstruction",
-   "role": "Technicien De Maintenance F/h",
-   "location": "Bordeaux"
+  "31bb4bdfae2188648916a280a7056104": {
+   "id": "31bb4bdfae2188648916a280a7056104",
+   "company": "Conforama",
+   "role": "Vendeur Meuble (h/f) Cdi",
+   "location": "Toulouse"
   },
-  "170bd9cb693b46ea5327acd8c3fc55d4": {
-   "id": "170bd9cb693b46ea5327acd8c3fc55d4",
-   "company": "EES CLEMESSY Nucléaire",
-   "role": "Technicien De Maintenance Electricité Nucléaire (f/h)",
-   "location": "Cruas"
+  "4c7227b81d86b9c2b15e131af0d02795": {
+   "id": "4c7227b81d86b9c2b15e131af0d02795",
+   "company": "Conforama",
+   "role": "Vendeur (h/f) - Cdd",
+   "location": "Toulouse"
   },
-  "c4eebb693dae912e02bafff0ec5e144e": {
-   "id": "c4eebb693dae912e02bafff0ec5e144e",
-   "company": "Eiffage Énergie Systèmes",
-   "role": "Technicien De Maintenance Industrielle (f/h)",
-   "location": "Montmirail"
-  },
-  "2735de927664aa217c487fbde9387816": {
-   "id": "2735de927664aa217c487fbde9387816",
-   "company": "Mama Shelter",
-   "role": "Technicien De Maintenance (h/f/nb)",
-   "location": "Paris"
-  },
-  "2e2c5f2455d670efc5165a754af6515e": {
-   "id": "2e2c5f2455d670efc5165a754af6515e",
-   "company": "Arkema S.A.",
-   "role": "Technicien Instrumentation Spécialisé Analyseurs Industriels (f/h)",
-   "location": "ChâTeau"
-  },
-  "ad5b59f084670db91dedda75d4acff7b": {
-   "id": "ad5b59f084670db91dedda75d4acff7b",
-   "company": "Daikin Europe NV",
-   "role": "Assistant(e) Technicien Sav En Alternance F/h (lille)",
-   "location": "Lille"
-  },
-  "b42ae89d68ab037563184eb85f093752": {
-   "id": "b42ae89d68ab037563184eb85f093752",
-   "company": "Nestle Ltd",
-   "role": "Technicien De Maintenance Creully H/f",
-   "location": "Creully"
+  "afd8983615230874d565e0e259bcfd6c": {
+   "id": "afd8983615230874d565e0e259bcfd6c",
+   "company": "Conforama",
+   "role": "Vendeur (h/f) Cdi",
+   "location": "Toulouse"
   },
   "118af052b58c8c54f5ed02655026e676": {
    "id": "118af052b58c8c54f5ed02655026e676",
@@ -3481,12 +3511,6 @@
    "company": "Urban Outfitters",
    "role": "Urban Outfitters Sales Associate / Conseiller De Vente - Nice, Fr",
    "location": "Nice"
-  },
-  "28a501f90ce10944f00cec289ff74685": {
-   "id": "28a501f90ce10944f00cec289ff74685",
-   "company": "Conforama",
-   "role": "Vendeur (h/f) - Cdi",
-   "location": "Paris"
   },
   "86904a676e11826ad59dcdd97743cd63": {
    "id": "86904a676e11826ad59dcdd97743cd63",
@@ -3889,18 +3913,6 @@
    "company": "Kiabi",
    "role": "Cdd Conseiller De Vente (h/f/nb)",
    "location": "Tourville La Riviere"
-  },
-  "dc9787ff562b25ea2937f8cfdeb42977": {
-   "id": "dc9787ff562b25ea2937f8cfdeb42977",
-   "company": "Galeries Lafayette",
-   "role": "Conseiller De Vente Galeries Lafayette Royal Quartz - Cdd 2 Mois F/h",
-   "location": "Paris"
-  },
-  "6658a4efc36c0877764c45e967224dd4": {
-   "id": "6658a4efc36c0877764c45e967224dd4",
-   "company": "SWAROVSKI",
-   "role": "Cdi - Conseiller De Vente (h/f/x) 25h - Outlet Roubaix",
-   "location": "Lille"
   },
   "62514e6d606f9b3821ad4545ecc977b9": {
    "id": "62514e6d606f9b3821ad4545ecc977b9",

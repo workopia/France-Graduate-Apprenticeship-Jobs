@@ -3612,4 +3612,21 @@
 <tr><td>The Ritz-Carlton</td><td>Apprenti Coordinateur Congrès F/h</td><td>Paris</td><td>2026-08-28</td></tr>
 <tr><td>Jobgether</td><td>People And Culture Assistant</td><td>France</td><td>2026-08-28</td></tr>
 <tr><td>licensed to TBVSC LLC</td><td>It Support Specialist</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Stagiaire Chargé De Marketing Digital Sud-ouest Europe H/f</td><td>Rion De Landes</td><td>2026-08-28</td></tr>
+<tr><td>Arkema S.A.</td><td>Stage : Juriste Droit Social H/f</td><td>ÎLe-De-France</td><td>2026-08-28</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternance - Contrôle De Gestion H/f</td><td>ÎLe</td><td>2026-08-28</td></tr>
+<tr><td>STRADAL</td><td>Technicien De Maintenance Industrielle Maxilly (21) F/h</td><td>Maxilly</td><td>2026-08-28</td></tr>
+<tr><td>CRH PLC</td><td>Technicien Maintenance F/h Chaumes-en-retz (44)</td><td>Chaumes-En-Retz</td><td>2026-08-28</td></tr>
+<tr><td>Hydrotech</td><td>Electromécanicien F/h</td><td>Mamoudzou</td><td>2026-08-28</td></tr>
+<tr><td>944game Inc</td><td>Technicien.ne De Maintenance (horaires Postés)</td><td>Rousset</td><td>2026-08-28</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance F/h</td><td>Bordeaux</td><td>2026-08-28</td></tr>
+<tr><td>EES CLEMESSY Nucléaire</td><td>Technicien De Maintenance Electricité Nucléaire (f/h)</td><td>Cruas</td><td>2026-08-28</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Industrielle (f/h)</td><td>Montmirail</td><td>2026-08-28</td></tr>
+<tr><td>Mama Shelter</td><td>Technicien De Maintenance (h/f/nb)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Arkema S.A.</td><td>Technicien Instrumentation Spécialisé Analyseurs Industriels (f/h)</td><td>ChâTeau</td><td>2026-08-28</td></tr>
+<tr><td>Daikin Europe NV</td><td>Assistant(e) Technicien Sav En Alternance F/h (lille)</td><td>Lille</td><td>2026-08-28</td></tr>
+<tr><td>Nestle Ltd</td><td>Technicien De Maintenance Creully H/f</td><td>Creully</td><td>2026-08-28</td></tr>
+<tr><td>Conforama</td><td>Vendeur (h/f) - Cdi</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Galeries Lafayette</td><td>Conseiller De Vente Galeries Lafayette Royal Quartz - Cdd 2 Mois F/h</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>SWAROVSKI</td><td>Cdi - Conseiller De Vente (h/f/x) 25h - Outlet Roubaix</td><td>Lille</td><td>2026-08-28</td></tr>
 </table>
