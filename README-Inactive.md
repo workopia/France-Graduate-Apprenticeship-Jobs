@@ -3629,4 +3629,37 @@
 <tr><td>Conforama</td><td>Vendeur (h/f) - Cdi</td><td>Paris</td><td>2026-08-28</td></tr>
 <tr><td>Galeries Lafayette</td><td>Conseiller De Vente Galeries Lafayette Royal Quartz - Cdd 2 Mois F/h</td><td>Paris</td><td>2026-08-28</td></tr>
 <tr><td>SWAROVSKI</td><td>Cdi - Conseiller De Vente (h/f/x) 25h - Outlet Roubaix</td><td>Lille</td><td>2026-08-28</td></tr>
+<tr><td>Chanel</td><td>Internship – Store Planning – Chanel Europe – September 2026 – M/f/d</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Transport, Manufacturing & Retail</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Alstom</td><td>Alternant(e) En Communication & Digitalisation H/f</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Alstom</td><td>Alternant Site (h/f)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Eiffage Route</td><td>Stage Pfe - Aide Conducteur De Travaux F/h</td><td>Luc</td><td>2026-08-28</td></tr>
+<tr><td>Schneider Electric</td><td>Stage - Communication Externe (opinions, Eléments De Langage, Thought Leadership) - H/f</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Coty Inc.</td><td>Total Reward Apprenticeship</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Coty Inc.</td><td>Stagiaire R&d Développement Packaging</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Airbus SE</td><td>Atr - Apprenticeship - Aerostructure Buyer</td><td>Toulouse</td><td>2026-08-28</td></tr>
+<tr><td>SAP Concur</td><td>Apprenticeship: Solution Advisor Enterprise Performance Management & Ai F/m</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Ingénieur Développement Logiciel - F/h</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Logiciel Java (f/h)</td><td>Toulouse</td><td>2026-08-28</td></tr>
+<tr><td>Alstom</td><td>Agent De Maintenance</td><td>Saint Denis Les Sens</td><td>2026-08-28</td></tr>
+<tr><td>Arkema S.A.</td><td>Chargé(e) De Travaux Électricité / Instrumentation F/h</td><td>Genay</td><td>2026-08-28</td></tr>
+<tr><td>Renault Group</td><td>Electromecanicien</td><td>Batilly</td><td>2026-08-28</td></tr>
+<tr><td>Keolis</td><td>Technicien De Maintenance Bus Et Car Itinérant H/f</td><td>Arnas</td><td>2026-08-28</td></tr>
+<tr><td>Keolis</td><td>Electromécanicien F/h</td><td>Ormoy</td><td>2026-08-28</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Industrielle Bus F/h</td><td>Le Mesnil-Amelot</td><td>2026-08-28</td></tr>
+<tr><td>Keolis</td><td>Technicien.ne Matériels Roulants</td><td>Rivery</td><td>2026-08-28</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien De Maintenance Extincteurs H/f</td><td>79</td><td>2026-08-28</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Adjoint Responsable Maintenance</td><td>Toulouse</td><td>2026-08-28</td></tr>
+<tr><td>Getinge AB</td><td>Technicien Sav Biomedical Itinerant (h/f)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Alstom</td><td>Chargé De Maintenance Moyens Industriels (h/f)</td><td>La Rochelle</td><td>2026-08-28</td></tr>
+<tr><td>Alstom</td><td>Technicien Opération Maintenance</td><td>Crespin</td><td>2026-08-28</td></tr>
+<tr><td>EIFFAGE ENERGIE SYSTEMES AQUITAINE</td><td>Technicien De Maintenance F/h</td><td>Bordeaux</td><td>2026-08-28</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>unilever.es</td><td>Stage Conseiller De Vente - Maille Paris</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>La Fee Maraboutee</td><td>Conseiller/ère De Vente</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente (arket Café) - 25h Cdi H/f/x</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Kiabi</td><td>Cdd Conseiller De Vente (h/f/nb)</td><td>Tourville La Riviere</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Group</td><td>Assistant(e) Agence Service (h/f) - Toulouse</td><td>Toulouse</td><td>2026-08-28</td></tr>
+<tr><td>SANTE CIE</td><td>Assistant(e) Administratif(ve) - Test</td><td>France</td><td>2026-08-28</td></tr>
+<tr><td>Intermarche</td><td>Itm Lai Montsoult – Coordinateur Logistique Multisite H/f</td><td>Paris</td><td>2026-08-28</td></tr>
 </table>
