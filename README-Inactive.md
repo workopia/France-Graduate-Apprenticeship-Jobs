@@ -3503,4 +3503,113 @@
 <tr><td>Genesis Energy</td><td>Assistant Administration Des Ventes (h/f)</td><td>Marseille</td><td>2026-08-27</td></tr>
 <tr><td>Marriott International</td><td>Coordinateur Congrès F/h</td><td>Paris</td><td>2026-08-27</td></tr>
 <tr><td>Holcim</td><td>Assistant Administratif Sap H/f En Alternance</td><td>Paris</td><td>2026-08-27</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur - Stage (h/f)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Nestle Ltd</td><td>Stage Category Manager Nescafé F/h</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Alternant Communication - Région France Belux (h/f)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Lazard Frères Gestion</td><td>Stage H/f - Assistant Commercial & Administratif En Gestion Institutionnelle – Septembre 2026</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>FAURECIA SERVICES GroupE</td><td>Stagiaire Projets & Industrialisation H/f</td><td>Calingny</td><td>2026-08-28</td></tr>
+<tr><td>IDEMIA</td><td>Marketing & Communications Intern</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>AVL List GmbH</td><td>Stage - Simulation Architecture Véhicule(h/f)</td><td>Lardy</td><td>2026-08-28</td></tr>
+<tr><td>International SOS</td><td>Sales Executive Intern</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Boston Scientific Foundation Inc</td><td>Emea Upstream Marketing Analyst Intern - Madrid</td><td>Madrid</td><td>2026-08-28</td></tr>
+<tr><td>Boston Scientific Foundation Inc</td><td>Stagiaire En Communication D'entreprise 1</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Royal Canin</td><td>Alternance royal Canin - Assistant Chargé De Projets Marketing Innovation (h/f/x) – Septembre 2026</td><td>Aimargues</td><td>2026-08-28</td></tr>
+<tr><td>Mars</td><td>Alternance royal Canin - Assistant Chargé De Projets Marketing Innovation (h/f/x) – Septembre 2026</td><td>Aimargues</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Alternant Ingénieur Qualité (h/f) - 24 Mois Petit-fayt (59)</td><td>Petit-Fayt</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Qualité (h/f) - 4-6 Mois Franois (25)</td><td>Franois</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Qualité Sensorielle (h/f) - 6 Mois Bourgbarré (n°35)</td><td>Bougbarré</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Technicien Packaging Europe (h/f) - 6 Mois Bourgbarré (35)</td><td>Bourgbarré</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant E-commerce (h/f) - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-08-28</td></tr>
+<tr><td>Latecoere</td><td>Stage - Hse (h/f)</td><td>Montredon</td><td>2026-08-28</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Stratégie Et Marketing (développement Durable Et Politique Produits Groupe) - F/h</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Chargé De Marketing Et Communication F/h</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>AptarGroup</td><td>Alternant(e) - Technicien De Maintenance Moules H/f</td><td>Charleval</td><td>2026-08-28</td></tr>
+<tr><td>Coty</td><td>Total Reward Apprenticeship</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Valeo</td><td>Stagiaire / Alternant(e) Marketing & Product Marketing</td><td>Saint</td><td>2026-08-28</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Alternance - Back Office Edi H/f</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Galderma</td><td>Alternant Achats Indirects (h/f)</td><td>Alby-Sur-ChéRan</td><td>2026-08-28</td></tr>
+<tr><td>Intermarche</td><td>Stage Qhse - 6 Mois (h/f)</td><td>DonzèRe</td><td>2026-08-28</td></tr>
+<tr><td>LexisNexis</td><td>Alternance/stage Sales Academy- 12 Mois (h/f)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Performance & Operations Management Officer</td><td>Marseille</td><td>2026-08-28</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Marketing Research Assistant (f/m/x)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Cross-media Marketing Research Assistant (f/m/x)</td><td>Paris 75</td><td>2026-08-28</td></tr>
+<tr><td>CEVA Logistics</td><td>Alternant Qualité</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Coloplast AS</td><td>Stagiaire Ingénieur Supply Chain (24) - H/f</td><td>Sarlat La Caneda</td><td>2026-08-28</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Alternance - Richemont Retail Génération - Montblanc (h/f)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>createyourowncareer</td><td>Apprentice – Business Analyst (m/f/d)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>CMA CGM Group</td><td>Apprenticeship - Assistant Digital Performance Project Manager (m/f/x)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>CMA CGM Group</td><td>Apprenticeship - Assistant Data Protection Officer (m/f/x)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Waterlinecareers</td><td>Stage - Ingénieur Support Données Nouvelles Usines (f/h)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Développement Logiciel F/h</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternant(e) Data Analyst / Chargé(e) De Projet Data</td><td>Toulouse</td><td>2026-08-28</td></tr>
+<tr><td>Michelin Group</td><td>Alternance – Digitalisation Et Data Science Pour La Caractérisation Physico-chimique Des Matériaux</td><td>Ladoux</td><td>2026-08-28</td></tr>
+<tr><td>Schaeffler</td><td>Data Scientist - R&d H/f</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Viridien</td><td>Data Scientist</td><td>France</td><td>2026-08-28</td></tr>
+<tr><td>Viridien</td><td>Group Financial Reporting (fp&a) H/f - Internship 6 Month</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Philips UK</td><td>Alternance Lead Management & Business Analyst Hs</td><td>France</td><td>2026-08-28</td></tr>
+<tr><td>Airi Quideer</td><td>Infirmier Conseil H/cdd</td><td>France</td><td>2026-08-28</td></tr>
+<tr><td>Airi Quideer</td><td>Infirmier Conseil Diabète H/f</td><td>France</td><td>2026-08-28</td></tr>
+<tr><td>creche-and-go.fr</td><td>Infirmier</td><td>France</td><td>2026-08-28</td></tr>
+<tr><td>creche-and-go.fr</td><td>Infirmier H/f</td><td>France</td><td>2026-08-28</td></tr>
+<tr><td>Keolis</td><td>Ouvrier Maintenance Préventive Metro F/h</td><td>Lille</td><td>2026-08-28</td></tr>
+<tr><td>Keolis</td><td>Technicien Matériel Embarqué</td><td>Mantes La Jolie</td><td>2026-08-28</td></tr>
+<tr><td>Bridgestone EMEA</td><td>Technicien Spécialiste Maintenance Pneumatique Véhicules Industriels</td><td>Bordeaux</td><td>2026-08-28</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Dépannage Maintenance F/h</td><td>Les Ancizes</td><td>2026-08-28</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance - F/h</td><td>Toulouse</td><td>2026-08-28</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance Services Généraux (f/h)</td><td>Les Ancizes Comps</td><td>2026-08-28</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien Travaux Programmés (f/h)</td><td>Les Ancizes Comps</td><td>2026-08-28</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance Électricien N1 F/h</td><td>Toulouse</td><td>2026-08-28</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance N 1 F/h</td><td>Toulouse</td><td>2026-08-28</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien Utilités F/h</td><td>Toulouse</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance Journée H/f Bayeux (14)</td><td>Caen</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Domfront (61)</td><td>Domfront En Poiraie</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance Energies (h/f) Petit-fayt (59)</td><td>Petit-Fayt</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Livarot (14)</td><td>Livarot</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Riom Es Montagnes (15)</td><td>Riom Es Montagnes</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) - Le Massegros (48)</td><td>Le Massegros</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Clermont De L'oise (60)</td><td>Clermont De L'Oise</td><td>2026-08-28</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Laval (53)</td><td>Rennes</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation (h/f) - Idf Sud</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation Expert</td><td>Lyon</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Alternance - Technicien De Maintenance (h/f) - Lieusaint</td><td>Lieuxaint</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Alternance - Technicien De Maintenance (h/f) - Vanves</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Alternance - Technicien De Maintenance (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien(ne) De Réparation (h/f) - Salon De Provence</td><td>Aix En Provence</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Alternance - Technicien De Réparation (h/f) - Vanves</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Maintenance Référent (h/f) - Paris</td><td>Paris 1</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Maintenance Référent (h/f) - Aurillac</td><td>Aurillac</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation (h/f) - Vanves</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Technicien De Réparation Expert (h/f) - Grenoble</td><td>Grenoble</td><td>2026-08-28</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Conseiller De Vente H/f</td><td>Lyon</td><td>2026-08-28</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi H/f</td><td>Annecy</td><td>2026-08-28</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur Boulangerie (h/f)</td><td>Le</td><td>2026-08-28</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi Temps Partiel 28h H/f</td><td>Toulouse</td><td>2026-08-28</td></tr>
+<tr><td>Kiabi</td><td>Conseiller De Vente 25h (h/f/nb) Kiabi Villebon</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Eaglefootballgroup</td><td>Vendeur Olstore St Exupery (h/f)</td><td>Lyon</td><td>2026-08-28</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Sales Associate</td><td>Lille</td><td>2026-08-28</td></tr>
+<tr><td>Skechers</td><td>Sales Associate</td><td>Lille</td><td>2026-08-28</td></tr>
+<tr><td>Kiabi</td><td>Etudiant_conseiller De Vente 8h (h/f/nb)</td><td>Lyon</td><td>2026-08-28</td></tr>
+<tr><td>Deckers</td><td>Sales Associate</td><td>Annecy</td><td>2026-08-28</td></tr>
+<tr><td>Deckers</td><td>Hoka Full Time Sales Associate / Conseiller.ère De Vente - Paris</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Nike</td><td>Athlete Nike (vendeur.se En Magasin) – H / F – Cdi 8h À 30h – House Of Innovation Paris</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>adidas AG</td><td>Vendeur Polyvalent Adidas (h/f/d) - Cdd/cdi 28h - Flagship Champs-elysées</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi Temps Partiel H/f</td><td>Bordeaux</td><td>2026-08-28</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur Saisonnier 35 Heures H/f - Chamonix - Boardriders Men</td><td>Annecy</td><td>2026-08-28</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur - 15h H/f - Franconville - Quiksilver</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Lyon</td><td>2026-08-28</td></tr>
+<tr><td>Louis Pion</td><td>Louis Pion Conseiller De Vente - Cdi 15h - Nice Etoile F/h</td><td>Nice</td><td>2026-08-28</td></tr>
+<tr><td>kellanova</td><td>Customer Service Coordinator- 12 Months Contract</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Holcim</td><td>Coordinateur Exploitation Et Logistique H/f</td><td>Longeault</td><td>2026-08-28</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Alternance - Assistant.e. Rémunération & Avantages Sociaux - Emea F/h</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Kingfisher</td><td>Colleague Communications Specialist</td><td>London +2</td><td>2026-08-28</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Assistante Chef De Projet Contenus Edition</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Assistante Contenus Editoriaux</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Alternance - Assistant Trade Marketing H/f</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Intermarche</td><td>Coordinateur Logistique H/f</td><td>Cleguerec</td><td>2026-08-28</td></tr>
+<tr><td>Kiabi</td><td>_directeur Adjoint Herblay (h/f/nb)</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Apprenti Coordinateur Congrès F/h</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Jobgether</td><td>People And Culture Assistant</td><td>France</td><td>2026-08-28</td></tr>
+<tr><td>licensed to TBVSC LLC</td><td>It Support Specialist</td><td>Paris</td><td>2026-08-28</td></tr>
 </table>
