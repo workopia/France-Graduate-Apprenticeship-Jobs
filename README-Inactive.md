@@ -3662,4 +3662,83 @@
 <tr><td>Schindler Group</td><td>Assistant(e) Agence Service (h/f) - Toulouse</td><td>Toulouse</td><td>2026-08-28</td></tr>
 <tr><td>SANTE CIE</td><td>Assistant(e) Administratif(ve) - Test</td><td>France</td><td>2026-08-28</td></tr>
 <tr><td>Intermarche</td><td>Itm Lai Montsoult – Coordinateur Logistique Multisite H/f</td><td>Paris</td><td>2026-08-28</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Styliste Prêt À Porter Homme Outerwear H/f</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Chef De Projet Formation Internationale Et Expérience Client (h/f) - Hermès Parfum Beauté</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Barry Callebaut AG</td><td>Stagiaires Marketing</td><td>Mantes La Jolie</td><td>2026-08-29</td></tr>
+<tr><td>LegalPlace</td><td>Stage Ppi 2027 - Juriste Droit Des Affaires</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Baltgroup</td><td>Alternance Qms Assistant</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Cafeyn</td><td>Content &amp; Marketing Operations Intern - January 2027</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Qonto</td><td>Legal Intern - Product & Ai</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Qonto</td><td>Legal Intern - Commercial</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Digital Transformation</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Scaleway</td><td>It Workplace - Internship</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Air Liquide</td><td>Alternance - R&d - Combustion H/f</td><td>Les Loges</td><td>2026-08-29</td></tr>
+<tr><td>Air Liquide France Industrie</td><td>Stage Marketing Marche Food & Pharma F/h</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>35</td><td>Stage Marketing Marche Food & Pharma F/h</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Coty</td><td>Apprenticeship Channel And Porfolio Intern</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Coty</td><td>Real Estate Intern</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Coty</td><td>Stagiaire R&d Développement Packaging</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>LegalPlace</td><td>Stage - Sales Ops</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Arkema France</td><td>Alternant Automaticien</td><td>Avelin</td><td>2026-08-29</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Développement Industriel (h/f)</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Alstom</td><td>Internship - Railway Design Engineer H/f</td><td>Saint</td><td>2026-08-29</td></tr>
+<tr><td>Alstom</td><td>Internship - Lidar Technology & System Design Engineer F/h</td><td>Saint</td><td>2026-08-29</td></tr>
+<tr><td>Technip Energies</td><td>Apprenticeship In Marketing Campaigns – Trade Media And Activation – F/m</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>T.EN Career Site</td><td>Apprenticeship - Corporate Treasury Front Office F/m</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>T.EN Career Site</td><td>Apprenticeship In Marketing Campaigns – Trade Media And Activation – F/m</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Constellium</td><td>Hr Learning & Development Apprentice</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Sanofi UK</td><td>Apprenticeship 12 Months - Data Science</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Apprenticeship 12 Months - Data Science</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>ATR</td><td>Atr - Apprenticeship - Aerostructure Buyer</td><td>Toulouse</td><td>2026-08-29</td></tr>
+<tr><td>GSK plc</td><td>Alternant Ingénieur Automatisme H/f</td><td>Mantes La Jolie</td><td>2026-08-29</td></tr>
+<tr><td>GSK plc</td><td>Alternant Ingénieur Maintenance & Fiabilisation H/f</td><td>Mantes La Jolie</td><td>2026-08-29</td></tr>
+<tr><td>Eiffagerail</td><td>Stagiaire Technicien Automaticien F/h</td><td>Toulouse</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Backend Software Engineer</td><td>France</td><td>2026-08-29</td></tr>
+<tr><td>GSK plc</td><td>2 Alternances - Business Intelligence / Chef De Marché (h/f)</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Digital & Data Analysis Referent (m/f)</td><td>Toulouse</td><td>2026-08-29</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Data Analyst - Export Control & National Security (m/f)</td><td>Marseille</td><td>2026-08-29</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Sap Sales Business Analyst - Coe For Erp Spares & Services M/f</td><td>Toulouse</td><td>2026-08-29</td></tr>
+<tr><td>Eiffagemetal</td><td>Technicien De Maintenance Cvc F/h</td><td>Lyon</td><td>2026-08-29</td></tr>
+<tr><td>Schindler Group</td><td>Alternance - Technicien De Maintenance (h/f) - Vanves</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Schindler Group</td><td>Alternance - Technicien De Maintenance (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Schindler Group</td><td>Technicien(ne) De Réparation (h/f) - Salon De Provence</td><td>Aix En Provence</td><td>2026-08-29</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Maintenance Référent (h/f) - Aurillac</td><td>Aurillac</td><td>2026-08-29</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation (h/f) - Vanves</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation Expert (h/f) - Grenoble</td><td>Grenoble</td><td>2026-08-29</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation (h/f) - Idf Sud</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Technicien De Maintenance Point Service Toulouse</td><td>Toulouse</td><td>2026-08-29</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien Multiservices - F/h</td><td>Toulouse</td><td>2026-08-29</td></tr>
+<tr><td>Ardagh Group</td><td>Electro-technicien Qualité (h-f)</td><td>Marseille</td><td>2026-08-29</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Technicien Apres-vente (h/f)</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Technicien Service Atelier (h/f), Engins Tp - Cdi - Taverny</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Technicien Service D'atelier Grues Mobiles (h/f) - Cdd 12 Mois - Niederhergheim</td><td>Niederhergheim</td><td>2026-08-29</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Annecy</td><td>2026-08-29</td></tr>
+<tr><td>MANGO</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Skechers</td><td>Conseiller De Vente H/f</td><td>Lyon</td><td>2026-08-29</td></tr>
+<tr><td>Pvhcc</td><td>Conseiller.ère De Vente - Calvin Klein Underwear - Rosny 2 - Cdd 21h</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>PVH Corp.</td><td>Conseiller.ère De Vente - Calvin Klein Underwear - Rosny 2 - Cdd 21h</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Calvin Klein</td><td>Conseiller.ère De Vente - Calvin Klein Underwear - Rosny 2 - Cdd 21h</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Galeries Lafayette</td><td>Louis Pion Conseiller De Vente - Cdi 35h F/h - Roncq</td><td>Lille</td><td>2026-08-29</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique H/f</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Fast Retailing</td><td>Vendeur Polyvalent – Cdi Temps Plein - Uniqlo Nice Iconic</td><td>Nice</td><td>2026-08-29</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Plein H/f</td><td>Bordeaux</td><td>2026-08-29</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage - Assistant(e) Vente Lille (h/f)</td><td>Lille</td><td>2026-08-29</td></tr>
+<tr><td>Deckers</td><td>Vendeur À Temps Plein, Hoka – Lyon Outlet</td><td>Lyon</td><td>2026-08-29</td></tr>
+<tr><td>Deckers</td><td>Sales Associate - Ugg</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Conseiller(ère) Beauté Le Bon Marché - Cdi (h/f)</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur Cdd (h/f)</td><td>Lyon</td><td>2026-08-29</td></tr>
+<tr><td>Kiabi</td><td>_conseiller De Vente (h/f/35h)</td><td>France</td><td>2026-08-29</td></tr>
+<tr><td>Thales</td><td>Responsable De Lot Expédition - F/h</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Thales</td><td>Assistante De Direction F/h</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Thales</td><td>Cdd De 12 Mois - Assistant Cse F/h</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Stagiaire Évènementiel Commercial Réservation H/f</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Stagiaire Évènementiel Commercial Réservation H/f</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Chargé(e) De Communication & Événementiel (h/f)</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant Chef De Projet Merchandising Permanent (parfum Et Soin) - Division Parfums Beauté - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Morgan Stanley</td><td>Ibd Executive Assistant, France Coverage</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Assistant.e. Rémunération & Avantages Sociaux - Emea F/h</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Assistant Trade Marketing H/f</td><td>Paris</td><td>2026-08-29</td></tr>
+<tr><td>Eurofeu</td><td>Assistant(e) Administratif(ve) - F/h</td><td>Servon</td><td>2026-08-29</td></tr>
 </table>
