@@ -3741,4 +3741,109 @@
 <tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Assistant.e. Rémunération & Avantages Sociaux - Emea F/h</td><td>Paris</td><td>2026-08-29</td></tr>
 <tr><td>OPSM (EssilorLuxottica Group)</td><td>Alternance - Assistant Trade Marketing H/f</td><td>Paris</td><td>2026-08-29</td></tr>
 <tr><td>Eurofeu</td><td>Assistant(e) Administratif(ve) - F/h</td><td>Servon</td><td>2026-08-29</td></tr>
+<tr><td>Estée Lauder</td><td>Marketing Product Development Assistant Intern</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>GroupE MONDIAL TISSUS - GMT SaS</td><td>Vendeur.euse Fresnes (2)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Bureau Veritas</td><td>Chargé E-commerce - Alternance (f-h-x)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Intergovernmental Oceanographic Commission</td><td>Headquarters</td><td>2026-08-30</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Division Of Internal Oversight Services</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Alstom</td><td>Stagiaire Fin D'étude Méthodes Essais H/f)</td><td>Hangenbieten</td><td>2026-08-30</td></tr>
+<tr><td>Atos</td><td>R&d Study Of Experimental Embedded Software For Supercomputers Internship</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Melia Paris La Défense</td><td>Stagiaire Direction H/f - Melia Paris La Défense</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) Ressources Humaines H/f - Innside Paris Charles De Gaulle</td><td>Roissy-En-France</td><td>2026-08-30</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) De Direction - Innside Paris Charles De Gaulle (paris, France)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Melia</td><td>Stagiaire F&b - Maison Colbert, Melia Collection - Paris, France</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Mersen</td><td>Alternant - Support Opérationnel/amélioration Continue (h/f)</td><td>54</td><td>2026-08-30</td></tr>
+<tr><td>Arkema S.A.</td><td>Alternant(e) Chimiste R&d - Formulation Et Caractérisation</td><td>Le Barp</td><td>2026-08-30</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Stage - Chargé De Développement Énergies Renouvelables Junior/ Origination Internship</td><td>Rodez</td><td>2026-08-30</td></tr>
+<tr><td>Keolis</td><td>Stage - Juriste Droit Public Des Affaires F/h</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Keolis</td><td>Stage - Corporate M&a F/h 1</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Keolis</td><td>Alternance Chargé(e) Marketing F/h</td><td>Mantes La Jolie</td><td>2026-08-30</td></tr>
+<tr><td>Worldline</td><td>Marketing Operations Intern</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Roquette</td><td>Alternant Agent De Restauration (h/f)</td><td>Lestrem</td><td>2026-08-30</td></tr>
+<tr><td>HERBERT SMITH FREEHILLS</td><td>Stagiaire Concurrence - 1er Semestre 2028</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Internship – Store Planning – Chanel Europe – September 2026 – M/f/d</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Retail Merchandiser Petite Maroquinerie (h/f/x) - Mode - Janvier 2027</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Ardian</td><td>Private Equity Growth Stage - Janvier 2027 / Paris (m/f)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Ardian</td><td>Private Equity Growth Stage - Mars 2027 / Paris (m/f)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Sedgwick</td><td>Stagiaire Juriste H/f</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>BENETEAU</td><td>[stage] - Assistant Architecte Naval H/f</td><td>Dompierre Sur Yon</td><td>2026-08-30</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Intern, Capex Projects</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Worldline</td><td>Internship - Project Manager (f/m)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Theatre Sponsor</td><td>Alternance - Group Benefits F/h</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Worldline</td><td>Alternant Securite Informatique - H/f</td><td>Tours</td><td>2026-08-30</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Intern - Marketing Analyst Consumer Insight (h/f)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Intern - Fashion Market Analyst (h/f)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Hyatt Hotels Corporation</td><td>Contrat D'apprentissage : Marketing Digital Hyatt France</td><td>France</td><td>2026-08-30</td></tr>
+<tr><td>itjobber.de</td><td>Operational Excellency Apprentice</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Marriott International</td><td>Apprenti Technique F/h</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Valeo</td><td>Alternance Simulation Emboutissage H/f</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>114</td><td>Alternance Simulation Emboutissage H/f</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Valeo SA</td><td>Alternance Simulation Emboutissage H/f</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Valeo Service</td><td>Alternance Simulation Emboutissage H/f</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>GE Vernova</td><td>Finance Apprenti(e) (h/f)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Apprenti Technique F/h</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Apprenti Technique F/h</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Genesis Energy</td><td>Apprenticeship - Corporate Treasury Front Office F/m</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>hitachirail.ch</td><td>Alternant Technicien Support Is/it Niveau 1 H/f</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>E80 Group</td><td>Lgv Software Programmer - Grans</td><td>Grans</td><td>2026-08-30</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist</td><td>France</td><td>2026-08-30</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Voies Du Métro F/h</td><td>Rennes</td><td>2026-08-30</td></tr>
+<tr><td>Keolis</td><td>Technicien·ne Cycle - Agent D'accueil À La Maison Du Vélo F/h</td><td>Rennes</td><td>2026-08-30</td></tr>
+<tr><td>Keolis</td><td>Technicien Maintenance Bus F/h</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Keolis</td><td>Technicien De Maintenance - Ligne 18 F/h</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Keolis</td><td>Agent Electrotechnicien : Infrastructures Électriques Tramway F/h</td><td>Bordeaux</td><td>2026-08-30</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Matériel Roulant Bus H/f</td><td>Bordeaux</td><td>2026-08-30</td></tr>
+<tr><td>Keolis</td><td>Technicien Maintenance Métro Ligne B F/h</td><td>Rennes</td><td>2026-08-30</td></tr>
+<tr><td>Keolis</td><td>Ouvrier Maintenance Préventive Metro F/h</td><td>Lille</td><td>2026-08-30</td></tr>
+<tr><td>Keolis</td><td>Technicien Matériel Embarqué</td><td>Mantes La Jolie</td><td>2026-08-30</td></tr>
+<tr><td>IDEXX Laboratories, Inc.</td><td>Représentant D’assistance Technique (secteur Idf)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Rehlko</td><td>Technician</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Rehlko</td><td>Technician, Ps Emea</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Nissan</td><td>Dealer Technical Specialist Itinerant</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Nissan UK (Sunderland)</td><td>Dealer Technical Specialist Itinerant</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Opérateur Maintenance Métro (h/f)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Opérateur Maintenance Train (h/f)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h)</td><td>Ile-De-France</td><td>2026-08-30</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Rs Maintenance Technician</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Technicien(ne) De Maintenance Rs</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Chiesi Farmaucetici S.p.A</td><td>Technicien Méthodes</td><td>La Chaussee St Victor</td><td>2026-08-30</td></tr>
+<tr><td>HARTMANN</td><td>Technicien De Maintenance Progressive</td><td>Liepvre</td><td>2026-08-30</td></tr>
+<tr><td>HARTMANN</td><td>Technicien De Maintenance (h/f)</td><td>Lyon</td><td>2026-08-30</td></tr>
+<tr><td>Applied Materials</td><td>Technicien.ne De Maintenance (horaires Postés)</td><td>Rousset</td><td>2026-08-30</td></tr>
+<tr><td>35</td><td>Technicien Maintenance Pfgv</td><td>Grenoble</td><td>2026-08-30</td></tr>
+<tr><td>Liquidfusioninc</td><td>Technicien Maintenance Pfgv</td><td>Grenoble</td><td>2026-08-30</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation Expert</td><td>Lyon</td><td>2026-08-30</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>adidas AG</td><td>Vendeur Polyvalent Adidas (h/f/d) - Flagship Champs-elysées</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Nike</td><td>Athlete Nike (vendeur En Magasin) – H / F – Cdd 35h Cdd</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent Cdd 25h Avec Dimanche, Prolongeable</td><td>Nice</td><td>2026-08-30</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent Cdd 30h</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent Cdd 17h30</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Nestlé</td><td>Vendeur Cdd (h/f)</td><td>Toulouse</td><td>2026-08-30</td></tr>
+<tr><td>Nestlé</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Kiabi</td><td>Conseiller De Vente (h/f/nb)</td><td>Nice</td><td>2026-08-30</td></tr>
+<tr><td>Levis Media</td><td>Démonstrateur Cdd H/f</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Nestle SA</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Boulanger</td><td>Vendeur En Franchise - Cdi Temps Plein H/f</td><td>Annecy</td><td>2026-08-30</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Assistant(e) Commercial(e) F/h</td><td>Nice</td><td>2026-08-30</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Assistant(e) Marketing Opérationnel Europe (h/f)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>MSD (Merck)</td><td>Alternance Coordinateur De Projet Crm H/f</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>med-in.at</td><td>Alternance Coordinateur De Projet Crm H/f</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>microsatsystems.biz</td><td>Alternance Coordinateur De Projet Crm H/f</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Daikin Europe NV</td><td>Assistant(e) Planification F/h (lyon) 1</td><td>Lyon</td><td>2026-08-30</td></tr>
+<tr><td>Daikin Europe NV</td><td>Assistant(e) Juriste En Alternance F/h</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>People & Culture Assistant (f/h/x)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Assistant Responsable Ressources Humaines (h/f/x) Temps Partiel 3 Jrs/semaine</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Expanscience</td><td>Coordinatrice.eur Logistique Interna</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>L-Acoustics Inc</td><td>Purchasing Coordinator (cdd)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>itjobber.de</td><td>Stage Chef De Projets Events</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Chanel</td><td>Stage – Ingénieur(e) Chef(fe) De Projet Coordination Projets Qualité Maroquinerie (h/f/x) – Mode – Février 2027</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Coordinateur Événementiel - Cdd F/h</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>AptarGroup Inc</td><td>Specialist, Events Projecth/f</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Kellogg</td><td>Customer Service Coordinator- 12 Months Contract</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Karriere Als Cs</td><td>Assistant(e) Facturation H/f</td><td>Lyon</td><td>2026-08-30</td></tr>
+<tr><td>ALS Limited</td><td>Assistant(e) Facturation H/f</td><td>Lyon</td><td>2026-08-30</td></tr>
+<tr><td>Bilbr</td><td>Alternance - Assistant(e) Chef De Produits (12 Mois À Partir D'octobre 2026)</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Thales</td><td>Afterwork Handi-engage => Venez Nous Rencontrer Le 23/09/2026 !</td><td>Paris</td><td>2026-08-30</td></tr>
 </table>
