@@ -3846,4 +3846,17 @@
 <tr><td>ALS Limited</td><td>Assistant(e) Facturation H/f</td><td>Lyon</td><td>2026-08-30</td></tr>
 <tr><td>Bilbr</td><td>Alternance - Assistant(e) Chef De Produits (12 Mois À Partir D'octobre 2026)</td><td>Paris</td><td>2026-08-30</td></tr>
 <tr><td>Thales</td><td>Afterwork Handi-engage => Venez Nous Rencontrer Le 23/09/2026 !</td><td>Paris</td><td>2026-08-30</td></tr>
+<tr><td>Pluxee</td><td>Stage - 6 Mois - Assistant Commercial Grands Comptes Partenariat H/f</td><td>Paris</td><td>2026-08-31</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Office Of The Director-general</td><td>Headquarters</td><td>2026-08-31</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Ingénieur Développement Logiciel C++ (f/h)</td><td>Paris</td><td>2026-08-31</td></tr>
+<tr><td>Datasciencejobsuk</td><td>Ingénieur·e Logiciel (backend, Python)</td><td>Paris</td><td>2026-08-31</td></tr>
+<tr><td>Datasciencejobsuk</td><td>Software Engineer (backend, Python)</td><td>Paris</td><td>2026-08-31</td></tr>
+<tr><td>Liquidfusioninc</td><td>Alternance Business Analyst & Development Junior F/h</td><td>France</td><td>2026-08-31</td></tr>
+<tr><td>Sonepar Climate</td><td>Technicien Sav H/f - Sonepar Climate Marseille (13)</td><td>Marseille</td><td>2026-08-31</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Agent De Maintenance H/f/x</td><td>Aix En Provence</td><td>2026-08-31</td></tr>
+<tr><td>Eviden</td><td>Technicien De Maintenance Électronique (h/f)</td><td>Paris</td><td>2026-08-31</td></tr>
+<tr><td>Keolis</td><td>Mécanicien Bus - Pl Expert F/h</td><td>Lyon</td><td>2026-08-31</td></tr>
+<tr><td>SIKKENS SOLUTIONS</td><td>Vendeur(se) Conseil</td><td>Lyon</td><td>2026-08-31</td></tr>
+<tr><td>Daikin France</td><td>Assistant(e) Planification F/h (lyon) 1</td><td>Lyon</td><td>2026-08-31</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Assistant(e) Gouvernante Générale H/f</td><td>Roissy CDG Cedex</td><td>2026-08-31</td></tr>
 </table>

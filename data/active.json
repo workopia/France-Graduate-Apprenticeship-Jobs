@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-30",
- "count": 732,
+ "asOf": "2026-08-31",
+ "count": 729,
  "jobs": {
   "23668": {
    "id": "23668",
@@ -248,6 +248,12 @@
    "role": "Strategic Finance Internship",
    "location": "Paris Go"
   },
+  "aee0c8f06e6b84494a2e13547d1f2b7a": {
+   "id": "aee0c8f06e6b84494a2e13547d1f2b7a",
+   "company": "Procter & Gamble (P&G)",
+   "role": "Strategic Finance Internship",
+   "location": "Paris"
+  },
   "7b54a2a3b9e312ba46e3d93be562ccbd": {
    "id": "7b54a2a3b9e312ba46e3d93be562ccbd",
    "company": "Arkema S.A.",
@@ -263,6 +269,12 @@
   "980f1fa92425be9b1c91b97fa7a3815b": {
    "id": "980f1fa92425be9b1c91b97fa7a3815b",
    "company": "GSK (GlaxoSmithKline)",
+   "role": "Alternance – Chef De Produit Vaccin Adulte H/f",
+   "location": "Paris"
+  },
+  "3fd82fa0f8f2340aafe8cccf5b56162a": {
+   "id": "3fd82fa0f8f2340aafe8cccf5b56162a",
+   "company": "GSK plc",
    "role": "Alternance – Chef De Produit Vaccin Adulte H/f",
    "location": "Paris"
   },
@@ -565,18 +577,6 @@
    "company": "Pratt Miller",
    "role": "Assistant Bureau D'études",
    "location": "Tonneins"
-  },
-  "8a01abab73fa4b4148e7a017a03d69cd": {
-   "id": "8a01abab73fa4b4148e7a017a03d69cd",
-   "company": "Pluxee",
-   "role": "Stage - 6 Mois - Assistant Commercial Grands Comptes Partenariat H/f",
-   "location": "Paris"
-  },
-  "d35dc849447127d64b264e089cd65d7a": {
-   "id": "d35dc849447127d64b264e089cd65d7a",
-   "company": "IIEP-UNESCO",
-   "role": "Internship: Office Of The Director-general",
-   "location": "Headquarters"
   },
   "164308e56a4863e37944c59e66812a71": {
    "id": "164308e56a4863e37944c59e66812a71",
@@ -1088,6 +1088,12 @@
    "role": "Alternant Ingénieur Amélioration Continue Et Data H/f",
    "location": "Mantes La Jolie"
   },
+  "6c03462ccf67c127602effe5416d849c": {
+   "id": "6c03462ccf67c127602effe5416d849c",
+   "company": "GSK plc",
+   "role": "Alternant Ingénieur Amélioration Continue Et Data H/f",
+   "location": "Mantes La Jolie"
+  },
   "8d5b993be4e1aba4aa9e9b424525c8d2": {
    "id": "8d5b993be4e1aba4aa9e9b424525c8d2",
    "company": "Cockerill Maintenance & Ingenierie",
@@ -1404,12 +1410,6 @@
    "id": "5d189db57d70e528b912940224271b0f",
    "company": "G&F Châtelain",
    "role": "Alternance - Devops – Software Factory - Tech Engineering - Mode - Septembre 2026 - (h/f/x)",
-   "location": "Paris"
-  },
-  "db41cbe8619aa2c91e0cfd89990716cb": {
-   "id": "db41cbe8619aa2c91e0cfd89990716cb",
-   "company": "Thales Group",
-   "role": "Alternance - Ingénieur Développement Logiciel C++ (f/h)",
    "location": "Paris"
   },
   "4473a6a274e85c61d2c313b06ec77af6": {
@@ -1795,18 +1795,6 @@
    "company": "Jobgether",
    "role": "Python Engineer",
    "location": "France"
-  },
-  "886e50d5dbfa6cd46bb57c3cc0e510a5": {
-   "id": "886e50d5dbfa6cd46bb57c3cc0e510a5",
-   "company": "Datasciencejobsuk",
-   "role": "Ingénieur·e Logiciel (backend, Python)",
-   "location": "Paris"
-  },
-  "d224783288a0f81ec1ea9a6f2487d012": {
-   "id": "d224783288a0f81ec1ea9a6f2487d012",
-   "company": "Datasciencejobsuk",
-   "role": "Software Engineer (backend, Python)",
-   "location": "Paris"
   },
   "e986067a06c854a06a5c05c5ab0b2cc2": {
    "id": "e986067a06c854a06a5c05c5ab0b2cc2",
@@ -2516,12 +2504,6 @@
    "role": "Alternance Finance (12 Mois)",
    "location": "Paris"
   },
-  "1a048f75403c2dea4c1c327df9ecf8d0": {
-   "id": "1a048f75403c2dea4c1c327df9ecf8d0",
-   "company": "Liquidfusioninc",
-   "role": "Alternance Business Analyst & Development Junior F/h",
-   "location": "France"
-  },
   "5e160ee538b4783f09f017ae4c72d5c1": {
    "id": "5e160ee538b4783f09f017ae4c72d5c1",
    "company": "Jobgether",
@@ -3086,6 +3068,12 @@
    "role": "Technicien Maintenance Ascenseurs H/f À Marseille (13)",
    "location": "Marseille"
   },
+  "6318d86930f095b0e67a303150b9088c": {
+   "id": "6318d86930f095b0e67a303150b9088c",
+   "company": "57",
+   "role": "Technicien Maintenance Ascenseurs H/f À Marseille (13)",
+   "location": "Marseille"
+  },
   "6cd2b821328ec5c7db8a78ed459758c2": {
    "id": "6cd2b821328ec5c7db8a78ed459758c2",
    "company": "Sofitel Melbourne On Collins",
@@ -3098,9 +3086,21 @@
    "role": "Technicien.ne Supérieur.e En Maintenance Électronique F/h (mrf)",
    "location": "Paris"
   },
+  "2027657842f00aaa536aa4b7dbc1f0cc": {
+   "id": "2027657842f00aaa536aa4b7dbc1f0cc",
+   "company": "RATP Group",
+   "role": "Technicien.ne Supérieur.e En Maintenance Électronique F/h (mrf)",
+   "location": "Paris"
+  },
   "9a05079430d916e6a686d3dcd00c34b3": {
    "id": "9a05079430d916e6a686d3dcd00c34b3",
    "company": "Air Liquide France Industrie",
+   "role": "Technicien D'exploitation",
+   "location": "Grenoble"
+  },
+  "3a30f7fb42c6930864a730f7d0125121": {
+   "id": "3a30f7fb42c6930864a730f7d0125121",
+   "company": "35",
    "role": "Technicien D'exploitation",
    "location": "Grenoble"
   },
@@ -3239,6 +3239,12 @@
   "efceb609ccd5d85ff5abdd5abaecf22b": {
    "id": "efceb609ccd5d85ff5abdd5abaecf22b",
    "company": "KONE Bulgaria",
+   "role": "Technicien Maintenance Ascenseurs H/f",
+   "location": "Lyon"
+  },
+  "c30800b6fe43872b44e358949effbcae": {
+   "id": "c30800b6fe43872b44e358949effbcae",
+   "company": "KONE",
    "role": "Technicien Maintenance Ascenseurs H/f",
    "location": "Lyon"
   },
@@ -3482,29 +3488,11 @@
    "role": "Instrumentiste (h/f)",
    "location": "Rouxmesnil Bouteilles"
   },
-  "4d7351eecdbfbab49ecdcd0aefae4e06": {
-   "id": "4d7351eecdbfbab49ecdcd0aefae4e06",
-   "company": "Sonepar Climate",
-   "role": "Technicien Sav H/f - Sonepar Climate Marseille (13)",
-   "location": "Marseille"
-  },
-  "e5d7d773d27b6f85284b79eeb7430ab5": {
-   "id": "e5d7d773d27b6f85284b79eeb7430ab5",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Agent De Maintenance H/f/x",
-   "location": "Aix En Provence"
-  },
-  "f1c49d145fc8434d4a7bd80f6f9ee717": {
-   "id": "f1c49d145fc8434d4a7bd80f6f9ee717",
-   "company": "Eviden",
-   "role": "Technicien De Maintenance Électronique (h/f)",
-   "location": "Paris"
-  },
-  "0ae66421b2f2d52c1547a1a66e2c7c2d": {
-   "id": "0ae66421b2f2d52c1547a1a66e2c7c2d",
-   "company": "Keolis",
-   "role": "Mécanicien Bus - Pl Expert F/h",
-   "location": "Lyon"
+  "3410b55483b82293c852fef98a68f127": {
+   "id": "3410b55483b82293c852fef98a68f127",
+   "company": "BOARDRIDERS",
+   "role": "Vendeur 35h H/f - Mérignac (33)- Boardriders",
+   "location": "Bordeaux"
   },
   "1000505f10a2a052ffe1fa0228606af5": {
    "id": "1000505f10a2a052ffe1fa0228606af5",
@@ -3908,17 +3896,23 @@
    "role": "Vendeur(se) Conseil",
    "location": "Nantes"
   },
-  "fb0fdcc3febcbcc5d842687146a7bf7e": {
-   "id": "fb0fdcc3febcbcc5d842687146a7bf7e",
-   "company": "SIKKENS SOLUTIONS",
-   "role": "Vendeur(se) Conseil",
-   "location": "Lyon"
-  },
   "62514e6d606f9b3821ad4545ecc977b9": {
    "id": "62514e6d606f9b3821ad4545ecc977b9",
    "company": "Suez Group",
    "role": "Assistant(e) D'agence - Relais Rh (f/h)",
    "location": "Nice"
+  },
+  "93d3077becf834537546a8b302e8f860": {
+   "id": "93d3077becf834537546a8b302e8f860",
+   "company": "Daikin France",
+   "role": "Assistant(e) Planification F/h (lyon) 1",
+   "location": "Lyon"
+  },
+  "adac3d0de1d1f01fbf372d7f6e4e04a4": {
+   "id": "adac3d0de1d1f01fbf372d7f6e4e04a4",
+   "company": "Daikin Europe NV",
+   "role": "Assistant(e) Juriste En Alternance F/h",
+   "location": "Paris"
   },
   "c17bd31094acbc399bb27be0d5a93784": {
    "id": "c17bd31094acbc399bb27be0d5a93784",
@@ -4304,12 +4298,6 @@
    "role": "Planificateur(trice) Logistique - Alternance - H/f",
    "location": "Cahors"
   },
-  "f09126ed9ea370d86400c09ae24e0f9d": {
-   "id": "f09126ed9ea370d86400c09ae24e0f9d",
-   "company": "Daikin France",
-   "role": "Assistant(e) Planification F/h (lyon) 1",
-   "location": "Lyon"
-  },
   "509a98f9bcf5974a9860794ca129c869": {
    "id": "509a98f9bcf5974a9860794ca129c869",
    "company": "Daikin France",
@@ -4387,12 +4375,6 @@
    "company": "CMA CGM Group",
    "role": "Assistant(e) De Direction",
    "location": "Paris"
-  },
-  "021c115a8cf77dec848cbeb8455bb148": {
-   "id": "021c115a8cf77dec848cbeb8455bb148",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Assistant(e) Gouvernante Générale H/f",
-   "location": "Roissy CDG Cedex"
   }
  }
 }
