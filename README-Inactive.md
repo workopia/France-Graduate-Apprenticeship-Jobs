@@ -3859,4 +3859,43 @@
 <tr><td>SIKKENS SOLUTIONS</td><td>Vendeur(se) Conseil</td><td>Lyon</td><td>2026-08-31</td></tr>
 <tr><td>Daikin France</td><td>Assistant(e) Planification F/h (lyon) 1</td><td>Lyon</td><td>2026-08-31</td></tr>
 <tr><td>Sofitel Melbourne On Collins</td><td>Assistant(e) Gouvernante Générale H/f</td><td>Roissy CDG Cedex</td><td>2026-08-31</td></tr>
+<tr><td>Forvia</td><td>Data Engineer Governance Apprentice</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>My Jewellery</td><td>Conseiller(ère) De Vente Bordeaux</td><td>Bordeaux</td><td>2026-09-01</td></tr>
+<tr><td>Boggi Milano</td><td>Sales Advisor Lyon</td><td>Lyon</td><td>2026-09-01</td></tr>
+<tr><td>My Jewellery</td><td>Conseiller(ère) De Vente Bordeaux (24 Heures)</td><td>Bordeaux</td><td>2026-09-01</td></tr>
+<tr><td>GroupE MONDIAL TISSUS - GMT SaS</td><td>Vendeur.euse Sallanches</td><td>Annecy</td><td>2026-09-01</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant.e Adv & Supply F/h – Marché France – Janvier 2027</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Stage - Assistant.e Adv & Supply F/h – Marché France – Janvier 2027</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>SNOP</td><td>Stagiaire Master Data Achats (h/f)</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>Sonepar Group</td><td>Stage- Fiscalite H/f - Lyon 7e</td><td>Lyon</td><td>2026-09-01</td></tr>
+<tr><td>SAP SE</td><td>Internship: Partner Solution Enablement Associate F/m</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Internship - Data & Performance Junior Analyst (m/f) 1</td><td>Chalifert</td><td>2026-09-01</td></tr>
+<tr><td>Pratt Miller</td><td>Assistant Bureau D'études</td><td>Tonneins</td><td>2026-09-01</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti(e) Barman</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti(e) Réception</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>G&F Châtelain</td><td>Alternance - Devops – Software Factory - Tech Engineering - Mode - Septembre 2026 - (h/f/x)</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>Stage Specialiste Rewards Surveys & Intelligence H/f</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>AIRBUS DS GEO SA</td><td>Multi-sensor Data Fusion Designer (f/m)</td><td>Toulouse</td><td>2026-09-01</td></tr>
+<tr><td>medizinstellenmarkt.de</td><td>Responsable Ia & Data Science</td><td>France</td><td>2026-09-01</td></tr>
+<tr><td>Amazon</td><td>Associate Compliance Specialist , Restricted Products (NL & BE)</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>Disney Streaming</td><td>Infirmier(ère) De Santé Au Travail – F/h/nb – Cdi</td><td>Marne La Vallee Cedex 4</td><td>2026-09-01</td></tr>
+<tr><td>creche-and-go.fr</td><td>Infirmier/iere H/f</td><td>France</td><td>2026-09-01</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance Electricité H/f</td><td>Grenoble</td><td>2026-09-01</td></tr>
+<tr><td>KONE Corporation</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Lyon</td><td>2026-09-01</td></tr>
+<tr><td>KONE International</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Lyon</td><td>2026-09-01</td></tr>
+<tr><td>KONE Romania</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Lyon</td><td>2026-09-01</td></tr>
+<tr><td>RATP</td><td>Electricien/electromécanicien Mainteneur En Ventilations, Basse Tension Et Pompes De Relevage/épuisement - H/f - (ratp/infras/eso)</td><td>Barbes</td><td>2026-09-01</td></tr>
+<tr><td>Verallia Packaging</td><td>Technicien Fluides H/f</td><td>Lyon</td><td>2026-09-01</td></tr>
+<tr><td>Verallia Packaging</td><td>Electromécanicien H/f</td><td>Lyon</td><td>2026-09-01</td></tr>
+<tr><td>Nestle SA</td><td>Instrumentiste (h/f)</td><td>Rouxmesnil Bouteilles</td><td>2026-09-01</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Nantes</td><td>2026-09-01</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur Boulangerie (h/f)</td><td>Peynier (13)</td><td>2026-09-01</td></tr>
+<tr><td>La Casa de las Carcasas</td><td>Vendeur (h/f) - Cdi 20h - Salaise Sur Sanne</td><td>Salaise-Sur-Sanne</td><td>2026-09-01</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) De Vente - 25h Cdi H/f/x</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdi 16h/8h - Bègles</td><td>Bordeaux</td><td>2026-09-01</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Vendeur Conseil Alternant(e)</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Vendeur(se) Conseil</td><td>Nantes</td><td>2026-09-01</td></tr>
+<tr><td>CMA CGM Group</td><td>Alternance - Assistant Chef De Projet Événementiel (f/h/x)</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>CMA CGM Group</td><td>Stage - Assistant(e) Chargé(e) D'études Marketing (f/h/x)</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>CMA CGM Group</td><td>Assistant(e) De Direction</td><td>Paris</td><td>2026-09-01</td></tr>
 </table>
