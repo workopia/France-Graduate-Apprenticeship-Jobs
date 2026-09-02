@@ -3898,4 +3898,61 @@
 <tr><td>CMA CGM Group</td><td>Alternance - Assistant Chef De Projet Événementiel (f/h/x)</td><td>Paris</td><td>2026-09-01</td></tr>
 <tr><td>CMA CGM Group</td><td>Stage - Assistant(e) Chargé(e) D'études Marketing (f/h/x)</td><td>Paris</td><td>2026-09-01</td></tr>
 <tr><td>CMA CGM Group</td><td>Assistant(e) De Direction</td><td>Paris</td><td>2026-09-01</td></tr>
+<tr><td>TESSAN Inc</td><td>Stage - Growth Marketing (h/f)</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>HP</td><td>Apprenti-e Chef-fe De Produit - Pc Commercial H/f</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Stagiaire Chargé De Marketing Digital Sud-ouest Europe H/f</td><td>Rion Des Landes</td><td>2026-09-02</td></tr>
+<tr><td>clayens</td><td>Stage Innovation - Démonstrateur Tms H/f</td><td>Lyon</td><td>2026-09-02</td></tr>
+<tr><td>createyourowncareer</td><td>Alternance Qualité Systèmes H/f</td><td>Mantes La Jolie</td><td>2026-09-02</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Production (h/f) - 6 Mois Clermont De L'oise (60)</td><td>Clermont De L'Oise</td><td>2026-09-02</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Qualité - 6 Mois - Bouvron (n°44)</td><td>Bouvron</td><td>2026-09-02</td></tr>
+<tr><td>Reckitt</td><td>Stage Sales - Key Account Manager Pharma / Janvier 2027</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Reckitt</td><td>Stages Sales - Category Manager / Janvier 2027</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Van Cleef & Arpels</td><td>Stagiaire Ass Chargée De Recrutement Rh</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Van Cleef & Arpels</td><td>Stagiaire Assistante Crm International</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Vandemoortele NV</td><td>Alternant(e) Qualité F/h</td><td>Le Fossat</td><td>2026-09-02</td></tr>
+<tr><td>Vandemoortele NV</td><td>Alternant (e) Amélioration Continue</td><td>Saint Vulbas</td><td>2026-09-02</td></tr>
+<tr><td>HERBERT SMITH FREEHILLS</td><td>Stagiaire Communication - 1er Semestre 2027 (f/h)</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Pernod Ricard Inc</td><td>Commercial Development & Execution Excellence Intern - January 2027</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Pernod Ricard Inc</td><td>Prevention And Responsible Drinking Initiatives Intern - January 2027</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Pernod Ricard</td><td>Commercial Development & Execution Excellence Intern - January 2027</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Pernod Ricard Winemakers</td><td>Prevention And Responsible Drinking Initiatives Intern - January 2027</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Sia</td><td>Final Year Internship Consultant - Energy, Utilities & Low Carbon Solutions</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Sia</td><td>Final Year Internship Consultant - Energy, Transport & Manufacturing</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>SAP SE</td><td>Apprenticeship : Services Account Executive F/m</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Careers at Marriott</td><td>Apprenti Cuisine F/h</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Coloplast</td><td>Apprenti(e) Junior Product Manager (92) - H/f</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Coloplast AS</td><td>Apprenti(e) Junior Product Manager (92) - H/f</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>GE VERNOVA</td><td>Stage - Ingénieur(e) D'application (h/f)</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Hitachi Metals</td><td>Alternant(e) Technicien(ne) Mise En Service – Grid Automation</td><td>Mantes La Jolie</td><td>2026-09-02</td></tr>
+<tr><td>Eviden</td><td>Ingénieur Validation Software R&d Hpc (f/h)</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Jobgether</td><td>Python Engineer</td><td>France</td><td>2026-09-02</td></tr>
+<tr><td>Pierre Fabre</td><td>Data Analyst - Beamy & Sam - Alternance - H/f</td><td>Toulouse</td><td>2026-09-02</td></tr>
+<tr><td>Coloplast AS</td><td>Laser Maintenance Specialist - Region Europe</td><td>Le Plessis</td><td>2026-09-02</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien.ne De Fiabilisation Mécanique - Fonderie</td><td>Biesheim</td><td>2026-09-02</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Maintenance Mécanique (h/f) - Journée</td><td>Biesheim</td><td>2026-09-02</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Compagnon De Maintenance Préventive (h/f)</td><td>Biesheim</td><td>2026-09-02</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Maintenance Mécanique 5x8 H/f</td><td>Biesheim</td><td>2026-09-02</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Maintenance Electrique 5x8 H/f</td><td>Biesheim</td><td>2026-09-02</td></tr>
+<tr><td>BIA Group</td><td>Technicien(ne) Sav F/h (vigneux‑de‑bretagne)</td><td>Nantes</td><td>2026-09-02</td></tr>
+<tr><td>Marriott International</td><td>Technicien En Alternance (h/f)</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>W Brisbane</td><td>Technicien En Alternance (h/f)</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Electricité Ht F/h</td><td>Lyon</td><td>2026-09-02</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Cvc F/h</td><td>Lyon</td><td>2026-09-02</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance Cvc F/h</td><td>Lyon</td><td>2026-09-02</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien De Maintenance Cvc F/h</td><td>Roche</td><td>2026-09-02</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Electricité H/f</td><td>Grenoble</td><td>2026-09-02</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Ht F/h</td><td>Grenoble</td><td>2026-09-02</td></tr>
+<tr><td>Eiffagemetal</td><td>Technicien De Maintenance Cvc F/h</td><td>Grenoble</td><td>2026-09-02</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Beaugrenelle - Cdi Temps Partiel</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Parly 2 - Stage 2 Mois</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Throwbackpacks</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Beaugrenelle - Cdi Temps Partiel</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Partiel H/f</td><td>Nice</td><td>2026-09-02</td></tr>
+<tr><td>Unilever</td><td>Stage Conseiller De Vente - Maille Paris</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Maille</td><td>Stage Conseiller De Vente - Maille Paris</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi Temps Partiel H/f [ 8h / 14h / 24h ]</td><td>Annecy</td><td>2026-09-02</td></tr>
+<tr><td>Galeries Lafayette</td><td>Personal Stylist / Conseiller De Vente Beauté Cdd F/h</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Valentino</td><td>Hr Assistant - Intern</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Van Cleef & Arpels</td><td>Stage - Assistant(e) Chef De Produit Horlogerie & Haute Joaillerie (h/f)</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Sephora USA Inc</td><td>Cdd - Coordinateur Distribution Et Transport (f/h/x)</td><td>Paris</td><td>2026-09-02</td></tr>
 </table>
