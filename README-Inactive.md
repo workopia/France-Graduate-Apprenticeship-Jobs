@@ -3955,4 +3955,81 @@
 <tr><td>Valentino</td><td>Hr Assistant - Intern</td><td>Paris</td><td>2026-09-02</td></tr>
 <tr><td>Van Cleef & Arpels</td><td>Stage - Assistant(e) Chef De Produit Horlogerie & Haute Joaillerie (h/f)</td><td>Paris</td><td>2026-09-02</td></tr>
 <tr><td>Sephora USA Inc</td><td>Cdd - Coordinateur Distribution Et Transport (f/h/x)</td><td>Paris</td><td>2026-09-02</td></tr>
+<tr><td>Firmenich</td><td>Marketing & Sales Specialist 1</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>GroupE MONDIAL TISSUS - GMT SaS</td><td>Vendeur.euse Mâcon Cdd</td><td>Lyon</td><td>2026-09-03</td></tr>
+<tr><td>GroupE MONDIAL TISSUS - GMT SaS</td><td>Vendeur.euse Bourg En Bresse</td><td>Lyon</td><td>2026-09-03</td></tr>
+<tr><td>LEO Pharma</td><td>Alternant H/f - Affaires Médicales</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>GSK plc</td><td>Alternance – Chef De Produit Vaccin Adulte H/f</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Boston Consulting Group</td><td>Internship - Data Analyst Career Services (septembre 2026)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Essais Laboratoire Systèmes De Renseignement - F/h</td><td>Mantes La Jolie</td><td>2026-09-03</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Graphiste Marketing (f/h)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>AptarGroup Inc</td><td>Stagiaire Industrialisation Produit H/f</td><td>Granville</td><td>2026-09-03</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant Technicien Développement Produits</td><td>Le Neubourg</td><td>2026-09-03</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant(e) - Supply Chain Et Datas H/f</td><td>Mantes La Jolie</td><td>2026-09-03</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant Hse F/h</td><td>Verneuil D’Avre Et D’Iton</td><td>2026-09-03</td></tr>
+<tr><td>AptarGroup Inc</td><td>Alternant(e) - Digital Marketing H/f</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>AptarGroup Inc</td><td>Stagiaire Méthodes H/f</td><td>BréCey</td><td>2026-09-03</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Alternant Site (h/f)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Alternant(e) En Communication & Digitalisation H/f</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>W Brisbane</td><td>Stagiaire Commercial, Evenementiel & Marketing</td><td>France</td><td>2026-09-03</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Chargé De Formation Et Communication Interne Bijouterie (h/f)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire Room Service (h/f)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Dow Jones</td><td>B2b Sales Intern</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Zeno Group</td><td>[stage] Assistant Consultant Rp - H/f</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Ardian</td><td>Investor Relations Economics Stage - Janvier 2027 I Paris (h/f)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Ardian</td><td>Fund Finance Buyout Stage - Janvier 2027 I Paris (m/f)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Ardian</td><td>Digital Transformation Stage - Janvier 2027 / Paris (h/f)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Ardian</td><td>Private Wealth Solutions Stage - Janvier 2027 I Paris (h/f)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Ardian</td><td>Brand & Communication-external Events Assistant Stage - Janvier 2027 I Paris (m/f)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Soho House & Co Inc.</td><td>Stagiaire Club "restaurant" - Soho House Paris H/f</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Sohohouseco</td><td>Stagiaire Club "restaurant" - Soho House Paris H/f</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>why LLP</td><td>Stagiaire Contentieux - Juillet/décembre 2027</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Linklaters</td><td>Stagiaire Contentieux - Juillet/décembre 2027</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>IDEMIA</td><td>Marketing & Communications Apprentice</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>IDEMIA</td><td>Apprenti(e) Gestionnaire Administratif(ve) Rh Et Paie</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>IDEMIA</td><td>Ai Apprentice</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>IDEMIA</td><td>Apprenti(e) Chargé(e) De Mission Résilience</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Apprenti(e) Rams Engineer (f/m)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Thales</td><td>Ingénieur Développement Logiciel F/h</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Jobgether</td><td>Golang Engineer</td><td>France</td><td>2026-09-03</td></tr>
+<tr><td>OVHcloud</td><td>Stage - Data Scientist</td><td>Toulouse</td><td>2026-09-03</td></tr>
+<tr><td>Sopra Steria UK</td><td>Ingénieur Ia – Mistral- Services Financiers – Ile-de-france</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Sopra Steria UK</td><td>Ingénieur Ia – Anthropic- Services Financiers – Ile-de-france</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>gssi.world</td><td>2 Alternances - Business Intelligence / Chef De Marché (h/f)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>clayens</td><td>Technicien Maintenance F/h</td><td>Belmont Tramonet</td><td>2026-09-03</td></tr>
+<tr><td>clayens</td><td>Technicien De Maintenance</td><td>Izernore</td><td>2026-09-03</td></tr>
+<tr><td>Bombardier</td><td>Licensed Technician B1/b2 - Paris</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Dépannage Maintenance F/h</td><td>Les Ancizes</td><td>2026-09-03</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance - F/h</td><td>Toulouse</td><td>2026-09-03</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance Services Généraux (f/h)</td><td>France</td><td>2026-09-03</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien Travaux Programmés (f/h)</td><td>Fr</td><td>2026-09-03</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance N 1 F/h</td><td>Toulouse</td><td>2026-09-03</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Maintenance Électricien N1 F/h</td><td>Toulouse</td><td>2026-09-03</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien Utilités F/h</td><td>Toulouse</td><td>2026-09-03</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance H/f Cdd Bayeux (14)</td><td>Caen</td><td>2026-09-03</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Vercel (25)</td><td>Vercel</td><td>2026-09-03</td></tr>
+<tr><td>lactalisexperience</td><td>Alternant Maintenance (h/f) - 12 À 24 Mois Livarot (14)</td><td>Livarot</td><td>2026-09-03</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance H/f Sainte Cécile (50)</td><td>Villedieu</td><td>2026-09-03</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Rodez (12)</td><td>Rodez</td><td>2026-09-03</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance Industrielle (h/f) Châteaubourg (35)</td><td>Rennes</td><td>2026-09-03</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Technicien De Fiabilisation Electrique (h/f)</td><td>Biesheim</td><td>2026-09-03</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur Boulangerie (h/f)</td><td>Chazelles</td><td>2026-09-03</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi H/f</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Galeries Lafayette</td><td>Conseiller De Vente - Temps Partiel 24h00 F/h</td><td>Annecy</td><td>2026-09-03</td></tr>
+<tr><td>Galeries Lafayette</td><td>Conseiller De Vente Dimanche Et Lundi F/h</td><td>Bordeaux</td><td>2026-09-03</td></tr>
+<tr><td>Boulanger</td><td>Vendeur / Vendeuse Cdd - Temps Partiel 20h (h/f)</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Galeries Lafayette</td><td>Personal Stylist / Conseiller De Vente Cdi F/h</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdi 35h - Cagnes Sur Mer</td><td>Nice</td><td>2026-09-03</td></tr>
+<tr><td>SWAROVSKI</td><td>Cdd - Conseiller De Vente (h/f/x) 28h - Gare De L'est</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent/e // Cdi 30h</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent/e // Cdd 20h</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>La Casa de las Carcasas</td><td>Vendeur (h/f) - Cdi 35h - Paris Rivoli</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>naturactive.fr</td><td>Planificateur(trice) Logistique - Alternance - H/f</td><td>Cahors</td><td>2026-09-03</td></tr>
+<tr><td>Daikin France</td><td>Assistant(e) Juriste En Alternance F/h</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Chanel</td><td>Stage – Assistant(e) Outils De Communication Presse - Horlogerie Joaillerie - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Communication Haute-couture (h/f/x) - Mode – Janvier 2027</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Assistant(e) Communication Haute-couture (h/f/x) - Mode – Janvier 2027</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage – Assistant(e) Outils De Communication Presse - Horlogerie Joaillerie - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-09-03</td></tr>
+<tr><td>Audika</td><td>Assistant Administratif Et Commercial H/f - Département 57</td><td>DéPartement 57</td><td>2026-09-03</td></tr>
+<tr><td>Swiss Re</td><td>Hr Assistant (apprenticeship - M/f/x/d - Hybrid)</td><td>Paris</td><td>2026-09-03</td></tr>
 </table>
