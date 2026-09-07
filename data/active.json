@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-06",
- "count": 776,
+ "asOf": "2026-09-07",
+ "count": 771,
  "jobs": {
   "79196": {
    "id": "79196",
@@ -506,6 +506,12 @@
    "role": "Internship - Income",
    "location": "Paris"
   },
+  "2c52ae1b75201082ed6659bf41f2298a": {
+   "id": "2c52ae1b75201082ed6659bf41f2298a",
+   "company": "Recordati Industria Chimica e Farmaceutica S.p.A",
+   "role": "Apprentice Regulatory affairs",
+   "location": "Paris"
+  },
   "fd7f3a8a2de3fab679a83bac1cd659e9": {
    "id": "fd7f3a8a2de3fab679a83bac1cd659e9",
    "company": "Eiffage Énergie Systèmes",
@@ -570,12 +576,6 @@
    "id": "2a602d8869395cd35dd5aae781f76f4c",
    "company": "Primark",
    "role": "Assistant De Gestion En Alternance",
-   "location": "Paris"
-  },
-  "a7ec6fc34626dba362e99449bbd6c927": {
-   "id": "a7ec6fc34626dba362e99449bbd6c927",
-   "company": "Recordati Industria Chimica e Farmaceutica S.p.A",
-   "role": "Apprentice Regulatory affairs",
    "location": "Paris"
   },
   "1a022c4c104907cdaaf5a90ef3e5a98a": {
@@ -1370,18 +1370,6 @@
    "role": "Apprenti Ingénieur Chantier (h/f)",
    "location": "Nantes"
   },
-  "b843be67b69fb438f0d8cb10e83b5aad": {
-   "id": "b843be67b69fb438f0d8cb10e83b5aad",
-   "company": "Thales Group",
-   "role": "Alternance - Support Erp - F/h",
-   "location": "Paris"
-  },
-  "9ce6bb66a1baccb2efea77943ab58240": {
-   "id": "9ce6bb66a1baccb2efea77943ab58240",
-   "company": "Thales Group",
-   "role": "Alternance – Ingénieur Des Composants – F/h",
-   "location": "Mantes La Jolie"
-  },
   "4473a6a274e85c61d2c313b06ec77af6": {
    "id": "4473a6a274e85c61d2c313b06ec77af6",
    "company": "lactalisexperience",
@@ -1404,12 +1392,6 @@
    "id": "7e505480de9c940b9fe5999c821a13a7",
    "company": "Astemo",
    "role": "Brake Software Model-based Design Apprenticeship",
-   "location": "Paris"
-  },
-  "84bb632706e237784cd4149ed561c7e2": {
-   "id": "84bb632706e237784cd4149ed561c7e2",
-   "company": "Thales",
-   "role": "Alternance - Ingénieur Support Virtualisation & Poc – F/h - F/h",
    "location": "Paris"
   },
   "8845eeac160a99457e993f2c12327e6c": {
@@ -1987,18 +1969,6 @@
    "company": "Theatre Sponsor",
    "role": "Alternance - Data & Ia",
    "location": "France"
-  },
-  "36351888d757499b4a15ba737614fe84": {
-   "id": "36351888d757499b4a15ba737614fe84",
-   "company": "Thales Group",
-   "role": "Alternance - Ingénieur Data / Ia - F/h",
-   "location": "Paris"
-  },
-  "cd0e9e6c741f962d4751f693d12b73b4": {
-   "id": "cd0e9e6c741f962d4751f693d12b73b4",
-   "company": "Thales Group",
-   "role": "Alternance - Data / Ai Engineer - F/h",
-   "location": "Paris"
   },
   "a08e25e70c458c2b78c8f38048a3044b": {
    "id": "a08e25e70c458c2b78c8f38048a3044b",
@@ -2636,6 +2606,12 @@
    "role": "Alternance - Business Expert Compound",
    "location": "Paris"
   },
+  "2fdaecdc69af2c71a8893ca6ff305ffd": {
+   "id": "2fdaecdc69af2c71a8893ca6ff305ffd",
+   "company": "Avanade",
+   "role": "Business Analyst D365 F&o (bams)",
+   "location": "Paris"
+  },
   "eb5ed6d9a143c5c74656aade897624b5": {
    "id": "eb5ed6d9a143c5c74656aade897624b5",
    "company": "Accenture",
@@ -2887,12 +2863,6 @@
    "company": "NEMERA",
    "role": "Business Analyst Sap Qm F/h/x",
    "location": "Lyon"
-  },
-  "36316cf85615fc1236bd80a040c99b77": {
-   "id": "36316cf85615fc1236bd80a040c99b77",
-   "company": "Avanade",
-   "role": "Business Analyst D365 F&o Bams",
-   "location": "Paris"
   },
   "a2a9b92be4c6baefbbd2c3199a92dd83": {
    "id": "a2a9b92be4c6baefbbd2c3199a92dd83",
@@ -4178,6 +4148,12 @@
    "role": "Conseiller De Vente Papeterie Création Éveil (h/f)",
    "location": "Lille"
   },
+  "be760e0e5b8578265248a1da2a601d86": {
+   "id": "be760e0e5b8578265248a1da2a601d86",
+   "company": "Cartier",
+   "role": "Pilote De Flux Logistiques (h/f) Cdd",
+   "location": "Paris"
+  },
   "823a4db162557fc285def57f18ed129e": {
    "id": "823a4db162557fc285def57f18ed129e",
    "company": "Valentino",
@@ -4651,12 +4627,6 @@
    "company": "Daikin Austria",
    "role": "Assistant(e) Planification F/h (lyon) 1",
    "location": "Lyon"
-  },
-  "8edad54738da42cb23c2f8cfa20ead59": {
-   "id": "8edad54738da42cb23c2f8cfa20ead59",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Adjoint(e) Directeur Technique H/f",
-   "location": "Roissy CDG"
   }
  }
 }

@@ -4388,4 +4388,12 @@
 <tr><td>Chanel</td><td>Stage – Assistant.e Chef De Produit Marketing Opérationnel Parfums F/h - Marché France - Janvier 2027</td><td>Paris</td><td>2026-09-06</td></tr>
 <tr><td>Chanel (Australia) Pty Ltd</td><td>Stage – Assistant.e Chef De Projet Trade F/h – Marché France – Janvier 2027</td><td>Paris</td><td>2026-09-06</td></tr>
 <tr><td>Chanel (Australia) Pty Ltd</td><td>Stage – Assistant.e Chef De Produit Marketing Opérationnel Parfums F/h - Marché France - Janvier 2027</td><td>Paris</td><td>2026-09-06</td></tr>
+<tr><td>Recordati Industria Chimica e Farmaceutica S.p.A</td><td>Apprentice Regulatory affairs</td><td>Paris</td><td>2026-09-07</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Support Erp - F/h</td><td>Paris</td><td>2026-09-07</td></tr>
+<tr><td>Thales Group</td><td>Alternance – Ingénieur Des Composants – F/h</td><td>Mantes La Jolie</td><td>2026-09-07</td></tr>
+<tr><td>Thales</td><td>Alternance - Ingénieur Support Virtualisation & Poc – F/h - F/h</td><td>Paris</td><td>2026-09-07</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Ingénieur Data / Ia - F/h</td><td>Paris</td><td>2026-09-07</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Data / Ai Engineer - F/h</td><td>Paris</td><td>2026-09-07</td></tr>
+<tr><td>Avanade</td><td>Business Analyst D365 F&o Bams</td><td>Paris</td><td>2026-09-07</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Adjoint(e) Directeur Technique H/f</td><td>Roissy CDG</td><td>2026-09-07</td></tr>
 </table>
