@@ -4396,4 +4396,52 @@
 <tr><td>Thales Group</td><td>Alternance - Data / Ai Engineer - F/h</td><td>Paris</td><td>2026-09-07</td></tr>
 <tr><td>Avanade</td><td>Business Analyst D365 F&o Bams</td><td>Paris</td><td>2026-09-07</td></tr>
 <tr><td>Sofitel Melbourne On Collins</td><td>Adjoint(e) Directeur Technique H/f</td><td>Roissy CDG</td><td>2026-09-07</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant Commercial Export Afrique (h/f) Choisy-le-roi (94)</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant Commercial Export Asie (h/f) Choisy-le-roi (94)</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Stagiaire Spa H/f</td><td>Bordeaux</td><td>2026-09-08</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Stagiaire Spa H/f</td><td>Bordeaux</td><td>2026-09-08</td></tr>
+<tr><td>OCTO</td><td>Stage - Dev/data/ia - Outillage Ia - F/h/n</td><td>Lille</td><td>2026-09-08</td></tr>
+<tr><td>Pradagroup</td><td>Miu Miu Training Specialist Intern Paris</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Le Prince de Galles</td><td>Stagiaire Réception H/f</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Stage - Ewholesale Development H/f</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Amélioration Continue / Production (h/f)</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Retail Marketing Expérience Client International H/f</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Danfoss AS</td><td>Alternant(e) Commercial(e) - Suivi Client & Offres</td><td>Lyon</td><td>2026-09-08</td></tr>
+<tr><td>Groupe Reside Etudes Inc</td><td>Commis De Cuisine H/f En Alternance</td><td>Chessy</td><td>2026-09-08</td></tr>
+<tr><td>HSH Management Services Ltd</td><td>Internship - Restaurant L'oiseau Blanc</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>The Peninsula Paris</td><td>Internship - Restaurant Le Lobby</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>HSH Management Services Ltd</td><td>Internship - Room Service</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>HSH Management Services Ltd</td><td>Internship - Revenue Management</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>The Peninsula Paris</td><td>Internship - Income</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>itjobber.de</td><td>Internal Communication Apprentice</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Proofpoint</td><td>Inside Channel Account Manager Apprentice</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Talan</td><td>Apprenti Ingénieur Système, Réseau, Cybersécurité F/h</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Coty Inc.</td><td>Global Education & Retail Apprentice</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti Commis De Patisserie H/f/nb</td><td>Toulouse</td><td>2026-09-08</td></tr>
+<tr><td>Chart Industries Inc</td><td>Business Development Apprentice</td><td>Nantes</td><td>2026-09-08</td></tr>
+<tr><td>Theatre Sponsor</td><td>Alternance - Data & Ia</td><td>France</td><td>2026-09-08</td></tr>
+<tr><td>Accenture Australia</td><td>Analyste En Stratégie Data & Ia</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Huron</td><td>Analyst</td><td>France</td><td>2026-09-08</td></tr>
+<tr><td>NEMERA</td><td>Business Analyst Sap Pm F/h/x</td><td>Lyon</td><td>2026-09-08</td></tr>
+<tr><td>Nestle Ltd</td><td>Comptable F/h</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Talan</td><td>Business Analyst Data Gouvernance - Cdi - F/h</td><td>Lyon</td><td>2026-09-08</td></tr>
+<tr><td>Coloplast AS</td><td>Cdd 18 Mois - Business Analyst H/f</td><td>Val De Fontenay</td><td>2026-09-08</td></tr>
+<tr><td>TP ICAP</td><td>Compliance Advisory Officer</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Bureau Veritas</td><td>Auditeur Iscc, Biocarburant (f-h-x)</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Fr - Agent/technicien De Maintenance (h/f/x)</td><td>Tremblay</td><td>2026-09-08</td></tr>
+<tr><td>Intermarche</td><td>Technicien Méthode Maintenance H/f</td><td>Grand-Fougeray</td><td>2026-09-08</td></tr>
+<tr><td>Prysmian Group</td><td>Maintenance Operator</td><td>Amfreville</td><td>2026-09-08</td></tr>
+<tr><td>35</td><td>Technicien A&ga H/f - Villebon</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>35</td><td>Technicien A&ga - H/f - Cdd Nanterre</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Technicien Polyvalent F/h/x</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Electromécanicien F/h/x</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>CEMEX</td><td>Electro-mécanicien(ne) (h/f) - Salon De Provence (13) - Cdi</td><td>Aix En Provence</td><td>2026-09-08</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi H/f</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>MANGO</td><td>Multifunctional Sales Associate</td><td>Lyon</td><td>2026-09-08</td></tr>
+<tr><td>Cultura</td><td>Conseiller De Vente Papeterie Création Éveil (h/f)</td><td>Lille</td><td>2026-09-08</td></tr>
+<tr><td>Van Cleef & Arpels</td><td>Stage - Assistant(e) Chef De Projet Clients (h/f)</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Van Cleef & Arpels</td><td>Stage - Assistant(e) Chef De Produit Joaillerie & Coordination Marketing (h/f)</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Van Cleef & Arpels</td><td>Stage Assistant(e) Achat Joaillerie (h/f)</td><td>Paris</td><td>2026-09-08</td></tr>
+<tr><td>Daikin Europe NV</td><td>Assistant(e) Planification F/h (lyon) 1</td><td>Lyon</td><td>2026-09-08</td></tr>
+<tr><td>Daikin Austria</td><td>Assistant(e) Planification F/h (lyon) 1</td><td>Lyon</td><td>2026-09-08</td></tr>
 </table>
