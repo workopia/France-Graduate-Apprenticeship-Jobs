@@ -4444,4 +4444,38 @@
 <tr><td>Van Cleef & Arpels</td><td>Stage Assistant(e) Achat Joaillerie (h/f)</td><td>Paris</td><td>2026-09-08</td></tr>
 <tr><td>Daikin Europe NV</td><td>Assistant(e) Planification F/h (lyon) 1</td><td>Lyon</td><td>2026-09-08</td></tr>
 <tr><td>Daikin Austria</td><td>Assistant(e) Planification F/h (lyon) 1</td><td>Lyon</td><td>2026-09-08</td></tr>
+<tr><td>The New York Times Company</td><td>Ad Solutions & Campaign Management Intern</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>The New York Times</td><td>Ad Solutions & Campaign Management Intern</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>SAFT SAS</td><td>Stage Audit Et Contrôle Interne (h/f)</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>jobs.barclays</td><td>Sales, Trading And Structuring Off Cycle Internship Programme 2027 Paris</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Stagiaire - Controle De Gestion</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>Vandemoortele NV</td><td>Alternant(e) Qualité F/h</td><td>Le Fossat</td><td>2026-09-09</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Qualité - 6 Mois - Bouvron (n°44)</td><td>Bouvron</td><td>2026-09-09</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant E-commerce (h/f) - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-09-09</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Commercial Chef De Secteur Proximité (h/f) - 6 Mois Lille - Calais (59-62)</td><td>Lille</td><td>2026-09-09</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Commercial Chef De Secteur Proximité (h/f) - 6 Mois Marseille - Nice (13-06)</td><td>Marseille</td><td>2026-09-09</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant Back Office Marketing (h/f) Choisy Le Roi (94)</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>CMA CGM Group</td><td>Apprenticeship - Techops & Delivery (m/f/x)</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>CMA CGM Group</td><td>Apprenticeship - Assistant Event Project Manager (m/f/x)</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>CEVA Logistics</td><td>Apprenticeship - Global Treasury Analyst</td><td>Marseille</td><td>2026-09-09</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Logiciel Ada F.h</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Ingénieur Étude Et Développement Embarqué</td><td>Marseille</td><td>2026-09-09</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Ingénieur En Gestion De Parc Et Maintenance Industrielle Bac +2 À 5 (h/f)</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>Otisjob</td><td>Apprenti Ingénieur Chantier (h/f)</td><td>Nantes</td><td>2026-09-09</td></tr>
+<tr><td>Sanofi UK</td><td>Alternance 24 Mois – Gestion De Projet Data & Biotechnologie</td><td>Marcy-L'ÉToile</td><td>2026-09-09</td></tr>
+<tr><td>Guerbet</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Cvc F/h</td><td>Mignieres</td><td>2026-09-09</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Electromécanicien F/h</td><td>Lyon</td><td>2026-09-09</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Technicien Service Atelier (h/f), Engins Tp - Cdi - Taverny</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Technicien Service D'atelier Grues Mobiles (h/f) - Cdd 12 Mois - Niederhergheim</td><td>Niederhergheim</td><td>2026-09-09</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Technicien Apres-vente (h/f)</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Technicien De Maintenance (h/f)</td><td>Autechaux</td><td>2026-09-09</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Technicien De Maintenance De Parcs Éoliens (h/f) - Candé (49)</td><td>Candé</td><td>2026-09-09</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Technicien De Maintenance De Parcs Éoliens (h/f) - Bournezeau (85)</td><td>Bournezeau</td><td>2026-09-09</td></tr>
+<tr><td>ENERCON Service France</td><td>Technicien De Maintenance De Parcs Éoliens (h/f) - Plonevez Du Faou (29)</td><td>PlonéVez-Du-Faou</td><td>2026-09-09</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Technicien De Maintenance H/f</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>UNIQLO</td><td>Vendeur Polyvalent (h/f) - Cdd Temps Plein - Uniqlo Lyon</td><td>Lyon</td><td>2026-09-09</td></tr>
+<tr><td>Bolton Group S.r.l</td><td>Stagiaire Assistant(e) Chef(fe) De Produit Saupiquet - Food</td><td>Paris</td><td>2026-09-09</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Resp. Livraison</td><td>Tourville La Riviere</td><td>2026-09-09</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Alternant En Sourcing</td><td>Paris</td><td>2026-09-09</td></tr>
 </table>
