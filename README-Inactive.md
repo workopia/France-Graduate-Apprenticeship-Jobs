@@ -4961,4 +4961,84 @@
 <tr><td>Samsung</td><td>Stage Assistant(e) Relations Presse & Influenceurs (h/f)</td><td>Paris</td><td>2026-09-11</td></tr>
 <tr><td>Sony Music Entertainment</td><td>Assistant.e Juriste F/h N/b - Stage</td><td>Paris</td><td>2026-09-11</td></tr>
 <tr><td>Xcenda</td><td>Stage - Assistant Chef De Produits Alvita (h/f)</td><td>Paris</td><td>2026-09-11</td></tr>
+<tr><td>Christie's</td><td>Assistant(e) Département Presse - Stage 6 Mois</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Samsung</td><td>Assistant(e) Chef(fe) De Produit Electroménager (h/f) - Stage 6 Mois</td><td>France</td><td>2026-09-12</td></tr>
+<tr><td>Barry Callebaut AG</td><td>Stagiaires Marketing</td><td>Mantes La Jolie</td><td>2026-09-12</td></tr>
+<tr><td>Samsung</td><td>Chargé(e) De L’engagement Sociétal (h/f) – Stage 6 Mois</td><td>6 Rue Fructidor</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois Approvisionnement Matières Premières Et Fournitures Industrielles</td><td>Marcy</td><td>2026-09-12</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Marketing Clients, Boutique Mode Paris, Janvier 2023</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>CHANEL</td><td>Stage - Assistant(e) Marketing Client F/h - Paris - Juillet 2023 (ouverte)</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Stratégie Presse International Soin (h/f/x) - Janvier 2026</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Chargé D'affaires Et Études Techniques - Stage F/h</td><td>Marseille</td><td>2026-09-12</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Planificateur (h/f) Proximité Rennes (35)</td><td>Bourgbarré</td><td>2026-09-12</td></tr>
+<tr><td>Hexcel</td><td>Alternant(e) En Automatisme / Informatique Industrielle F/h</td><td>Les Avenieres</td><td>2026-09-12</td></tr>
+<tr><td>Boston Consulting Group</td><td>Visiting Associate, Internship, France</td><td>France</td><td>2026-09-12</td></tr>
+<tr><td>Audika</td><td>Stage Juriste Immobilier H/f</td><td>France</td><td>2026-09-12</td></tr>
+<tr><td>Amplifon</td><td>Stage Marketing - Junior Brand Manager (h/f/x) - Mars 2027</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Michelin</td><td>Alternance - Transformation Digitale Du Système De Management De La Production (f/h)</td><td>Bourges</td><td>2026-09-12</td></tr>
+<tr><td>Audition Santé</td><td>Trainee Caze / Carb</td><td>Cahors</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois - Support Communication Et Transformation</td><td>Montpellier</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois - Gestion Qualification Équipements De Laboratoire</td><td>Sisteron</td><td>2026-09-12</td></tr>
+<tr><td>Sanrafaelvet</td><td>Stage 6 Mois - Approvisionnement Matières Premières Et Fournitures Industrielles</td><td>Marcy</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois Opérations Supply Chain Vaccins</td><td>Lyon</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois Marketing Digital</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Stage Adjoint Au Superviseur Contrats De Maintenance F/h</td><td>Rennes</td><td>2026-09-12</td></tr>
+<tr><td>Eiffage Rail</td><td>Stage - Assistant Contrôleur Interne - F/h</td><td>Azay Sur Cher</td><td>2026-09-12</td></tr>
+<tr><td>EIFFAGE RAIL</td><td>Alternance - Gestionnaire Parc Automobiles - F/h</td><td>Azay Sur Cher</td><td>2026-09-12</td></tr>
+<tr><td>RMC BFM</td><td>Alternance - Chargé(e) De Projets Growth Marketing (f/h/x))</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Project Management & Transformation</td><td>Marseille</td><td>2026-09-12</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Pmo Transformation Assets</td><td>Marseille</td><td>2026-09-12</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Assistant Chartering Controller</td><td>Marseille</td><td>2026-09-12</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Container Fleet Technical</td><td>Marseille</td><td>2026-09-12</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Container Business Project Assistant</td><td>Marseille</td><td>2026-09-12</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Junior Real Estate Project Manager (m/f)</td><td>Marseille</td><td>2026-09-12</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Communication, Learning & Innovation</td><td>Marseille</td><td>2026-09-12</td></tr>
+<tr><td>CMA CGM Group</td><td>Stage - Communication, Learning & Innovation (h/f)</td><td>Marseille</td><td>2026-09-12</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Event Project Manager</td><td>Marseille</td><td>2026-09-12</td></tr>
+<tr><td>Coty</td><td>Internship Escada Fragrances</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Galileo Global Education</td><td>Stage - Assistant Administratif Et Commercial H / F</td><td>Lyon</td><td>2026-09-12</td></tr>
+<tr><td>NXP</td><td>Apprenti(e) Développement Hw/sw Ral Hpra</td><td>Toulouse</td><td>2026-09-12</td></tr>
+<tr><td>Chiesi Farmaucetici S.p.A</td><td>Apprentie Affaires Médicales - Respiratoire</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Dentsu Creative</td><td>Alternance - Assistant Chef De Projet New Business H/f</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>IDEMIA</td><td>Cybersecurity Apprentice - Pentest Automation & Collaboration</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Primark</td><td>Assistant De Gestion En Alternance</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>SAP SE</td><td>Apprenticeship: Solution Advisor Enterprise Performance Management & Ai F/m</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>SAP SE</td><td>Apprenticeship : Services Account Executive F/m</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>GE Vernova</td><td>Apprenti(e) Ingénieur Qualité Projet – H/f</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>252</td><td>Apprenti Marketing Communication H/f</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Aubert & Duval</td><td>Alternant Technicien Modelisation F/h</td><td>Toulouse</td><td>2026-09-12</td></tr>
+<tr><td>CUSHMAN & WAKEFIELD</td><td>Stagiaire Analyste</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Jobgether</td><td>Software Craftsperson/node.js/react.js/ai</td><td>France</td><td>2026-09-12</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage – Automation Engineer – Chanel Europe – Octobre 2026 – H/f/x</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>EY</td><td>Data Analyst Expérimenté F/h</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance Industrielle F/h</td><td>Bordeaux</td><td>2026-09-12</td></tr>
+<tr><td>Eiffageconstruction</td><td>Electromécanicien En Maintenance Industrielle F/h</td><td>Bordeaux</td><td>2026-09-12</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien Maintenance Multi Technique Site Industriel (f/h)</td><td>Bordeaux</td><td>2026-09-12</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance En Robinetterie Industrielle F/h</td><td>Bordeaux</td><td>2026-09-12</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Électromécanicien F/h</td><td>Nantes</td><td>2026-09-12</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance Cvc Site Posté (h/f)</td><td>Bordeaux</td><td>2026-09-12</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance En Cogénération Secteur Sud Nantes F/h</td><td>Nantes</td><td>2026-09-12</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien En Électromécanique F/h</td><td>Bordeaux</td><td>2026-09-12</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien Analyseur F/h</td><td>Lyon</td><td>2026-09-12</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Multitechnique Itinérant F/h</td><td>Lille</td><td>2026-09-12</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Cvc F/h</td><td>Orleans</td><td>2026-09-12</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance Industriel F/h</td><td>Bordeaux</td><td>2026-09-12</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance Électricité Industrielle F/h</td><td>La Rochelle</td><td>2026-09-12</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi Temps Partiel H/f</td><td>Lyon</td><td>2026-09-12</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdi 25h - Aéroville</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Louis Pion</td><td>Louis Pion Conseiller De Vente - Cdd 35h F/h - Cannes</td><td>Nice</td><td>2026-09-12</td></tr>
+<tr><td>ENACO</td><td>Alternance - Vendeur En Téléphonie En Apprentissage H/f</td><td>Bordeaux</td><td>2026-09-12</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique Contrat Étudiant 8h Samedi H/f</td><td>Nantes</td><td>2026-09-12</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique Électricité H/f</td><td>Nantes</td><td>2026-09-12</td></tr>
+<tr><td>Weldom</td><td>Conseiller(ère) De Vente - H/f</td><td>Annecy</td><td>2026-09-12</td></tr>
+<tr><td>MBA ESG</td><td>Assistant(e) Marketing Opérationnel Et Commercial - Alternance H/f</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assitant.e Administratif (h/f)</td><td>Tours</td><td>2026-09-12</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant.e Communication Interne (h/f)</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant Brand Content & Communication (h/f)</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assitant.e Communication (h/f)</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant.e Communication (h/f)</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant.e Marketing International (h/f)</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant Communication (h/f)</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance –assistant Data / Web Analytics (h/f)</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Stratégie Médias (h/f)</td><td>Paris</td><td>2026-09-12</td></tr>
 </table>
