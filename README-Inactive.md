@@ -5041,4 +5041,169 @@
 <tr><td>Galileo Global Education</td><td>Alternance – Assistant Communication (h/f)</td><td>Paris</td><td>2026-09-12</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance –assistant Data / Web Analytics (h/f)</td><td>Paris</td><td>2026-09-12</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Stratégie Médias (h/f)</td><td>Paris</td><td>2026-09-12</td></tr>
+<tr><td>Dev Audio Hiflow</td><td>Comptable - International</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Mondelez International Foundation</td><td>Stage Mondelēz (lu, Oreo, Milka, Cote D’or,...) Supply Chain - Assistant(e) Planification Réseau D 'approvisionnement (h/f/x) - 6 Mois – Boulogne Billancourt (région Parisienne) - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Mondelēz International</td><td>Stage Mondelēz (lu, Oreo, Milka, Cote D’or,...) Supply Chain - Assistant(e) Planification Réseau D 'approvisionnement (h/f/x) - 6 Mois – Boulogne Billancourt (région Parisienne) - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Mondelez International</td><td>Stage - Mondelez (lu, Milka, Oreo...) - Supply Chain - Customer Care Analyst (h/f/x) - 6 Mois - Janvier 2027 - Boulogne-billancourt</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Mondelēz International</td><td>Stage Mondelēz (lu, Oreo, Milka...) Assistant(e) Category Manager (h/f/x) – 6 Mois – Boulogne-billancourt – Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Mondelez International Foundation</td><td>Stages Mondelez (lu, Oreo, Milka...) Marketing - Assistant(e) Chef De Produit (h/f/x) – 6 Mois – Boulogne-billancourt–janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Mondelez International Foundation</td><td>Stage Mondelez - Assistant (e) Charge(e ) De Project Marketing Digital & Crm (h/f/x) - 6 Mois - Boulogne-billancourt (idf) - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Mondelez International</td><td>Stage Mondelez - Assistant (e) Charge(e ) De Project Marketing Digital & Crm (h/f/x) - 6 Mois - Boulogne-billancourt (idf) - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Mondelez International</td><td>Stages Mondelez (lu, Oreo, Milka...) Marketing - Assistant(e) Chef De Produit (h/f/x) – 6 Mois – Boulogne-billancourt–janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Coty Inc</td><td>Global Business Development Internship</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Coty Inc</td><td>Influence Marketing Intern</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Coty Inc</td><td>Trade Marketing Europe Assistant</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Coty Inc</td><td>Intern Media Performance & Partnerships</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>HUTCHINSON SNC</td><td>Stagiaire Amelioration Continue</td><td>Grenoble</td><td>2026-09-13</td></tr>
+<tr><td>AVL List GmbH</td><td>Stage - Simulation Architecture Véhicule(h/f)</td><td>Lardy</td><td>2026-09-13</td></tr>
+<tr><td>EssilorLuxottica</td><td>Stage - Ewholesale Development H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>EssilorLuxottica</td><td>Stage - Supply Chain Intern (h/f)</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>EssilorLuxottica</td><td>Stage - Essilor Global Brand Experience F/h</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>dacia</td><td>Cs27 - Bac+5 - Chargé De Programmation (h/f)</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+4/5 - Stage - Optimisation De La Cartographie Des Flux (h/f)</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>dacia</td><td>Cs26 - Bac+4 - Chargé Sustainability Pilot (f/h)</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Artefact</td><td>Staffing Career Track Intern / Apprenticeship (h/f) - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>jobs.barclays</td><td>Global Transaction Banking Off Cycle Internship Programme 2027 Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Barclays</td><td>Global Transaction Banking Off Cycle Internship Programme 2027 Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>jobs.barclays</td><td>Sales, Trading And Structuring Off Cycle Internship Programme 2027 Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>AIRBUS DS GEO SA</td><td>Stage 2027 - Assistant En Optimisation Des Processus Industriels (all Gender)</td><td>Nantes</td><td>2026-09-13</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois Maintenance Et Transformation Digitale</td><td>Aramon</td><td>2026-09-13</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois Droit De L’environnement</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co UK</td><td>Stage Compliance Kyc - Janvier 2026</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Venture Philanthropy Analyst – R&co4generations – Février 2025</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Alternance En Economie - Septembre 2026</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Ingénierie Patrimoniale – Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Investor Relations Intern - Five Arrows – Five Arrows Multi-stratégies - January 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Business Development – Gestion De Projet Ia – Banque Privée – Septembre 2026</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Ingénierie Patrimoniale (h/f)</td><td>Lyon</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Corporate Banking - Marseille - Janvier 2027 (h/f)</td><td>Marseille</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Group Compliance & Tax Transparency - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Mandat Private Equity Banque Privée - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Assistant(e) Conformité Ga, Markets & Ethics - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co UK</td><td>Stage Compliance Kyc - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Private Equity Banque Privée - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Middle-office Production - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Middle-office Pôle Evènements Cash Et Titres - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Analyste Multi Gestion - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Chargé(e) Appels D'offres - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Contrôle Permanent Bancaire - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Economie - Janvier 2027</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>BETC FULLSIX</td><td>Betc Fullsix - Chef De Projet Digital Display (h/f/x) - Stage</td><td>Les Magasins GéNéRaux</td><td>2026-09-13</td></tr>
+<tr><td>ING Wholesale Banking</td><td>Stagiaire Project Finance H/f/x</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Prudential</td><td>Pgim / Real Estate Private Equity Analyst Intern (all Genders)</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Ardian</td><td>Private Equity Semiconductor Stage - Mars 2027 I Paris (h/f)</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Ardian</td><td>Fund Finance Secondaries & Primaries Stage - Janvier 2027 / Paris (m/f)</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Christie's</td><td>Assistant(e) Bureau De La Présidence - Stage 6 Mois</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Procter & Gamble (SK-II)</td><td>Digital Marketing Media Trader Apprenticeship</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>P D G</td><td>Digital Marketing Media Trader Apprenticeship</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>International Flavors & Fragrances Inc. (IFF)</td><td>Assistant Project Leader -global Hci Sensory Performance / Apprentice</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Alternant(e) En Tuyauterie H/f</td><td>Marseille</td><td>2026-09-13</td></tr>
+<tr><td>Eiffageconstruction</td><td>Alternant(e) En Tuyauterie H/f</td><td>Marseille</td><td>2026-09-13</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Apprenti Commis De Cuisine (h/f/x)</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Petit Forestier</td><td>Apprenti Carrossier</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Alternance - Projeteur Débutant Etudes D'exécution Signalisation Dis Tis H/f 1</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Apprenti(e) Rams Engineer (f/m)</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Technip Energies</td><td>Apprenticeship - Hr Data Analyst - F/m</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Novartis</td><td>App - Charge De Developpement Des Competences</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Développement Logiciel F/h</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Développement Logiciel Traitement Du Signal C++ H/f</td><td>Sophia Antipolis</td><td>2026-09-13</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Backend - Core/api & Process Automation</td><td>France</td><td>2026-09-13</td></tr>
+<tr><td>Corsearch</td><td>Python Software Engineer (product Infrastructure)</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>It Repoclear And Dcl Support Analyst</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Jobgether</td><td>Dotnetcore Developers</td><td>France</td><td>2026-09-13</td></tr>
+<tr><td>Novartis</td><td>Stg - Ai Solutions & Automation Engineer</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Thales Group</td><td>Cdd - Data Analyst - Hardware Components - F/h</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Halfspace ApS</td><td>Analyste En Stratégie Data & Ia</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Avanade</td><td>Ai Engineer</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Schaeffler</td><td>Ingénieur Mécatronique & Data Science H/f - Développement D'environnement De Test</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Valeo SA</td><td>Discipline Engineer Ia/ml And Uwb Data Fusion Algorithm</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>valeo.in</td><td>Discipline Engineer Ia/ml And Uwb Data Fusion Algorithm</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Stage – Automation Engineer – Chanel Europe – Octobre 2026 – H/f/x</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Coty Inc.</td><td>Finance Analyst</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Associate Partnerships Officer (due Diligence)</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Keolis</td><td>Comptable Clients F/h</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Naturactive</td><td>Business Analyst- R&d Medical Care- M/f- Cdi</td><td>Haute Garonne (31)</td><td>2026-09-13</td></tr>
+<tr><td>Pierrefabrepharmaceuticals</td><td>Business Analyst- R&d Medical Care- M/f- Cdi</td><td>Haute Garonne (31)</td><td>2026-09-13</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Obsolescence Watch Management Leader</td><td>Lyon</td><td>2026-09-13</td></tr>
+<tr><td>RATP</td><td>Technicien Supérieur Référent Technique Electricité / Electromécanique En Nuit - Grand Paris Express Ligne 18 - H/f - Ext (ratp/infras/gigp)</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Itinérant F/h</td><td>Lyon</td><td>2026-09-13</td></tr>
+<tr><td>Valmet</td><td>Service Technician Junior H/f</td><td>Aix En Provence</td><td>2026-09-13</td></tr>
+<tr><td>Sectoralarmfrance</td><td>Technicien Itinérant Systèmes D'alarmes H/f - 75/92</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Petit Forestier</td><td>Mecanicien</td><td>94</td><td>2026-09-13</td></tr>
+<tr><td>Petit Forestier Group</td><td>Electrotechnicien H/f</td><td>Bordeaux</td><td>2026-09-13</td></tr>
+<tr><td>Petit Forestier</td><td>Electrotechnicien H/f</td><td>Beauvallon</td><td>2026-09-13</td></tr>
+<tr><td>Petit Forestier</td><td>Technicien Itinérant H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Alfa Laval</td><td>Technicien.ne De Maintenance F/h En Interim</td><td>Nevers</td><td>2026-09-13</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Technicien De Maintenance De Parcs Éoliens (h/f) - Candé (49)</td><td>Candé</td><td>2026-09-13</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Technicien De Maintenance De Parcs Éoliens (h/f) - Bournezeau (85)</td><td>Bournezeau</td><td>2026-09-13</td></tr>
+<tr><td>Virbac</td><td>Electricien En Industrie H/f</td><td>Nice</td><td>2026-09-13</td></tr>
+<tr><td>Arabelle Solutions</td><td>Mecanicien Machine Tournante H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Arabelle Solutions</td><td>Technicien(ne) Maintenance Automatisme H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Arabelle Solutions</td><td>Ingénieur De Mise En Service Turbine À Vapeur H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Arabelle Solutions</td><td>Mécanicien Turbine Itinérant H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Arabelle Solutions</td><td>Technicien(ne) Mise En Service Turbine H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Arabelle Solutions</td><td>Intitulé De L'offre D'emploi Technicien(ne) Mise En Service Turbine H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Arabelle Solutions</td><td>Technicien Mise En Service H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Arabelle Solutions</td><td>Mecanicien Itinerant Turbine H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Philips UK</td><td>Responsable Technique Ultrasons - Ile De France H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>SAICA</td><td>Mecanicien Industriel H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>SAICA</td><td>Technicien De Maintenance H/f</td><td>Toulouse</td><td>2026-09-13</td></tr>
+<tr><td>Saica Paper</td><td>Mecanicien</td><td>VéNizel</td><td>2026-09-13</td></tr>
+<tr><td>Michelin</td><td>🔧 agent De Maintenance Industrielle (h/f) – 3x8 En Cdi À Bourges</td><td>Bourges</td><td>2026-09-13</td></tr>
+<tr><td>Michelin</td><td>Technicien De Maintenance F / H (cdi) - Montceau-les-mines</td><td>Montceau-Les-Mines</td><td>2026-09-13</td></tr>
+<tr><td>Michelin</td><td>Technicien.ne De Maintenance F/h</td><td>Blavozy</td><td>2026-09-13</td></tr>
+<tr><td>Michelin</td><td>Technicien De Maintenance Industriel F/h</td><td>Lyon</td><td>2026-09-13</td></tr>
+<tr><td>Johnson & Johnson</td><td>Field Service Engineer H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Technicien Frigoriste Industriel - H/f</td><td>Aix En Provence</td><td>2026-09-13</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Technicien Sav Vidéoprotection/intrusion Retail Paca H/f</td><td>Aix En Provence</td><td>2026-09-13</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Technicien Sav Détection Incendie Rhône-alpes (h/f)</td><td>Lyon</td><td>2026-09-13</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Technicien Sav Vidéoprotection/intrusion Retail H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Technicien Frigoriste Industriel - Orléans - H/f</td><td>Monnaie</td><td>2026-09-13</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Électrique Cfa F/h</td><td>Toulouse</td><td>2026-09-13</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance F/h</td><td>Bordeaux</td><td>2026-09-13</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Mécanicien Industriel (f/h)</td><td>Bordeaux</td><td>2026-09-13</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance Cvc F/h</td><td>Toulouse</td><td>2026-09-13</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien Maintenance Et Conduite F/h</td><td>Toulouse</td><td>2026-09-13</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Cvc Multitechnique Paris F/h</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Cvc Multitechnique Champigny-sur-marne 94 F/h</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>EIFFAGE Route</td><td>Technicien Industriel (f/h)</td><td>Bordeaux</td><td>2026-09-13</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien De Maintenance (f/h)</td><td>Nantes</td><td>2026-09-13</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance En Cogénération F/h</td><td>Rennes</td><td>2026-09-13</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Lyon</td><td>2026-09-13</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Annecy</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Conseiller De Vente (h/f)</td><td>Nantes</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Conseiller(e) Clientèle En Alternance À Bordeaux</td><td>Bordeaux</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Vendeur(euse) En Alternance À Nantes</td><td>Nantes</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Conseiller.ère De Vente En Alternance - Toulouse</td><td>Toulouse</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Responsable Accueil/vente En Alternance - Bordeaux</td><td>Bordeaux</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Conseiller De Vente En Alternance - Bordeaux</td><td>Bordeaux</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Vendeur(euse) En Alternance À Rennes</td><td>Nantes</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Conseiller De Vente - Bordeaux (h/f)</td><td>Bordeaux</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Conseiller Commercial Boutique - Bordeaux (h/f)</td><td>Bordeaux</td><td>2026-09-13</td></tr>
+<tr><td>ESARC Toulouse</td><td>Alternance - Conseiller Commercial - Toulouse (h/f)</td><td>Toulouse</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Conseiller Vente & Restauration - Toulouse (h/f)</td><td>Toulouse</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Employé(e) Commercial(e) En Alternance - Toulouse (h/f)</td><td>Toulouse</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Vendeur.se Fitness En Alternance - Lyon</td><td>Lyon</td><td>2026-09-13</td></tr>
+<tr><td>Kellanova</td><td>Compte Clé Logistique</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Assistant De Communication (h/f)</td><td>Nantes</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Responsable Adjoint(e) De Restaurant (h/f)</td><td>LabèGe</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Rh En Alternance - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Web Marketing Et Communication Digitale En Alternance - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant(e) De Direction En Alternance À Tours</td><td>Azay-Le-Rideau</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance Supply Chain - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant De Communication En Alternance - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Chargé Communication Interne En Alternance - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Coordinateur D’actions Culturelles F/h</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternant(e) Coordinateur Logistique</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Évènementiel En Alternance - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>MBA ESG</td><td>Chargé.e De Communication - Alternance H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Chargé D'accueil / Communication En Alternance - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Responsable Rh En Alternance - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Commercial En Alternance - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Achats En Alternance - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Gouvernant Général En Alternance - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Chargé(e) De Marketing Sportif En Alternance - Paris</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Chef(fe) De Projet - H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Gestionnaire Logistique Et Adv H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Chargé(e) De Communication H/f</td><td>Paris</td><td>2026-09-13</td></tr>
 </table>
