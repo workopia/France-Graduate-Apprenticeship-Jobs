@@ -5206,4 +5206,134 @@
 <tr><td>Galileo Global Education</td><td>Alternance – Chef(fe) De Projet - H/f</td><td>Paris</td><td>2026-09-13</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance - Gestionnaire Logistique Et Adv H/f</td><td>Paris</td><td>2026-09-13</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance – Chargé(e) De Communication H/f</td><td>Paris</td><td>2026-09-13</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Intern - Paris</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Cencora</td><td>Stage - Logistique (h/f)</td><td>Chaponnay</td><td>2026-09-14</td></tr>
+<tr><td>Versace</td><td>Sales Associate Intern</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Almond</td><td>Alternance – Gouvernance, Risques, Conformité H/f</td><td>Lyon</td><td>2026-09-14</td></tr>
+<tr><td>Samsung SDS</td><td>Assistant Chef De Projet – Smartphones Reconditionnés Et Seconde Vie (h/f) - Stage 6 Mois</td><td>France</td><td>2026-09-14</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire People & Culture (h/f)</td><td>Cap Ferrat</td><td>2026-09-14</td></tr>
+<tr><td>Chanel</td><td>Internship – Digital & Crm Project Officer Export & Travel Retail – Fragrance & Beauty – Chanel Europe – January 2027 – M/f/d</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Chanel</td><td>Stage - Chef.fe De Projet Développement Durable - Parfums Beaute (h/f/x)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Linklaters</td><td>Département Corporate - Stage Juillet/décembre 2027</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Mars</td><td>Stage Marketing & Category – Mars Wrigley - Paris - Janvier 2027</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>MEDTRONIC</td><td>Intern: Graduate( Non-tech)</td><td>Lyon</td><td>2026-09-14</td></tr>
+<tr><td>Nestle SA</td><td>Stage Chargé De Projets Rse F/h</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>IQVIA</td><td>Alternant En Médico-économie F/h</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>JLL (Jones Lang LaSalle)</td><td>Stage Analyste Investissements F/h - Capital Markets - Durée 6 Mois</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>THALES</td><td>Stage : Commerce Internationale F/h</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>THALES</td><td>Stage - Marketing & Sales Academy - H/f</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>THALES</td><td>Stage - Marketing Stratégique Et Développement Commercial - F/h</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Boston Scientific Foundation Inc</td><td>Stagiaire En Communication D'entreprise 1</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Alexion</td><td>Alternance - Market Access (h/f)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>The Procter & Gamble Company</td><td>Strategic Sales Internship (stage Stratégie Commerciale)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Getlegalmexico</td><td>Strategic Sales Internship (stage Stratégie Commerciale)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Stage - Chargé De Développement Énergies Renouvelables Junior/ Origination Internship</td><td>Rodez</td><td>2026-09-14</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Sales Operations Intern</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Eaglefootballgroup</td><td>Ol Lyonnes - Stage / Redaction Digitale (h/f)</td><td>France</td><td>2026-09-14</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois Hygiène Sécurité Et Environnement</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>AIRBUS DS GEO SA</td><td>Stage 2027 - Gouvernance Rh & Amélioration Continue (h/f)</td><td>Marseille Area</td><td>2026-09-14</td></tr>
+<tr><td>AIRBUS DS GEO SA</td><td>Stage 2027 - Stage En Ressources Humaines - Compétences, Gepp & Digitalisation (all Gender)</td><td>Nantes</td><td>2026-09-14</td></tr>
+<tr><td>HPE (Hewlett Packard Enterprise)</td><td>Hpe Labs - Emea Research Lab Ph.d. Intern</td><td>Grenoble</td><td>2026-09-14</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Alternance Contrôleur De Gestion H/f/x (1 An)</td><td>Signes</td><td>2026-09-14</td></tr>
+<tr><td>Coca-Cola Midi</td><td>Alternance Contrôleur De Gestion H/f/x (1 An)</td><td>Signes</td><td>2026-09-14</td></tr>
+<tr><td>Hughes</td><td>Intern – Stagiaire Support Utilisateur (h/f) - 2026</td><td>France</td><td>2026-09-14</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Développeur(se) Java - Services Financiers - Orléans</td><td>Orleans</td><td>2026-09-14</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Développeur(se) Java Fullstack – Services Financiers – Tours</td><td>Tours</td><td>2026-09-14</td></tr>
+<tr><td>Mondelez International Foundation</td><td>Stage Mondelēz (lu, Oreo, Milka...) Assistant(e) Category Manager (h/f/x) – 6 Mois – Boulogne-billancourt – Janvier 2027</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Mondelez International Foundation</td><td>Stage - Mondelez (lu, Milka, Oreo...) - Supply Chain - Customer Care Analyst (h/f/x) - 6 Mois - Janvier 2027 - Boulogne-billancourt</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Recordati Industria Chimica e Farmaceutica S.p.A</td><td>Apprentice Regulatory affairs</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>THALES</td><td>Alternance - Ingénieur Développement Logiciel C++ (f/h)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>THALES</td><td>Ingénieur Développement Logiciel Temps Réel F.h</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Akeneo</td><td>Software Engineer (digital Showroom)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - (connect Platform)</td><td>France</td><td>2026-09-14</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Infrastructure</td><td>France</td><td>2026-09-14</td></tr>
+<tr><td>EY</td><td>Ai Data Engineer H/f</td><td>Fr</td><td>2026-09-14</td></tr>
+<tr><td>Jobgether</td><td>Iam Engineer</td><td>France</td><td>2026-09-14</td></tr>
+<tr><td>Jobgether</td><td>Ai Observability Engineer</td><td>France</td><td>2026-09-14</td></tr>
+<tr><td>Nouryon</td><td>Stagiaire Business Analyst</td><td>Lyon</td><td>2026-09-14</td></tr>
+<tr><td>THALES</td><td>Business Analyst Supply Chain F/h</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Business Analyst Iam (f/m)</td><td>Toulouse</td><td>2026-09-14</td></tr>
+<tr><td>Premium Aerotec</td><td>Business Analyst Iam (f/m)</td><td>Toulouse</td><td>2026-09-14</td></tr>
+<tr><td>PwC</td><td>Audit Financier Expérimenté - Real Estate - F/h</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>PwC Sweden</td><td>Audit Financier Expérimenté - Real Estate - F/h</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Arjo AB</td><td>Infirmier Itinérant H/f - 92 & 95</td><td>Val</td><td>2026-09-14</td></tr>
+<tr><td>Schindler Group</td><td>Alternance - Technicien De Maintenance (h/f) - Vanves</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Schindler Group</td><td>Alternance - Technicien De Maintenance (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Mama Shelter</td><td>Technicien De Maintenance (h/f/nb)</td><td>Toulouse</td><td>2026-09-14</td></tr>
+<tr><td>Collins Aerospace</td><td>Technicien(ne) De Maintenance Electronique</td><td>Toulouse</td><td>2026-09-14</td></tr>
+<tr><td>Raytheon Australia</td><td>Technicien(ne) De Maintenance Electronique</td><td>Toulouse</td><td>2026-09-14</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Montage - Nsa (h/f)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Maintenance (h/f)</td><td>Nice</td><td>2026-09-14</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Travaux - Portes Automatiques (h/f)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Applied Materials</td><td>Technicien.ne De Maintenance (horaires Postés)</td><td>Rousset</td><td>2026-09-14</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Travaux - Réparation (h/f)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Technicien(e) Maintenance Des Bâtiments Et Infrastructures, Site Bourgoin</td><td>Bourgoin</td><td>2026-09-14</td></tr>
+<tr><td>Michelin</td><td>Technicien De Maintenance Industrielle - Michelin (f/h)</td><td>Bordeaux</td><td>2026-09-14</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Technicien De Maintenance Ssi H/f - Secteur 60/80</td><td>Boves</td><td>2026-09-14</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Technicien Bureau D’études – Systèmes De Sécurité Incendie H/f - Villeneuve-la-garenne (92)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Schneider Electric</td><td>Technicien Maintenance Itinérant Hta-bt - F/h - Chartres De Bretagne, Bretagne</td><td>Rennes</td><td>2026-09-14</td></tr>
+<tr><td>kone.us</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Marseille</td><td>2026-09-14</td></tr>
+<tr><td>Vitalaire</td><td>Technicien A&ga (cdd - H/f)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Prysmian Group</td><td>Maintenance Operator</td><td>Amfreville</td><td>2026-09-14</td></tr>
+<tr><td>SWAROVSKI</td><td>Cdi - Conseiller De Vente (h/f/x) 35h - Rosny2</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>SWAROVSKI</td><td>Cdd - Conseiller De Vente (h/f/x) - 21h - Galeries Lafayette Bordeaux</td><td>Bordeaux</td><td>2026-09-14</td></tr>
+<tr><td>SWAROVSKI</td><td>Cdd - Conseiller De Vente (h/f/x) 28h - Cannes</td><td>Nice</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Stage 2 Mois</td><td>Lille</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Cannes - Cdd 35h</td><td>Nice</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Cdi 7h</td><td>Lille</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Cdi 28h</td><td>Lille</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Villefontaine - Cdi 35h</td><td>Lyon</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - La Baule - Stage Août 2026</td><td>Nantes</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Nice - Stage 2 Mois</td><td>Nice</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdi 21h</td><td>Bordeaux</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdi 35h (septembre 2026)</td><td>Bordeaux</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Cdd 35h</td><td>Lille</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Cannes - Stage 2 Mois</td><td>Nice</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Alternance</td><td>Bordeaux</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller De Vente (m/f/d*) - Tommy Hilfiger - La Baule - Cdi 35h</td><td>Nantes</td><td>2026-09-14</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Nice - Cdi 21h</td><td>Nice</td><td>2026-09-14</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance Vente & Communication - Bordeaux</td><td>Bordeaux</td><td>2026-09-14</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Vendeur(se) Fitness - Lyon (h/f)</td><td>Lyon</td><td>2026-09-14</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Vendeur Polyvalent - Lyon (h/f)</td><td>Lyon</td><td>2026-09-14</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Conseillé (ère) Clientèle (h/f)</td><td>Bordeaux</td><td>2026-09-14</td></tr>
+<tr><td>creche-and-go.fr</td><td>Alternant(e) Assistant Administratif & Partenariats (h/f)</td><td>Lyon</td><td>2026-09-14</td></tr>
+<tr><td>Christie's</td><td>Assistant(e) De Direction</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>NAMSA</td><td>Réceptionniste Des Échantillons Laboratoires</td><td>Lyon</td><td>2026-09-14</td></tr>
+<tr><td>35</td><td>Alternance - Chef De Projets Marketing H/f</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Valentino</td><td>Hr Assistant - Intern</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>LexisNexis</td><td>Alternant(e) Au Service Communication Externe</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Case Law Reporter</td><td>Alternant(e) Au Service Communication Externe</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Artefact</td><td>Stage – Assistant(e) Communication & Événementiel (hackathons Adopt Ai)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Visuel Merchandising, Boutique Mode Printemps, Juillet 2023</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Visual Merchandising - (h/f) - Boutique Courchevel - Decembre 2023</td><td>Courchevel</td><td>2026-09-14</td></tr>
+<tr><td>CHANEL</td><td>Alternance – Assistant(e) Marketing Clients (h/f) – Boutique Mode Paris – Septembre 2024</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Chanel</td><td>Stage – Executive Assistant Développement Souliers H/f/x - Mode – Juillet 2025</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Chanel</td><td>Stage – Assistant(e) Marketing Clients – Boutique Mode / Juillet 2026</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Chanel</td><td>Alternance - Assistant(e) Service Entretien Et Réparation (h/f) - Boutiques Mode Paris - Septembre 2026</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Coordinateur Export (h/f) - 6 Mois Choisy-le-roi (94)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Mango</td><td>Responsable Adjoint Cdi 35h</td><td>Saint</td><td>2026-09-14</td></tr>
+<tr><td>Mango</td><td>Directeur/trice Adjoint Cdi 35h</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Mango</td><td>Responsable Adjoint/e , Cdi 35h</td><td>ST ETIENNE PLACE DES URSULES</td><td>2026-09-14</td></tr>
+<tr><td>Mango</td><td>Responsable Adjoint H/f, Cdi 35h</td><td>Nailloux</td><td>2026-09-14</td></tr>
+<tr><td>Demant AS</td><td>Assistant Administratif Et Comercial / Coordinateur De Centre H/f - Grenoble (38)</td><td>Grenoble</td><td>2026-09-14</td></tr>
+<tr><td>Kellanova</td><td>Stage Assistant(e) Chef De Produit Activation</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Kellanova</td><td>Stage Assistant(e) Juridique</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Mondelēz International</td><td>Coordinateur Service Client - Vivier</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Levis Media</td><td>Cdi Directeur Adjoint Levi's - Paris - Ile-de-france</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Pluxee</td><td>Alternance - Chargé De Projet Expérience Client B2b Junior F/h</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Calvin Klein</td><td>Marketing & Communication Assistant (m/f/d*) – Calvin Klein – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>TOMMY HILFIGER</td><td>Marketing Assistant (m/f/d*) – Tommy Hilfiger – Stage Janvier 2027 (6 Mois)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Eiffageconstruction</td><td>Assistant</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Eiffageconstruction</td><td>Alternance - Assistant De Direction F/h - Dop Grands Travaux Souterrains</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Eiffageconstruction</td><td>Planificateur Grands Projets F/h</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Gestionnaire Logistique Materiel</td><td>Saclay</td><td>2026-09-14</td></tr>
+<tr><td>Eiffage Construction IDF</td><td>Secrétaire Travaux F/h</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>CMA CGM Group</td><td>Assistant(e) De Direction</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Assistant.e De Direction - Toulouse (h/f)</td><td>Toulouse</td><td>2026-09-14</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Assistant De Gestion - Aix-en-provence (h/f)</td><td>Aix En Provence</td><td>2026-09-14</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant(e) De Direction En Alternance À Gardanne</td><td>Aix En Provence</td><td>2026-09-14</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Assistant Chef De Projet Marketing (h/f)</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Chef De Projet Communication En Alternance - Paris</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant.e Juridique En Alternance - Paris</td><td>Paris</td><td>2026-09-14</td></tr>
 </table>
