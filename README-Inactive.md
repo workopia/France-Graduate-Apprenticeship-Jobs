@@ -5336,4 +5336,76 @@
 <tr><td>Galileo Global Education</td><td>Alternance - Assistant Chef De Projet Marketing (h/f)</td><td>Paris</td><td>2026-09-14</td></tr>
 <tr><td>Galileo Global Education</td><td>Assistant Chef De Projet Communication En Alternance - Paris</td><td>Paris</td><td>2026-09-14</td></tr>
 <tr><td>Galileo Global Education</td><td>Assistant.e Juridique En Alternance - Paris</td><td>Paris</td><td>2026-09-14</td></tr>
+<tr><td>Nespresso</td><td>Stage Chef De Projet Marketing Acquisition B2b F/h</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Danone</td><td>Internship – Edp Strategy – January 2027 - M/w</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Danone</td><td>Internship – Global Waters Sustainability Strategy &amp; Advocacy – July 2026 - (m/f)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Danone</td><td>Internship - Strategic Insights &amp; Analytics – Global Dairy Team - January 2027 (m/f)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Danone</td><td>Internship - Strategic Insights &amp; Analytics - Global Dairy Team - January 2027 (m/w)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Danone</td><td>Internship – Global Shopper Insights Assistant – January 2027 - (h/f)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Danone</td><td>Internship - Global Strategic Insights &amp; Analytics (sia) Capabilities - January 2027 (w/m)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) Ressources Humaines H/f - Innside Paris Charles De Gaulle</td><td>Val-D'Oise</td><td>2026-09-15</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) De Direction - Innside Paris Charles De Gaulle (paris, France)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Gestionnaire Rh (h/f)</td><td>Marseille Area</td><td>2026-09-15</td></tr>
+<tr><td>Airbus Helicopters</td><td>Stage 2027 - Gestionnaire Rh (h/f)</td><td>Marseille</td><td>2026-09-15</td></tr>
+<tr><td>Doctolib GmbH</td><td>Stage - Sales Development Representative (x/f/m) - Décembre 2026</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Ayvens Group</td><td>Stagiaire Data Analyste Et Développement Commercial</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois Stratégie Fiscale</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Intern - Operations – Paris (france)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Hewlett Packard Enterprise</td><td>Apprenti Sales Assistant (h/f)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>35</td><td>Alternance - Data Quality Apprentice (f/h)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Alstom</td><td>Apprenti(e) Rams Engineer (f/m)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Apprenti(e) – Technicien(ne) Maintenance (h/f)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>GE HealthCare</td><td>Apprenti(e) – Technicien(ne) Maintenance (h/f)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>GE Vernova</td><td>Apprenti(e) Ehs H/f</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>THALES</td><td>Apprenti Développeur Informatique Technique - (f/h)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>THALES</td><td>Alternance – Ingénieur Développement Web - F/h</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Sonoco</td><td>Apprenti Qhse</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Sonoco</td><td>Transport & Data Analyst Apprentice</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>ATR</td><td>Atr - Apprenticeship - Aerostructure Buyer</td><td>Toulouse</td><td>2026-09-15</td></tr>
+<tr><td>114</td><td>Alternance En Sas</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Honeywell International</td><td>Apprenti Ingénieur - Maintenance Préventive Et Curative – H/f</td><td>Toulouse</td><td>2026-09-15</td></tr>
+<tr><td>valeo.in</td><td>Apprenti Technicien D'atelier H/f</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>valeo.in</td><td>Apprenti(e) - Analyste Stratégie It</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Valeo</td><td>Digital Marketing Apprentice</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Salesforce Service Cloud</td><td>Sales Program - Business Analyst Apprentice - September 2026</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Equativ</td><td>Ai Engineer Intern, Genai Internal Automation (gaia)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Jobgether</td><td>Spanish (latin America) Language Data Contributor (multimodal) – Freelance Ai Trainer Project</td><td>France</td><td>2026-09-15</td></tr>
+<tr><td>Jobgether</td><td>Java Gen Ai Engineer</td><td>France</td><td>2026-09-15</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Client Data Analyst (h/f)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Jobgether</td><td>Transactional Revenue Intelligence & Systems Analyst</td><td>France</td><td>2026-09-15</td></tr>
+<tr><td>Etat de Fribourg - SITel</td><td>Sektorleiter/in Für Mittelalter Und Bauarchäologie, Führungs- Und Operatives Management</td><td>France</td><td>2026-09-15</td></tr>
+<tr><td>Etat de Fribourg - SITel</td><td>Profes. Hes Ass. Management Des Organisations, Des Dynamiques Humaines, De La Conduite Du Changem.</td><td>France</td><td>2026-09-15</td></tr>
+<tr><td>Airbus SE</td><td>Business Analyst Iam (f/m)</td><td>Toulouse</td><td>2026-09-15</td></tr>
+<tr><td>RATP</td><td>Infirmier Du Travail F/h (drh)</td><td>ÎLe De France</td><td>2026-09-15</td></tr>
+<tr><td>creche-and-go.fr</td><td>Infirmier / Ière H/f</td><td>France</td><td>2026-09-15</td></tr>
+<tr><td>Holcim</td><td>Mécanicien Maintenance Industrielle (h/f) - Le Teil</td><td>Viviers</td><td>2026-09-15</td></tr>
+<tr><td>Holcim</td><td>Technicien De Maintenance H/f - Cdd - Var</td><td>Le Castellet</td><td>2026-09-15</td></tr>
+<tr><td>PPG Industries</td><td>Technicien Maintenance Robotique/automatisme H/f</td><td>Moreuil</td><td>2026-09-15</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien Conseil En Éclairage De Sécurité H/f</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>GE HealthCare UK</td><td>Stage Technicien Reparation</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Schindler Group</td><td>Technicien(ne) De Réparation (h/f) - Salon De Provence</td><td>Aix En Provence</td><td>2026-09-15</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Maintenance Référent (h/f) - Aurillac</td><td>Aurillac</td><td>2026-09-15</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation Expert (h/f) - Grenoble</td><td>Grenoble</td><td>2026-09-15</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation (h/f) - Villeneuve-la-garenne</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Schindler Group</td><td>Technicien De Réparation (h/f) - Idf Sud</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Chanel</td><td>Cdd - Conseiller De Vente Mode - 31 Rue Cambon - H/f/x</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Chanel</td><td>Cdd - Conseiller De Vente - Bon Marché H/f</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique Cour Matériaux H/f</td><td>Nantes</td><td>2026-09-15</td></tr>
+<tr><td>Brunello Cucinelli S.p.A</td><td>Sales Associate - Saint Honorè</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Vans</td><td>Sales Associate - Vendeur (h/f) Cdi 23h- Vans - Les Clayes-sous-bois</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>VF – Vans</td><td>Sales Associate - Vendeur (h/f) - Cdi 30h Detenteur De Cles - Vans - Toulouse</td><td>Toulouse</td><td>2026-09-15</td></tr>
+<tr><td>VF – Icebreaker</td><td>Sales Associate - Vendeur (h/f) - Cdi 25h Annecy - Icebreaker</td><td>Annecy</td><td>2026-09-15</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent/e Cdi 20h</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent/e Cdi 22h</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent Cdd 35h</td><td>Nice</td><td>2026-09-15</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent, Cdi 25h</td><td>Annecy</td><td>2026-09-15</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent, Cdd 15h</td><td>Annecy</td><td>2026-09-15</td></tr>
+<tr><td>EssilorLuxottica</td><td>Stage - Assistant(e) Trade Marketing Luxe & Premium Et Fast Fashion F/h</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>EssilorLuxottica</td><td>Stage - Assistant(e) Chef De Projet Digital F/h</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>EssilorLuxottica</td><td>Alternance - Assistant Trade Marketing H/f</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>RENAULT s.a.s.</td><td>Cs26 - Bac+4 -assistant Chef De Projet Event/logistique (h/f)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>dacia</td><td>Cs27 - Bac+5 - Assistant Marketing Produit Importateurs (h/f)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Rothschild & Co</td><td>Assistant(e) Ressources Humaines</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Stagiaire - Assistant Chef De Projet Marketing Cinéma - Janvier 2027</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>creche-and-go.fr</td><td>Assistant(e) Administratif/ive En Crèche - Temps Partiel H/f</td><td>Paris</td><td>2026-09-15</td></tr>
 </table>
