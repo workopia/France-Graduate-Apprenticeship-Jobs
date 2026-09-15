@@ -5408,4 +5408,14 @@
 <tr><td>Rothschild & Co</td><td>Assistant(e) Ressources Humaines</td><td>Paris</td><td>2026-09-15</td></tr>
 <tr><td>NBC UNIVERSAL</td><td>Stagiaire - Assistant Chef De Projet Marketing Cinéma - Janvier 2027</td><td>Paris</td><td>2026-09-15</td></tr>
 <tr><td>creche-and-go.fr</td><td>Assistant(e) Administratif/ive En Crèche - Temps Partiel H/f</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Murex</td><td>3a - Internship - Ai Lab - Alignement Des Données Pst Transaction</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Juniper Networks</td><td>Apprenti Digital Sales Representative (h/f)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Apprenti Gouvernant(e) (h/f)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Air Liquide</td><td>Alternance - Data Quality Apprentice (f/h)</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Eic Apprentissage Analyste (f/h)</td><td>Marseille</td><td>2026-09-15</td></tr>
+<tr><td>Subsea 7 SA</td><td>Alternance En Géotechnique Marine - F/h/nb</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>NEMERA</td><td>Alternance Data Analyst - Performance Industrielle & Lean (F/H/X)</td><td>Lyon</td><td>2026-09-15</td></tr>
+<tr><td>Talan</td><td>Business Analyst Editique F/h</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Chanel</td><td>Stage - Conseiller Beauté (h/f) - Juillet 2026 / Paris</td><td>Paris</td><td>2026-09-15</td></tr>
+<tr><td>Chanel</td><td>Cdd - Conseiller De Vente - Royale H/f</td><td>Paris</td><td>2026-09-15</td></tr>
 </table>

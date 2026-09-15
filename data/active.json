@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-15",
- "count": 828,
+ "count": 827,
  "jobs": {
   "2744270": {
    "id": "2744270",
@@ -72,12 +72,6 @@
    "id": "d8a921d429bb1e0bee6c192a4d6df930",
    "company": "Euronext Technologies SaS",
    "role": "Marketing Specialist Intern",
-   "location": "Paris"
-  },
-  "25c7490dbaf254beb7f9645e947b3ed4": {
-   "id": "25c7490dbaf254beb7f9645e947b3ed4",
-   "company": "Murex",
-   "role": "3a - Internship - Ai Lab - Alignement Des Données Pst Transaction",
    "location": "Paris"
   },
   "33f8af3124ee3389eb0e6a55e77a2ae6": {
@@ -488,6 +482,12 @@
    "role": "Stage Chef De Produits Nestlé Professional Culinaire Sucré Et Garden Gourmet F/h",
    "location": "Paris"
   },
+  "2393bc04d2740203d83fddd1bc0f4cbb": {
+   "id": "2393bc04d2740203d83fddd1bc0f4cbb",
+   "company": "Nespresso",
+   "role": "Stage Chef De Projet Marketing Acquisition B2b F/h",
+   "location": "Paris"
+  },
   "36e174fb5aa8d98ff1b4c4219a44153d": {
    "id": "36e174fb5aa8d98ff1b4c4219a44153d",
    "company": "Prysmian Group",
@@ -638,12 +638,6 @@
    "role": "Apprenti Digital Sales Representative (h/f)",
    "location": "Paris"
   },
-  "b01afe4cbb6a96bd7ba9a6d026eaa91c": {
-   "id": "b01afe4cbb6a96bd7ba9a6d026eaa91c",
-   "company": "Juniper Networks",
-   "role": "Apprenti Digital Sales Representative (h/f)",
-   "location": "Paris"
-  },
   "e06703cdb7e3dedf9931122756c7637c": {
    "id": "e06703cdb7e3dedf9931122756c7637c",
    "company": "Hewlett Packard Enterprise",
@@ -756,6 +750,24 @@
    "id": "b2879a91e27737cc8d461357a7fca20b",
    "company": "Salesforce",
    "role": "Sales Program - Business Analyst Apprentice - September 2026",
+   "location": "Paris"
+  },
+  "746010c555f8316d9667084b5aa01825": {
+   "id": "746010c555f8316d9667084b5aa01825",
+   "company": "Ecolab Pty Ltd",
+   "role": "Apprenti(e) Orienté(e) Projet",
+   "location": "Paris"
+  },
+  "ad68dfb8fddf518b5e41876d7949b55c": {
+   "id": "ad68dfb8fddf518b5e41876d7949b55c",
+   "company": "Johnson Electric",
+   "role": "Engineer Apprentice",
+   "location": "Paris"
+  },
+  "86da083a6cbd839695ffa49a24478230": {
+   "id": "86da083a6cbd839695ffa49a24478230",
+   "company": "Goldcar Spain S.L",
+   "role": "Site And Content Coordinator Apprentice",
    "location": "Paris"
   },
   "ba2bb3d398e22c4858f393b6b24e64c3": {
@@ -955,24 +967,6 @@
    "company": "Galileo Global Education",
    "role": "Alternance – Apprenti(e) Réceptionnister (h/f)",
    "location": "Paris"
-  },
-  "9c668e95e95bc48a1d8752969c75bca1": {
-   "id": "9c668e95e95bc48a1d8752969c75bca1",
-   "company": "Galileo Global Education",
-   "role": "Alternance – Apprenti Gouvernant(e) (h/f)",
-   "location": "Paris"
-  },
-  "e044e1c2e4dc09f86c82755074c79e8d": {
-   "id": "e044e1c2e4dc09f86c82755074c79e8d",
-   "company": "Air Liquide",
-   "role": "Alternance - Data Quality Apprentice (f/h)",
-   "location": "Paris"
-  },
-  "4d43c4c8f08db7a9ab4d53b99ba2f641": {
-   "id": "4d43c4c8f08db7a9ab4d53b99ba2f641",
-   "company": "Cushman & Wakefield",
-   "role": "Eic Apprentissage Analyste (f/h)",
-   "location": "Marseille"
   },
   "7f3e22765862dc96e11c5a096a358af3": {
    "id": "7f3e22765862dc96e11c5a096a358af3",
@@ -1292,6 +1286,12 @@
    "role": "Stage Ingénieur.e R&d – Intégration De L’intelligence Artificielle Dans La Conception D’applications Médicales",
    "location": "Paris"
   },
+  "55067c12f9d693a72b1e926644ac38b5": {
+   "id": "55067c12f9d693a72b1e926644ac38b5",
+   "company": "Hermès International",
+   "role": "Stage - Assistant Ingénieur Qualité Et Amélioration Continue (h/f)",
+   "location": "Paris"
+  },
   "eb91e188dbf4d4c12651fc114bf65f28": {
    "id": "eb91e188dbf4d4c12651fc114bf65f28",
    "company": "Valeo",
@@ -1458,12 +1458,6 @@
    "id": "7852fb8ba89a0d34ad9c8fce8ba61d48",
    "company": "Thales",
    "role": "Alternance - Développeur Intégrateur Produit De Supervision - F/h",
-   "location": "Paris"
-  },
-  "2dd5d0cff23a05e02eb22fc127cef5dc": {
-   "id": "2dd5d0cff23a05e02eb22fc127cef5dc",
-   "company": "Subsea 7 SA",
-   "role": "Alternance En Géotechnique Marine - F/h/nb",
    "location": "Paris"
   },
   "4473a6a274e85c61d2c313b06ec77af6": {
@@ -2024,6 +2018,12 @@
    "role": "Data Analyst Intern",
    "location": "Paris"
   },
+  "4dfef9e6b94382065213641c5366949f": {
+   "id": "4dfef9e6b94382065213641c5366949f",
+   "company": "Goldcar Spain S.L",
+   "role": "Alternant(e) Data Analyst / Pilotage & Performance",
+   "location": "Paris"
+  },
   "bc2ef3fe3bf25458edb74ea9471720a6": {
    "id": "bc2ef3fe3bf25458edb74ea9471720a6",
    "company": "Galileo Global Education",
@@ -2227,12 +2227,6 @@
    "company": "Thales Group",
    "role": "Alternance – Hr Data Analyst - F/h",
    "location": "Toulouse"
-  },
-  "smartrecruiters:Nemera:744000138306471": {
-   "id": "smartrecruiters:Nemera:744000138306471",
-   "company": "NEMERA",
-   "role": "Alternance Data Analyst - Performance Industrielle & Lean (F/H/X)",
-   "location": "Lyon"
   },
   "9fa3e429bc27916bac81830478884744": {
    "id": "9fa3e429bc27916bac81830478884744",
@@ -3020,6 +3014,12 @@
    "role": "Auditeur Qualité Chantier Ascensoriste (h/f) - Nsa",
    "location": "Paris"
   },
+  "5a93fb80d388ec090d88eb65cfa8c678": {
+   "id": "5a93fb80d388ec090d88eb65cfa8c678",
+   "company": "Goldcar Spain S.L",
+   "role": "Chargé(e) D'analyse Facturation Et Qualité Des Données",
+   "location": "Paris"
+  },
   "54ff3246ff6f935383c0b607b8d59e49": {
    "id": "54ff3246ff6f935383c0b607b8d59e49",
    "company": "Rothschild & Co Martin Maurel",
@@ -3384,12 +3384,6 @@
    "id": "f9c19b859d048278ce9e3ebc2c75d715",
    "company": "Chanel",
    "role": "Stage – Assistant.e Business Analyste & Animation Retail F/h – Mode Marché France – Janvier 2027",
-   "location": "Paris"
-  },
-  "c40e7d58047213903f2d3ecde1b518ce": {
-   "id": "c40e7d58047213903f2d3ecde1b518ce",
-   "company": "Talan",
-   "role": "Business Analyst Editique F/h",
    "location": "Paris"
   },
   "fc85b8f438afb111e6641aac39436a74": {
@@ -4358,6 +4352,18 @@
    "role": "Vendeurs (f/h) - Cdi 8h - Villeneuve D'ascq",
    "location": "Paris"
   },
+  "5ae5f5aa420f52fe9c015d126a28de94": {
+   "id": "5ae5f5aa420f52fe9c015d126a28de94",
+   "company": "Cultura",
+   "role": "Conseiller(e) De Vente Service",
+   "location": "Bordeaux"
+  },
+  "d175de489d41fbbe6a324fe5548cdacb": {
+   "id": "d175de489d41fbbe6a324fe5548cdacb",
+   "company": "Cultura",
+   "role": "Conseiller(e) De Vente Livre",
+   "location": "Toulouse"
+  },
   "bc6b87a736a88c37cb3242ee7fd5770c": {
    "id": "bc6b87a736a88c37cb3242ee7fd5770c",
    "company": "Kiabi",
@@ -4476,18 +4482,6 @@
    "id": "592839d1125f590e7f600f6c5a932b01",
    "company": "Chanel",
    "role": "Stage - Conseiller De Vente H/f (mode) - Juin 2026 (paris)",
-   "location": "Paris"
-  },
-  "f6c97d98dcf68f600e5f32cd52b54591": {
-   "id": "f6c97d98dcf68f600e5f32cd52b54591",
-   "company": "Chanel",
-   "role": "Stage - Conseiller Beauté (h/f) - Juillet 2026 / Paris",
-   "location": "Paris"
-  },
-  "0ce16f46a9af08bb48cae612bc0016e6": {
-   "id": "0ce16f46a9af08bb48cae612bc0016e6",
-   "company": "Chanel",
-   "role": "Cdd - Conseiller De Vente - Royale H/f",
    "location": "Paris"
   },
   "3acf8f6d1f37f58b6711c1d98b0bbf5f": {
