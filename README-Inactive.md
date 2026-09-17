@@ -5522,4 +5522,38 @@
 <tr><td>Coty Inc</td><td>Media Analytics Assistant</td><td>Paris</td><td>2026-09-16</td></tr>
 <tr><td>Marriott Vacations Worldwide</td><td>Fr1039 - Administrative Assistant Economat Procurement</td><td>DE</td><td>2026-09-16</td></tr>
 <tr><td>Mvrcareers</td><td>Fr1039 - Administrative Assistant Economat Procurement</td><td>DE</td><td>2026-09-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>2 Stages - Visual Merchandising - Janvier 2027 (h/f)</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stages Marketing - 9 Postes (h/f)</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Celebrity Talent & Entertainment</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stages Evénementiel - 4 Postes (h/f)</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Janvier 2027 - Asset Content Management (h/f)</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Assistant Relations Presse Internationales</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Janvier 2027 - Assistant Développement Industriel Objets & Accessoires</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Van Cleef & Arpels</td><td>Stagiaire Amélioration Continue</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Janvier 2027 - Chargé De Missions Transformation Rse & Digital (h/f)</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Droit Social</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Chargé De Projet Qualification & Fiabilité Produit (h/f) Stage Talent Day</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Assistant Hospitality & Vic</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Chargé De Projets Performance Ateliers Connexes (h/f) Stage Talent Day</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Kion Group</td><td>Ingenieur.e Logiciel F/h</td><td>Mantes La Jolie</td><td>2026-09-17</td></tr>
+<tr><td>Jobgether</td><td>Go Developer - Ai & Ml</td><td>France</td><td>2026-09-17</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur En Développement Logiciel (f/h)</td><td>Mantes La Jolie</td><td>2026-09-17</td></tr>
+<tr><td>Thales Group</td><td>Alternance – Hr Data Analyst - F/h</td><td>Toulouse</td><td>2026-09-17</td></tr>
+<tr><td>Air Liquide France Industrie</td><td>Stage Data/tool Analyst Support - Achats Europe (f/h)</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Pernod Ricard</td><td>Tech Finance Analyst Intern - January 2027</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Nestle Ltd</td><td>Alternant Juriste Compliance F/h</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Accenture Australia</td><td>Analyste Ecosystem Resale Enablement F/h</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Galeries Lafayette</td><td>Business Analyst - F/h - Temps Plein</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Chubb Fire & Security France</td><td>Technicien Maintenance Ssi Confirmé H/f</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Chubb Fire & Security France</td><td>Technicien Maintenance Extincteurs H/f</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Carrier Global</td><td>Attaché Technique - Rodez H/f</td><td>Toulouse</td><td>2026-09-17</td></tr>
+<tr><td>Carrier Global</td><td>Technicien Sav Itinérant Viessmann Industrie - Lille H/f</td><td>Lille</td><td>2026-09-17</td></tr>
+<tr><td>Carrier Corporation</td><td>Technicien Sav Itinérant Viessmann Industrie - Lille H/f</td><td>Lille</td><td>2026-09-17</td></tr>
+<tr><td>Ivivamedical</td><td>Medtech Device Field Service Technician Flexible/part Time - France</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Chanel</td><td>Stage Renfort Eté – Conseiller (e) De Vente Parfum Beauté- Lyon</td><td>Lyon</td><td>2026-09-17</td></tr>
+<tr><td>Chanel</td><td>Stage Renfort Noël – Conseiller.e De Vente Parfum Beauté H/f - Cannes</td><td>Nice</td><td>2026-09-17</td></tr>
+<tr><td>Ayvens Group</td><td>Stage Chargé De Formation Digitale</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Ayvens Group</td><td>Chargé D'évènementiel En Alternance</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Ayvens Group</td><td>Coordinateur Logistique - Gestion De Parc</td><td>Paris</td><td>2026-09-17</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Coordinateur International Confirmé – Cipe H/f</td><td>Paris</td><td>2026-09-17</td></tr>
 </table>
