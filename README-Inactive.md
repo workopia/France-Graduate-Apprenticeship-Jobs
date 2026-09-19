@@ -5712,4 +5712,57 @@
 <tr><td>Nestle Ltd</td><td>Stage Chef De Projet B2b Marketing Fidélisation F/h</td><td>Paris</td><td>2026-09-18</td></tr>
 <tr><td>iberdrolaenergiaespana.es</td><td>Communication & Event Assistant</td><td>Paris</td><td>2026-09-18</td></tr>
 <tr><td>Iberdrola S.A</td><td>Communication & Event Assistant</td><td>Paris</td><td>2026-09-18</td></tr>
+<tr><td>Egis Group</td><td>Alternance - Chargé De Mission Immobilier Groupe H/f</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+5 - Étude De La Pression Habitacle Et De Son Influence Sur La Manœuvre Des Ouvrants - H/f</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Ratpgroup</td><td>Stage De 6 Mois Assistant.e À La Maitrise D’ouvrage Et Pilotage Bac+4/5 F/h (mop/ Moa-es)</td><td>Val De Fontenay</td><td>2026-09-19</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Marketing & Commercial (h/f/x) - Mode – Janvier 2027</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>GE Vernova</td><td>Stagiaire H/f</td><td>Montpellier</td><td>2026-09-19</td></tr>
+<tr><td>Mondelez International</td><td>Stage Mondelez (lu, Oreo, Milka...) Sales - Assistant(e) Category Manager Assortiment & Merchandising (biscuit/chocolat/fromage) - (h/f/x) – 6 Mois – Boulogne-billancourt – Janvier 2027</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Airbus Helicopters</td><td>Stage 2027 - Bureau D'études - Design Et Aménagment Intérieur (f/h)</td><td>Marseille Area</td><td>2026-09-19</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Stage 2027 - Stagiaire En Management De La Communication Ou De La Création (f/h)</td><td>Toulouse Area</td><td>2026-09-19</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Stage En Bureau D’études Équipement De Mission (h/f)</td><td>Marseille Area</td><td>2026-09-19</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Amélioration Continue: Développement Et Déploiement Numérique (f/h)</td><td>Marseille Area</td><td>2026-09-19</td></tr>
+<tr><td>Airbus SAS</td><td>Stage 2027: Stage En lancement De Produit Lean Ai (f/h)</td><td>Toulouse</td><td>2026-09-19</td></tr>
+<tr><td>MOBS Lab</td><td>Alternance Qualité Opérationnelle H/f</td><td>Igoville</td><td>2026-09-19</td></tr>
+<tr><td>Pernod Ricard</td><td>Stage - Service Client - Comptes Hors-domicile - H/f/x - Durée : 6 Mois - Début : Mars 2027</td><td>Marseille</td><td>2026-09-19</td></tr>
+<tr><td>Pernod Ricard</td><td>Stage Change & Adoption Intern - Tech Master Data Management</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Pernod Ricard</td><td>Stagiaire Qualité Matières Sèches</td><td>Reims</td><td>2026-09-19</td></tr>
+<tr><td>Pfizer</td><td>Integrated Insights & Strategy (iis) France - Stage 6 Mois</td><td>Rives De Paris</td><td>2026-09-19</td></tr>
+<tr><td>CS</td><td>Stage - Développeur(se) Java R&d Pour Un Centre De Mission - Spatial - Toulouse</td><td>Toulouse</td><td>2026-09-19</td></tr>
+<tr><td>Nestle SA</td><td>Stage Chargé Développement Commercial Trade Marketing F/h</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Nestle SA</td><td>Stage Juriste Ethique Et Conformité F/h</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>BETC FULLSIX</td><td>Betc Fullsix - Assistant Creative Maker (h/f/x) - Stage</td><td>Les Magasins GéNéRaux</td><td>2026-09-19</td></tr>
+<tr><td>Herbert Smith Freehills Kramer</td><td>Stagiaire Restructuring - 1er Semestre 2028</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Renault Group</td><td>Cs26 - Stage - Bac+5 - Reconstruction 3d Multi-caméras Et Suivi Temporel D'objets - H/f)</td><td>Toulouse</td><td>2026-09-19</td></tr>
+<tr><td>Pernod Ricard France</td><td>Stage - Communication Externe - H/f/x - Durée : 6 Mois - Début : Mars 2027</td><td>Marseille</td><td>2026-09-19</td></tr>
+<tr><td>Pernod Ricard</td><td>Stage Animateur Rse Circularité & Energie - H/f/x - Durée : 6 Mois - Début : Mars 2027</td><td>Marseille</td><td>2026-09-19</td></tr>
+<tr><td>Pernod Ricard France</td><td>Stage – Communication Rh – H/f/x - Pernod Ricard France – Marseille – Durée : 6 Mois - Début: Mars 2027</td><td>Marseille</td><td>2026-09-19</td></tr>
+<tr><td>Pernod Ricard</td><td>Stage - Achats Matières Premières Rse (terroirs) - H/f/x - Durée : 6 Mois - Début : Mars 2027</td><td>Marseille</td><td>2026-09-19</td></tr>
+<tr><td>Pernod Ricard France</td><td>Stage Qhse – H/f/x - Usine De Marseille (arnavaux) - Durée : 6 Mois - Début : Mars 2027</td><td>Marseille</td><td>2026-09-19</td></tr>
+<tr><td>CMA CGM Group</td><td>Apprenticeship - Growth Marketing Project Specialist (m/f/x)</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance En Restauration Rapide - Toulouse (h/f)</td><td>Toulouse</td><td>2026-09-19</td></tr>
+<tr><td>BlaBlaCar</td><td>Junior Backend Engineer - Care</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Jobgether</td><td>Game Developer - Voxel-based Engine (java)</td><td>France</td><td>2026-09-19</td></tr>
+<tr><td>Valeo SA</td><td>Alternant(e) - Ai Et Automatisation Engineer R&d (f/h)</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>valeo.in</td><td>Alternant(e) - Ai Et Automatisation Engineer R&d (f/h)</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Airbus Defence & Space SAS</td><td>Junior Data Scientist / Ai Engineer (m/w/d) In The Field Of Data Processing & Analytics</td><td>Toulouse</td><td>2026-09-19</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Finance Business Intelligence Analyst (h/f)</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>C12qe Com Inc</td><td>Ai Automation Engineer</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Galeries Lafayette</td><td>Stage Business Analyst E-commerce F/h</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>People & Baby</td><td>Infirmière De</td><td>Agen</td><td>2026-09-19</td></tr>
+<tr><td>SyneosHealth</td><td>Cra I - Cti Program - Based In Paris Area</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>NHC CARE</td><td>Infirmier Suivi Parkinson F/h/x</td><td>89 Yonne</td><td>2026-09-19</td></tr>
+<tr><td>MANGO</td><td>Multifunctional Sales Associate</td><td>Bordeaux</td><td>2026-09-19</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>The LEGO Group</td><td>Vendeur Polyvalent (h/f/nb)</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur - 35h - H/f - Saint-laurent Du Var - Boardriders</td><td>Nice</td><td>2026-09-19</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) Commercial(e)</td><td>Nice</td><td>2026-09-19</td></tr>
+<tr><td>Eaglefootballgroup</td><td>Vendeur Olstore St Exupery (h/f)</td><td>Lyon</td><td>2026-09-19</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdi 35h - Cagnes Sur Mer</td><td>Nice</td><td>2026-09-19</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Soeur</td><td>Cdi - Vendeur.euse 35h - Paris (la Vallée Village)</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Assistant(e) Achat Joaillerie (h/f)</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Van Cleef & Arpels</td><td>Stage - Assistant(e) Chef De Projet Clients (h/f)</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Janvier 2027 - Assistant(e) Chef De Projet Evénementiel (f/h)</td><td>Paris</td><td>2026-09-19</td></tr>
+<tr><td>Cartier</td><td>Stage - Assistant(e) Chef De Projet Evénements & Vip Expérience - Janvier 2027</td><td>Paris</td><td>2026-09-19</td></tr>
 </table>
