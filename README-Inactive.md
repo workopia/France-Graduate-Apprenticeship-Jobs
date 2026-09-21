@@ -5902,4 +5902,5 @@
 <tr><td>ENACO</td><td>Alternance - Assistant.e De Direction En Apprentissage H/f</td><td>Paris</td><td>2026-09-21</td></tr>
 <tr><td>Nissan</td><td>Alternance - Assistant Customer Experience</td><td>Paris</td><td>2026-09-21</td></tr>
 <tr><td>Pullman Paris Montparnasse</td><td>Apprenti.e Coordinateur.rice Evènementiel H/f - Pullman Paris Montparnasse 4*</td><td>Paris</td><td>2026-09-21</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Stagiaire Business Analyst</td><td>Lyon</td><td>2026-09-21</td></tr>
 </table>
