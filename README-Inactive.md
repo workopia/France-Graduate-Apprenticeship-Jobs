@@ -5883,4 +5883,23 @@
 <tr><td>Van Cleef & Arpels</td><td>Stage - Assistant(e) Chef De Produit Horlogerie & Haute Joaillerie (h/f)</td><td>Paris</td><td>2026-09-20</td></tr>
 <tr><td>Richemont Australia Pty Ltd</td><td>Stage - Assistant(e) Chef De Projet Marketing 360 (h/f)</td><td>Paris</td><td>2026-09-20</td></tr>
 <tr><td>Van Cleef & Arpels</td><td>Stage - Assistant(e) Chef De Produit Joaillerie & Coordination Marketing (h/f)</td><td>Paris</td><td>2026-09-20</td></tr>
+<tr><td>Ami Paris</td><td>Stage - Assistant.e Buying / Retail Merchandising H/f</td><td>Paris</td><td>2026-09-21</td></tr>
+<tr><td>GRAINDEMALICE</td><td>Styliste En Alternance (h/f)</td><td>Lille</td><td>2026-09-21</td></tr>
+<tr><td>Deutsche Bank</td><td>Corporate Banking Coverage Intern (f/m/x)</td><td>Paris</td><td>2026-09-21</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Stagiaire Finance F/h/x</td><td>Paris</td><td>2026-09-21</td></tr>
+<tr><td>KONE</td><td>Alternant Ingénieur Des Ventes - Commercial Installation Nbs (h/f/x)</td><td>Paris</td><td>2026-09-21</td></tr>
+<tr><td>Doctolib GmbH</td><td>Stage - Partenaire Performance Client (x/f/m) - Janvier 2027</td><td>Paris</td><td>2026-09-21</td></tr>
+<tr><td>Doctolib GmbH</td><td>Stage - Corporate Development Analyst (x/f/m) - Janvier 2027</td><td>Paris</td><td>2026-09-21</td></tr>
+<tr><td>Doctolib GmbH</td><td>Stage - Sales Strategy Analyst (x/f/m) - Janvier 2027</td><td>Paris</td><td>2026-09-21</td></tr>
+<tr><td>OCTO</td><td>Stage - Dev/data/ia - Outillage Ia - F/h/n</td><td>Lille</td><td>2026-09-21</td></tr>
+<tr><td>Aubert & Duval</td><td>Alternant Développement Ia & Data Scientist</td><td>France</td><td>2026-09-21</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne De Preparation Mécanique</td><td>Marseille</td><td>2026-09-21</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne De Maintenance Mécanique D'equipe Intervention (jour)</td><td>Marseille</td><td>2026-09-21</td></tr>
+<tr><td>SNOP</td><td>Technicien Maintenance</td><td>Grenoble</td><td>2026-09-21</td></tr>
+<tr><td>JYSK</td><td>Vendeur Polyvalent (h/f) 24h/semaine</td><td>Toulouse</td><td>2026-09-21</td></tr>
+<tr><td>Puma</td><td>Vendeur Polyvalent H/f (temps Partiel) - Outlet Lyon</td><td>Lyon</td><td>2026-09-21</td></tr>
+<tr><td>ARQUUS</td><td>Cdi - Coordinateur Pilotes Electricité Et Electronique H/f</td><td>Paris</td><td>2026-09-21</td></tr>
+<tr><td>ENACO</td><td>Alternance - Assistant.e De Direction En Apprentissage H/f</td><td>Paris</td><td>2026-09-21</td></tr>
+<tr><td>Nissan</td><td>Alternance - Assistant Customer Experience</td><td>Paris</td><td>2026-09-21</td></tr>
+<tr><td>Pullman Paris Montparnasse</td><td>Apprenti.e Coordinateur.rice Evènementiel H/f - Pullman Paris Montparnasse 4*</td><td>Paris</td><td>2026-09-21</td></tr>
 </table>
