@@ -5903,4 +5903,6 @@
 <tr><td>Nissan</td><td>Alternance - Assistant Customer Experience</td><td>Paris</td><td>2026-09-21</td></tr>
 <tr><td>Pullman Paris Montparnasse</td><td>Apprenti.e Coordinateur.rice Evènementiel H/f - Pullman Paris Montparnasse 4*</td><td>Paris</td><td>2026-09-21</td></tr>
 <tr><td>AkzoNobel N.V.</td><td>Stagiaire Business Analyst</td><td>Lyon</td><td>2026-09-21</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus Alternance - Data Analyst Et Support Métier R&d Bac +4/5 (h/f)</td><td>Paris</td><td>2026-09-21</td></tr>
+<tr><td>Free2move</td><td>Financial Business Analyst Assistant - Internship 🚀</td><td>Paris</td><td>2026-09-21</td></tr>
 </table>

@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-21",
- "count": 849,
+ "count": 847,
  "jobs": {
   "2744270": {
    "id": "2744270",
@@ -2324,12 +2324,6 @@
    "role": "Alternance - Développement Outils & Amélioration Continue Orianté Ia & Data F/h",
    "location": "Paris"
   },
-  "cc8ee9af6aaae720a204f1b44067aeba": {
-   "id": "cc8ee9af6aaae720a204f1b44067aeba",
-   "company": "Cockerill Maintenance & Ingenierie",
-   "role": "Arquus Alternance - Data Analyst Et Support Métier R&d Bac +4/5 (h/f)",
-   "location": "Paris"
-  },
   "a0fdec610eeadac79064e3c977955add": {
    "id": "a0fdec610eeadac79064e3c977955add",
    "company": "IBM",
@@ -2928,12 +2922,6 @@
    "id": "2807ad2872d666c4bb74230473c7a90d",
    "company": "xfroid.fr",
    "role": "Financial Analyst Intern",
-   "location": "Paris"
-  },
-  "49982246dbd63ab986592e68b95d682d": {
-   "id": "49982246dbd63ab986592e68b95d682d",
-   "company": "Free2move",
-   "role": "Financial Business Analyst Assistant - Internship 🚀",
    "location": "Paris"
   },
   "bf49acaff9155275cf0613a97ce988cb": {

@@ -12,8 +12,8 @@
   "as_of": "2026-09-21",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 15078,
-  "generated_at": "2026-09-21T10:29:03.435Z"
+  "country_live_total": 15068,
+  "generated_at": "2026-09-21T14:17:40.132Z"
  },
  "categories": [
   {
@@ -6621,23 +6621,6 @@
   },
   {
    "salary_display": null,
-   "id": "cc8ee9af6aaae720a204f1b44067aeba",
-   "source": "Workopia",
-   "company_name": "Cockerill Maintenance & Ingenierie",
-   "company_hi_slug": "cockerill-maintenance-ingenierie",
-   "title": "Arquus Alternance - Data Analyst Et Support Métier R&d Bac +4/5 (h/f)",
-   "location": "Paris",
-   "skills": "Bac+4/5, PLM (Teamcenter Siemen",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-23T12:19:31.610Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/cc8ee9af6aaae720a204f1b44067aeba",
-   "category": "data",
-   "tier": "Graduate"
-  },
-  {
-   "salary_display": null,
    "id": "a0fdec610eeadac79064e3c977955add",
    "source": "Workopia",
    "company_name": "IBM",
@@ -8333,23 +8316,6 @@
    "date_posted": "2026-07-23T19:56:20.297Z",
    "active": true,
    "url": "https://workopia.io/jobs/2807ad2872d666c4bb74230473c7a90d",
-   "category": "finance",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": "€1,000/mo",
-   "id": "49982246dbd63ab986592e68b95d682d",
-   "source": "Workopia",
-   "company_name": "Free2move",
-   "company_hi_slug": "free2move",
-   "title": "Financial Business Analyst Assistant - Internship 🚀",
-   "location": "Paris",
-   "skills": "Financial data analysi, Excel proficiency",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-23T11:27:45.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/49982246dbd63ab986592e68b95d682d",
    "category": "finance",
    "tier": "Intern"
   },
