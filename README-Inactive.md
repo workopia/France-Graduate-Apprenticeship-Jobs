@@ -6066,4 +6066,48 @@
 <tr><td>SHISEIDO CO.,LTD</td><td>Operational Marketing Product Assistant</td><td>Paris</td><td>2026-09-23</td></tr>
 <tr><td>SHISEIDO CO.,LTD</td><td>Stage - Assistant Chef De Produit - Marketing Opérationnel Travel Retail - Fragrances & Soin/make-up</td><td>Paris</td><td>2026-09-23</td></tr>
 <tr><td>SHISEIDO CO.,LTD</td><td>Stage - Assistant Chef De Produit - Marketing Opérationnel Emea H/f - Janvier 2027</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Mars Australia</td><td>Stage Mars Petcare - Business Analyst Srm (h/f/x) – Janvier 2027 – Paris – 6 Mois</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Firmenich</td><td>Marketing & Sales Specialist 1</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Firmenich</td><td>Marketing Trainee, Ffe Eur, P&b</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Bonduelle</td><td>Assistant(e) Consumer Insight Europe H/f -stage</td><td>Lille</td><td>2026-09-23</td></tr>
+<tr><td>Keolis</td><td>Chargé De Missions Hse En Alternance F/h</td><td>BouxièRes Aux Dames</td><td>2026-09-23</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant Crédit Clients Et Douane (h/f) Proximité Rennes (35)</td><td>Bourgbarré</td><td>2026-09-23</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Planificateur (h/f) Proximité Rennes (35)</td><td>Bourgbarré</td><td>2026-09-23</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Planificateur Industriel (h/f) - 4 À 6 Mois Bourgbarré (35)</td><td>Bourgbarré</td><td>2026-09-23</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Prévisionniste (h/f) - 6 Mois Bourgbarré (35)</td><td>Bourgbarré</td><td>2026-09-23</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant Commercial Export Asie (h/f) Choisy-le-roi (94)</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant Commercial Export Afrique (h/f) Choisy-le-roi (94)</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant Commercial Export Pacio (h/f) Choisy-le-roi (94)</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Séritel</td><td>Stagiaire Développement Commercial (h/f)</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Nestle SA</td><td>Stage Juriste Protection Des Données F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Nestle SA</td><td>Stage Chef De Projet Marketing Acquisition B2c F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Nestle SA</td><td>Stage Responsable Trade Marketing Enseigne F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Nestle SA</td><td>Stage Chargé De Formation F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Alternant Site (h/f)</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Alternant(e) En Communication & Digitalisation H/f</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>EssilorLuxottica</td><td>Stage - Stage Electrochimie (h/f)</td><td>Labege</td><td>2026-09-23</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Stage - Trade Marketing (achats) H/f</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Division Of Financial Services</td><td>Headquarters</td><td>2026-09-23</td></tr>
+<tr><td>Eiffage Route</td><td>Apprenti Conducteur De Travaux (h/f)</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Eiffage Rail</td><td>Alternance – Assistant Chef De Chantier Ferroviaire F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Eiffage Route</td><td>Alternance Assistant Chef De Chantier (h/f)</td><td>Toulouse</td><td>2026-09-23</td></tr>
+<tr><td>Eiffage</td><td>Alternance Assistant Chef De Chantier (h/f)</td><td>Toulouse</td><td>2026-09-23</td></tr>
+<tr><td>Eiffage Route</td><td>Alternance - Aide Conducteur De Travaux (h/f)</td><td>Toulouse</td><td>2026-09-23</td></tr>
+<tr><td>Eiffagemetal</td><td>Alternance - Aide Conducteur De Travaux (h/f)</td><td>Toulouse</td><td>2026-09-23</td></tr>
+<tr><td>Galeries Lafayette</td><td>Stage Business Analyst F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>linde-mh.ie</td><td>Technicien De Maintenance</td><td>Castelnau D'Estretefonds</td><td>2026-09-23</td></tr>
+<tr><td>Dematic Inc</td><td>Technicien De Maintenance</td><td>Castelnau D'Estretefonds</td><td>2026-09-23</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Technicien Sav Ferroviaire H/f</td><td>Marseille</td><td>2026-09-23</td></tr>
+<tr><td>Coloplast AS</td><td>Laser Maintenance Specialist - Region Europe</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur Boulangerie (h/f)</td><td>Le</td><td>2026-09-23</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Nice</td><td>2026-09-23</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Lyon</td><td>2026-09-23</td></tr>
+<tr><td>Levis Media</td><td>Vendeurs//ses 35h00 Cdi</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Coty Inc</td><td>Burberry Make-up Global Brand Marketing Assistant</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Chef De Projet Crm Fidélité H/f</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Chef De Produit Parfum H/f</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Chef De Produit - Décoration & Art De Vivre</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Chef De Produit Développement Parfum Premium & Soin H/f</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Juridique Droit Des Affaires H/f</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Stage - Assistant.e Adv F/h</td><td>Lyon</td><td>2026-09-23</td></tr>
 </table>
