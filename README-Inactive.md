@@ -6001,4 +6001,69 @@
 <tr><td>Danfoss AS</td><td>Assistant(e) Support Aux Ventes - Alternance (f/h)</td><td>Paris</td><td>2026-09-22</td></tr>
 <tr><td>Airbus Beyond</td><td>Airbus Beyond - Training Administrative Support</td><td>Toulouse</td><td>2026-09-22</td></tr>
 <tr><td>SAUVEGARDE ISERE ASSOC PROTECTION ENFANCE ET ACCOMP DES ADULTES</td><td>Agent Administratif / Secrétaire H/f</td><td>Tencin</td><td>2026-09-22</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Division Of Internal Oversight Services</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Communications And Public Engagement</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Governing Bodies Secretariat</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Digital Business Solutions</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Culture Sector</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Intergovernmental Oceanographic Commission</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Office Of The Director-general</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Priority Africa And External Relations</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Logistique (h/f) - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-09-23</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Internship - Data & Performance Junior Analyst (m/f) 1</td><td>Chalifert</td><td>2026-09-23</td></tr>
+<tr><td>Ferrero</td><td>Chargé De Communication Interne-stage (h/f/x)</td><td>Villers-Ecalles</td><td>2026-09-23</td></tr>
+<tr><td>Ferrero LADM</td><td>Assistant Contrôle De Gestion Industriel-stage (h/f/x)</td><td>Villers-Ecalles</td><td>2026-09-23</td></tr>
+<tr><td>Atos SE</td><td>Consultant(e) Accompagnement Du Changement & Communication - Stage (f/h)</td><td>Toulouse</td><td>2026-09-23</td></tr>
+<tr><td>Grand-Hôtel du Cap-Ferrat, A Four Seasons Hotel</td><td>Stagiaire People & Culture (h/f)</td><td>Saint-Jean-Cap-Ferrat</td><td>2026-09-23</td></tr>
+<tr><td>Nespresso</td><td>Stage Chargé Ecommerce Et Animation Commerciale B2c F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Nestlé</td><td>Stage Responsable Trade Marketing Enseigne F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Van Cleef & Arpels</td><td>Stage - Assistant(e) Learning & Development International</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Renault Group</td><td>Cs27 Bac+5 - Stage - Optimisation De La Gestion Des Calibrations Du Réseau Électrique 12v Par L'intelligence Artificielle</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Pernod Ricard</td><td>Stage Maintenance Industrielle - Janvier 2027 - Métropole Lilloise</td><td>Vendeville</td><td>2026-09-23</td></tr>
+<tr><td>Pernod Ricard</td><td>Stage Web Analytics & Content Insights Intern - Paris - Janvier 2027</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Pernod Ricard</td><td>Brand Architecture & Activation Martell Growth Relays - January 2027</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Pernod Ricard</td><td>Digital Engagement Intern - January 2027</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Projets Digitaux H/f</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Commercial France H/f</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Coty</td><td>Value Protection Intern</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Chanel</td><td>Stage - Direction Juridique Chanel - Corporate/compliance</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Chanel</td><td>Stage - Qualité Si (h/f/x) - Mode - Janvier 2027</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>MANGO</td><td>Becario/intern Stores</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>NXP Semiconductors</td><td>Stage Ingénieur : Batterie Ac : Étude Avancée De La Génération D’un Réseau 48 V À Partir D’une Architecture De Batterie Distribuée (f/h)</td><td>Toulouse</td><td>2026-09-23</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Eic Intern</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Amgen</td><td>Juriste Stagiaire H/f</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>GSK (GlaxoSmithKline)</td><td>Alternant Ingénieur Amélioration Continue Et Data H/f</td><td>Mantes La Jolie</td><td>2026-09-23</td></tr>
+<tr><td>GSK</td><td>Alternant Ingénieur Amélioration Continue Et Data H/f</td><td>Mantes La Jolie</td><td>2026-09-23</td></tr>
+<tr><td>Keolis</td><td>Alternant Ingénieur Maintenance & Amélioration Continue F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Egis</td><td>Stage 3a - Ingénieur Suivi De Travaux - Gros Oeuvre Et Second Oeuvre - Ouvrages Souterrains H/f</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Harmattan AI</td><td>Mechatronics Engineering Intern</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Thales</td><td>Alternance - Technicien Méthodes F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Front</td><td>Software Engineering Intern - Spring/summer 2027</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Hitachi Rail GTS France SAS</td><td>Intern – Data Engineer For Automatic Selection Of Radio Networks</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Software Craftsperson/java/angular</td><td>France</td><td>2026-09-23</td></tr>
+<tr><td>Thales</td><td>Ingénieur En Développement Logiciel (f/h)</td><td>Mantes La Jolie</td><td>2026-09-23</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Full Stack Data/ia – H/f</td><td>Toulouse</td><td>2026-09-23</td></tr>
+<tr><td>Thales</td><td>Responsable Support Produit-f/h</td><td>Toulouse</td><td>2026-09-23</td></tr>
+<tr><td>GE HealthCare</td><td>Ingénieur(e) Front End (typescript)</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>ANZ</td><td>Ai Native Engineer</td><td>Saint</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Ai/ml & Forward Deployed Engineer</td><td>France</td><td>2026-09-23</td></tr>
+<tr><td>Chanel</td><td>Stage – Data Analyst – Supply Chain (h/f/x) – Mode – Janvier 2027</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Kellanova</td><td>Stage Business Analyst - Revenue Growth Management</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Nestle Ltd</td><td>Stage Business Analyst F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Chanel</td><td>Stage - Marketing Business Analyst - Parfums Beauté Chanel Europe - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Autoneum</td><td>Maintenance Technician</td><td>Ons-En-Bray</td><td>2026-09-23</td></tr>
+<tr><td>Seppic</td><td>Technicien Maintenance Electrique</td><td>Toulouse</td><td>2026-09-23</td></tr>
+<tr><td>Eiffagerail</td><td>Technicien De Maintenance Multitechnique F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Michelin Group</td><td>Professionnel De Maintenance F/h</td><td>Montceau</td><td>2026-09-23</td></tr>
+<tr><td>Sofitel Paris Baltimore Tour Eiffel</td><td>Technicien De Maintenance (h/f/x)</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Mécanicien Industriel (chantier)h/f</td><td>Marseille</td><td>2026-09-23</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Technicien Maintenance Industrielle/machines Outils H/f</td><td>Aix En Provence</td><td>2026-09-23</td></tr>
+<tr><td>JYSK</td><td>Vendeur Polyvalent (h/f) Cdd - Jfr</td><td>Toulouse</td><td>2026-09-23</td></tr>
+<tr><td>Kiabi</td><td>Conseiller(e) De Mode Kiabi Herblay Cdd 35h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Chanel</td><td>Stages Renfort Hiver - Conseiller.e De Vente Parfums Beauté - Galeries Lafayette Bordeaux (h/f/x)</td><td>Bordeaux</td><td>2026-09-23</td></tr>
+<tr><td>HOKA</td><td>Hoka Full Time Sales Associate / Conseiller.ère De Vente - (spécialiste Stock) Paris, Le Marais</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Deckers</td><td>Sales Associer Velizy2 35h Cdd</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Operational Marketing Product Assistant</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Stage - Assistant Chef De Produit - Marketing Opérationnel Travel Retail - Fragrances & Soin/make-up</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Stage - Assistant Chef De Produit - Marketing Opérationnel Emea H/f - Janvier 2027</td><td>Paris</td><td>2026-09-23</td></tr>
 </table>
