@@ -308,6 +308,12 @@
    "role": "Stage Mondelez (lu, Oreo, Milka...) - Ingénieur Maintenance (h/f/x) - 6 Mois – La Haye-fouassière (proche Nantes) - Janvier/fevrier 2027",
    "location": "La Haye Fouassiere"
   },
+  "bba6c6f88334640fb2cbc32ce2549f50": {
+   "id": "bba6c6f88334640fb2cbc32ce2549f50",
+   "company": "Barilla Group",
+   "role": "Stage Contrôle De Gestion Commercial - Rgm À Paris",
+   "location": "Paris"
+  },
   "59bebbbfc066b3f835e4de32bd876267": {
    "id": "59bebbbfc066b3f835e4de32bd876267",
    "company": "Malt",
@@ -494,12 +500,6 @@
    "role": "Stage Mars Petcare - Assistant Category Manager E-commerce (h/f/x) – Janvier 2027 – Paris – 6 Mois",
    "location": "Paris"
   },
-  "7e32241c2d010635f06c99084f623762": {
-   "id": "7e32241c2d010635f06c99084f623762",
-   "company": "Mars",
-   "role": "Stage Mars Food - Stagiaire Vente – Développement De La Stratégie Long Terme Du Circuit De Proximité (suzi Wan, Ben’s Original) (h/f/x) – Janvier 2026 – Paris France – 6 Mois",
-   "location": "Paris"
-  },
   "563087415860014": {
    "id": "563087415860014",
    "company": "Forvia",
@@ -523,6 +523,12 @@
    "company": "Forvia",
    "role": "Ux/ui Designer Apprentice",
    "location": "Paris"
+  },
+  "c4fab5b8163359b1b45d1634e926c234": {
+   "id": "c4fab5b8163359b1b45d1634e926c234",
+   "company": "Nouryon",
+   "role": "Apprenti(e) Maintenance",
+   "location": "Toulouse"
   },
   "35d96b403410973b53c9b94727722fdc": {
    "id": "35d96b403410973b53c9b94727722fdc",
@@ -972,12 +978,6 @@
    "id": "623b85d460e91674f99550a2baad3e9c",
    "company": "Sanofi UK",
    "role": "Apprenticeship 12 Months Inclusion Operations And Project Management",
-   "location": "Paris"
-  },
-  "89daee396f47c8bbdd6a2c801d1f88e9": {
-   "id": "89daee396f47c8bbdd6a2c801d1f88e9",
-   "company": "Eiffagerail",
-   "role": "Alternance - Technicien De Chantier F/h",
    "location": "Paris"
   },
   "834ee54fbb42cb155bce4567178d27ef": {
@@ -1616,6 +1616,12 @@
    "role": "Lgv Software Programmer - Grans",
    "location": "Grans"
   },
+  "3825a7843caeac6e67fc0cb4ac2fc921": {
+   "id": "3825a7843caeac6e67fc0cb4ac2fc921",
+   "company": "STADA",
+   "role": "Ingenieur Support Informatique - Applications Et Systemes (f/h)",
+   "location": "Paris"
+  },
   "b0b5245157b0b30b2e9ed67f830cd230": {
    "id": "b0b5245157b0b30b2e9ed67f830cd230",
    "company": "Jobgether",
@@ -2078,12 +2084,6 @@
    "role": "Software Engineer – Ai-assisted Full-stack Developement",
    "location": "France"
   },
-  "8c1d6095375d4fb0980b3463b5f5b5a1": {
-   "id": "8c1d6095375d4fb0980b3463b5f5b5a1",
-   "company": "Jobgether",
-   "role": "Software Development Engineer Iii",
-   "location": "France"
-  },
   "ded4a0c9a2d4513b867fe46b4b037316": {
    "id": "ded4a0c9a2d4513b867fe46b4b037316",
    "company": "P&G",
@@ -2341,6 +2341,24 @@
    "company": "IBM",
    "role": "Apprenti(e) AI Engineer – Client Engineering, IBM Technology France - IBM France H/F",
    "location": "Paris"
+  },
+  "c15714cc75bcfc276b72f2af223519e6": {
+   "id": "c15714cc75bcfc276b72f2af223519e6",
+   "company": "Coexya",
+   "role": "Ingénieur De Développement Nlp/rag F/h",
+   "location": "Saint Didier Au Mont D’Or"
+  },
+  "c5426dd48f5bbeff34549dde6000a37e": {
+   "id": "c5426dd48f5bbeff34549dde6000a37e",
+   "company": "Coexya",
+   "role": "Ingénieur De Développement Nlp/llm F/h",
+   "location": "Saint Didier Au Mont D’Or"
+  },
+  "dd729ebc53b2fe301301b7ee03bf4e55": {
+   "id": "dd729ebc53b2fe301301b7ee03bf4e55",
+   "company": "Talan",
+   "role": "Développeur Ia Générative F/h",
+   "location": "Saint Didier Au Mont D’Or"
   },
   "020ac92ea41967e53568e89b532a6eb9": {
    "id": "020ac92ea41967e53568e89b532a6eb9",
@@ -2804,24 +2822,6 @@
    "role": "Stage - Analyste De Données (f/h) 1 1 1",
    "location": "Paris"
   },
-  "4e2fa950832b933e21653bd9b1b2e97f": {
-   "id": "4e2fa950832b933e21653bd9b1b2e97f",
-   "company": "Accenture Australia",
-   "role": "Ingénieur Ia – Large Language Models (llm)",
-   "location": "Paris"
-  },
-  "61f83b45f28033ef01fe897132de41f2": {
-   "id": "61f83b45f28033ef01fe897132de41f2",
-   "company": "ANZ",
-   "role": "Ingénieur Ia – Large Language Models (llm)",
-   "location": "Paris"
-  },
-  "de71191ef3395dcab26d6feead34ccf9": {
-   "id": "de71191ef3395dcab26d6feead34ccf9",
-   "company": "Accenture Australia",
-   "role": "Ai Native Engineer",
-   "location": "Saint"
-  },
   "49e0f31479ecfe062fe15f69091c9614": {
    "id": "49e0f31479ecfe062fe15f69091c9614",
    "company": "Air Liquide Healthcare",
@@ -3042,6 +3042,30 @@
    "id": "d77eb2476ab6eaa1d2ccc115e72fd6c6",
    "company": "TotalEnergies",
    "role": "Stage- Coordinateur Plan Long Terme - Business Analyst H/f",
+   "location": "Paris"
+  },
+  "bb92e0b8944a88a52b0eaf6bf87e4327": {
+   "id": "bb92e0b8944a88a52b0eaf6bf87e4327",
+   "company": "Talan",
+   "role": "Expert Business Analyst Equity Delta One - Sophis (h/f)",
+   "location": "Paris"
+  },
+  "110ea1958fbf7402885a8811046d720d": {
+   "id": "110ea1958fbf7402885a8811046d720d",
+   "company": "Talan",
+   "role": "Business Analyst Front Office _ Taux Non Linéaires - H/f",
+   "location": "Paris"
+  },
+  "cba6f2d266810f683bff7bfb84f1e1d2": {
+   "id": "cba6f2d266810f683bff7bfb84f1e1d2",
+   "company": "Talan",
+   "role": "Capital Market _business Analyst Alm Treasury - H/f",
+   "location": "Paris"
+  },
+  "ce13a98c6db31596029483f5dd26dc8b": {
+   "id": "ce13a98c6db31596029483f5dd26dc8b",
+   "company": "Talan",
+   "role": "Post Trade Business Analyst - H/f",
    "location": "Paris"
   },
   "d4c416c80e77a121af5ea53478a2b309": {
@@ -3428,34 +3452,10 @@
    "role": "Business Analyst Pharmaceutical Care - Stage - H/f",
    "location": "Toulouse"
   },
-  "bb92e0b8944a88a52b0eaf6bf87e4327": {
-   "id": "bb92e0b8944a88a52b0eaf6bf87e4327",
-   "company": "Talan",
-   "role": "Expert Business Analyst Equity Delta One - Sophis (h/f)",
-   "location": "Paris"
-  },
   "500cdbf51fad44e222e38b1f5a99e38e": {
    "id": "500cdbf51fad44e222e38b1f5a99e38e",
    "company": "Talan",
    "role": "Business Analyst Capital Market Front Office - H/f",
-   "location": "Paris"
-  },
-  "ce13a98c6db31596029483f5dd26dc8b": {
-   "id": "ce13a98c6db31596029483f5dd26dc8b",
-   "company": "Talan",
-   "role": "Post Trade Business Analyst - H/f",
-   "location": "Paris"
-  },
-  "110ea1958fbf7402885a8811046d720d": {
-   "id": "110ea1958fbf7402885a8811046d720d",
-   "company": "Talan",
-   "role": "Business Analyst Front Office _ Taux Non Linéaires - H/f",
-   "location": "Paris"
-  },
-  "cba6f2d266810f683bff7bfb84f1e1d2": {
-   "id": "cba6f2d266810f683bff7bfb84f1e1d2",
-   "company": "Talan",
-   "role": "Capital Market _business Analyst Alm Treasury - H/f",
    "location": "Paris"
   },
   "2fdaecdc69af2c71a8893ca6ff305ffd": {
@@ -3691,6 +3691,18 @@
    "company": "Forvia",
    "role": "Maintenance Engineer",
    "location": "Nogent Sur Vernisson"
+  },
+  "15afbb36c7786d05626d82aa4a4eece9": {
+   "id": "15afbb36c7786d05626d82aa4a4eece9",
+   "company": "ANTAVIA",
+   "role": "Technicien En Electromecanique (h/f)",
+   "location": "Campsas"
+  },
+  "28a89a66d8c2e89bbe850499f647b99c": {
+   "id": "28a89a66d8c2e89bbe850499f647b99c",
+   "company": "AMETEK Inc",
+   "role": "Technicien En Mécanique, Hydraulique Et Trains",
+   "location": "Campsas"
   },
   "0ac6ac22b89d5d701c7a41f0b950e6fa": {
    "id": "0ac6ac22b89d5d701c7a41f0b950e6fa",
@@ -4112,18 +4124,6 @@
    "role": "Technicien De Maintenance Cvc F/h",
    "location": "Holtzheim"
   },
-  "44e86193783743628f87aa7c7079c341": {
-   "id": "44e86193783743628f87aa7c7079c341",
-   "company": "ANTARTIC",
-   "role": "Technicien De Maintenance Industrielle H/f",
-   "location": "Saint-Martin-D'Abbat"
-  },
-  "ec8d5566d8d634e437aedc712bab9c6e": {
-   "id": "ec8d5566d8d634e437aedc712bab9c6e",
-   "company": "OTIS ELEVATOR COMPANY",
-   "role": "Technicien De Maintenance (h/f)",
-   "location": "Bordeaux"
-  },
   "041f73ad8ea2405c7781c8689c5b0267": {
    "id": "041f73ad8ea2405c7781c8689c5b0267",
    "company": "Europcar Inc",
@@ -4159,6 +4159,18 @@
    "company": "MAISONS DU MONDE FRANCE",
    "role": "Conseiller(e) De Vente",
    "location": "Bordeaux"
+  },
+  "69d947108789f3ecaa4a44bd24731d7a": {
+   "id": "69d947108789f3ecaa4a44bd24731d7a",
+   "company": "Nouryon",
+   "role": "Vendeur Conseil Alternant(e)",
+   "location": "Paris"
+  },
+  "3738f7f9f275734453e3b29d457478ee": {
+   "id": "3738f7f9f275734453e3b29d457478ee",
+   "company": "Nouryon",
+   "role": "Vendeur(se) Conseil",
+   "location": "Nantes"
   },
   "8f37eed93d7feacebe7d1607fd8544b8": {
    "id": "8f37eed93d7feacebe7d1607fd8544b8",
@@ -4586,18 +4598,6 @@
    "role": "Cdi - Vendeur H/f - Montaigne",
    "location": "Paris"
   },
-  "af79f97bcc195ddefe43fc4473c66b8b": {
-   "id": "af79f97bcc195ddefe43fc4473c66b8b",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Cdd - Sales Advisor (h/f)",
-   "location": "Paris"
-  },
-  "66653d9affa4316ea09b9afaabd2b3bd": {
-   "id": "66653d9affa4316ea09b9afaabd2b3bd",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Vendeur H/f - Cdd",
-   "location": "Paris"
-  },
   "5fab2e46e6b584cf6dd7df003ea0ff09": {
    "id": "5fab2e46e6b584cf6dd7df003ea0ff09",
    "company": "Sanofi",
@@ -4657,6 +4657,18 @@
    "company": "chloé Parfums",
    "role": "Global Influencer Marketing Assistantglobal Influencer Marketing Assistant-chloé Parfums",
    "location": "Paris"
+  },
+  "061ed59ec8e4f137aaba9f4b64ccf23f": {
+   "id": "061ed59ec8e4f137aaba9f4b64ccf23f",
+   "company": "Chanel",
+   "role": "Stage – Assistant.e Visual Merchandising - Boutiques Mode - Janvier 2027",
+   "location": "Paris"
+  },
+  "a7be3b778c18463a1451d9220aa1922d": {
+   "id": "a7be3b778c18463a1451d9220aa1922d",
+   "company": "Howden Re",
+   "role": "Administrative Coordinator",
+   "location": "Edina"
   },
   "bf5b29431e47144b52887155db109d5e": {
    "id": "bf5b29431e47144b52887155db109d5e",
@@ -5058,18 +5070,6 @@
    "id": "0c2a2b97d490374834bc290742c5c914",
    "company": "FUGA",
    "role": "Stage Assistant.e Chef.fe De Projet Événementiel [à Partir De Septembre 2026]",
-   "location": "Paris"
-  },
-  "e49a487eac338334d4fb5a6b20e515d3": {
-   "id": "e49a487eac338334d4fb5a6b20e515d3",
-   "company": "Sopra Steria",
-   "role": "Stage – Chef/cheffe De Projet Marketing & Communication (services Financiers)",
-   "location": "Paris"
-  },
-  "3c984a9b09999592c445ce570162005a": {
-   "id": "3c984a9b09999592c445ce570162005a",
-   "company": "IPSEN",
-   "role": "Coordinateur Adv Import/export",
    "location": "Paris"
   }
  }

@@ -6110,4 +6110,16 @@
 <tr><td>Diptyque Paris</td><td>Stage - Assistant Chef De Produit Développement Parfum Premium & Soin H/f</td><td>Paris</td><td>2026-09-23</td></tr>
 <tr><td>Diptyque Paris</td><td>Stage - Assistant Juridique Droit Des Affaires H/f</td><td>Paris</td><td>2026-09-23</td></tr>
 <tr><td>SPORTFIVE Global Holding GmbH</td><td>Stage - Assistant.e Adv F/h</td><td>Lyon</td><td>2026-09-23</td></tr>
+<tr><td>Mars</td><td>Stage Mars Food - Stagiaire Vente – Développement De La Stratégie Long Terme Du Circuit De Proximité (suzi Wan, Ben’s Original) (h/f/x) – Janvier 2026 – Paris France – 6 Mois</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Eiffagerail</td><td>Alternance - Technicien De Chantier F/h</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Software Development Engineer Iii</td><td>France</td><td>2026-09-23</td></tr>
+<tr><td>Accenture Australia</td><td>Ingénieur Ia – Large Language Models (llm)</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>ANZ</td><td>Ingénieur Ia – Large Language Models (llm)</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Accenture Australia</td><td>Ai Native Engineer</td><td>Saint</td><td>2026-09-23</td></tr>
+<tr><td>ANTARTIC</td><td>Technicien De Maintenance Industrielle H/f</td><td>Saint-Martin-D'Abbat</td><td>2026-09-23</td></tr>
+<tr><td>OTIS ELEVATOR COMPANY</td><td>Technicien De Maintenance (h/f)</td><td>Bordeaux</td><td>2026-09-23</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Cdd - Sales Advisor (h/f)</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Vendeur H/f - Cdd</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>Sopra Steria</td><td>Stage – Chef/cheffe De Projet Marketing & Communication (services Financiers)</td><td>Paris</td><td>2026-09-23</td></tr>
+<tr><td>IPSEN</td><td>Coordinateur Adv Import/export</td><td>Paris</td><td>2026-09-23</td></tr>
 </table>
