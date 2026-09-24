@@ -6238,4 +6238,133 @@
 <tr><td>Forward Global</td><td>Cdd - Chargé De Production / Logistique Événementielle (h/f)</td><td>Paris</td><td>2026-09-24</td></tr>
 <tr><td>Haleon</td><td>Stage : Chef De Projets Marketing Professionnels De Santé - Oral Care H/f</td><td>Paris</td><td>2026-09-24</td></tr>
 <tr><td>FUGA</td><td>Stage Assistant.e Chef.fe De Projet Événementiel [à Partir De Septembre 2026]</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Forvis Mazars UK</td><td>Stagiaire En Evaluation Et Modélisation Financière - Janvier 2027 H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Stratégie & Business Performance H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>HPE (Hewlett Packard Enterprise)</td><td>Apprenti Digital Sales Representative (h/f)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Hewlett Packard Enterprise</td><td>Apprenti Digital Sales Representative (h/f)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Thomson Reuters</td><td>Hr Projects Specialist – Apprentice</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Thompsonresumes</td><td>Hr Projects Specialist – Apprentice</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Apprenti(e) Orienté(e) Projet</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Baltgroup</td><td>Alternance - Assistant Chef De Produits / Apprenticeship - Product Manager Assistant</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Petit Forestier</td><td>Apprenti Mecanicien</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Land Securities Group</td><td>Engineering Business Management Apprentice</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Land Securities Group</td><td>Account Manager Apprentice (24-month Apprenticeship)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>JLL</td><td>Apprentissage – Bac + 3 Contrôle Financier H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Jll Com Sg</td><td>Apprentissage – Bac + 3 Contrôle Financier H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Jones Lang LaSalle Ip Inc</td><td>Apprentissage – Bac + 3 Contrôle Financier H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Renault Group</td><td>Ap26 - Cap/bep - Technicien Peinture Carrosserie (h/f)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Logitech</td><td>Marketing Assistant (contrat D'apprentissage) — 24 Months Young Professional</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>RATP</td><td>Chargés D'affaires De Maintenance Des Infrastructures Tramway En Apprentissage</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>35</td><td>Rencontre Apprentissage De Centralesupelec</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Liquidfusioninc</td><td>Rencontre Apprentissage De Centralesupelec</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Johnson Controls</td><td>Chef De Projet En Apprentissage H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Chef De Projet En Apprentissage H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Coty Inc.</td><td>Apprentissage - Beauty Ambassador Luxury (idf)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>RELX TRADING AUSTRALIA PTY LIMITED COMPANY</td><td>Apprentissage Chargé(e) D'édition</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>LexisNexis</td><td>Apprentissage Chargé(e) D'édition</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Coty</td><td>Apprentissage - Beauty Ambassador Luxury (idf)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Airbus Helicopters</td><td>Stage 2027 - Ingénieur(e) Matériaux & Procédés - Qualification De Revêtements Organiques (h/f)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Eiffagerail</td><td>Alternance - Géomètre Topographe (h/f)</td><td>Toulouse</td><td>2026-09-24</td></tr>
+<tr><td>Air Liquide Advanced Technologies</td><td>Stage - Assistant Ingénieur Systèmes H/f</td><td>Mantes La Jolie</td><td>2026-09-24</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Stage - Bac+5 Ingénieur En Électronique Et Systèmes Embarqués (h/f)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Stage - Bac+2 - Design Engineer (h/f)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Renault Group</td><td>Cs27 Bac+5 Stage Ingénieur Liaison Au Sol/digitalisation Des Outils H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Bac+5 - Stage Ingénieur Amélioration Performance Manufacturing Par Ia (f/h)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Astemo</td><td>Brake Software Model-based Design Apprenticeship</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>GE Vernova</td><td>Ingénieur Développement Logiciel Contrôles & Diagnostics (h/f)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>THALES</td><td>Ingénieur Développement Logiciel Temps Réel</td><td>Mantes La Jolie</td><td>2026-09-24</td></tr>
+<tr><td>THALES</td><td>Ingénieur Développement Logiciel F/h</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Valeo</td><td>Ingénieur Développement Logiciel - Optique (f/h)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Murex</td><td>Software Engineer Java</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Speechify</td><td>Software Engineer, Platform - Paris, France</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer P2p - Search Team</td><td>France</td><td>2026-09-24</td></tr>
+<tr><td>ElevenLabs</td><td>Forward Deployed Engineer - Software Engineer - France</td><td>France</td><td>2026-09-24</td></tr>
+<tr><td>Doctolib GmbH</td><td>Software Engineer Fullstack - React / Java (x/f/m)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Actimage</td><td>Développeur Cobol (h-f)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer – Ai-assisted Full-stack Developement</td><td>France</td><td>2026-09-24</td></tr>
+<tr><td>Air Liquide France Industrie</td><td>Stagiaire Data Analyst</td><td>Lyon</td><td>2026-09-24</td></tr>
+<tr><td>Roche Holding AG</td><td>Stagiaire – Stratégie De Génération De Donnée (f/m/d)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga – Emea Client Engagement Data Analyst Intern (f/m)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Bureau Veritas</td><td>Sales Data & Crm Performance Analyst - Internship (f-m-d)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Ornikar</td><td>Data Analyst Intern</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship - Marketing Data Scientist</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Sonoco</td><td>Trainee Transport & Data Analyst</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Valeo</td><td>Apprenti(e) Purchasing Performance And Reporting Analyst</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Suez Group</td><td>Alternance - Chargé Acculturation Data H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Valtech</td><td>Alternance Google Cloud & Ai Engineer (all Genders)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Argedis</td><td>Alternance 2026 (h/f) Data Analyste En Filiale Chez Argedis</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>TotalEnergies</td><td>Alternance - Data Analyst Relations Clients - H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Verallia Packaging</td><td>Stage Ou Alternance - Data Analyst (performance Commerciale) H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>valeo.in</td><td>Alternance Ai Research Engineer – Multiphysics E-machine Simulation H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Valeo SA</td><td>Alternance Ai Research Engineer – Multiphysics E-machine Simulation H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>AptarGroup Inc</td><td>Apprenti Achats Et Coordination Data H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Guerbet</td><td>Analyste En Intelligence Economique - Alternance</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Data Analyst F/h</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>EssilorLuxottica</td><td>Alternance - Développement Outils & Amélioration Continue Orianté Ia & Data F/h</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Eiffagemetal</td><td>Data Scientist Et Outils Achats F/h</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>THALES</td><td>Core Hr Data Analyst - F/h</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Artefact</td><td>Stage Data Scientist - Paris</td><td>9th Arrondissement Of Paris</td><td>2026-09-24</td></tr>
+<tr><td>valeo.in</td><td>Ingénieur Intelligence Artificielle (f/h)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>(interim) Compensation & Benefits & Hr Data Analyst</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>OCTO</td><td>Stage - Ai Engineer - Sécurisation Des Applications Agentic & Red Teaming - F/h/n</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>TotalEnergies</td><td>Gen Ai Engineer – Développement D'agents Ia - Débutant H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Salesforce UK</td><td>Ai Builder, Emerging Talent - French Market</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Salesforce</td><td>Ai Builder, Emerging Talent - French Market</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Dataiku</td><td>Product Analytics</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>EWOR GmbH</td><td>Ai Ai/ml Engineer (100 % Remote) (m/f/d)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>OCTO</td><td>Data/ai Engineer - F/h/n</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>OCTO</td><td>Stage - Ai Engineer - Agentic / Gen Ai - F/h/n</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>OCTO</td><td>Stage - Ai Engineer - Security - F/h/n</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>OCTO</td><td>Stage - Implémentation D'un Agent De Code Ia Souverain Et Sécuritaire - F/h/n</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>OCTO</td><td>Stage Ai Engineer - Green Ai & Agentique - F/h/n</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>OCTO</td><td>Stage Ai Engineer, Agentic & E-commerce - F/h/n</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Risk & Compliance</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Converteo</td><td>Stagiaire Consultant En Transformation Ia (f/h) — Stage De Fin D'études (6 Mois)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>IQVIA UK</td><td>6-month Intern – Life Sciences Strategy Consulting</td><td>Munich +1</td><td>2026-09-24</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Cybersecurity</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant In Financial Transformation</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>IPSEN</td><td>Stagiaire Fp&a / Junior Financial Analyst - 6 Mois - À Partir De Janvier 2027</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>KFC France</td><td>Stagiaire Junior Business Analyst (h/f)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Celonis</td><td>Intern Technology & Management Consulting (value Engineering)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>SCOR</td><td>P&c Financial Analyst Intern</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Renault Group</td><td>Ap26 Bac+5 Alternance Data Analytics Et Ia Audit Interne H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Avanade</td><td>Alternant(e) Business Analyst Finance - Erp</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Verallia Packaging</td><td>Alternance - Business Analyst (performance Commerciale) H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Worldline</td><td>Apprenticeship - Functional Consultant</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Alternance - Comptable Général F/h</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>ASMODEE</td><td>Alternance - Assistant(e) Ethique & Compliance / Contrôle Interne F/h</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Nestle SA</td><td>Alternant Juriste Compliance F/h</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>CMA CGM Group</td><td>Alternance - Business Analyst - Quotation & Pricing</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Conseiller Spécialisé H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Talan</td><td>Directeur - Strategy Consulting - H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Talan</td><td>Business Analyst Risque De Marché - H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>GE Vernova</td><td>Business Analyste - Domaine Commercial - H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Bac +5 - Business Analyst Processus S&op (h/f)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Renault Group</td><td>Ap26 - Bac+5 - Analyste Financier Entreprises Junior (h/f)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>759</td><td>Junior Aml Compliance Specialist – Paris, France</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Talan</td><td>Business Analyst Capital Market Front Office - H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Avanade</td><td>Business Analyst D365 F&o (bams)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Accenture</td><td>Management Consulting Analyst</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>ICON plc</td><td>Ihcra</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>ICON plc</td><td>Clinical Trial Associate (study Start-up)</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>ICON plc</td><td>Clinical Research Associate Ii</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>lactalisexperience</td><td>Infirmier Santé Au Travail (h/f) Proximité Rennes (35)</td><td>L'Hermitage +1</td><td>2026-09-24</td></tr>
+<tr><td>Corning</td><td>Infirmier(e) D'entreprise F/h</td><td>Borre</td><td>2026-09-24</td></tr>
+<tr><td>35</td><td>Infirmier(e) Conseil F/h - Cdi - Agen</td><td>Agen</td><td>2026-09-24</td></tr>
+<tr><td>ICON Clinical Research, LP</td><td>Clinical Trial Associate</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Keolis</td><td>Ouvrier Maintenance Préventive Metro F/h</td><td>Lille</td><td>2026-09-24</td></tr>
+<tr><td>Keolis</td><td>Technicien Matériel Embarqué</td><td>Mantes La Jolie</td><td>2026-09-24</td></tr>
+<tr><td>Keolis Bordeaux Métropole Mobilités</td><td>Agent Electromécanicien - Infrastructures Voie Et Lac Tramway F/h</td><td>Bordeaux</td><td>2026-09-24</td></tr>
+<tr><td>Keolis</td><td>Technicien·ne Cycle - Agent D'accueil À La Maison Du Vélo F/h</td><td>Rennes</td><td>2026-09-24</td></tr>
+<tr><td>Keolis</td><td>Technicien De Maintenance Bus Et Car Itinérant H/f</td><td>Arnas</td><td>2026-09-24</td></tr>
+<tr><td>Keolis</td><td>Electromécanicien F/h</td><td>Ormoy</td><td>2026-09-24</td></tr>
+<tr><td>Keolis</td><td>Mécanicien Bus - Pl Expert F/h</td><td>Lyon</td><td>2026-09-24</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Voies Du Métro F/h</td><td>Rennes</td><td>2026-09-24</td></tr>
+<tr><td>Keolis</td><td>Technicien Maintenance Bus F/h</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Keolis Bordeaux Métropole Mobilités</td><td>Agent De Maintenance Curatif - Matériel Roulant Tram - (jour) F/h</td><td>Bordeaux</td><td>2026-09-24</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Annecy</td><td>2026-09-24</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdd 35h</td><td>Bordeaux</td><td>2026-09-24</td></tr>
+<tr><td>Galeries Lafayette</td><td>Cdd Conseiller (re) De Vente Experimente</td><td>Toulouse</td><td>2026-09-24</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Digital Emea H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant E-merchandising & Animation H/f</td><td>Paris</td><td>2026-09-24</td></tr>
 </table>
