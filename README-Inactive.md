@@ -6367,4 +6367,87 @@
 <tr><td>Galeries Lafayette</td><td>Cdd Conseiller (re) De Vente Experimente</td><td>Toulouse</td><td>2026-09-24</td></tr>
 <tr><td>Diptyque Paris</td><td>Stage - Assistant Digital Emea H/f</td><td>Paris</td><td>2026-09-24</td></tr>
 <tr><td>Diptyque Paris</td><td>Stage - Assistant E-merchandising & Animation H/f</td><td>Paris</td><td>2026-09-24</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 En Analyse / Traitement De Données D’essais En Vol En Conditions Givrantes (h/f)</td><td>Marseille Area</td><td>2026-09-25</td></tr>
+<tr><td>Airbus Atlantic</td><td>Stage 2027 - Production : Gestion De La Performance (all Gender)</td><td>Nantes</td><td>2026-09-25</td></tr>
+<tr><td>Airbus Defence And Space</td><td>Stage 2027 - Stage En Techniques Ia Pour Le Traitement D’images Satellitaires (f/h)</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>Airbus SAS</td><td>Stage 2027 - Psychologue Du Travail (f/h)</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>Airbus Defence & Space</td><td>Stage 2027 - Mise En Œuvre D’une Solution De Gestion Des Identités Et Des Accès (iam) (h/f)</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Stage 2027 - Architecture Systèmes Embarqués Et Analyses De Modes Communs (cma) (f/h)</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 - Développement D’un Outil De Simulation De Communication Bord-sol (f/h)</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>Danone</td><td>Internship – Danone Ventures Investment Intern – January 2027 (m/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Europcar Inc</td><td>Franchise Intern</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>dacia</td><td>Cs26 - Bac+3 - Assistant Hse / Sécurité-ergonomie-environnement-santé - H/f</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+5 – Ia Générative Appliquée À L'optimisation De La Planification Industrielle - H/f</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Schneider Electric</td><td>Stage – Ingénieur D'affaires – F/h</td><td>Sarre Union</td><td>2026-09-25</td></tr>
+<tr><td>Schneider Electric</td><td>Stage - Évaluation Des Performances Des Architectures Thread - F/h</td><td>Grenoble</td><td>2026-09-25</td></tr>
+<tr><td>Schneider Electric</td><td>Stage - Conception Et Caractérisation D'un Pcb - F/h</td><td>Grenoble</td><td>2026-09-25</td></tr>
+<tr><td>Pernod Ricard Winemakers</td><td>Global Prestige Activation Intern - January 2027</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Euronext</td><td>Fp&a Intern Or Apprentice</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Euronext</td><td>Business Development Analyst Intern</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Artefact</td><td>Intern - Display & Programmatic Consultant - Paris</td><td>9th Arrondissement Of Paris</td><td>2026-09-25</td></tr>
+<tr><td>Artefact</td><td>Intern - E-retail Consultant - Paris</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Artefact</td><td>Intern - Staffing Career Track - Paris</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Stage En Conception D’outils Pour Les Moyens D’essais Systèmes (h/f)</td><td>Marseille Area</td><td>2026-09-25</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 - Stagiaire En Contrôle Des Exportations Et Douane (h/f)</td><td>Mantes La Jolie</td><td>2026-09-25</td></tr>
+<tr><td>Airbus</td><td>Stage 2027-optimisation Des Process De Gestion De Projet Grâce À L'ia (f/h)</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 - Communication Et Change Management/support À La Montée En Compétences En Ia (f/h)</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>AIRBUS Defence and Space</td><td>Stage 2027 - Navigation Embarquée Avancée Pour Surveillance De L’espace Et Opérations De Rendez Vous</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>Airbus Defence and Space SAS</td><td>Stage 2027 - Stage En Outillage De Monitoring Plateforme It (h/f)</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>SGS</td><td>Alternance - Chargé(e) De Missions Rh H/f</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Christie's</td><td>Assistant(e) Département Handbags - Stage 6 Mois</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Pernod Ricard</td><td>Brand Architecture & Activation Intern - Perrier-jouët - January 2027</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>LEO Pharma</td><td>Alternant H/f - Affaires Médicales</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Consultant/e Sap - Bl Sap Ara - Lyon</td><td>Lyon</td><td>2026-09-25</td></tr>
+<tr><td>Evok Collection</td><td>Assistant(e) Learning &amp; Development F/h - Stage Janvier 2027 / Evok Collection</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Spécialiste Esg - Janvier 2027</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Back-office Fiscalité – Janvier 2027</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Front</td><td>Software Engineering Intern - Spring/summer 2027</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>ARM</td><td>Staff Software Engineer</td><td>Sophia Antipolis</td><td>2026-09-25</td></tr>
+<tr><td>TotalEnergies</td><td>Chargé De Mission Conformité Débutant H/f</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Jobgether</td><td>Business Analyst –data Sensitivity & Vdi Migration</td><td>France</td><td>2026-09-25</td></tr>
+<tr><td>NEMERA</td><td>Business Analyst Sap Qm F/h/x</td><td>Lyon</td><td>2026-09-25</td></tr>
+<tr><td>RATP</td><td>Mainteneur : Maintenance L14 - Service Mixte F/h</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>RATP</td><td>Mainteneur : Maintenance L14 Installations Fixes - Service Nuit F/h</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Johnson Controls International PLC</td><td>Technicien Sav Sprinkleur - Rhône-alpes (h/f)</td><td>Lyon</td><td>2026-09-25</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance</td><td>Lille</td><td>2026-09-25</td></tr>
+<tr><td>GE Vernova</td><td>Ingenieur Mise En Service Telecom</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien De Maintenance Extincteurs H/f</td><td>FléAc</td><td>2026-09-25</td></tr>
+<tr><td>Antartic / Agromousquetaires / Intermarché</td><td>Technicien De Maintenance Process H/f</td><td>Saint</td><td>2026-09-25</td></tr>
+<tr><td>Alstom</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h) 1 1</td><td>Crespin</td><td>2026-09-25</td></tr>
+<tr><td>Alstom</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h) 1</td><td>Saint</td><td>2026-09-25</td></tr>
+<tr><td>Alstom</td><td>Chargé De Maintenance Moyens Industriels (h/f)</td><td>La Rochelle</td><td>2026-09-25</td></tr>
+<tr><td>Alstom</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h) Week-end</td><td>Saint</td><td>2026-09-25</td></tr>
+<tr><td>Alstom</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h)</td><td>Saint</td><td>2026-09-25</td></tr>
+<tr><td>Alstom</td><td>Technicien Opération Maintenance</td><td>Crespin</td><td>2026-09-25</td></tr>
+<tr><td>Volvo Group</td><td>Technicien(ne) Maintenance Polyvalent(e)</td><td>Lyon</td><td>2026-09-25</td></tr>
+<tr><td>Volvo Group</td><td>Chargé.e De Maintenance Operationnelle H/f</td><td>Blainville Sur Orne</td><td>2026-09-25</td></tr>
+<tr><td>General Mills Inc.</td><td>Technicien De Maintenance H/f</td><td>Labatut</td><td>2026-09-25</td></tr>
+<tr><td>Thales Group</td><td>Technicien Hse & Maintenance (h/f)</td><td>Orleans</td><td>2026-09-25</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Technicien De Maintenance Point Service Toulouse</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Service Technical Expert</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>AptarGroup Inc</td><td>Technicien Maintenance Presses H/f</td><td>Neubourg</td><td>2026-09-25</td></tr>
+<tr><td>AptarGroup</td><td>Technicien De Maintenance 3x8 H/f</td><td>Granville</td><td>2026-09-25</td></tr>
+<tr><td>KONE Macedonia</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Aix En Provence</td><td>2026-09-25</td></tr>
+<tr><td>KONE</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur Boulangerie (h/f)</td><td>Saint</td><td>2026-09-25</td></tr>
+<tr><td>MANGO</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique H/f - Cour Des Matériaux</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique H/f - Menuiserie</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>Boulanger</td><td>Vendeur / Vendeuse Cdi - Temps Partiel [25h] (h/f) À Antibes</td><td>Nice</td><td>2026-09-25</td></tr>
+<tr><td>Dolce & Gabbana</td><td>Client Advisor Paris Montaigne H/f</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Dalloyau</td><td>Conseiller De Vente - Flagship Faubourg (h/f/x)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Doctolib GmbH</td><td>Stage - Chargé De Communication Corporate (x/f/m) - Janvier 2027</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Volvo Group</td><td>Alternant Assistant D'équipe Digital Technologies Et Opérations France H/f</td><td>Lyon</td><td>2026-09-25</td></tr>
+<tr><td>Volvo Group</td><td>Alternance : Assistant(e) Amélioration Des Processus Achats F/h</td><td>Trappes Cedex</td><td>2026-09-25</td></tr>
+<tr><td>Soeur</td><td>Stage – Assistant(e) Showroom Et Coordination</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Coordination Et Communication Studio Dessins (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Hermès International</td><td>Stage (janvier - Juillet) - Coordinateur Logistique H/f - Magasin Du Faubourg Saint-honoré</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Hermès International</td><td>Stage – Assistant Visual Merchandising Et Expérience Client (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Assistant(e) Coordination Et Production De Contenu Retail & Crm</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Van Cleef & Arpels</td><td>Stagiaire Assistant(e) Coordination & Production De Contenus Corporate</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Harcour</td><td>Assistant (e ) Coordinateur (rice) Logistique</td><td>Le SièGe Harcour</td><td>2026-09-25</td></tr>
+<tr><td>UNDIZ</td><td>Assistant.e Achats - Stage Janvier 2027</td><td>SièGe Undiz</td><td>2026-09-25</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Chef De Projet / Pilotage De La Performance Façonniers - Bureau D’etudes (h/f/x) – Mode – Janvier 2027</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>MSX International Ltd</td><td>Assistant Administratif Des Ventes</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Diptyque Paris</td><td>Alternance - Assistant Coordination Studio Architecture H/f</td><td>Paris</td><td>2026-09-25</td></tr>
 </table>
