@@ -6450,4 +6450,47 @@
 <tr><td>Chanel</td><td>Stage - Assistant(e) Chef De Projet / Pilotage De La Performance Façonniers - Bureau D’etudes (h/f/x) – Mode – Janvier 2027</td><td>Paris</td><td>2026-09-25</td></tr>
 <tr><td>MSX International Ltd</td><td>Assistant Administratif Des Ventes</td><td>Paris</td><td>2026-09-25</td></tr>
 <tr><td>Diptyque Paris</td><td>Alternance - Assistant Coordination Studio Architecture H/f</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Egis</td><td>Stage Bac+5 - Etudes Fonctionnelles Et Exploitation Des Transports - H/f</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Egis Group</td><td>Stage Bac+5 - Etudes Fonctionnelles Et Exploitation Des Transports - H/f</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>RATP Group</td><td>Stage De Fin D'étude Ingénieur : Étude Et Définition Des Modalités De Renouvellement Des Systèmes De Sécurité Incendie (ssi) Du Réseau Ratp</td><td>France</td><td>2026-09-25</td></tr>
+<tr><td>UNDIZ</td><td>Assistant.e Area Manager International - Stage Janvier 2027</td><td>SièGe Undiz</td><td>2026-09-25</td></tr>
+<tr><td>Murex</td><td>Internship 2027 – Software Engineer C++</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Forvis Mazars UK</td><td>Stagiaire De Fin D'études - Analyste Corporate Finance M&a - Janvier / Mars 2027 H/f</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Alternant(e) - Santé & Sécurité - F/h</td><td>Ornans</td><td>2026-09-25</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stagiaire Fin D'étude Méthodes Essais H/f)</td><td>Hangenbieten</td><td>2026-09-25</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stage (6 Mois) - Amélioration Continue F/h</td><td>Ornans</td><td>2026-09-25</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stage (6 Mois) - Stage Assistant Ingénieur Data & Outils Décisionnels - Design To Cost - F/h</td><td>Ornans</td><td>2026-09-25</td></tr>
+<tr><td>Coty Inc</td><td>Global Business Development Intern, Hugo Boss, Swarovski, Davidoff, Escada And Joop Fragrances</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Coty Inc</td><td>Stagiaire Marketing And Trade Marketing</td><td>France</td><td>2026-09-25</td></tr>
+<tr><td>Nestle Ltd</td><td>Stage Pilote De Flux Import Et Prévisionniste Des Ventes F/h</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Nestle Ltd</td><td>Stage Juriste Ethique Et Conformité F/h</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Forvia</td><td>Industrial Design Trainee/intern</td><td>Brieres</td><td>2026-09-25</td></tr>
+<tr><td>Mondelez International</td><td>Stage Mondelez (lu, Oreo, Milka...) Animateur Hse Niveau Ingénieur (h/f/x) – 6 Mois – Saclay (région Parisienne) – Février/mars/avril 2027</td><td>Saclay</td><td>2026-09-25</td></tr>
+<tr><td>Mondelez</td><td>Stage Mondelez (lu, Oreo, Milka...) Qualité Et Sécurité Alimentaire Niveau Ingénieur (h/f/x) – 6 Mois – Saclay (région Parisienne) – Février/mars 2027</td><td>Saclay</td><td>2026-09-25</td></tr>
+<tr><td>CHANEL</td><td>Internship – Learning & Development – Chanel Europe – January 2027 – M/f/d</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>ARQUUS</td><td>Arquus - Stage - Affaires Européennes Bac+4/5 (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Thales Group</td><td>Stage – Amélioration Continue En Bureau Conception Outillages – F/h</td><td>Orleans</td><td>2026-09-25</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 En Logistique Et Supply Chain Moteurs Helicopters (h/f)</td><td>Marseille Area</td><td>2026-09-25</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Stage - Bac +5 - Ingénieur Création D'outils D'exploitation De Bases De Données Anticorrosion</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+5 - Ingénierie Système, Optimisation De La Relation Software Et Système (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+5 Automatisation Des Processus, Intelligence Artificielle Et Ci/ct Pour L'architecture Électrique/électronique Véhicule (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+3 - Chargée D’études Design Engineering (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Thales</td><td>Alternance - Ingénieur Démonstrations De Navigation Par Satellite - F/h</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>GSK (GlaxoSmithKline)</td><td>Alternant Ingénieur Amélioration Continue Et Data H/f</td><td>Mantes La Jolie</td><td>2026-09-25</td></tr>
+<tr><td>GSK</td><td>Alternant Ingénieur Amélioration Continue Et Data H/f</td><td>Mantes La Jolie</td><td>2026-09-25</td></tr>
+<tr><td>Exotrail</td><td>Stage - Software Engineer</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>Kering</td><td>Kering Data Scientist</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Jobgether</td><td>Spanish (latin America) Language Data Contributor (multimodal) – Freelance Ai Trainer Project</td><td>France</td><td>2026-09-25</td></tr>
+<tr><td>IBM</td><td>Data Scientist - Artificial Intelligence H/F - IBM Client Innovation Center</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>PPG Industries</td><td>Technicien Maintenance Robotique/automatisme H/f</td><td>Moreuil</td><td>2026-09-25</td></tr>
+<tr><td>Verisure S.A.</td><td>Technicien De Maintenance Roanne - F/h/x</td><td>Lyon</td><td>2026-09-25</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Mécanicien Maintenance Industrielle/machines Outils H/f</td><td>Aix En Provence</td><td>2026-09-25</td></tr>
+<tr><td>Eviden</td><td>Technicien De Maintenance Électronique (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Nestle SA</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Diptyque Paris</td><td>Cdd - Conseiller De Vente (h/f) Noël</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Valentino</td><td>Hr Assistant - Intern</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Coty Inc.</td><td>Stage Marketing Hugo Boss Parfums Assistant(e) Chef De Produit Développement</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Jones Lang LaSalle Incorporated</td><td>Meetings & Events Assistant</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Chef(fe) De Produit Innovation H/f (st Hubert)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Doctolib GmbH</td><td>Stage - Chef De Projet Évènementiel (x/f/m) - Janvier 2027</td><td>Paris</td><td>2026-09-25</td></tr>
 </table>
