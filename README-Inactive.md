@@ -6493,4 +6493,26 @@
 <tr><td>Jones Lang LaSalle Incorporated</td><td>Meetings & Events Assistant</td><td>Paris</td><td>2026-09-25</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Chef(fe) De Produit Innovation H/f (st Hubert)</td><td>Paris</td><td>2026-09-25</td></tr>
 <tr><td>Doctolib GmbH</td><td>Stage - Chef De Projet Évènementiel (x/f/m) - Janvier 2027</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Nestle SA</td><td>Stage Pilote De Flux International F/h</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>ANINE BING</td><td>Accessories Development Intern (8 Weeks)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Juriste Droit Des Contrats - Propriété Intellectuelle - Droit De La Communication</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>CHANEL</td><td>Stage - Assistant.e Service Entretien & Réparation - Boutique 19 Cambon - Octobre 2026 (3 Mois)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Stage - Siege Social - Junior Metals Market Analyst H/f</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>ANINE BING</td><td>Merchandising & Buying Intern</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Développeur(se) Full Stack Java - Aeroline - Toulouse</td><td>Toulouse</td><td>2026-09-25</td></tr>
+<tr><td>GE Healthcare</td><td>Alternant Supply Chain Amélioration Continue Et Logistique</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Doctolib GmbH</td><td>Stage - Seo : Contenu & Recherche Ia (x/f/m) - Novembre 2026</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>CS</td><td>Stage - Ivq - Défense & Sécurité - Le Plessis Robinson</td><td>Le Plessis</td><td>2026-09-25</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Stage - Bac+5 Automatisation Des Processus, Intelligence Artificielle Et Ci/ct Pour L'architecture Électrique/électronique Véhicule (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Stage - Bac +5 - Ingénieur Aérodynamique (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Stage - Bac+5 Analyse Et Automatisation De La Validation Du Diagnostic Ethernet Embarqué (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>BlaBlaCar</td><td>Junior Backend Engineer - Care</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Data Scientist</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>OTIS</td><td>Technicien De Maintenance (h/f)</td><td>Lille</td><td>2026-09-25</td></tr>
+<tr><td>Bonduelle</td><td>Electromécanicien</td><td>EstréEs</td><td>2026-09-25</td></tr>
+<tr><td>Bonduelle</td><td>Electrotechnicien (h/f)</td><td>EstréEs</td><td>2026-09-25</td></tr>
+<tr><td>Bonduelle</td><td>Électricien Électromécanicien (h /f) - Equipe Elec Auto Drimt</td><td>Renescure</td><td>2026-09-25</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>Agent De Maintenance</td><td>Lyon</td><td>2026-09-25</td></tr>
+<tr><td>Guerbet</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Chef De Projets Supply Chain (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
 </table>
