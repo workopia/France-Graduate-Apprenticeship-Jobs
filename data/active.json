@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-25",
+ "asOf": "2026-09-26",
  "count": 790,
  "jobs": {
   "2751846": {
@@ -914,6 +914,12 @@
    "role": "Engineer Apprentice",
    "location": "Paris"
   },
+  "52626e2c0104c69ae92c139a3ad34304": {
+   "id": "52626e2c0104c69ae92c139a3ad34304",
+   "company": "Johnson Electric",
+   "role": "Apprenti Laboratoire R&d",
+   "location": "Paris"
+  },
   "86da083a6cbd839695ffa49a24478230": {
    "id": "86da083a6cbd839695ffa49a24478230",
    "company": "Goldcar Spain S.L",
@@ -924,6 +930,12 @@
    "id": "ba2bb3d398e22c4858f393b6b24e64c3",
    "company": "AVIAREPS",
    "role": "Apprentice",
+   "location": "Paris"
+  },
+  "0619969d1594f04973b7560786c54b70": {
+   "id": "0619969d1594f04973b7560786c54b70",
+   "company": "LSEG (London Stock Exchange Group)",
+   "role": "Account Manager Apprentice (24-month Apprenticeship)",
    "location": "Paris"
   },
   "656d077e35745059b878e115e4b87b87": {
@@ -960,18 +972,6 @@
    "id": "77f83b43047764d9b4885bcaa2f56058",
    "company": "Galileo Global Education",
    "role": "Commercial(e) En Alternance - Toulouse",
-   "location": "Toulouse"
-  },
-  "c94fdbdf374168f836c0fa677e9d1360": {
-   "id": "c94fdbdf374168f836c0fa677e9d1360",
-   "company": "Galileo Global Education",
-   "role": "Pépinière De Start-up En Alternance - Toulouse",
-   "location": "Toulouse"
-  },
-  "188572d79fefb06bd1328239efaa9b4f": {
-   "id": "188572d79fefb06bd1328239efaa9b4f",
-   "company": "ATR",
-   "role": "Atr - Apprenticeship - Aerostructure Buyer",
    "location": "Toulouse"
   },
   "834ee54fbb42cb155bce4567178d27ef": {

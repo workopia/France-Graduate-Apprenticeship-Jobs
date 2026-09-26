@@ -6515,4 +6515,6 @@
 <tr><td>IHG Hotels & Resorts</td><td>Agent De Maintenance</td><td>Lyon</td><td>2026-09-25</td></tr>
 <tr><td>Guerbet</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-09-25</td></tr>
 <tr><td>Hermès International</td><td>Stage - Assistant Chef De Projets Supply Chain (h/f)</td><td>Paris</td><td>2026-09-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Pépinière De Start-up En Alternance - Toulouse</td><td>Toulouse</td><td>2026-09-26</td></tr>
+<tr><td>ATR</td><td>Atr - Apprenticeship - Aerostructure Buyer</td><td>Toulouse</td><td>2026-09-26</td></tr>
 </table>
