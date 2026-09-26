@@ -6635,4 +6635,18 @@
 <tr><td>Fondation Egis</td><td>Stagiaire Bac+4 – Coordinateur Challenge Innovation Climat À La Fondation Egis H/f</td><td>Paris</td><td>2026-09-26</td></tr>
 <tr><td>Egis Group</td><td>Stagiaire Bac+4 – Coordinateur Challenge Innovation Climat À La Fondation Egis H/f</td><td>Paris</td><td>2026-09-26</td></tr>
 <tr><td>Valentino</td><td>Hr Assistant - Intern</td><td>Paris</td><td>2026-09-26</td></tr>
+<tr><td>Airbus Atlantic</td><td>Stage 2027 - Stagiaire Amélioration Continue (all Gender)</td><td>MéAulte</td><td>2026-09-26</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant(e) De Direction En Alternance À Toulouse</td><td>Toulouse</td><td>2026-09-26</td></tr>
+<tr><td>Renault Group</td><td>Cs26 - Bac + 5 - Ingénieur Modélisation Comportement Des Matériaux Composites (h/f)</td><td>Paris</td><td>2026-09-26</td></tr>
+<tr><td>Infobip</td><td>Solution Engineer Intern</td><td>Paris</td><td>2026-09-26</td></tr>
+<tr><td>Philips UK</td><td>Stage Ingénieur.e R&d – Amélioration D’un Simulateur D’hôpital Virtuel</td><td>Paris</td><td>2026-09-26</td></tr>
+<tr><td>Philips UK</td><td>Stage Ingénieur.e R&d – Intégration De L’intelligence Artificielle Dans La Conception D’applications Médicales</td><td>Paris</td><td>2026-09-26</td></tr>
+<tr><td>Shifttechnology</td><td>Data Scientist: France</td><td>Paris</td><td>2026-09-26</td></tr>
+<tr><td>Airbus SE</td><td>Junior Data Scientist / Ai Engineer (m/w/d) In The Field Of Data Processing & Analytics</td><td>Toulouse</td><td>2026-09-26</td></tr>
+<tr><td>Airbus Defence and Space SAS</td><td>Junior Data Scientist / Ai Engineer (m/w/d) In The Field Of Data Processing & Analytics</td><td>Toulouse</td><td>2026-09-26</td></tr>
+<tr><td>AptarGroup</td><td>Electromécanicien</td><td>Chavanod</td><td>2026-09-26</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Technicien De Maintenance De Parcs Éoliens (h/f) - Candé (49)</td><td>Candé</td><td>2026-09-26</td></tr>
+<tr><td>MANGO</td><td>Multifunctional Sales Associate</td><td>Lille</td><td>2026-09-26</td></tr>
+<tr><td>adidas AG</td><td>Stage - Assistant Showroom & Évènements (h/f/d)</td><td>Paris</td><td>2026-09-26</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Coordination De Stocks (h/f) - 6 Mois Bourgbarré (35)</td><td>Bourgbarré</td><td>2026-09-26</td></tr>
 </table>
