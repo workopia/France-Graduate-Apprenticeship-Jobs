@@ -6649,4 +6649,61 @@
 <tr><td>MANGO</td><td>Multifunctional Sales Associate</td><td>Lille</td><td>2026-09-26</td></tr>
 <tr><td>adidas AG</td><td>Stage - Assistant Showroom & Évènements (h/f/d)</td><td>Paris</td><td>2026-09-26</td></tr>
 <tr><td>lactalisexperience</td><td>Stagiaire Coordination De Stocks (h/f) - 6 Mois Bourgbarré (35)</td><td>Bourgbarré</td><td>2026-09-26</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 - Développement D'un Outil De Modélisation Des Manœuvres De Roulage Avion (h/f)</td><td>Toulouse</td><td>2026-09-27</td></tr>
+<tr><td>HSH Management Services Ltd</td><td>Laundry Supervisor Intern</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>BETC</td><td>Betc - Chef De Publicité International (h/f/x) - Stage</td><td>Les Magasins GéNéRaux</td><td>2026-09-27</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Energy, Transport & Manufacturing</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Transport, Manufacturing & Retail</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Pernod Ricard</td><td>Creative Strategy & Brand Positioning Intern - January 2027</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Pernod Ricard</td><td>Visual Image Internship - January 2027</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Pernod Ricard</td><td>Brand Architecture & Activation Martell Asia - January 2027</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Havana Club International</td><td>Marketing Brand Comms, Partnerships & Eperience Intern – Havana Club International - January 2027</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Artefact</td><td>Staffing Career Track Internship / Apprenticeship</td><td>9th Arrondissement Of Paris</td><td>2026-09-27</td></tr>
+<tr><td>Pernod Ricard</td><td>Stage Inclusion, Handicap Et Communication</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Euronext</td><td>Ceo Office Intern</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Procter & Gamble (P&G)</td><td>Stage Trade Marketing</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Procter & Gamble (P&G)</td><td>Strategic Sales Internship (stage Stratégie Commerciale)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Mondelēz International</td><td>Stage Mondelez (lu, Oreo, Milka...) - Assistant(e) Gms/ Afh/ Export Trade Marketing (biscuit / Chocolat / Saisonnier / Fromage) (h/f/x) – 6 Mois – Boulogne-billancourt – Janvier 2027</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Shell Energy UK</td><td>Apprentie Environnement</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Stagiaire Finance F/h/x</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Statkraft</td><td>Sales Trading Intern – Southern Europe (m/f)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance En Restauration Rapide - Toulouse (h/f)</td><td>Toulouse</td><td>2026-09-27</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+4 - Ingénieur Informatique (h/f)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Renault Group</td><td>Cs27 Bac+4 - Ingénieur Informatique (h/f)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Renault Group</td><td>Cs27 Bac+5 - Stage - Ingénieur Aérodynamique (h/f)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>RENAULT s.a.s.</td><td>Cs26 - Bac + 5 - Ingénieur Modélisation Comportement Des Matériaux Composites (h/f)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Onepoint</td><td>Ai-native Developer F/h</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>GE HealthCare</td><td>Ingénieur(e) Front End (typescript)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>GEHC</td><td>Ingénieur(e) Front End (typescript)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Jobgether</td><td>Ai/ml & Forward Deployed Engineer</td><td>France</td><td>2026-09-27</td></tr>
+<tr><td>Jobgether</td><td>Ai/ml Engineer</td><td>France</td><td>2026-09-27</td></tr>
+<tr><td>Alstom</td><td>Finance Business Intelligence Analyst (h/f)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>HSH Management Services Ltd</td><td>Income Auditor Junior 1</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Airbus</td><td>Sap Procurement Business Analyst (f/m/d)</td><td>Toulouse</td><td>2026-09-27</td></tr>
+<tr><td>Airbus SE</td><td>Sap Procurement Business Analyst (f/m/d)</td><td>Toulouse</td><td>2026-09-27</td></tr>
+<tr><td>SGS Australia Pty Ltd</td><td>Auditeur Social & Rse (h/f)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Airbus Helicopters</td><td>Business Analyst Logistics (h/f)</td><td>Marseille Area</td><td>2026-09-27</td></tr>
+<tr><td>Airbus SE</td><td>Business Analyst Logistics (h/f)</td><td>Marseille Area</td><td>2026-09-27</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Business Analyst Logistics (h/f)</td><td>Marseille Area</td><td>2026-09-27</td></tr>
+<tr><td>ANTAVIA</td><td>Technicien En Electromecanique (h/f)</td><td>Campsas</td><td>2026-09-27</td></tr>
+<tr><td>AMETEK Inc</td><td>Technicien En Mécanique, Hydraulique Et Trains</td><td>Campsas</td><td>2026-09-27</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance En Éléctricité H/f</td><td>Lyon</td><td>2026-09-27</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien Analyseur H/f</td><td>Lyon</td><td>2026-09-27</td></tr>
+<tr><td>DAT Deutsche Aufzugstechnik GmbH</td><td>Technicien De Maintenance (h/f)</td><td>LANDRETHUN</td><td>2026-09-27</td></tr>
+<tr><td>Schneider Electric</td><td>Technicien Maintenance Itinérant Hta-bt - F/h</td><td>Bouches</td><td>2026-09-27</td></tr>
+<tr><td>KONE Corporation</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>MANGO</td><td>Multifunctional Sales Associate</td><td>Annecy</td><td>2026-09-27</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Lyon</td><td>2026-09-27</td></tr>
+<tr><td>Galeries Lafayette</td><td>Conseiller De Vente 35h En Cdd F/h</td><td>Bordeaux</td><td>2026-09-27</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Conseiller(e) De Vente - Cannes Antibes (h/f)</td><td>Nice</td><td>2026-09-27</td></tr>
+<tr><td>Kiabi</td><td>Conseiller(e) De Mode (h/f) Cdd 35h</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Soeur</td><td>Cdd - Vendeur.euse 35h (paris)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Chanel</td><td>Stage – Assistant.e Visual Merchandising - Boutiques Mode - Janvier 2027</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Howden Re</td><td>Administrative Coordinator</td><td>Edina</td><td>2026-09-27</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Advanced Administrative Aide</td><td>Chaponnay</td><td>2026-09-27</td></tr>
+<tr><td>TotalEnergies</td><td>Alternance-support Rh Relations Ecoles En Géosciences H/f</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>TotalEnergies</td><td>Assistant(e) Juriste Anti-fraude Et Anti-corruption Débutant H/f</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Airi Quideer</td><td>Stage - Chargé(e) De Projet Actionnariat Salarié / Espp Implementation</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Boston Scientific Foundation Inc</td><td>Chargé De Projets Évenementiels F/h</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>adidas AG</td><td>Stage - Assistant Rh & Recrutement (h/f/d)</td><td>Paris</td><td>2026-09-27</td></tr>
 </table>
