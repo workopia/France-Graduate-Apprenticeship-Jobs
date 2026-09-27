@@ -6706,4 +6706,19 @@
 <tr><td>Airi Quideer</td><td>Stage - Chargé(e) De Projet Actionnariat Salarié / Espp Implementation</td><td>Paris</td><td>2026-09-27</td></tr>
 <tr><td>Boston Scientific Foundation Inc</td><td>Chargé De Projets Évenementiels F/h</td><td>Paris</td><td>2026-09-27</td></tr>
 <tr><td>adidas AG</td><td>Stage - Assistant Rh & Recrutement (h/f/d)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Coty</td><td>Media Intern</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Airbus Atlantic</td><td>Stage 2027 - Stagiaire Amélioration Continue (all Gender)</td><td>MéAulte</td><td>2026-09-27</td></tr>
+<tr><td>Mondelēz International</td><td>Stage Mondelēz (lu, Oreo, Milka...) Supply Chain - Assistant Chef De Projet Customisation (h/f/x) – 6 Mois – Boulogne-billancourt – Mars 2027</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois Création Digitale Et Visuelle</td><td>Marcy</td><td>2026-09-27</td></tr>
+<tr><td>Airbus Atlantic</td><td>Stage 2027 - Stagiaire Qualité Supply Chain (all Gender)</td><td>Saint Nazaire Area</td><td>2026-09-27</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 - Méthode De Modélisation Mécaniques Des Systèmes De Transmission De Puissance D'hélicoptère (h/f)</td><td>Marseille</td><td>2026-09-27</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Full Stack Data/ia – H/f</td><td>Toulouse</td><td>2026-09-27</td></tr>
+<tr><td>Thales</td><td>Responsable Support Produit-f/h</td><td>Toulouse</td><td>2026-09-27</td></tr>
+<tr><td>ANZ</td><td>Ai Native Engineer</td><td>Saint</td><td>2026-09-27</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Associate Partnerships Officer (due Diligence)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>BSI</td><td>Auditor (iso 9001, Iso 14001, Iso 45001)</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Coloplast AS</td><td>Laser Maintenance Specialist - Region Europe</td><td>Le Plessis</td><td>2026-09-27</td></tr>
+<tr><td>Galeries Lafayette</td><td>Conseiller De Vente / Renfort De Fin D'année F/h</td><td>Bordeaux</td><td>2026-09-27</td></tr>
+<tr><td>Conforama</td><td>Vendeur Cuisine (h/f) Cdd</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>chloé Parfums</td><td>Global Influencer Marketing Assistantglobal Influencer Marketing Assistant-chloé Parfums</td><td>Paris</td><td>2026-09-27</td></tr>
 </table>
