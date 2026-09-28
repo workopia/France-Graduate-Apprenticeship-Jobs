@@ -6721,4 +6721,25 @@
 <tr><td>Galeries Lafayette</td><td>Conseiller De Vente / Renfort De Fin D'année F/h</td><td>Bordeaux</td><td>2026-09-27</td></tr>
 <tr><td>Conforama</td><td>Vendeur Cuisine (h/f) Cdd</td><td>Paris</td><td>2026-09-27</td></tr>
 <tr><td>chloé Parfums</td><td>Global Influencer Marketing Assistantglobal Influencer Marketing Assistant-chloé Parfums</td><td>Paris</td><td>2026-09-27</td></tr>
+<tr><td>Ferrero</td><td>Chargé De Communication Interne-stage (h/f/x)</td><td>Villers-Ecalles</td><td>2026-09-28</td></tr>
+<tr><td>Ferrero LADM</td><td>Assistant Contrôle De Gestion Industriel-stage (h/f/x)</td><td>Villers-Ecalles</td><td>2026-09-28</td></tr>
+<tr><td>Coty Inc</td><td>Trade Marketing Europe Assistant</td><td>Paris</td><td>2026-09-28</td></tr>
+<tr><td>Coty Inc</td><td>Intern Media Performance & Partnerships</td><td>Paris</td><td>2026-09-28</td></tr>
+<tr><td>Coty Inc</td><td>Assistante Brand & Trade Marketing France - Lancaster Monaco & Kylie Cosmetics</td><td>France</td><td>2026-09-28</td></tr>
+<tr><td>Coty Inc</td><td>Media Intern</td><td>Paris</td><td>2026-09-28</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur - Stage (h/f)</td><td>Paris</td><td>2026-09-28</td></tr>
+<tr><td>Nestle Ltd</td><td>Stage Responsable Trade Marketing Enseigne F/h</td><td>Paris</td><td>2026-09-28</td></tr>
+<tr><td>Jobgether</td><td>Java/ Spring Boot Developer</td><td>France</td><td>2026-09-28</td></tr>
+<tr><td>Thales</td><td>Ingénieur En Développement Logiciel (f/h)</td><td>Mantes La Jolie</td><td>2026-09-28</td></tr>
+<tr><td>Accenture Australia</td><td>Ai Native Engineer</td><td>Saint</td><td>2026-09-28</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Business Analyst Pharmaceutical Care - Stage - H/f</td><td>Toulouse</td><td>2026-09-28</td></tr>
+<tr><td>British Standards Institution / BSI Group</td><td>Auditor (iso 9001, Iso 14001, Iso 45001)</td><td>Paris</td><td>2026-09-28</td></tr>
+<tr><td>Forvia</td><td>Maintenance Engineer</td><td>Nogent Sur Vernisson</td><td>2026-09-28</td></tr>
+<tr><td>Soeur</td><td>Cdd - Vendeur.euse 24h (paris)</td><td>Paris</td><td>2026-09-28</td></tr>
+<tr><td>COS</td><td>Conseiller(ère) De Vente - 25h Cdi H/f/x</td><td>Nice</td><td>2026-09-28</td></tr>
+<tr><td>SWAROVSKI</td><td>Cdi - Conseiller De Vente (h/f/x) 15h - Outlet Roubaix</td><td>Lille</td><td>2026-09-28</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Acquisition Emea H/f</td><td>Paris</td><td>2026-09-28</td></tr>
+<tr><td>Kellanova</td><td>Stage Assistant(e) Chef De Produit Activation</td><td>Paris</td><td>2026-09-28</td></tr>
+<tr><td>Coty Inc.</td><td>Stagiaire - Customer Collaboration Coordinator</td><td>Paris</td><td>2026-09-28</td></tr>
+<tr><td>Coty Inc.</td><td>Burberry Make-up Global Brand Marketing Assistant</td><td>Paris</td><td>2026-09-28</td></tr>
 </table>

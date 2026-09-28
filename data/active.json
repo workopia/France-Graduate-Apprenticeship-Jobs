@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-27",
- "count": 793,
+ "asOf": "2026-09-28",
+ "count": 794,
  "jobs": {
   "540886": {
    "id": "540886",
@@ -13,6 +13,54 @@
    "company": "Portalp",
    "role": "Technicien De Maintenance Portes Automatiques - 27 H/f",
    "location": "Lyon"
+  },
+  "859037823747": {
+   "id": "859037823747",
+   "company": "Citi",
+   "role": "Markets – Sales And Trading, Off-cycle Internship, Paris – France, 2027",
+   "location": "Paris"
+  },
+  "cb4f032a9f614a63c050dd6a4dd18b76": {
+   "id": "cb4f032a9f614a63c050dd6a4dd18b76",
+   "company": "CMA CGM Group",
+   "role": "Internship - Global Customer Excellence",
+   "location": "Marseille"
+  },
+  "83ab19d1ac3cc27ed93bcc9eb9af9d1f": {
+   "id": "83ab19d1ac3cc27ed93bcc9eb9af9d1f",
+   "company": "Fritz Egger GmbH & Co. OG",
+   "role": "Stagiaire Chargé De Marketing Digital Sud-ouest Europe H/f",
+   "location": "Rion De Landes"
+  },
+  "563602795838606": {
+   "id": "563602795838606",
+   "company": "Boston Scientific",
+   "role": "Stagiaire En Communication D'entreprise 1",
+   "location": "Paris"
+  },
+  "087473e283a598cf4b02a1f132cbbe82": {
+   "id": "087473e283a598cf4b02a1f132cbbe82",
+   "company": "TotalEnergies",
+   "role": "Stage - Droit Des Affaires / Contrats Internationaux H/f",
+   "location": "Paris"
+  },
+  "2f175e83913881704d283b82fd17cf8a": {
+   "id": "2f175e83913881704d283b82fd17cf8a",
+   "company": "Coty Inc.",
+   "role": "Internship/ Media Intern",
+   "location": "Paris"
+  },
+  "cdc696ca1df33452f00bedcf7b1cdad1": {
+   "id": "cdc696ca1df33452f00bedcf7b1cdad1",
+   "company": "Prada Group",
+   "role": "Miu Miu Training Specialist Intern Paris",
+   "location": "Paris"
+  },
+  "8c9b1b41873cc50f756cfd5af5410b49": {
+   "id": "8c9b1b41873cc50f756cfd5af5410b49",
+   "company": "Prada",
+   "role": "Miu Miu Training Specialist Intern Paris",
+   "location": "Paris"
   },
   "a08e595d5cd5f31deba281581c42549f": {
    "id": "a08e595d5cd5f31deba281581c42549f",
@@ -445,54 +493,6 @@
    "company": "Atos SE",
    "role": "Consultant(e) Accompagnement Du Changement & Communication - Stage (f/h)",
    "location": "Toulouse"
-  },
-  "ff2ca7f79755d9558a9d2d47b2c038e4": {
-   "id": "ff2ca7f79755d9558a9d2d47b2c038e4",
-   "company": "Ferrero",
-   "role": "Chargé De Communication Interne-stage (h/f/x)",
-   "location": "Villers-Ecalles"
-  },
-  "0eddf2a10897b87778efa6cf08ddc2f2": {
-   "id": "0eddf2a10897b87778efa6cf08ddc2f2",
-   "company": "Ferrero LADM",
-   "role": "Assistant Contrôle De Gestion Industriel-stage (h/f/x)",
-   "location": "Villers-Ecalles"
-  },
-  "6fae73fe8948a870e7758aa64e01f243": {
-   "id": "6fae73fe8948a870e7758aa64e01f243",
-   "company": "Coty Inc",
-   "role": "Trade Marketing Europe Assistant",
-   "location": "Paris"
-  },
-  "c13ad46032a73c9e4f17dad51f9dffd0": {
-   "id": "c13ad46032a73c9e4f17dad51f9dffd0",
-   "company": "Coty Inc",
-   "role": "Intern Media Performance & Partnerships",
-   "location": "Paris"
-  },
-  "125044453fc589a1bf7e39d1fa2d7cab": {
-   "id": "125044453fc589a1bf7e39d1fa2d7cab",
-   "company": "Coty Inc",
-   "role": "Assistante Brand & Trade Marketing France - Lancaster Monaco & Kylie Cosmetics",
-   "location": "France"
-  },
-  "af4b442fb92a8591fbaacf2ffae3b405": {
-   "id": "af4b442fb92a8591fbaacf2ffae3b405",
-   "company": "Coty Inc",
-   "role": "Media Intern",
-   "location": "Paris"
-  },
-  "ccbecf4caa32e738a5dce6ab5af70b97": {
-   "id": "ccbecf4caa32e738a5dce6ab5af70b97",
-   "company": "Nestle Ltd",
-   "role": "Vendeur - Stage (h/f)",
-   "location": "Paris"
-  },
-  "98093150b7cd610042e75c89eed9f154": {
-   "id": "98093150b7cd610042e75c89eed9f154",
-   "company": "Nestle Ltd",
-   "role": "Stage Responsable Trade Marketing Enseigne F/h",
-   "location": "Paris"
   },
   "d0a3b043baf0175a3e49b1b403aa2fce": {
    "id": "d0a3b043baf0175a3e49b1b403aa2fce",
@@ -973,6 +973,12 @@
    "company": "Eiffagemetal",
    "role": "Alternance - Aide Conducteur De Travaux (h/f)",
    "location": "Toulouse"
+  },
+  "a6989a5cc00ce8d40a69e39c8c796449": {
+   "id": "a6989a5cc00ce8d40a69e39c8c796449",
+   "company": "QSRP",
+   "role": "Legal Analyst (apprentissage)",
+   "location": "Paris"
   },
   "62264172302e4dbf4cba1c88eeed483c": {
    "id": "62264172302e4dbf4cba1c88eeed483c",
@@ -1514,6 +1520,12 @@
    "role": "Alternant Technicien Support Is/it Niveau 1 H/f",
    "location": "Paris"
   },
+  "0cd768dd65f36bdad713303a038f8190": {
+   "id": "0cd768dd65f36bdad713303a038f8190",
+   "company": "Jobgether",
+   "role": "Microservices Engineer",
+   "location": "France"
+  },
   "a7422ba1d979b3cc99f6860ea6f46b23": {
    "id": "a7422ba1d979b3cc99f6860ea6f46b23",
    "company": "Razer Inc.",
@@ -1525,6 +1537,12 @@
    "company": "Onepoint",
    "role": "Ai-native Developer F/h",
    "location": "Paris"
+  },
+  "40555f5724a88304c568f2124d33efbe": {
+   "id": "40555f5724a88304c568f2124d33efbe",
+   "company": "Jobgether",
+   "role": "Software Engineer: Backend",
+   "location": "France"
   },
   "ffe4ca42d55a16952f3f901b22530bac": {
    "id": "ffe4ca42d55a16952f3f901b22530bac",
@@ -1976,18 +1994,6 @@
    "role": "Python Software Engineer (product Engineering Team)",
    "location": "Paris"
   },
-  "f3bbfe040365759caa79731bb8df1602": {
-   "id": "f3bbfe040365759caa79731bb8df1602",
-   "company": "Jobgether",
-   "role": "Java/ Spring Boot Developer",
-   "location": "France"
-  },
-  "9b742cf0c8de7c29e73d20ad3350cd06": {
-   "id": "9b742cf0c8de7c29e73d20ad3350cd06",
-   "company": "Thales",
-   "role": "Ingénieur En Développement Logiciel (f/h)",
-   "location": "Mantes La Jolie"
-  },
   "37861d763d6f30a3fc17afd04e81fa99": {
    "id": "37861d763d6f30a3fc17afd04e81fa99",
    "company": "Procter & Gamble (P&G)",
@@ -2149,6 +2155,12 @@
    "company": "Ardian",
    "role": "Data Sciencist Stage - Mars 2027 / Paris (h/f)",
    "location": "Paris"
+  },
+  "aa0eef98b5decc63a74e9951b82d623c": {
+   "id": "aa0eef98b5decc63a74e9951b82d623c",
+   "company": "Jobgether",
+   "role": "Data Scientist",
+   "location": "France"
   },
   "0b3895cc2f8e937c1f30d6b543a4c409": {
    "id": "0b3895cc2f8e937c1f30d6b543a4c409",
@@ -2612,12 +2624,6 @@
    "role": "Stage - Data Scientist - F/h/n",
    "location": "Toulouse"
   },
-  "de71191ef3395dcab26d6feead34ccf9": {
-   "id": "de71191ef3395dcab26d6feead34ccf9",
-   "company": "Accenture Australia",
-   "role": "Ai Native Engineer",
-   "location": "Saint"
-  },
   "563705892798615": {
    "id": "563705892798615",
    "company": "Saint Laurent",
@@ -2748,6 +2754,18 @@
    "id": "21825ce583426c651da771f72c981e0d",
    "company": "EssilorLuxottica",
    "role": "Alternance - Comptable Général F/h",
+   "location": "Paris"
+  },
+  "570b5a4985f38476748bfdb7d813bead": {
+   "id": "570b5a4985f38476748bfdb7d813bead",
+   "company": "Avanade",
+   "role": "Business Analyst Stream Finance - D365 Erp",
+   "location": "Paris"
+  },
+  "4934feb936bb976e2857e816c282e529": {
+   "id": "4934feb936bb976e2857e816c282e529",
+   "company": "Avanade",
+   "role": "D365 F&o - Business Analyst Stream Manufacturing",
    "location": "Paris"
   },
   "c4b732cccb9529dfcdd99fdbc2b5cfdc": {
@@ -3218,18 +3236,6 @@
    "role": "Compliance Advisory Officer",
    "location": "Paris"
   },
-  "2f89f11480abf34fdeb94ab17ca4d536": {
-   "id": "2f89f11480abf34fdeb94ab17ca4d536",
-   "company": "Pierre Fabre Laboratories",
-   "role": "Business Analyst Pharmaceutical Care - Stage - H/f",
-   "location": "Toulouse"
-  },
-  "aa5d93cee686027f20150654ab75c46e": {
-   "id": "aa5d93cee686027f20150654ab75c46e",
-   "company": "British Standards Institution / BSI Group",
-   "role": "Auditor (iso 9001, Iso 14001, Iso 45001)",
-   "location": "Paris"
-  },
   "6971fbc99b3a56142fca3dabbc73f3ac": {
    "id": "6971fbc99b3a56142fca3dabbc73f3ac",
    "company": "ICON Clinical Research, LP",
@@ -3325,6 +3331,12 @@
    "company": "NHC CARE",
    "role": "Infirmier Coordinateur Parkinson F/h/x",
    "location": "06 Alpes"
+  },
+  "562949977269410": {
+   "id": "562949977269410",
+   "company": "Firmenich",
+   "role": "Technicien De Maintenance Instrumentiste (h/f)",
+   "location": "Village-Neuf"
   },
   "7decd60dff321a8fa2b34aa5f8c18eff": {
    "id": "7decd60dff321a8fa2b34aa5f8c18eff",
@@ -3794,11 +3806,23 @@
    "role": "Technicien Exploitation Maintenance En Electricite F/h",
    "location": "Nantes"
   },
-  "563087417475406": {
-   "id": "563087417475406",
-   "company": "Forvia",
-   "role": "Maintenance Engineer",
-   "location": "Nogent Sur Vernisson"
+  "98a89cd2876b8c6e650b8272dd98da5e": {
+   "id": "98a89cd2876b8c6e650b8272dd98da5e",
+   "company": "Urban Outfitters",
+   "role": "Free People Team Leader/ Premier(e) Vendeur(se) - Paris Saint Sulpice, France",
+   "location": "Paris"
+  },
+  "563705890886854": {
+   "id": "563705890886854",
+   "company": "Gucci",
+   "role": "Gucci - Vendeur / Vendeuse - Cdd",
+   "location": "Nice"
+  },
+  "563705888339723": {
+   "id": "563705888339723",
+   "company": "Gucci",
+   "role": "Gucci - Vendeur / Vendeuse - La Samaritaine",
+   "location": "Paris"
   },
   "6a3c6a665c8fedcd5343a1d6d0e787bb": {
    "id": "6a3c6a665c8fedcd5343a1d6d0e787bb",
@@ -4262,23 +4286,17 @@
    "role": "Stage Conseiller De Vente - Maille Paris",
    "location": "Paris"
   },
-  "ab60bc7b10309388505275f1ba45b5d6": {
-   "id": "ab60bc7b10309388505275f1ba45b5d6",
-   "company": "Soeur",
-   "role": "Cdd - Vendeur.euse 24h (paris)",
+  "3bfb5d975e12213f028decaf5e78b4ed": {
+   "id": "3bfb5d975e12213f028decaf5e78b4ed",
+   "company": "Coty",
+   "role": "Stage / Brand & Trade Marketing France - Lancaster Monaco & Kylie Cosmetics",
    "location": "Paris"
   },
-  "119d625100884efe59f5483d3c69e5b6": {
-   "id": "119d625100884efe59f5483d3c69e5b6",
-   "company": "COS",
-   "role": "Conseiller(ère) De Vente - 25h Cdi H/f/x",
-   "location": "Nice"
-  },
-  "b7b1685a69c0718f1ed816e34309c866": {
-   "id": "b7b1685a69c0718f1ed816e34309c866",
-   "company": "SWAROVSKI",
-   "role": "Cdi - Conseiller De Vente (h/f/x) 15h - Outlet Roubaix",
-   "location": "Lille"
+  "f8a9b4df996ac5178a07bb95a4d996d0": {
+   "id": "f8a9b4df996ac5178a07bb95a4d996d0",
+   "company": "Coty Inc.",
+   "role": "Stage / Brand & Trade Marketing France - Lancaster Monaco & Kylie Cosmetics",
+   "location": "Paris"
   },
   "65e6c9130ec9d2af1696969e0c0156f8": {
    "id": "65e6c9130ec9d2af1696969e0c0156f8",
@@ -4502,6 +4520,12 @@
    "role": "Resp. Livraison",
    "location": "Paris"
   },
+  "5fd90365c1e07e57d1dfb2205f7b838a": {
+   "id": "5fd90365c1e07e57d1dfb2205f7b838a",
+   "company": "Hermès International",
+   "role": "Stage - Assistant Marketing Opérationnel - Travel Retail (h/f) - Hermès Parfum Beauté",
+   "location": "Paris"
+  },
   "b69f64460779a6d49c85a709ad3a124f": {
    "id": "b69f64460779a6d49c85a709ad3a124f",
    "company": "GE VERNOVA",
@@ -4572,6 +4596,12 @@
    "id": "7f475f6f70bf6b8caabcabd5dccddc8e",
    "company": "Kellanova",
    "role": "Stage Assistant(e) Juridique",
+   "location": "Paris"
+  },
+  "314724018110d7a7a8e80b848abc6b47": {
+   "id": "314724018110d7a7a8e80b848abc6b47",
+   "company": "Hermès International",
+   "role": "Stage - Assistant Chef De Projet Digitalisation Et Données (h/f)",
    "location": "Paris"
   },
   "7de999fe3a5f20fcb958c09fffd3a26a": {
@@ -4734,30 +4764,6 @@
    "id": "2b4358a9288a3e00b47421cc85a7c272",
    "company": "Diptyque Paris",
    "role": "Alternance - Assistant Global Digital Media H/f",
-   "location": "Paris"
-  },
-  "5678cffaa626af8df4954a93e2f301ef": {
-   "id": "5678cffaa626af8df4954a93e2f301ef",
-   "company": "Diptyque Paris",
-   "role": "Stage - Assistant Acquisition Emea H/f",
-   "location": "Paris"
-  },
-  "057aea46318553c8e5ea7f446d038395": {
-   "id": "057aea46318553c8e5ea7f446d038395",
-   "company": "Kellanova",
-   "role": "Stage Assistant(e) Chef De Produit Activation",
-   "location": "Paris"
-  },
-  "dc618ac33a0228eca626386b65a73cd5": {
-   "id": "dc618ac33a0228eca626386b65a73cd5",
-   "company": "Coty Inc.",
-   "role": "Stagiaire - Customer Collaboration Coordinator",
-   "location": "Paris"
-  },
-  "a2243a5f6c3eefc4d55759c4771b6248": {
-   "id": "a2243a5f6c3eefc4d55759c4771b6248",
-   "company": "Coty Inc.",
-   "role": "Burberry Make-up Global Brand Marketing Assistant",
    "location": "Paris"
   }
  }
