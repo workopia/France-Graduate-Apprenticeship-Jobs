@@ -6742,4 +6742,94 @@
 <tr><td>Kellanova</td><td>Stage Assistant(e) Chef De Produit Activation</td><td>Paris</td><td>2026-09-28</td></tr>
 <tr><td>Coty Inc.</td><td>Stagiaire - Customer Collaboration Coordinator</td><td>Paris</td><td>2026-09-28</td></tr>
 <tr><td>Coty Inc.</td><td>Burberry Make-up Global Brand Marketing Assistant</td><td>Paris</td><td>2026-09-28</td></tr>
+<tr><td>Portalp</td><td>Technicien De Maintenance Portes Automatiques - 27 H/f</td><td>Lyon</td><td>2026-09-29</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Office Of The Director-general</td><td>Headquarters</td><td>2026-09-29</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Intergovernmental Oceanographic Commission</td><td>Headquarters</td><td>2026-09-29</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Division Of Internal Oversight Services</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga - Media Coordination Worldwide Intern - January (f/m)</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Latecoere</td><td>Stage - Hse (h/f)</td><td>Toulouse</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Chargé(e) De Mission Engagement Solidaire & Inclusion (f/h/x) - Janvier 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Assistant.e Reporting & Consolidation (h/f/x) - Janvier 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Chargé.e De Veille & Études Stratégiques H/f/x - Jan 27</td><td>Suresnes</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Internship - Consumer, Customer & Citizen Care (m/f) 1</td><td>Suresnes</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Internship - Operations Fp&a Assistance (f/m/x) - January 2027</td><td>Suresnes</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Assistant(e) Réglementation : Contaminants & Emballages (h/f/x) - Janvier 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Assistant(e) Réglementation Emballages- Aptitude Au Contact Alimentaire (h/f) - Mars 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Chargé(e) De Recrutement Et Projets Campus (h/f/x) - Janvier 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Assistant(e) Contrôle Interne - Janvier 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Juriste Propriété Intellectuelle (f/h/x) - Janvier 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Chargé.e De Mission Empreinte Environnementale (h/f/x) - Janvier 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Assistant Direction Stratégie & Développement Commercial Foods (f/h/x) - Janvier 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Chargé(e) De Développement Emballages - Conformité Ppwr Et Perfect Store - Janvier 2027</td><td>Tours</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Chargé(e) D'études Marketing Global Brands (h/f/x) - Janvier 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Intership - Inclusive Business & Customer Csr Engagement (m/f/x) - January 2027</td><td>Suresnes</td><td>2026-09-29</td></tr>
+<tr><td>Fromageries Bel</td><td>Internship - Pmo / It Governance & Communication (f/m/x) - January 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Testia</td><td>Stage 2027 - Hse Sécurité Et Environnement (appétence En Numérique) (h/f)</td><td>Mantes La Jolie</td><td>2026-09-29</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Stage En Ia Sur La 3dexp (h/f)</td><td>Marseille</td><td>2026-09-29</td></tr>
+<tr><td>Testia</td><td>Stage 2027 - Stage En Développement D’une Méthode De Réglage D'asservissement Banc D'essais (f/h)</td><td>Marseille Area</td><td>2026-09-29</td></tr>
+<tr><td>Airbus Operations</td><td>Jr10440295 Internship 2027_ Data Analyst In Supply Chain (f/h)</td><td>Toulouse Area</td><td>2026-09-29</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Droit Des Affaires/compliance</td><td>Marseille</td><td>2026-09-29</td></tr>
+<tr><td>Testia</td><td>Stage 2027 - Qualité 4.0 & Innovation Programmes Futurs (f/h)</td><td>Toulouse</td><td>2026-09-29</td></tr>
+<tr><td>Testia</td><td>Stage 2027 - Chargé(e) De Communication (f/h)</td><td>Toulouse</td><td>2026-09-29</td></tr>
+<tr><td>Airbus Defence and Space</td><td>Stage 2027 - Stage En Dynamique Du Vol - Design Moon Tour (h/f)</td><td>Toulouse</td><td>2026-09-29</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 - Stage En Stratégie De Formation & Transformation Digitale — Costing Datahub (h/f)</td><td>Toulouse</td><td>2026-09-29</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 Genai-driven Value Architecture Efficiency (h/f)</td><td>Toulouse</td><td>2026-09-29</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 - Analyse Des Vibration Events: Essais En Vol Et En Service (f/h)</td><td>Toulouse</td><td>2026-09-29</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Hr & Transformation</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Pernod Ricard</td><td>Global Talent Partnership Intern - January 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Nestle SA</td><td>Stage Chargé D'études - Insights Marketing & Catman F/h</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+5 - Pilotage De La Transformation Digitale (h/f)</td><td>France</td><td>2026-09-29</td></tr>
+<tr><td>Atos SE</td><td>Consultant(e) Accompagnement Du Changement & Communication - Stage (f/h)</td><td>Toulouse</td><td>2026-09-29</td></tr>
+<tr><td>Atos SE</td><td>Alternance - Ingénieur Pédagogique En Cyber H/f</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Eiffage Route</td><td>Alternance Assistant Chef De Chantier (h/f)</td><td>Toulouse</td><td>2026-09-29</td></tr>
+<tr><td>Eiffage</td><td>Alternance Assistant Chef De Chantier (h/f)</td><td>Toulouse</td><td>2026-09-29</td></tr>
+<tr><td>Eiffagemetal</td><td>Alternance - Aide Conducteur De Travaux (h/f)</td><td>Toulouse</td><td>2026-09-29</td></tr>
+<tr><td>Atos SE</td><td>Alternance - Ingénieur Intégrateur Sécurité Pki H/f</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Eviden</td><td>Ingénieur Validation Software R&d Hpc (f/h)</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>OCTO</td><td>Stage - Data Scientist - F/h/n</td><td>Toulouse</td><td>2026-09-29</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Associate Partnerships Officer (due Diligence)</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Chanel</td><td>Stage – Junior Coordinateur Risques & Audit Fournisseurs Mode Mdm (h/f/x) – Mode – Septembre 2026</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Stage - Audit Interne - Corporate (h/f/x)</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>TP ICAP</td><td>Compliance Advisory Officer</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Eviden</td><td>Technicien De Maintenance Électronique (h/f)</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien De Maintenance Extincteurs H/f</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Ratpgroup</td><td>Chargé De Maintenance Des Trains - Contremaitre Visiteur (mrf) H/f</td><td>Lyby</td><td>2026-09-29</td></tr>
+<tr><td>Air Liquide</td><td>Technicien Exploitation Maintenance En Electricite F/h</td><td>Nantes</td><td>2026-09-29</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>LOVISA</td><td>Vendeur(euse) En Cdd 15h - Fêtes De Fin D'année</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>LOVISA</td><td>Vendeur(euse) En Cdd 20h - Fêtes De Fin D'année</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>LOVISA</td><td>Vendeur(euse) En Cdd 25h - Fêtes De Fin D'année</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>LOVISA</td><td>Vendeur(euse) En Cdd 10h - Fêtes De Fin D'année</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Vendeur Polyvalent Adidas (h/f/d) - Cdi 14h - Franconville</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Chanel</td><td>Cdi - Conseiller De Vente - Bon Marché H/f</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>NIKE, Inc.</td><td>Athlete Nike (vendeur.se En Magasin) – H / F Cdi 25h</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi H/f</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Skechers.fi</td><td>Conseiller De Vente H/f</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Cdi - Conseiller De Vente - Montaigne H/f</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>LOVISA</td><td>Vendeur(euse) En Cdi 25h</td><td>Nantes</td><td>2026-09-29</td></tr>
+<tr><td>Galeries Lafayette</td><td>Conseiller(e) De Vente En Alternance F/h</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>COS</td><td>Vendeurs (f/h) - Cdi 25h - Chambourcy</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Volvo Group</td><td>Vendeur Magasinier H/f</td><td>Lyon</td><td>2026-09-29</td></tr>
+<tr><td>Unilever</td><td>Stage Conseiller De Vente - Maille Paris</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>xfroid.fr</td><td>Stage Evènementiel & Rp - Marques Globales</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Bac+5 - Chargé De Projets Fonds Renault Pour L'art Et La Culture (h/f)</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Chanel</td><td>Stage – Assistant(e) Chef De Projets Finance & Bi – Parfums Beauté – Janvier 2027 – H/f/x</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Hitachi Ltd</td><td>Executive Assistant - Assistant(e) De Direction De L'ingénierie</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Firstglobalmanagementservicesinc</td><td>Event Service Specialist</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Samsung Electronics</td><td>Stage Chef De Projet Channel Marketing Junior – Division Mx (telecom) (h/f)</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Samsung Electronics</td><td>Stage Assistant Chef De Produit Btob Smartphones, Tablettes, Pc & Accessoires (h/f)</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Samsung Electronics</td><td>Stage Assistant(e) Chef De Projet Marketing B2b – Division Mobilité (h/f)</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage – Assistant Chef De Produit Développement Maison - Animations & Gifting (h/f)</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Nestle Ltd</td><td>Stage Assistant Chef De Produit Nescafé Dolce Gusto F/h</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Ernst & Young</td><td>Assistant(e) De Gestion / Gestionnaire Adv - Bureau De Paris La Défense</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Ernst & Young</td><td>Assistant(e) De Gestion / Gestionnaire Adv - Bureau De Lyon</td><td>Lyon</td><td>2026-09-29</td></tr>
+<tr><td>ELIVIE</td><td>Assistant(e) Administratif(ve)</td><td>DACHSTEIN</td><td>2026-09-29</td></tr>
+<tr><td>CHANEL</td><td>Stage – Assistant.e Chef De Projet Chanel & Moi F/h - Marché France – Janvier 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>ARQUUS</td><td>Cdi - Coordinateur Pilotes Electricité Et Electronique H/f</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Sanofi</td><td>Coordinateur Support Production Usp</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Disneyland® Paris</td><td>Alternance – Assistant(e) Chef(fe) D’équipe Restaurant F/h/nb</td><td>Marne La Vallee Cedex</td><td>2026-09-29</td></tr>
+<tr><td>UPS</td><td>Cdd Coordinateur Transport Et Services Patients</td><td>France</td><td>2026-09-29</td></tr>
+<tr><td>Doctolib GmbH</td><td>Stage - Chargé De Communication Globale (x/f/m) - Janvier 2027</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Projets Marque Employeur Et Communication Rh H/f</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>Diptyque Paris</td><td>Alternance - Assistant Global Digital Media H/f</td><td>Paris</td><td>2026-09-29</td></tr>
 </table>
