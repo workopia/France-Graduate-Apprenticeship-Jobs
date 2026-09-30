@@ -248,12 +248,6 @@
    "role": "Stage 2027 - Stage Douane Et Commerce International (f/h)",
    "location": "Toulouse"
   },
-  "a0bf6cb8c9f3edc2aa44f00d9be4b9d0": {
-   "id": "a0bf6cb8c9f3edc2aa44f00d9be4b9d0",
-   "company": "Airbus Operations",
-   "role": "Stage 2027 - Stage En Analyse Structurelle (f/h)",
-   "location": "Toulouse"
-  },
   "2757cd28e2d2e07edf491cdd52e80245": {
    "id": "2757cd28e2d2e07edf491cdd52e80245",
    "company": "Airbus",
@@ -492,6 +486,12 @@
    "id": "7b3b7bfd3765aebea93954ecafda0ce1",
    "company": "IIEP-UNESCO",
    "role": "Internship: Priority Africa And External Relations",
+   "location": "Paris"
+  },
+  "a4a104bfd281f78e0d9d7f766b75b251": {
+   "id": "a4a104bfd281f78e0d9d7f766b75b251",
+   "company": "IIEP-UNESCO",
+   "role": "Internship: Division Of Internal Oversight Services",
    "location": "Paris"
   },
   "b16a168e59bc56ac7157fb25904d82c0": {

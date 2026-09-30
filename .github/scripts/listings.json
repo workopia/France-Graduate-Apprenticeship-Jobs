@@ -12,8 +12,8 @@
   "as_of": "2026-09-30",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 15669,
-  "generated_at": "2026-09-30T01:06:03.356Z"
+  "country_live_total": 15637,
+  "generated_at": "2026-09-30T06:57:47.889Z"
  },
  "categories": [
   {
@@ -739,23 +739,6 @@
   },
   {
    "salary_display": null,
-   "id": "a0bf6cb8c9f3edc2aa44f00d9be4b9d0",
-   "source": "Workopia",
-   "company_name": "Airbus Operations",
-   "company_hi_slug": "airbus-operations",
-   "title": "Stage 2027 - Stage En Analyse Structurelle (f/h)",
-   "location": "Toulouse",
-   "skills": "Finite element models, Mechanical knowledge",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-28T18:08:39.003Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/a0bf6cb8c9f3edc2aa44f00d9be4b9d0",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
    "id": "2757cd28e2d2e07edf491cdd52e80245",
    "source": "Workopia",
    "company_name": "Airbus",
@@ -1431,6 +1414,23 @@
    "date_posted": "2026-09-27T22:28:47.842Z",
    "active": true,
    "url": "https://workopia.io/jobs/7b3b7bfd3765aebea93954ecafda0ce1",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "a4a104bfd281f78e0d9d7f766b75b251",
+   "source": "Workopia",
+   "company_name": "IIEP-UNESCO",
+   "company_hi_slug": "iiep-unesco",
+   "title": "Internship: Division Of Internal Oversight Services",
+   "location": "Paris",
+   "skills": "assist in conducting a, gather audit evidence",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-27T22:28:47.842Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a4a104bfd281f78e0d9d7f766b75b251",
    "category": "grad",
    "tier": "Intern"
   },
