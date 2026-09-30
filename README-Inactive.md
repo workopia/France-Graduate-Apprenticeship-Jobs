@@ -6832,4 +6832,119 @@
 <tr><td>Doctolib GmbH</td><td>Stage - Chargé De Communication Globale (x/f/m) - Janvier 2027</td><td>Paris</td><td>2026-09-29</td></tr>
 <tr><td>Diptyque Paris</td><td>Stage - Assistant Projets Marque Employeur Et Communication Rh H/f</td><td>Paris</td><td>2026-09-29</td></tr>
 <tr><td>Diptyque Paris</td><td>Alternance - Assistant Global Digital Media H/f</td><td>Paris</td><td>2026-09-29</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Division Of Internal Oversight Services</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Communications And Public Engagement</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Governing Bodies Secretariat</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Digital Business Solutions</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Atos SE</td><td>Consultant(e) Accompagnement Du Changement & Communication - Stage (f/h)</td><td>Toulouse</td><td>2026-09-30</td></tr>
+<tr><td>Schneider Electric</td><td>Stage - Interaction Matériaux/lubrifiants - F/h</td><td>Grenoble</td><td>2026-09-30</td></tr>
+<tr><td>Schneider Electric</td><td>Stage - Traitement Du Signal Capteur Mmwave Radar - F/h</td><td>Grenoble</td><td>2026-09-30</td></tr>
+<tr><td>Citi</td><td>Markets – Sales And Trading, Off-cycle Internship, Paris – France, 2027</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Global Customer Excellence</td><td>Marseille</td><td>2026-09-30</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Stagiaire Chargé De Marketing Digital Sud-ouest Europe H/f</td><td>Rion De Landes</td><td>2026-09-30</td></tr>
+<tr><td>Boston Scientific</td><td>Stagiaire En Communication D'entreprise 1</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>TotalEnergies</td><td>Stage - Droit Des Affaires / Contrats Internationaux H/f</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Coty Inc.</td><td>Internship/ Media Intern</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Prada Group</td><td>Miu Miu Training Specialist Intern Paris</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Prada</td><td>Miu Miu Training Specialist Intern Paris</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Stryker Corp</td><td>Stage R&d - Laboratoire D’essais Biomécaniques H/f</td><td>Montbonnot-Saint-Martin</td><td>2026-09-30</td></tr>
+<tr><td>Stryker Corp</td><td>Stage Qualité Fournisseurs H/f</td><td>Montbonnot-Saint-Martin</td><td>2026-09-30</td></tr>
+<tr><td>Stryker Corp</td><td>Stage Méthodes Maintenance H/f</td><td>Lyon</td><td>2026-09-30</td></tr>
+<tr><td>Stryker Corp</td><td>Stage Finance - Contrôle Interne & Amélioration Des Processus H/f</td><td>Montbonnot-Saint-Martin</td><td>2026-09-30</td></tr>
+<tr><td>Philips Healthcare</td><td>Stage Trade Marketing Activation Assistant H/f (janvier 2027)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Heidelberg Materials</td><td>Commercial Sedentaire</td><td>Le Hourdel</td><td>2026-09-30</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Intern - Operations – Paris (france)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Intern - Paris</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Medtronic PLC</td><td>Intern: Graduate( Non-tech)</td><td>Lyon</td><td>2026-09-30</td></tr>
+<tr><td>Warner Bros. Discovery</td><td>Stage - Journalisme Cnn (janvier 2027)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>MSD</td><td>Alternance Qualité Opérationnelle H/f</td><td>Igoville</td><td>2026-09-30</td></tr>
+<tr><td>onepoint</td><td>Stagiaire En Deal, Finance Et Performance / Sud-ouest - F/h</td><td>Bordeaux</td><td>2026-09-30</td></tr>
+<tr><td>Onepoint</td><td>Stage – Chef.fe De Projets Communication H/f</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Onepoint</td><td>Stagiaire Juridique F/h</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>TP ICAP</td><td>Global Broking Off-cycle Internship 2026, Paris - Equity Derivatives</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Ardian</td><td>Private Equity Buyout Stage - Mars 2027 I Paris (m/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Ardian</td><td>Sustainability Real Assets Stage - Janvier 2027 I Paris (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Ardian</td><td>Affaires Publiques Et Gouvernementales Stage - Mars 2027 / Paris (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Thales Group</td><td>Stage – Chargé De Missions Rh – H/f</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Thales Group</td><td>Stage – Ingénieur Mise En Œuvre D’un Gp-gpu Risc-v Open-source Sur Fpga (h/f) – 6 Mois</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Estée Lauder Companies</td><td>Fbnl Stage - Assistant Relations Presse & Influence Marketing Mac & Bobbi Brown H/f/x</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+2/3 - Assistant Communication Interne Aux Métiers De L’ingénierie (h/f)</td><td>Lardy</td><td>2026-09-30</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+5 - Développement D'une Maquette Automatisée De Validation Des Standards Udc - H/f</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+5 - Modèle De Coût Outillage Fournisseur - H/f</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+5 - Contrôleur De Gestion Logistique Après-vente - H/f</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Saint Laurent</td><td>Saint Laurent Stage Contrôle Interne Et Compliance (décembre 2026) H/f</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga - Global Retail Operations Intern - October 2026 (f/m)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga - Client Engagement Intern - January 2027 (f/m)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga - Global Client Data & Insights: Business & Crm Project Intern - January 2027 (f/m)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga - Stage Collection Merchandising Eyewear/jewelry - Janvier 2027 (f/h)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga - Supply And Distribution Planner Shoes Intern - Janvier 2027 (f/h)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga - Emea Retail Buyer Intern - Janvier/january 2027</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga - Jewelry & Eyewear Design Intern - October 2026 (f/m)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>KERING EYEWEAR FRANCE</td><td>Kering Eyewear - Trade Marketing Intern</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga - Corporate Financial Controller Intern - Janvier 2027 (f/h)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Condé Nast</td><td>Junior Production Specialist Apprentice</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Salesforce</td><td>Sales Program - Business Analyst Apprentice - September 2026</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Johnson Electric</td><td>Engineer Apprentice</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Johnson Electric</td><td>Apprenti Laboratoire R&d</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Goldcar Spain S.L</td><td>Site And Content Coordinator Apprentice</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>AVIAREPS</td><td>Apprentice</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>GSK plc</td><td>Alternant Ingénieur Amélioration Continue Et Data H/f</td><td>Mantes La Jolie</td><td>2026-09-30</td></tr>
+<tr><td>gssi.world</td><td>Alternant Ingénieur Amélioration Continue Et Data H/f</td><td>Mantes La Jolie</td><td>2026-09-30</td></tr>
+<tr><td>CS</td><td>Stage - Ingénieur(e) Logiciel De Vol Spatial - Spatial - Toulouse</td><td>Toulouse</td><td>2026-09-30</td></tr>
+<tr><td>Jobgether</td><td>Backend Ai Software Engineer (all) - Typescript / Nodejs</td><td>France</td><td>2026-09-30</td></tr>
+<tr><td>Corsearch</td><td>Python Software Engineer (product Engineering Team)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Aubert & Duval</td><td>Alternant Développement Ia & Data Scientist</td><td>Les Ancizes Comps</td><td>2026-09-30</td></tr>
+<tr><td>Razer</td><td>Ai Engineer, Multimodal Systems</td><td>France</td><td>2026-09-30</td></tr>
+<tr><td>Razer Gold</td><td>Ai Engineer, Multimodal Systems</td><td>France</td><td>2026-09-30</td></tr>
+<tr><td>Eiffage Génie Civil</td><td>Responsable Comptable - Génie Civil - Cdi F/h</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Eiffage</td><td>Responsable Comptable - Génie Civil - Cdi F/h</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Eiffagerail</td><td>Comptable (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Eiffage</td><td>Comptable (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Coty</td><td>Finance Analyst</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance (h/f)</td><td>PARIS-STEPHENSON</td><td>2026-09-30</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Mécanicien Maintenance Industrielle H/f</td><td>Aix En Provence</td><td>2026-09-30</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Robinetier Nucléaire (mécanicien Grand Déplacement) (h/f)</td><td>Cattenom</td><td>2026-09-30</td></tr>
+<tr><td>Getinge AB</td><td>Technicien Sav Biomedical Itinerant (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>KONE</td><td>Technicien Maintenance Ascenseurs H/f À Antibes (06)</td><td>Nice</td><td>2026-09-30</td></tr>
+<tr><td>Airi Quideer</td><td>Technicien Conseil Référent (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance Multitechnique F/h</td><td>Orleans</td><td>2026-09-30</td></tr>
+<tr><td>MSX International Ltd</td><td>Technicien Expert Support Technique Automobile (h/f) - Cdi</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>essity.de</td><td>Electricien 5*8 (h/f)</td><td>Orleans</td><td>2026-09-30</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien Multiservices - F/h</td><td>Lyon</td><td>2026-09-30</td></tr>
+<tr><td>Ratpgroup</td><td>Mainteneur Electromécanicien - F/h - M2e</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Audigny Formation</td><td>Technicien Polyvalent Évènementiel H/f</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>KONE GmbH</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>KONE Saudi Arabia</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Fenwick-Linde Opérations</td><td>Technicien De Maintenance</td><td>Cenon-Sur-Vienne</td><td>2026-09-30</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente - 25h Cdi H/f/x</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Nice</td><td>2026-09-30</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi Temps Partiel H/f</td><td>Toulouse</td><td>2026-09-30</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente - 35h Cdi H/f/x</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Cultura</td><td>Conseiller De Vente Papeterie Créatif Éveil(f/h)</td><td>Toulouse</td><td>2026-09-30</td></tr>
+<tr><td>La Casa de las Carcasas</td><td>Vendeur (h/f) - Cdi 30h - Nice</td><td>Nice</td><td>2026-09-30</td></tr>
+<tr><td>Michael Kors</td><td>Vendeur Temp Partiel</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Conforama</td><td>Vendeur (h/f) - Cdd</td><td>Ibos</td><td>2026-09-30</td></tr>
+<tr><td>Swarovski Australia</td><td>Cdd - Conseiller De Vente (h/f/x) - 24h - Bordeaux Lac</td><td>Bordeaux</td><td>2026-09-30</td></tr>
+<tr><td>Nestle SA</td><td>Vendeur Cdd (h/f)</td><td>Toulouse</td><td>2026-09-30</td></tr>
+<tr><td>Kiabi</td><td>Conseiller(ère) De Mode Cdd 28h</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur Saisonnier 35 Heures H/f - Chamonix - Boardriders Men</td><td>Annecy</td><td>2026-09-30</td></tr>
+<tr><td>Cultura</td><td>Conseiller(e) De Vente Pce</td><td>Toulouse</td><td>2026-09-30</td></tr>
+<tr><td>Cultura / Cultura Group</td><td>Conseiller De Vente Musique Vidéo Gaming Instruments De Musique (f/h)</td><td>Toulouse</td><td>2026-09-30</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi Temps Partiel 30h H/f</td><td>Nantes</td><td>2026-09-30</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Conseiller(ère) Beauté Le Bon Marché - Cdi (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Nespresso</td><td>Vendeur - 7h (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Nespresso</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Alternant(e) Rh (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Janvier 2027 Assistant(e) Chef De Projets Creative Corporate Content (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Daikin Europe NV</td><td>Executive Assistant</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Galeries Lafayette</td><td>Stage Chef De Projet Production F/h</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Avis Budget Group</td><td>Coordinateur(trice) Remise En État Des Véhicules Avant-vente Dans La Location De Véhicules (f/h)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Kellanova</td><td>Stage Assistant(e) Juridique</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Chef De Projet Digitalisation Et Données (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Nestle SA</td><td>Stage Assistant Chef De Produit Nescafé Dolce Gusto F/h</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Nespresso</td><td>Stage Gestionnaire Logistique Et Transport F/h</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Coty</td><td>Stagiaire - Assistant(e) Marketing & Trade Marketing Burberry Fragrances</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Coty Inc.</td><td>Stagiaire - Assistant(e) Marketing & Trade Marketing Burberry Fragrances</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Egis</td><td>Alternance - Chargé De Marketing Et Communication Interne H/f</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Egis Group</td><td>Alternance - Chargé De Marketing Et Communication Interne H/f</td><td>Paris</td><td>2026-09-30</td></tr>
 </table>
