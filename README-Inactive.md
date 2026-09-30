@@ -6948,4 +6948,5 @@
 <tr><td>Egis</td><td>Alternance - Chargé De Marketing Et Communication Interne H/f</td><td>Paris</td><td>2026-09-30</td></tr>
 <tr><td>Egis Group</td><td>Alternance - Chargé De Marketing Et Communication Interne H/f</td><td>Paris</td><td>2026-09-30</td></tr>
 <tr><td>Airbus Operations</td><td>Stage 2027 - Stage En Analyse Structurelle (f/h)</td><td>Toulouse</td><td>2026-09-30</td></tr>
+<tr><td>GE Vernova</td><td>Finance Apprenti(e) (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
 </table>

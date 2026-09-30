@@ -518,12 +518,6 @@
    "role": "Kering Apprentie(e) Talent Acquisition (octobre 2026)",
    "location": "Paris"
   },
-  "390f879fab3d2b2994eb1fc8fdaf9404": {
-   "id": "390f879fab3d2b2994eb1fc8fdaf9404",
-   "company": "GE Vernova",
-   "role": "Finance Apprenti(e) (h/f)",
-   "location": "Paris"
-  },
   "ff3c631547bf974e417d7ab000ec4c31": {
    "id": "ff3c631547bf974e417d7ab000ec4c31",
    "company": "Airbus Helicopters",
@@ -973,6 +967,12 @@
    "company": "Otis",
    "role": "Apprenti Technicien Ascensriste (h/f)",
    "location": "Toulouse"
+  },
+  "bc8a18b7c45c7771a024afdc879920ca": {
+   "id": "bc8a18b7c45c7771a024afdc879920ca",
+   "company": "Condé Nast",
+   "role": "Junior Production Specialist Apprentice",
+   "location": "Paris"
   },
   "a6989a5cc00ce8d40a69e39c8c796449": {
    "id": "a6989a5cc00ce8d40a69e39c8c796449",
