@@ -6949,4 +6949,91 @@
 <tr><td>Egis Group</td><td>Alternance - Chargé De Marketing Et Communication Interne H/f</td><td>Paris</td><td>2026-09-30</td></tr>
 <tr><td>Airbus Operations</td><td>Stage 2027 - Stage En Analyse Structurelle (f/h)</td><td>Toulouse</td><td>2026-09-30</td></tr>
 <tr><td>GE Vernova</td><td>Finance Apprenti(e) (h/f)</td><td>Paris</td><td>2026-09-30</td></tr>
+<tr><td>Martell</td><td>Stage Production Et Amélioration Continue - Janvier 2027</td><td>Rouillac</td><td>2026-10-01</td></tr>
+<tr><td>Martell</td><td>Partnerships & Influence Intern - Martell - January 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Martell</td><td>Prestige Global Communication & Content Intern - Martell - January 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>282</td><td>Stagiaire Sustainable Finance H/f/x</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Kepler Cheuvreux</td><td>Stage - Assistant Sales Trader - Paris</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Intermarche</td><td>Stage - Chargé De Développement Offre Régionale & Pme H/f</td><td>Vert</td><td>2026-10-01</td></tr>
+<tr><td>Intermarche</td><td>Stage - Chargé D'etudes Qualité H/f</td><td>Vert</td><td>2026-10-01</td></tr>
+<tr><td>Schneider Electric</td><td>Stage - Physical Ai Pour L'industrie Du Futur - H/f</td><td>Grenoble</td><td>2026-10-01</td></tr>
+<tr><td>Deutsche Bank</td><td>Structured Trade Export Finance Paris Intern (f/m/x)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Ashland</td><td>Alternant Toxicologie Et Qualité Laboratoire</td><td>France</td><td>2026-10-01</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Internship - Head Office - Europe Procurement Hr Intern (f/m)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Stage - Siege Social - Front Office / Salle Des Marchés H/f</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>MedAire</td><td>Sales Executive Intern</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Newyorkbioconnect</td><td>Alternance Gestion Qualité Fournisseurs H/f</td><td>Igoville</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Stage - Serge Lutens Business Development H/f - Janvier 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Stage - Finance Controlling Assistant H/f - Janvier 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Stage - Scientific Communication Assistant H/f - Janvier 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Stage - Sustainability & Csrd Assistant H/f - Janvier 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Stage - Assistant Communication Serge Lutens H/f - Janvier 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Stage - Pr And Influence Assistant Shiseido Emea H/f - Janvier 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Stage - Business Analyst Shiseido Global Fragrance H/f - Janvier 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Stage - Marketing Opérationnel Emea - Drunk Elephant & Doctor Dennis Gross H/f</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Stage - Intellectual Property Legal Counsel H/f - Janvier 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Internship - Export Marketing Product Manager Assistant - Shiseido Brand - January 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Stage - Digital Marketing Assistant H/f - Janvier 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Stage - Trade Marketing Assistant H/f - Janvier 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Shiseido</td><td>Internship - Export Marketing Product Manager Assistant Designer Fragance Brands - January 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Bausch + Lomb</td><td>Stage - Ass. Grands Comptes Industrie Pharma</td><td>Montpellier</td><td>2026-10-01</td></tr>
+<tr><td>McDonald's</td><td>Stagiaire Fiscalité (H/F)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Barry Callebaut AG</td><td>Stagiaires Marketing</td><td>Mantes La Jolie</td><td>2026-10-01</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Division Of Financial Services</td><td>Headquarters</td><td>2026-10-01</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Intergovernmental Oceanographic Commission</td><td>Headquarters</td><td>2026-10-01</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Office Of The Director-general</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Priority Africa And External Relations</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Division Of Internal Oversight Services</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Otis</td><td>Apprenti Ingénieur Commercial (h/f)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Otis</td><td>Alternant Talent, Formation, Inclusion (h/f)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>DAT Deutsche Aufzugstechnik GmbH</td><td>Apprenti Technicien Ascensoriste (h/f)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>DAT Deutsche Aufzugstechnik GmbH</td><td>Apprenti Technicien Portes Et Portails (h/f)</td><td>Nantes</td><td>2026-10-01</td></tr>
+<tr><td>Otis</td><td>Apprenti Technicien Ascensriste (h/f)</td><td>Toulouse</td><td>2026-10-01</td></tr>
+<tr><td>Condé Nast</td><td>Junior Production Specialist Apprentice</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Thales Group</td><td>Alternance - Ingénieur Développement Logiciel C++ (f/h)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>GE Vernova Inc.</td><td>Apprenti Ingénieur Logiciel Test H/f</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage Bac+5 - Caractérisation Des Architecture Electrique Electronique Véhicule Actuelles Et Futurs H/f</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Jobgether</td><td>.net Core & Python Web Developer</td><td>France</td><td>2026-10-01</td></tr>
+<tr><td>Renault Group</td><td>Cs27 Bac+5 - Data Analyst (h/f)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Ia - Digitalisation Des Services F/h</td><td>Sophia Antipolis</td><td>2026-10-01</td></tr>
+<tr><td>Schaeffler</td><td>Data Scientist - R&d H/f</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Worldline</td><td>Data Scientist - Not Applicable</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Jobgether</td><td>Staff Ai Engineer, Payments Intelligence</td><td>France</td><td>2026-10-01</td></tr>
+<tr><td>Ekimetrics</td><td>Junior Business Data Scientist - Marketing & Commercial Effectiveness</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Rothschild & Co</td><td>Stage Financial Crime Compliance - Janvier 2027</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Doctolib GmbH</td><td>Stage - Consolidation Et Contrôle Financier (x/f/m) - Octobre 2026</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Chanel</td><td>Stage - Assistant(e) Business Analyst Opérations Maille H/f/x – Mode – Janvier 2025</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>OTIS</td><td>Technicien De Maintenance (h/f)</td><td>BAVILLIERS</td><td>2026-10-01</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien De Maintenance Extincteurs H/f</td><td>08</td><td>2026-10-01</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Technicien Opération Maintenance</td><td>Crespin</td><td>2026-10-01</td></tr>
+<tr><td>santecie</td><td>Technicien(ne) De Maintenance</td><td>Veurey-Voroize</td><td>2026-10-01</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien Maintenance D Execution (171881)</td><td>Lyon</td><td>2026-10-01</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Mécanicien Réparateur (f/h)</td><td>Gueugnon</td><td>2026-10-01</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Technicien Maintenance Mécanique H/f</td><td>Gueugnon</td><td>2026-10-01</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Mécanicien Industriel (chantier)h/f</td><td>Marseille</td><td>2026-10-01</td></tr>
+<tr><td>MANGO</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur Boulangerie (h/f)</td><td>Montauroux</td><td>2026-10-01</td></tr>
+<tr><td>Nestle SA</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Cdd Sept À Fév Inclus - Conseiller De Vente H/f</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Swarovski Australia</td><td>Cdd - Conseiller De Vente (h/f/x) 35h - Gare De L'est</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Louis Pion</td><td>Louis Pion Conseiller De Vente - Cdi 35h Cannes H/f</td><td>Nice</td><td>2026-10-01</td></tr>
+<tr><td>Tiffany</td><td>Client Advisor Portuguese Speaker (f/h) - Cdi - Paris</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Tiffany & Co</td><td>Client Advisor Portuguese Speaker (f/h) - Cdi - Paris</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Nouryon</td><td>Vendeur Conseil Alternant(e)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Nouryon</td><td>Vendeur(se) Conseil</td><td>Nantes</td><td>2026-10-01</td></tr>
+<tr><td>URW</td><td>Workplace Experience Coordinator– (f/h)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>LFB</td><td>Assistant Formation H/f</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Coloplast</td><td>Chargé / Chargée De Support Marketing Et Evènementiel H/f</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Valentino</td><td>Hr Assistant - Intern</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Kiabi</td><td>_directeur Adjoint Magasin Chambourcy (h/f/nb)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Assistant(e) Commercial(e) F/h</td><td>Lyon</td><td>2026-10-01</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Resp. Livraison</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Marketing Opérationnel - Travel Retail (h/f) - Hermès Parfum Beauté</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>GE VERNOVA</td><td>Coordinateur Logistique (h/f)</td><td>Champigneulle</td><td>2026-10-01</td></tr>
+<tr><td>Daikin France</td><td>Executive Assistant</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Stage - Siege Social - Chargé De Communication Développement Durable H/f</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>ATR</td><td>Atr - Assistant Essais En Vol</td><td>Toulouse Area</td><td>2026-10-01</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Ressources Humaines (h/f)</td><td>Paris</td><td>2026-10-01</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Chargé(e) De Missions (h/f)</td><td>Paris</td><td>2026-10-01</td></tr>
 </table>
