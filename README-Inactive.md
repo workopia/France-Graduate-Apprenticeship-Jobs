@@ -7422,4 +7422,53 @@
 <tr><td>adidas AG</td><td>Stage - Assistant Chef De Projet Campagne Marketing Fashion (h/f/d)</td><td>Paris</td><td>2026-10-04</td></tr>
 <tr><td>adidas AG</td><td>Stage - Assistant Rh & Recrutement (h/f/d)</td><td>Paris</td><td>2026-10-04</td></tr>
 <tr><td>adidas AG</td><td>Stage - Assistant Showroom & Évènements (h/f/d)</td><td>Paris</td><td>2026-10-04</td></tr>
+<tr><td>Herbert Smith Freehills</td><td>Stagiaire Restructuring - 2nd Semestre 2027</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Danone</td><td>Internship - Fp&amp;a Analyst - January 2027 - (h/f)</td><td>Limonest</td><td>2026-10-05</td></tr>
+<tr><td>NEMERA</td><td>Regulatory Affairs Intern F/h/x (6 Months)</td><td>Lyon</td><td>2026-10-05</td></tr>
+<tr><td>Richemont</td><td>Stagiaire Assistante Média International</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Nestle Ltd</td><td>Stage Chargé De Communication Interne F/h</td><td>Boué</td><td>2026-10-05</td></tr>
+<tr><td>Nespresso</td><td>Stage Chargé Développement Commercial Trade Marketing F/h</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Nespresso</td><td>Stage Chef De Projet Marketing Acquisition B2b F/h</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Bausch + Lomb</td><td>Stage - Ass. Grands Comptes Industrie Pharma Apply Now »</td><td>Montpellier</td><td>2026-10-05</td></tr>
+<tr><td>AptarGroup</td><td>Stage Ingénieur(e) Bureau D'etudes - Conception Fonctionnelle (h/f) Apply Now »</td><td>Le Vaudreuil</td><td>2026-10-05</td></tr>
+<tr><td>AptarGroup</td><td>Alternant Hse F/h Postuler »</td><td>Verneuil D’Avre Et D’Iton</td><td>2026-10-05</td></tr>
+<tr><td>AptarGroup</td><td>Stagiaire Méthodes H/f Postuler »</td><td>BréCey</td><td>2026-10-05</td></tr>
+<tr><td>HP</td><td>Apprenti-e Chef-fe De Produit - Impression H/f</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>NTT AUSTRALIA PTY</td><td>Apprenti(e) Support Reseaux Sécurité F/h</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>HPE (Hewlett Packard Enterprise)</td><td>Apprenti(e) Rh H/f</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Airbus Defence and Space</td><td>Stage 2027 - Technicien D’essais Radio Fréquence Satellites (f/h)</td><td>Toulouse</td><td>2026-10-05</td></tr>
+<tr><td>Airbus Defence and Space SAS</td><td>Stage 2027 - Dimensionnement De Satellite De Télécommunication Par Intelligence Artificielle (ia) (h/f)</td><td>Toulouse</td><td>2026-10-05</td></tr>
+<tr><td>Renault Group</td><td>Cs27 Bac+5 - Stage Ingénieur Ia (h/f)</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Alpine Cars</td><td>Alpine Cars - Cs27 - Bac+5 - Ingénieur.e Data & Ia Pour L'industrialisation De L'exploitation Des Données Véhicules (f/h)</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Hitachi Vantara</td><td>Alternant Technicien Support Is/it Niveau 1 H/f</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Hitachi Rail GTS France SAS</td><td>Alternant Technicien Support Is/it Niveau 1 H/f</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Embedded Software Development Engineer (f/m)</td><td>Toulouse</td><td>2026-10-05</td></tr>
+<tr><td>dacia</td><td>Data Scientist Simulation Numérique (h/f)</td><td>Aubevoye</td><td>2026-10-05</td></tr>
+<tr><td>Rothschild & Co</td><td>Compliance Officer Asset Management – Cdi (h/f)</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>NHC CARE</td><td>Infirmier Coordinateur Nutrition Perfusion F/h/x</td><td>06 Alpes</td><td>2026-10-05</td></tr>
+<tr><td>Firmenich</td><td>Technicien De Maintenance Instrumentiste (h/f)</td><td>Village-Neuf</td><td>2026-10-05</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Sur Parcs Éoliens (h/f), Germinon, Marne (51)</td><td>Germinon</td><td>2026-10-05</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Préventive, Pleyben, Finistère (29)</td><td>Pleyben</td><td>2026-10-05</td></tr>
+<tr><td>Philips Healthcare</td><td>Responsable Technique Ultrasons - Ile De France H/f</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Heidelberg Materials</td><td>Worker Maintenance</td><td>Bussac</td><td>2026-10-05</td></tr>
+<tr><td>Xylem Inc.</td><td>Technicien De Maintenance (h/f)</td><td>Noyal Sur Vilaine</td><td>2026-10-05</td></tr>
+<tr><td>Dematic Corp</td><td>Technicien De Maintenance - Evin Malmaison</td><td>Evin</td><td>2026-10-05</td></tr>
+<tr><td>Coloplast AS</td><td>Laser Maintenance Specialist - Region Europe</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Vitalaire</td><td>Technicien Conseil Référent (h/f) - Villepinte</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Kion Na</td><td>Technicien De Maintenance - Evin Malmaison</td><td>Evin</td><td>2026-10-05</td></tr>
+<tr><td>Ardagh Group</td><td>Electro-technicien Qualité (h-f)</td><td>Marseille</td><td>2026-10-05</td></tr>
+<tr><td>Nestle Ltd</td><td>Technicien De Maintenance Creully H/f</td><td>Creully</td><td>2026-10-05</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Technicien De Maintenance Industrie Pharmaceutique - Conditionnement - Cdi - H/f</td><td>Orleans</td><td>2026-10-05</td></tr>
+<tr><td>Arkema France</td><td>Technicien Instrumentation Spécialisé Analyseurs Industriels (f/h)</td><td>ChâTeau-Arnoux-Saint-Auban</td><td>2026-10-05</td></tr>
+<tr><td>HARTMANN</td><td>Technicien De Maintenance (h/f)</td><td>Lyon</td><td>2026-10-05</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur Boulangerie (h/f)</td><td>Ville</td><td>2026-10-05</td></tr>
+<tr><td>Cultura</td><td>Conseiller De Vente Services '(f/h)</td><td>Bordeaux</td><td>2026-10-05</td></tr>
+<tr><td>NIKE, Inc.</td><td>Athlete Nike (vendeur En Magasin) – H / F Cdd 30h</td><td>Bordeaux</td><td>2026-10-05</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate Maroquinerie 35h Printemps Vélizy 2</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Mac Cosmetics</td><td>Cdd - Maquilleur.euse / Vendeur.euse - Mac Cosmetics - 35h - Créteil Soleil - H/f/x</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>The Walt Disney Company</td><td>Stage - Assistant.e Marketing Produits Dérivés (f/h)</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Galeries Lafayette</td><td>Stage 3 Mois - Coordinateur Marketing Opérationnel F/h</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Artefact</td><td>Freelance – Assistant(e) Communication & Événementiel (hackathons Adopt Ai)</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Evènements & Partenariats H/f</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Estée Lauder Companies</td><td>Fbnl Stage - Assistant Chef De Projet Trade Marketing Clinique H/f/x</td><td>Paris</td><td>2026-10-05</td></tr>
 </table>
