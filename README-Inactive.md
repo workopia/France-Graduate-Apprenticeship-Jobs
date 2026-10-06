@@ -7471,4 +7471,54 @@
 <tr><td>Artefact</td><td>Freelance – Assistant(e) Communication & Événementiel (hackathons Adopt Ai)</td><td>Paris</td><td>2026-10-05</td></tr>
 <tr><td>Diptyque Paris</td><td>Stage - Assistant Evènements & Partenariats H/f</td><td>Paris</td><td>2026-10-05</td></tr>
 <tr><td>Estée Lauder Companies</td><td>Fbnl Stage - Assistant Chef De Projet Trade Marketing Clinique H/f/x</td><td>Paris</td><td>2026-10-05</td></tr>
+<tr><td>Pierre Fabre</td><td>Chef(fe) De Produits Personal Care Arthrodont/inava - Stage - H/f</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Chef(fe) De Projet Informatique Scientifique - Stage - H/f</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Chef(fe) De Produits Personal Care – Elgydium - Stage - H/f</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Barilla Group</td><td>Market Controlling Intern - Stage Contrôle De Gestion</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>PG Solutions</td><td>Stagiaire Qualité & Logistique (quality Assurance) (f/h/x)</td><td>Amiens</td><td>2026-10-06</td></tr>
+<tr><td>Barclays Bank PLC</td><td>Capital Markets Off Cycle Internship Programme 2027 Paris</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Airbus Atlantic</td><td>Stage 2027 - Ingénieur Amélioration Continue Supply Chain (all Gender)</td><td>MéAulte</td><td>2026-10-06</td></tr>
+<tr><td>Airbus Helicopters</td><td>Stage 2027 - Conduit Au Changement Erp & Industrialisation (h/f)</td><td>Marseille Area</td><td>2026-10-06</td></tr>
+<tr><td>Airbus Atlantic</td><td>Stage 2027 - Préparateur Pièces Composites (all Gender)</td><td>Nantes</td><td>2026-10-06</td></tr>
+<tr><td>Airbus Defence and Space SAS</td><td>Stage 2027 - Stage En Outillage De Monitoring Plateforme It (h/f)</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Airbus Protect</td><td>Stage 2027 - Chargé(e) De Mission Santé & Sécurité Au Travail - Evaluation Des Risques & Duerp (all Gender)</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Stage 2027 En Qualite : Amélioration Du Processus De Gestion Métrologie (f/h)</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Airbus SAS</td><td>Stage 2027 Stage Legal Fusions & Acquisitions Et Affaires Corporate (h/f)</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Airbus Protect</td><td>Stage 2027 - Proxy Po/testeur (all Gender)</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Stage 2027 - Non Linear Analyse Dfem En Utilisent Nastran Ou Abaqus (h/f)</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Coty Inc</td><td>Internship/global Business Development, Hugo Boss, Swarovski, Davidoff, Escada And Joop Fragrances</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Coty Inc</td><td>Stagiaire Marketing And Trade Marketing</td><td>France</td><td>2026-10-06</td></tr>
+<tr><td>Nestle SA</td><td>Stage Chef De Projet Marketing Acquisition B2c F/h</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>KARL STORZ SE & Co. KG</td><td>Apprentice (m/f/d) Ingénieur Support</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>NTT Communications</td><td>Apprenti(e) Support Reseaux Sécurité F/h</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Sopra Steria</td><td>Stage Ingénieur(e) Business Automation - Lille</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>NXP Semiconductors</td><td>Stage D’ingénieur : Automatisation Des Tâches De Sûreté De Fonctionnement (functional Safety) (f/h)</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>NXP Semiconductors</td><td>Stage Ingénieur : Localisation Uwb Pour Des Systèmes Mobiles Plus Sûrs (f/h)</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>NXP Semiconductors</td><td>Stage Ingénieur : Détection Embarquée Dans L’habitacle — Collecte Et Fusion De Données Multi-capteurs (f/h)</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 - Stagiaire En Réparation Avionique Et Gestion Des Données (f/h)</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Stage - Chargé D'études Techniques F/h</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Airbus Defence & Space</td><td>Stage 2027 - Stage En Outillage & Qualité Mbse Pour L’ingénierie Système (h/f)</td><td>Mantes La Jolie</td><td>2026-10-06</td></tr>
+<tr><td>Airbus Atlantic</td><td>Stage 2027 - Ingénieur Performance Opérationnelle Et Digitalisation (all Gender)</td><td>Nantes</td><td>2026-10-06</td></tr>
+<tr><td>Airbus SE</td><td>Embedded Software Development Engineer (f/m)</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Embedded Software Development Engineer (f/m)</td><td>Toulouse</td><td>2026-10-06</td></tr>
+<tr><td>Eiffagerail</td><td>Data Scientist Et Outils Achats F/h</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>EWOR GmbH</td><td>B2b Ai/ml Engineer (100 % Remote) (m/f/d)</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Kellanova</td><td>Stage Business Analyst - Revenue Growth Management</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Rothschild & Co Martin Maurel</td><td>Business Analyst (h/f) – Cdd</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Maintenance – Portes Automatiques (h/f)</td><td>Fresnes Les Montauban</td><td>2026-10-06</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Agent Technico-commercial Instruments</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Sectoralarmfrance</td><td>Technicien Itinérant Systèmes D'alarmes H/f</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Alfi El Technicien De Maintenance Pfgv</td><td>Grenoble</td><td>2026-10-06</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente - 25h Cdi H/f/x</td><td>Nice</td><td>2026-10-06</td></tr>
+<tr><td>Shiseido</td><td>Conseiller(ère) Beauté Le Bon Marché - Cdi (h/f)</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Urban Outfitters</td><td>Free People Team Leader/ Premier(e) Vendeur(se) - Paris Saint Sulpice, France</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Gucci</td><td>Gucci - Vendeur / Vendeuse - Cdd</td><td>Nice</td><td>2026-10-06</td></tr>
+<tr><td>Gucci</td><td>Gucci - Vendeur / Vendeuse - La Samaritaine</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Marriott International</td><td>Coord-events</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>CHANEL</td><td>Stage - Chargé De Projets Sélection Matières</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Avis Budget Group</td><td>Coordinateur(trice) Remise En État Des Véhicules Avant-vente Dans La Location De Véhicules (f/h)</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Nomura International PLC</td><td>Assistant To Deputy Ceo & Cao</td><td>Paris</td><td>2026-10-06</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage -assistant(e) Achats - Projets Sous-traitance (f/h/x) - Juillet 2026</td><td>Suresnes</td><td>2026-10-06</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage -assistant(e) Achats - Projets Sous-traitance (f/h/x) - Janvier 2027</td><td>Suresnes</td><td>2026-10-06</td></tr>
+<tr><td>Fromageries Bel</td><td>Alternance - Assistant(e) Achats Pommes (f/h/x) - Septembre 2026</td><td>Boué</td><td>2026-10-06</td></tr>
 </table>
