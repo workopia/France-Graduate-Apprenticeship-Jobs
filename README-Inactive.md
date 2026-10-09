@@ -7723,4 +7723,87 @@
 <tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Achats Et Services Généraux (h/f)</td><td>La Plaine-Saint-Denis</td><td>2026-10-08</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Stratégie Marketing (h/f)</td><td>Paris</td><td>2026-10-08</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Achats (h/f)</td><td>Paris</td><td>2026-10-08</td></tr>
+<tr><td>AIRBUS SAS</td><td>Stage 2027 - Projet D'amélioration Continue Des Processus, Méthodes Et Outils (f/h)</td><td>Toulouse</td><td>2026-10-09</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage Janvier 2027 - Project Management Intern (h/f)</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Chargé De Projet Performance Et Amélioration Continue Bureau D'etudes (h/f) Stage Talent Day</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Pigment</td><td>Tech Talent Acquisition Intern / Apprentice</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Criteo</td><td>Csr (sustainability) Internship</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>GE Vernova</td><td>Stagiaire Finance</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Coty Inc.</td><td>Intern / Digital Shelf Excellence Europe</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Coty Inc.</td><td>Internship/ Digital Marketing Assistant</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Egis in ANZ</td><td>Stage 3a - Ingénieur D'appels D'offres - Infrastructure De Transports H/f</td><td>Lyon</td><td>2026-10-09</td></tr>
+<tr><td>Egis Group</td><td>Stage 3a - Ingénieur D'appels D'offres - Infrastructure De Transports H/f</td><td>Lyon</td><td>2026-10-09</td></tr>
+<tr><td>Botify</td><td>Stagiaire People Ops – People &amp; Culture – 6 Mois</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>G&F Châtelain</td><td>Internship – Export Market Retail – Chanel Europe – January 2027 – M/f/d</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Viridien</td><td>Geophysicist Processing Intern</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Veepee Ad</td><td>Stage - Chargé(e) De Performance Marketing Et Merchandising (h/f/x) - Janvier 2027</td><td>Saint</td><td>2026-10-09</td></tr>
+<tr><td>ING</td><td>Stage Ing Transaction Services Sales France H/f/x</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Kering</td><td>Kering Stage En Cyber Threat Intelligence (stratégique)</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Kering</td><td>Kering Stage Innovation</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Schaeffler</td><td>Stagiaire Ingénieur Amélioration Continue (h/f)</td><td>France</td><td>2026-10-09</td></tr>
+<tr><td>Shiseido</td><td>Stage - Communication Pr Et Influence Officer Serge Lutens H/f - Janvier 2027</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Shiseido</td><td>Stage - Pr & Influence Officer Assistant H/f - Janvier 2027</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Mondelez International Foundation</td><td>Stage Mondelez (lu, Oreo, Milka...) Ingenieur Developpement Farine (h/f/x) – 6 Mois – Saclay (région Parisienne) – Janvier/février/mars 2027</td><td>Saclay</td><td>2026-10-09</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Stage - Siège Social - Extra-financial Performance & Esg Ratings H/f</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Stage - Siege Social - Stagiaire Adoption Intelligence Artificielle H/f</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Internship - Head Office - Group Strategy & Competitive Intelligence Intern H/f</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Internship - Junior Project Manager Environment And Safety M/f</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois Communication</td><td>Marcy</td><td>2026-10-09</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois – Formation Opérations Qualité Du Site</td><td>Marcy</td><td>2026-10-09</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois Réclamation Qualité</td><td>Marcy</td><td>2026-10-09</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois Data Integrity Et Transformation Digitale</td><td>Marcy</td><td>2026-10-09</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois Excellence Qualité Qualification Et Validationt</td><td>Marcy</td><td>2026-10-09</td></tr>
+<tr><td>Thales Group</td><td>Stage - Identification Des Apports De L’ia Agentique Pour Le Développement - H / F</td><td>Mantes La Jolie</td><td>2026-10-09</td></tr>
+<tr><td>Thales Group</td><td>Stage 1,5 Mois Ingénieur "annotation D’images Pour Un Système De Veille Infrarouge" H/f</td><td>Mantes La Jolie</td><td>2026-10-09</td></tr>
+<tr><td>Thales Group</td><td>Stage - Développement D’une Chaîne Ci/cd Pour L’infrastructure It - F/h</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Ayvens Group</td><td>Assistant Pôle Production En Alternance</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Eiffagemetal</td><td>Apprenti(e) Technicien De Maintenance Des Véhicules (h/f)</td><td>Toulouse</td><td>2026-10-09</td></tr>
+<tr><td>dacia</td><td>Cs27 - Bac+5 - Stage Ingénieur Matériaux Analyses D'avaries (h/f)</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>dacia</td><td>Cs27- Bac+5 - Stage Ingénieur Matériaux Métalliques Produits Plats (h/f)</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 - Intégration Systèmes Et Structures (f/h) :</td><td>Toulouse</td><td>2026-10-09</td></tr>
+<tr><td>Egis</td><td>Stage Bac+3/bac+4/bac+5 - Ingénieur Écoconception / Innovation / Technique Transport - H/f</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>BlaBlaCar</td><td>Confirmed Backend Engineer - Payment Squad</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Jobgether</td><td>Ai Augmented Software Engineer [gn] Data Intelligence Platform</td><td>France</td><td>2026-10-09</td></tr>
+<tr><td>MyCatalinaBenefits</td><td>Data Analyst Junior F/h</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Databricks Lakehouse</td><td>Ai Forward Deployed Engineer - France</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Renault Group</td><td>Cs27 - Stage - Bac+5 - Data Analyste - H/f</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+4/5 - Data Scientist - H/f</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Jobgether</td><td>Ai Engineer</td><td>France</td><td>2026-10-09</td></tr>
+<tr><td>Houlihan Lokey, Inc.</td><td>Financial Analyst - Corporate Finance (business Services)</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Onepoint</td><td>Comptable Fournisseurs Expérimenté.e F/h</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Onepoint</td><td>Comptable Confirmé.e F/h</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Onepoint</td><td>Comptable Back-up / Gestion Factor & Support Trésorerie F/h</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Chanel</td><td>Stage – Assistant(e) International Business Finance Analyst - Horlogerie Joaillerie ​- Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Maintenance (h/f)</td><td>Rodez</td><td>2026-10-09</td></tr>
+<tr><td>Otis Worldwide</td><td>Régleur (h/f)</td><td>Nice</td><td>2026-10-09</td></tr>
+<tr><td>MSX International Ltd</td><td>Technicien Diagnostic Automobile Télématique / Adas / Multiplexage (h/f) - Cdd</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Eurofeu</td><td>Technicien Multi-services Incendie H/f</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Ayvens Group</td><td>Technicien De Maintenance</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Eiffagemetal</td><td>Préparateur Travaux De Montage F/h</td><td>Lyon</td><td>2026-10-09</td></tr>
+<tr><td>Eiffagemetal</td><td>Technicien De Maintenance Multi Technique F/h</td><td>Orleans</td><td>2026-10-09</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Ht F/h</td><td>Grenoble</td><td>2026-10-09</td></tr>
+<tr><td>KONE Bahrain</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Lille</td><td>2026-10-09</td></tr>
+<tr><td>Diversey</td><td>Alternant Technicien Commercial Paris Idf Nord Ouest</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Agent/technicien De Maintenance (h/f/x)</td><td>Bordeaux</td><td>2026-10-09</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Soeur</td><td>Cdi - Premier.e Vendeur.euse 35h (nantes)</td><td>Nantes</td><td>2026-10-09</td></tr>
+<tr><td>Balenciaga</td><td>Balenciaga - Cdi Sales Associate Galeries Lafayette</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Bottega Veneta France SAS</td><td>Bottega Veneta Client Advisor Montaigne</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Hermès International</td><td>Cdd - Vendeur(se) - Megève</td><td>Annecy</td><td>2026-10-09</td></tr>
+<tr><td>Cultura / Cultura Group</td><td>Conseiller(e) De Vente Service</td><td>Bordeaux</td><td>2026-10-09</td></tr>
+<tr><td>Soeur</td><td>Cdi - Vendeur.euse 35h - Paris (la Vallée Village)</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>LOVISA</td><td>Vendeur(euse) En Cdd 20h - Fêtes De Fin D'année</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>LOVISA</td><td>Vendeur(euse) En Cdd 7h - Fêtes De Fin D'année</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>LOVISA</td><td>Vendeur(euse) En Cdd 15h - Fêtes De Fin D'année</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>santecie</td><td>Assistant(e) Administratif(ve)</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Kering</td><td>Boucheron - Cdd- Project Coordinator, Retail Transformation & Client Experience (f/h/x)</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Pernod Ricard</td><td>Executive Assistant Intern</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>xfroid.fr</td><td>Stage Evènementiel & Rp - Marques Globales</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Pernod Ricard</td><td>Group Social Reporting Hr Intern - Mars 2027</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Valeo</td><td>Alternant(e) Coordinateur/trice Junior Communication Externe (f/h)</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Ardian</td><td>Brand & Communication-events Project Assistant Stage - Mars 2027 I Paris (m/f)</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Sopra Steria</td><td>Coordinateur(trice) Des Infrastructures - Digital Platform Services - Île-de-france</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Joseph Joseph UK</td><td>Customer Supply Chain Coordinator - Eu</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>Mercure Paris Porte de Versailles Expo Vanves</td><td>Offre D’alternance – Administratif(ve) & Rh Junior</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>MANGO</td><td>Directrice Adjointe, Cdi 35h</td><td>Paris</td><td>2026-10-09</td></tr>
 </table>
