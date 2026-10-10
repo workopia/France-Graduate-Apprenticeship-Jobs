@@ -7806,4 +7806,65 @@
 <tr><td>Joseph Joseph UK</td><td>Customer Supply Chain Coordinator - Eu</td><td>Paris</td><td>2026-10-09</td></tr>
 <tr><td>Mercure Paris Porte de Versailles Expo Vanves</td><td>Offre D’alternance – Administratif(ve) & Rh Junior</td><td>Paris</td><td>2026-10-09</td></tr>
 <tr><td>MANGO</td><td>Directrice Adjointe, Cdi 35h</td><td>Paris</td><td>2026-10-09</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stage - 6 Mois - Ingénieur Déploiement Du Visual Management F/h</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stage - Digitalisation Des Performances De Fiabilité F/h</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stage - Développement D'outils Et Méthodes Pour Essais Sites - Métro De Toulouse (h/f) 1</td><td>Toulouse</td><td>2026-10-10</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Alternant(e) - Santé & Sécurité - F/h</td><td>Ornans</td><td>2026-10-10</td></tr>
+<tr><td>Bonduelle</td><td>Stage Perfect Store & Trade Marketing H/f</td><td>Lille</td><td>2026-10-10</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois Développement Automatisation Procédés Continus</td><td>Sisteron</td><td>2026-10-10</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois Validation Des Procédés De Purification</td><td>Aramon</td><td>2026-10-10</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois – Chimie Des Procédés</td><td>Sisteron</td><td>2026-10-10</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois – Affaires Publiques Vaccins</td><td>Lyon</td><td>2026-10-10</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 4 À 4 Mois Programmation</td><td>Montpellier</td><td>2026-10-10</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois Microbiologie</td><td>Montpellier</td><td>2026-10-10</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 5 Mois Analyse De Dissolution</td><td>Montpellier</td><td>2026-10-10</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois – In Vivo Oncologie</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Internship 6 Months Digital Product Management</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Mondelez International Foundation</td><td>Stage Mondelēz (lu, Oreo, Milka...) - Marketing - Insights & Analytics – Assistant Chargé D’études (h/f/x) – 6 Mois – Boulogne-billancourt – Janvier 2027</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>URW</td><td>International Leasing Intership (f/m)</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>dacia</td><td>Cs27 - Bac+5 - Stage Ingénieur Développement Ia H/f</td><td>Lardy</td><td>2026-10-10</td></tr>
+<tr><td>Barilla Group</td><td>Stage Contrôle De Gestion Commercial - Rgm À Paris</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Barilla Group</td><td>Stage Chef De Produit Barilla F/h (6 Mois)</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Barilla Group</td><td>Stagiaire Trade Marketing - Barilla (h/f)</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Stage 2027 : Développement De Solutions Digitales F/h</td><td>Toulouse Area</td><td>2026-10-10</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 Déploiement De L'intelligence Artificielle Sur Un Site De Production</td><td>Paris Area</td><td>2026-10-10</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Synchroniseur (h/f)</td><td>Marseille</td><td>2026-10-10</td></tr>
+<tr><td>Airbus Defence & Space</td><td>Stage 2027 - Étude Comparative Des Logiciels De Simulation Et D’émulation Réseau (h/f)</td><td>Toulouse</td><td>2026-10-10</td></tr>
+<tr><td>AIRBUS SAS</td><td>Stage 2027 - Stagiaire Marketing Rh & Communication (h/f)</td><td>Toulouse</td><td>2026-10-10</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - At Risk Time Double Ifsd (in Flight Shut Down / Extinction En Vol) (h/f)</td><td>Marseille</td><td>2026-10-10</td></tr>
+<tr><td>Airbus Atlantic</td><td>Stage 2027 -stage Calcul & Simulation Composites (all Gender)</td><td>Toulouse Area</td><td>2026-10-10</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Simulation & Calculs Pales Composites (h/f)</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Airbus Defence and Space</td><td>Stage 2027 – Stage En Amélioration Des Outils D’évaluation De Performances Scao (f/h)</td><td>Toulouse</td><td>2026-10-10</td></tr>
+<tr><td>Murex</td><td>Internship 2027 – Functional Engineer Analytics</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Murex</td><td>Internship 2027 – Functional Engineer Capital Market</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Atos SE</td><td>Alternance - Ingénieur Intégrateur Sécurité Pki H/f</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>THALES</td><td>Stage Ingénieur Electrotechnique - H/f</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>E80 Group</td><td>Lgv Software Programmer - Grans</td><td>Grans</td><td>2026-10-10</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Advisory Suite</td><td>France</td><td>2026-10-10</td></tr>
+<tr><td>Criteo</td><td>Product Analytics - Data Scientist</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Jobgether</td><td>Mid Qa Mobile Automation Engineer</td><td>France</td><td>2026-10-10</td></tr>
+<tr><td>SNOP</td><td>Comptable Fournisseurs (h-f)</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>OTIS</td><td>Technicien De Maintenance (h/f)</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Kering</td><td>Kering Eyewear - Technicien Regleur</td><td>Morbier</td><td>2026-10-10</td></tr>
+<tr><td>Alstom</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h) 1 Postuler »</td><td>Ile-De-France</td><td>2026-10-10</td></tr>
+<tr><td>Alstom</td><td>Technicien(ne) De Maintenance Ferroviaire (f/h) 1 1 Postuler »</td><td>Ile-De-France</td><td>2026-10-10</td></tr>
+<tr><td>Pernod Ricard France</td><td>Cdd – Technicien(ne) De Maintenance – Pernod Ricard France – Lille (vendeville) - 6 Mois</td><td>Lille</td><td>2026-10-10</td></tr>
+<tr><td>3mschweiz.ch</td><td>Technicien De Maintenance (h/f/*)</td><td>Niedermodern</td><td>2026-10-10</td></tr>
+<tr><td>ibis Styles Clamart Gare Grand Paris</td><td>Fr - Agent/technicien De Maintenance (h/f/x)</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Fr - Agent/technicien De Maintenance (h/f/x)</td><td>La Rochelle</td><td>2026-10-10</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien De Maintenance Extincteurs H/f</td><td>Sophia Antipolis</td><td>2026-10-10</td></tr>
+<tr><td>Fortil Group</td><td>Technicien Maintenance Fluides (h/f)</td><td>Bordeaux</td><td>2026-10-10</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Technicien De Maintenance De Parcs Éoliens (h/f) - Candé (49)</td><td>Candé</td><td>2026-10-10</td></tr>
+<tr><td>Sonepar Climate</td><td>Technicien Sav H/f - Sonepar Climate Marseille (13)</td><td>Marseille</td><td>2026-10-10</td></tr>
+<tr><td>Muckelab</td><td>Technicien De Maintenance H/f</td><td>Rennes</td><td>2026-10-10</td></tr>
+<tr><td>Otis</td><td>Technicien De Montage (h/f)</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Bombardier</td><td>Licensed Technician B1/b2 - Paris</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Rhône Gaz</td><td>Rhone-gaz - Technicien De Maintenance F/h</td><td>Lyon</td><td>2026-10-10</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Nantes</td><td>2026-10-10</td></tr>
+<tr><td>Jo Malone London</td><td>Cdd 35h - Conseiller.e De Vente - Jo Malone London - Lyon - H/f/x</td><td>Lyon</td><td>2026-10-10</td></tr>
+<tr><td>LEGO Group</td><td>Vendeur Caissier Polyvalent H/f 2</td><td>Lille</td><td>2026-10-10</td></tr>
+<tr><td>Demant AS</td><td>Assistant Administratif Et Commercial / Coordinateur De Centre H/f - Port-vendres (66)</td><td>Port-Vendres</td><td>2026-10-10</td></tr>
+<tr><td>Audika</td><td>Assistant Administratif Et Commercial / Coordinateur De Centre H/f - Nice (06)</td><td>Nice</td><td>2026-10-10</td></tr>
+<tr><td>Saint Laurent</td><td>Saint Laurent Assistante Administrative H/f - Paris</td><td>Paris</td><td>2026-10-10</td></tr>
+<tr><td>Kering</td><td>Saint Laurent Stagiaire Assistant Chef De Projet Architecture</td><td>Paris</td><td>2026-10-10</td></tr>
 </table>
