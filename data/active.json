@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-10",
+ "asOf": "2026-10-11",
  "count": 814,
  "jobs": {
   "540886": {
@@ -8,484 +8,514 @@
    "role": "Software Engineer",
    "location": "Paris"
   },
-  "dd8a64bb94dd2a81c9f71481f166ba43": {
-   "id": "dd8a64bb94dd2a81c9f71481f166ba43",
-   "company": "Bonduelle",
-   "role": "Stagiaire Rgm H/f",
-   "location": "Lille"
-  },
-  "e6f4302c6634c477f679b1e5a6648fb9": {
-   "id": "e6f4302c6634c477f679b1e5a6648fb9",
-   "company": "SNOP",
-   "role": "Stagiaire Master Data Achats (h/f)",
+  "427fd3ff3cadf719ea73d76e7d4abd94": {
+   "id": "427fd3ff3cadf719ea73d76e7d4abd94",
+   "company": "OPSM (EssilorLuxottica Group)",
+   "role": "Stage - Controle De Gestion F/h",
    "location": "Paris"
   },
-  "95edea604a699e4780cb0dcf5f647839": {
-   "id": "95edea604a699e4780cb0dcf5f647839",
-   "company": "Sanofi",
-   "role": "Stage 6 Mois Analyse Données Validation",
-   "location": "AmbarèS"
+  "906eab048c172a4ed2094e21d4566041": {
+   "id": "906eab048c172a4ed2094e21d4566041",
+   "company": "Alstom",
+   "role": "Stagiaire Essais Et Interfaces H/f 1",
+   "location": "Recherche Par Lieu"
   },
-  "f2b93d726aa59306738ec7a664099ed5": {
-   "id": "f2b93d726aa59306738ec7a664099ed5",
-   "company": "Sanofi Genzyme",
-   "role": "Stage 6 Mois Support De Communication Et De Transformation",
-   "location": "Montpellier"
+  "305f8434792b386522b651fb888dd71b": {
+   "id": "305f8434792b386522b651fb888dd71b",
+   "company": "Alstom",
+   "role": "Stage - 6 Mois - Conception Et Automatisation De Commande Tolérante F/h",
+   "location": "Recherche Par Lieu"
   },
-  "a4691a56d00e9208732a513e82a71890": {
-   "id": "a4691a56d00e9208732a513e82a71890",
-   "company": "Sanofi Genzyme",
-   "role": "Stage 4 Mois En Analyse",
-   "location": "Montpellier"
-  },
-  "39137ab06a871e9342ea4d381dcf0784": {
-   "id": "39137ab06a871e9342ea4d381dcf0784",
-   "company": "Sanofi",
-   "role": "Stage 6 Mois Juriste Protection Des Données Personnelles",
+  "11b960ac740e49fdde3f1952f389bca5": {
+   "id": "11b960ac740e49fdde3f1952f389bca5",
+   "company": "Alstom",
+   "role": "Stage - 6 Mois - Stagiaire H/f Travaux Et Opc (h/f)",
    "location": "Paris"
   },
-  "e70681e6b9626e23f7e91e5c6a93728a": {
-   "id": "e70681e6b9626e23f7e91e5c6a93728a",
-   "company": "Sanofi Genzyme",
-   "role": "Stage 6 Mois Développement De Contenants Primaires",
-   "location": "Paris"
+  "b7236051264c75faffa853ae7cd3cefc": {
+   "id": "b7236051264c75faffa853ae7cd3cefc",
+   "company": "Alstom",
+   "role": "Stage - 6 Mois - Automatisation De Compagnes D'essais Cbtc (h/f)",
+   "location": "Recherche Par Lieu"
   },
-  "ae411e34ced37e140750dd68f83e60ce": {
-   "id": "ae411e34ced37e140750dd68f83e60ce",
-   "company": "Sanofi Genzyme",
-   "role": "Stage 6 Mois – Assurance Qualité Fabrication Externe",
-   "location": "Paris"
-  },
-  "e07c9bc520556ee3f47620f69b0080b2": {
-   "id": "e07c9bc520556ee3f47620f69b0080b2",
-   "company": "Sanofi Genzyme",
-   "role": "Internship 6 Months Regulatory Site Compliance",
-   "location": "Marcy"
-  },
-  "195380221b7fda200874c64567bd0a15": {
-   "id": "195380221b7fda200874c64567bd0a15",
-   "company": "Sanofi Genzyme",
-   "role": "Stage 6 Mois Support Production Biotechnologies Zac",
-   "location": "Paris"
-  },
-  "9bed7f7930ea23d54f42661e12a62b84": {
-   "id": "9bed7f7930ea23d54f42661e12a62b84",
-   "company": "THALES",
-   "role": "Stage - C9x Empreinte Carbonne F/h",
-   "location": "Marseille"
-  },
-  "06ea2276fbe822a3e601de8de9024629": {
-   "id": "06ea2276fbe822a3e601de8de9024629",
-   "company": "Mondelez",
-   "role": "Stage Mondelez (lu, Oreo, Milka...) Process Packaging / Matériaux De Conditionnement (h/f/x) - Vervins - Janvier/fevrier/ Mars 2027",
-   "location": "Vervins"
-  },
-  "c5e368bd6caff7f851d8661c1cababd1": {
-   "id": "c5e368bd6caff7f851d8661c1cababd1",
-   "company": "Mondelez",
-   "role": "Stage Mondelez (lu, Oreo, Milka...) Process Performance Matières & Procédés / Digitalisation (h/f/x) - Vervins - Mars 2027",
-   "location": "Vervins"
-  },
-  "51ae6313dd5b1c56555cb0e9e18cd29b": {
-   "id": "51ae6313dd5b1c56555cb0e9e18cd29b",
-   "company": "TotalEnergies",
-   "role": "Stage - Études Pour L’intégration D’un Bess Dans Un Parc Eolien - H/f",
-   "location": "Paris"
-  },
-  "25b6c10fa57d5b42d773068afd621969": {
-   "id": "25b6c10fa57d5b42d773068afd621969",
-   "company": "International SOS",
-   "role": "Sales Executive Intern",
-   "location": "Paris"
-  },
-  "681cb8c7620f2b5bb9c320d1737c1e12": {
-   "id": "681cb8c7620f2b5bb9c320d1737c1e12",
-   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
-   "role": "Stage - Chargé De Développement Énergies Renouvelables Junior/ Origination Internship",
-   "location": "Rodez"
-  },
-  "cffcda2a5dea95886231b65f2543e352": {
-   "id": "cffcda2a5dea95886231b65f2543e352",
-   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
-   "role": "Business Developer Intern",
-   "location": "Paris"
-  },
-  "9db5ad3522502fd20277544318a41b79": {
-   "id": "9db5ad3522502fd20277544318a41b79",
-   "company": "Chanel (Australia) Pty Ltd",
-   "role": "Stage Innovation Formules Soin & Toiletries",
-   "location": "Paris"
-  },
-  "468dfd083f359651d2bf53aeb25c9b49": {
-   "id": "468dfd083f359651d2bf53aeb25c9b49",
-   "company": "Eiffage Rail",
-   "role": "Alternance Ou Stage - Chargé Méthodes Et Digitalisation - F/h",
-   "location": "Mantes La Jolie"
-  },
-  "4f90a180d56ee1eba09a569f6f740324": {
-   "id": "4f90a180d56ee1eba09a569f6f740324",
-   "company": "VIE-INDIA",
-   "role": "Stage 2027 - Amélioration Du Correctif Unité 2 Fal A321(f/h)",
-   "location": "Toulouse Area"
-  },
-  "0da5751995e842d9b49751862aafae67": {
-   "id": "0da5751995e842d9b49751862aafae67",
-   "company": "Corby Spirit and Wine Ltd",
-   "role": "Stagiaire Hospitalité Vip - Gh Mumm",
-   "location": "Reims"
-  },
-  "f9105011de426736682523c7fb0fe6bf": {
-   "id": "f9105011de426736682523c7fb0fe6bf",
-   "company": "Corby Spirit and Wine Ltd",
-   "role": "Stage Amélioration Continue & Méthodes - Reims",
-   "location": "Reims"
-  },
-  "769a45efbcbf0f2fb43f441dab1eb95a": {
-   "id": "769a45efbcbf0f2fb43f441dab1eb95a",
-   "company": "Coty",
-   "role": "Total Reward Apprenticeship",
-   "location": "Paris"
-  },
-  "041ad9b794fccb876a5f482740754406": {
-   "id": "041ad9b794fccb876a5f482740754406",
-   "company": "Coty",
-   "role": "Retail Coordinator Intern",
-   "location": "Paris"
-  },
-  "72cb636f3020f4c448c5e4065ca6c52e": {
-   "id": "72cb636f3020f4c448c5e4065ca6c52e",
-   "company": "Coty",
-   "role": "Intern / Makeup Development - Marc Jacobs Beauty - Burberry Beauty - Gucci Beauty",
-   "location": "Paris"
-  },
-  "dd438f332cbc7b924198913f9dec6494": {
-   "id": "dd438f332cbc7b924198913f9dec6494",
-   "company": "Betcfullsix",
-   "role": "Betc Fullsix - Editorial Content Assistant (h/f/x) - Stage",
-   "location": "Paris"
-  },
-  "a037f856e6cf3803fb47432f9fe00292": {
-   "id": "a037f856e6cf3803fb47432f9fe00292",
-   "company": "Estée Lauder",
-   "role": "Global International Retail & Education Assistant Intern",
-   "location": "Paris"
-  },
-  "623931621a48de5ddd819fbbf9790abb": {
-   "id": "623931621a48de5ddd819fbbf9790abb",
-   "company": "Estée Lauder",
-   "role": "Internship - Paid Media Assistant Emea",
-   "location": "Paris"
-  },
-  "f78b5a65490eb1c72878b53c7f76bff6": {
-   "id": "f78b5a65490eb1c72878b53c7f76bff6",
-   "company": "Estée Lauder",
-   "role": "Internship - Visual Merchandising & Store Design Assistant",
-   "location": "Paris"
-  },
-  "b11142ede06b58162fb3ffb0539bace6": {
-   "id": "b11142ede06b58162fb3ffb0539bace6",
-   "company": "Estée Lauder",
-   "role": "Store Design & Visual Merchandising Intern",
-   "location": "Paris"
-  },
-  "dbffbdc0f73c705cbde69896c5a8f7b5": {
-   "id": "dbffbdc0f73c705cbde69896c5a8f7b5",
-   "company": "Estée Lauder",
-   "role": "Legal Intern",
-   "location": "Paris"
-  },
-  "65619229e4ce489fb141b901ad866293": {
-   "id": "65619229e4ce489fb141b901ad866293",
-   "company": "Estée Lauder",
-   "role": "Intern I Strategy & Market Intelligence Analyst I Emea",
-   "location": "Paris"
-  },
-  "bf576354e04a61fc12875d5f4c1f5c14": {
-   "id": "bf576354e04a61fc12875d5f4c1f5c14",
-   "company": "Estée Lauder",
-   "role": "Corporate Affairs /communications Intern",
-   "location": "Paris"
-  },
-  "2aadcf31bb1c403f1ff12df94434188d": {
-   "id": "2aadcf31bb1c403f1ff12df94434188d",
-   "company": "Estée Lauder",
-   "role": "Communication & Marketing Internship Le Labo",
-   "location": "Paris"
-  },
-  "cc80a2c6f6f9bda465282c89ff622635": {
-   "id": "cc80a2c6f6f9bda465282c89ff622635",
-   "company": "Estée Lauder",
-   "role": "Crm Internship",
-   "location": "Paris"
-  },
-  "e74f49a3df9d12f68c424bd0d1bf8314": {
-   "id": "e74f49a3df9d12f68c424bd0d1bf8314",
-   "company": "Electra",
-   "role": "Procurement Intern",
-   "location": "Paris"
-  },
-  "b6e9fcf32eecf58e3af032ebe4bc45e5": {
-   "id": "b6e9fcf32eecf58e3af032ebe4bc45e5",
-   "company": "Delair",
-   "role": "Stage Guidage De Drones À Voilure Fixe - Essaims De Drones - 6 Mois (pfe) H/f",
-   "location": "Grenoble"
-  },
-  "32f5b53b86744d55473ded644060e2b3": {
-   "id": "32f5b53b86744d55473ded644060e2b3",
-   "company": "689",
-   "role": "6 Month Internship - Debt Capital Markets Bonds & Loans - January 2027",
-   "location": "Paris"
-  },
-  "601e4959fb7fffda59985fb9d00daa8f": {
-   "id": "601e4959fb7fffda59985fb9d00daa8f",
-   "company": "AIRBUS SAS",
-   "role": "Stage 2027 - Conformité Des Données (f/h)",
-   "location": "Toulouse Area"
-  },
-  "15198ba720702f26081ad995f37feacd": {
-   "id": "15198ba720702f26081ad995f37feacd",
-   "company": "Airbus",
-   "role": "Stage 2027 - Coopération Internationale Et Engagement Externe (h/f)",
-   "location": "Toulouse"
-  },
-  "0e9ef9b4abf1aaa8df41e5452ce75e25": {
-   "id": "0e9ef9b4abf1aaa8df41e5452ce75e25",
-   "company": "AIRBUS SAS",
-   "role": "Stage 2027 - Stagiaire En Sales Controlling Analytics (f/h)",
-   "location": "Toulouse"
-  },
-  "b645efe5039a99d4b969818ce5d86b9b": {
-   "id": "b645efe5039a99d4b969818ce5d86b9b",
-   "company": "Hiflow",
-   "role": "Stagiaire Relation Partenaires Chauffeurs",
-   "location": "Paris"
-  },
-  "d29394b6fe3288fef9f11cc239033df5": {
-   "id": "d29394b6fe3288fef9f11cc239033df5",
-   "company": "Trzdev35",
-   "role": "Alternance - Digital Marketing - (h/f)",
-   "location": "Paris"
-  },
-  "261d2d69b47c3504666a244ea80da7e3": {
-   "id": "261d2d69b47c3504666a244ea80da7e3",
-   "company": "Sopra Steria UK",
-   "role": "Stage - Ai Marketing & Growth - Bras Droit Cmo",
-   "location": "Paris"
-  },
-  "ae4fc97d396eac9eb929c793d85e26f1": {
-   "id": "ae4fc97d396eac9eb929c793d85e26f1",
-   "company": "Euronext",
-   "role": "Equity Listing Analyst Intern",
-   "location": "Paris"
-  },
-  "1ee18f8737a3977694168180ad069d29": {
-   "id": "1ee18f8737a3977694168180ad069d29",
-   "company": "Hotel Chadstone Melbourne MGallery",
-   "role": "Stage Cuisine - 4 À 6 Mois (h/f)",
-   "location": "Paris"
-  },
-  "695017aa15241488da016dbf7df606d3": {
-   "id": "695017aa15241488da016dbf7df606d3",
-   "company": "Hotel Chadstone Melbourne MGallery",
-   "role": "Stage Assistant.e Commercial (a Pourvoir Dès Que Possible) (h/f)",
-   "location": "Paris"
-  },
-  "a8aa386b24c93b53f53d34fbcfa7d06a": {
-   "id": "a8aa386b24c93b53f53d34fbcfa7d06a",
-   "company": "Hotel Chadstone Melbourne MGallery",
-   "role": "Stage Chargé De Projet F&b (h/f)",
-   "location": "Paris"
-  },
-  "595cd94a510a706dfa3db11384b7ddde": {
-   "id": "595cd94a510a706dfa3db11384b7ddde",
-   "company": "Hotel Chadstone Melbourne MGallery",
-   "role": "Stage Restauration (4 À 6 Mois) (h/f)",
-   "location": "Paris"
-  },
-  "c16b548c39baf1f47e637d88b36f478d": {
-   "id": "c16b548c39baf1f47e637d88b36f478d",
-   "company": "Hotel Chadstone Melbourne MGallery",
-   "role": "Stage Ressources Humaines (à Partir De Janvier 2027 - 6 Mois) (h/f)",
-   "location": "Paris"
-  },
-  "88ee15288d922c11377a6e48d3bca283": {
-   "id": "88ee15288d922c11377a6e48d3bca283",
-   "company": "Thales Group",
-   "role": "Stage - Développement Ihm Pour Pilotage De Systèmes Embarqués - F/h",
-   "location": "Mantes La Jolie"
-  },
-  "2bcb1c55cbdd8a09573218eec7a974a8": {
-   "id": "2bcb1c55cbdd8a09573218eec7a974a8",
-   "company": "Thales Group",
-   "role": "Stage - Immersion Professionnelle - F/h",
-   "location": "Paris"
-  },
-  "4cb981e20522fe135312771192ff30a9": {
-   "id": "4cb981e20522fe135312771192ff30a9",
+  "3788174c56ba391ee04368a5daa860cd": {
+   "id": "3788174c56ba391ee04368a5daa860cd",
    "company": "Bolton Group S.r.l",
-   "role": "Stagiaire Master Data",
+   "role": "Stagiaire Assistant(e) Trade Marketing Cavaillès - Beauty Care",
    "location": "Paris"
   },
-  "8dafe39b6621e7c7bac615a7d00aabc1": {
-   "id": "8dafe39b6621e7c7bac615a7d00aabc1",
-   "company": "Sanofi Genzyme",
-   "role": "Stage 6 Mois – Innovation Arnm Bioprocédés",
-   "location": "Marcy-L’Etoile"
+  "7bddc009024e0f4892ffc4535533019a": {
+   "id": "7bddc009024e0f4892ffc4535533019a",
+   "company": "Shiseido",
+   "role": "Stage - Marketing Opérationnel Emea - Drunk Elephant & Doctor Dennis Gross H/f",
+   "location": "Paris"
   },
-  "64012827efca24f31bb76918ad04afed": {
-   "id": "64012827efca24f31bb76918ad04afed",
-   "company": "Sanofi Genzyme",
-   "role": "Stage 6 Mois Pilotage Formation Compliance Supply Chain Clinique",
+  "c74a2b07c978d144ec79df87d9c198a7": {
+   "id": "c74a2b07c978d144ec79df87d9c198a7",
+   "company": "Shiseido",
+   "role": "Internship - Export Marketing Product Manager Assistant - Shiseido Brand - January 2027",
+   "location": "Paris"
+  },
+  "3b60871eae39b9573afc7891b22d2b3c": {
+   "id": "3b60871eae39b9573afc7891b22d2b3c",
+   "company": "Shiseido",
+   "role": "Internship - Export Marketing Product Manager Assistant Designer Fragance Brands - January 2027",
+   "location": "Paris"
+  },
+  "05e7bac31652324c733f1537b8fdfb58": {
+   "id": "05e7bac31652324c733f1537b8fdfb58",
+   "company": "Shiseido",
+   "role": "Stage - Digital Marketing Assistant H/f - Janvier 2027",
+   "location": "Paris"
+  },
+  "5429ccf3b5234196c9974d7900ae8734": {
+   "id": "5429ccf3b5234196c9974d7900ae8734",
+   "company": "Shiseido",
+   "role": "Stage - Serge Lutens Business Development H/f - Janvier 2027",
+   "location": "Paris"
+  },
+  "8a3e76a91052a0ff6a0135547341c399": {
+   "id": "8a3e76a91052a0ff6a0135547341c399",
+   "company": "Shiseido",
+   "role": "Stage - Scientific Communication Assistant H/f - Janvier 2027",
+   "location": "Paris"
+  },
+  "8c0ec531184abe52e7fb85d8bf59778c": {
+   "id": "8c0ec531184abe52e7fb85d8bf59778c",
+   "company": "Shiseido",
+   "role": "Stage - Sustainability & Csrd Assistant H/f - Janvier 2027",
+   "location": "Paris"
+  },
+  "7a7a57f53be6abdfdacd487bb51fa7f0": {
+   "id": "7a7a57f53be6abdfdacd487bb51fa7f0",
+   "company": "Shiseido",
+   "role": "Stage - Pr And Influence Assistant Shiseido Emea H/f - Janvier 2027",
+   "location": "Paris"
+  },
+  "cabf67e6a3eec6960a44e73e2d743478": {
+   "id": "cabf67e6a3eec6960a44e73e2d743478",
+   "company": "Shiseido",
+   "role": "Stage - Intellectual Property Legal Counsel H/f - Janvier 2027",
+   "location": "Paris"
+  },
+  "6cec4e597ee1babcdc9094e02cc29ce9": {
+   "id": "6cec4e597ee1babcdc9094e02cc29ce9",
+   "company": "Shiseido",
+   "role": "Stage - Trade Marketing Assistant H/f - Janvier 2027",
+   "location": "Paris"
+  },
+  "f602de4b801c74892f7e07731664e350": {
+   "id": "f602de4b801c74892f7e07731664e350",
+   "company": "Signify",
+   "role": "Stage: Marketing Produit – Support Eto (h/f)",
+   "location": "Paris"
+  },
+  "8fbeaa530ae2598bcc1220193d528c86": {
+   "id": "8fbeaa530ae2598bcc1220193d528c86",
+   "company": "Bausch + Lomb",
+   "role": "Stage - Ass. Grands Comptes Industrie Pharma",
    "location": "Montpellier"
   },
-  "19aef5d0b593227a721489d59c215354": {
-   "id": "19aef5d0b593227a721489d59c215354",
-   "company": "Xfinity (Comcast)",
-   "role": "Junior Analyst Intern",
+  "a821d2e7a9548a2ceda5600b170bc17f": {
+   "id": "a821d2e7a9548a2ceda5600b170bc17f",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Stagiaire En Librairie (h/f)",
    "location": "Paris"
   },
-  "adffe6ff34483ad9946a57fef03f10c3": {
-   "id": "adffe6ff34483ad9946a57fef03f10c3",
-   "company": "Airbus Operations SAS",
-   "role": "Stage 2027 - Support En Gestion De Projet Sur L’introduction D’un Nouveau Standard A320 En Fal (h/f)",
-   "location": "Toulouse"
+  "a6e07b03e37f0abe85d3219db8b891af": {
+   "id": "a6e07b03e37f0abe85d3219db8b891af",
+   "company": "Richemont Australia Pty Ltd",
+   "role": "Intern - Intellectual Property Legal Assistant (h/f)",
+   "location": "Paris"
   },
-  "586010a3f775c489845ab3cc35eb70ef": {
-   "id": "586010a3f775c489845ab3cc35eb70ef",
-   "company": "Airbus Defence and Space SAS",
-   "role": "Stage 2027 - Conception De Logiciels De Localisation Par Traitement D’antenne (h/f)",
+  "286a7231aaa1c21396dfca1ea26f514e": {
+   "id": "286a7231aaa1c21396dfca1ea26f514e",
+   "company": "Mondelez International",
+   "role": "Stage Mondelez Supply Chain - Demand Planning - 6 Mois - Boulogne-billancourt - Janvier 2027",
+   "location": "Paris"
+  },
+  "f755e53001bbd22d1ff0e59c8ff2794f": {
+   "id": "f755e53001bbd22d1ff0e59c8ff2794f",
+   "company": "Sanofi Genzyme",
+   "role": "Stage 6 Mois Développement Full Stack Et Ia",
+   "location": "Lyon"
+  },
+  "f68f845f9d7ac92fdb4174f5c6b60ac4": {
+   "id": "f68f845f9d7ac92fdb4174f5c6b60ac4",
+   "company": "IOM",
+   "role": "Intern – Korea Visa Application Centre (kvac)",
+   "location": "Paris"
+  },
+  "3148d05deff248ae920c1ac8891abb4d": {
+   "id": "3148d05deff248ae920c1ac8891abb4d",
+   "company": "Bayer",
+   "role": "Internship - Cryopreservation Of Fungal Strains & Laboratory Automation (f/h/nb)",
+   "location": "Lyon"
+  },
+  "d605befe9501e933f57a8a4176fc7fdf": {
+   "id": "d605befe9501e933f57a8a4176fc7fdf",
+   "company": "Bayer",
+   "role": "Internship - Plant Pathology & Laboratory Automation (f/h/nb)",
+   "location": "Lyon"
+  },
+  "90698302583ed2614040d57f4d099eda": {
+   "id": "90698302583ed2614040d57f4d099eda",
+   "company": "Balenciaga",
+   "role": "Balenciaga - Emea Retail Performance Intern - March 2027",
+   "location": "Paris"
+  },
+  "619e8d1afb9c790bae32f7e964fd46c3": {
+   "id": "619e8d1afb9c790bae32f7e964fd46c3",
+   "company": "Balenciaga",
+   "role": "Balenciaga - Emea Events & Client Relation Intern - January 2027",
+   "location": "Paris"
+  },
+  "c7f1a9da5fb2c52772663770d0b0bddb": {
+   "id": "c7f1a9da5fb2c52772663770d0b0bddb",
+   "company": "BALENCIAGA S.A.S.",
+   "role": "Balenciaga - Shoes Sales Merchandiser Intern - January 2027 (m/f)",
+   "location": "Paris"
+  },
+  "8f1cb4146928931216234615de6d6345": {
+   "id": "8f1cb4146928931216234615de6d6345",
+   "company": "BALENCIAGA S.A.S.",
+   "role": "Balenciaga - Lg Design Intern - January 2027 (f/m)",
+   "location": "Paris"
+  },
+  "a35bc061c11bd1ad503f157803c6372a": {
+   "id": "a35bc061c11bd1ad503f157803c6372a",
+   "company": "BALENCIAGA S.A.S.",
+   "role": "Balenciaga - Pr Assistant Intern - January 2027 (f/m)",
+   "location": "Paris"
+  },
+  "b42d3fac6168ff3e9c6bf5bd8a32def6": {
+   "id": "b42d3fac6168ff3e9c6bf5bd8a32def6",
+   "company": "BALENCIAGA S.A.S.",
+   "role": "Balenciaga - Global Direct Marketing Intern - January 2027 (m/f)",
+   "location": "Paris"
+  },
+  "831ab10c65f88fb1210a4cc58ee56372": {
+   "id": "831ab10c65f88fb1210a4cc58ee56372",
+   "company": "THALES",
+   "role": "Stage - Support À La Mise En Place D’ia Pour L’aide À La Simulation (f/h)",
+   "location": "Paris"
+  },
+  "611384319bb268f88face906260e14d8": {
+   "id": "611384319bb268f88face906260e14d8",
+   "company": "MAISONS DU MONDE FRANCE",
+   "role": "Stagiaire Communication Interne",
+   "location": "Nantes"
+  },
+  "d8a8add5edbe75a814f4147fc89183e3": {
+   "id": "d8a8add5edbe75a814f4147fc89183e3",
+   "company": "Fromageries Bel",
+   "role": "Stage - Assistant(e) Réglementation : Contaminants & Emballages (h/f/x) - Janvier 2027",
+   "location": "Paris"
+  },
+  "22ec6465ba827c5bf978ba111d8c505f": {
+   "id": "22ec6465ba827c5bf978ba111d8c505f",
+   "company": "Fromageries Bel",
+   "role": "Stage - Chargé(e) De Recrutement Et Projets Campus (h/f/x) - Janvier 2027",
+   "location": "Paris"
+  },
+  "b5e9366237eee3907a4a507d9fed2d80": {
+   "id": "b5e9366237eee3907a4a507d9fed2d80",
+   "company": "Fromageries Bel",
+   "role": "Internship - Social Affairs Lawyer (f/m/x) - January 2027",
+   "location": "Lyon"
+  },
+  "274f68a2a53c73e139b86cbb95d73639": {
+   "id": "274f68a2a53c73e139b86cbb95d73639",
+   "company": "Fromageries Bel",
+   "role": "Internship - Operations Fp&a Assistance (f/m/x) - January 2027",
+   "location": "Paris"
+  },
+  "eaa10c02982cac9b12348e2d9e0e66b5": {
+   "id": "eaa10c02982cac9b12348e2d9e0e66b5",
+   "company": "Fromageries Bel",
+   "role": "Stage - Chargé(e) D'études Marketing Global Brands (h/f/x) - Janvier 2027",
+   "location": "Paris"
+  },
+  "f11fa86ec42b3540c180d4e88554b7a0": {
+   "id": "f11fa86ec42b3540c180d4e88554b7a0",
+   "company": "Fromageries Bel",
+   "role": "Stage - Chargé(e) De Développement Emballages - Conformité Ppwr Et Perfect Store - Janvier 2027",
+   "location": "Vendome"
+  },
+  "862af14a8a6e2349dcf1f118c3080a36": {
+   "id": "862af14a8a6e2349dcf1f118c3080a36",
+   "company": "Fromageries Bel",
+   "role": "Stage - Assistant Direction Stratégie & Développement Commercial Foods (f/h/x) - Janvier 2027",
+   "location": "Paris"
+  },
+  "3385fff84de8666d8dc1992b1230032c": {
+   "id": "3385fff84de8666d8dc1992b1230032c",
+   "company": "Airbus SE",
+   "role": "Stage 2027 -stage En Gestion De Projet Et Conseil Numérique - Data & Analytics (f/h)",
    "location": "Toulouse Area"
   },
-  "5291e353e79c97dbca5b106490642334": {
-   "id": "5291e353e79c97dbca5b106490642334",
-   "company": "Airbus Helicopters SAS",
-   "role": "Stage 2027 - Be - Simulation De L'usure De Rotules Rotor Sur La Base D'essais Expérimentaux (f/h)",
+  "839234718a99cd3140ca23c48b9d21ac": {
+   "id": "839234718a99cd3140ca23c48b9d21ac",
+   "company": "Airbus SE",
+   "role": "Stage 2027- Support Au Management De L'innovation",
+   "location": "Toulouse Area"
+  },
+  "6bd34c35e17191edf282044cf77a5abf": {
+   "id": "6bd34c35e17191edf282044cf77a5abf",
+   "company": "Airbus SE",
+   "role": "Stage 2027 - Modernisation Des Méthodes Et Moyens D’essais Radar Et Contre Mesure (f/h)",
    "location": "Marseille"
   },
-  "624fcc36006d4dce27f5c249db38c5f5": {
-   "id": "624fcc36006d4dce27f5c249db38c5f5",
-   "company": "Latecoere",
-   "role": "Stage - Hse (h/f)",
+  "397169bf862d04dcd4ebb34f4e2f8de4": {
+   "id": "397169bf862d04dcd4ebb34f4e2f8de4",
+   "company": "Airbus SE",
+   "role": "Stage 2027 - Matériaux Et Procédés : Caractérisation De L’inconel 718 (f/h)",
    "location": "Toulouse"
   },
-  "2bb56cd08394d2ddb6e0f4efb55dadc7": {
-   "id": "2bb56cd08394d2ddb6e0f4efb55dadc7",
-   "company": "C12qe Com Inc",
-   "role": "Materials Science Intern",
-   "location": "Paris"
-  },
-  "71d5ba3e4ba2edb466bfb5e4636d3261": {
-   "id": "71d5ba3e4ba2edb466bfb5e4636d3261",
-   "company": "Veepee Ad",
-   "role": "Stage - Auditeur Interne H/f/x - Janvier 2027",
-   "location": "Saint"
-  },
-  "18fd317a10166077628ef420aecbbea6": {
-   "id": "18fd317a10166077628ef420aecbbea6",
-   "company": "Euronext",
-   "role": "Equity Listing Intern",
-   "location": "Paris"
-  },
-  "eca3c66fe2c50e19ff9d4e6416ae02b5": {
-   "id": "eca3c66fe2c50e19ff9d4e6416ae02b5",
-   "company": "GSK plc",
-   "role": "Stage En Compliance Pharmaceutique / Réglementaire Site",
-   "location": "Mantes La Jolie"
-  },
-  "c0a39b2b3a34e47bd3147bbaab7f3231": {
-   "id": "c0a39b2b3a34e47bd3147bbaab7f3231",
-   "company": "Airbus Protect",
-   "role": "Stage 2027 - Impact Environnemental De L'ia (all Gender)",
+  "99ca45877d484cf5ced1660f3ff938f2": {
+   "id": "99ca45877d484cf5ced1660f3ff938f2",
+   "company": "Airbus SE",
+   "role": "Stage 2027 - High Altitude Debris Impact (all Gender)",
    "location": "Toulouse Area"
   },
-  "adce4b9c0a76087f7b0855e527c5bb61": {
-   "id": "adce4b9c0a76087f7b0855e527c5bb61",
-   "company": "Airbus Defence and Space SAS",
-   "role": "Stage 2027 - Harmonisation Transnationale Des Process Moyens Industriels (h/f)",
-   "location": "Toulouse Area"
-  },
-  "c7f3146453edbfebad333d6003f52d36": {
-   "id": "c7f3146453edbfebad333d6003f52d36",
-   "company": "Airbus Defence and Space SAS",
-   "role": "Stage 2027- Optimisation Des Stratégies De Test Mémoire (h/f)",
+  "21f1c86ce2aabdf3fae65d877d3459b6": {
+   "id": "21f1c86ce2aabdf3fae65d877d3459b6",
+   "company": "Airbus SE",
+   "role": "Stage 2027 - Stagiaire Analyste Soc L1 (all Gender)",
    "location": "Mantes La Jolie"
   },
-  "d726c3cd2f83a1ee70988d0187e7b04e": {
-   "id": "d726c3cd2f83a1ee70988d0187e7b04e",
-   "company": "Airbus Defence and Space SAS",
-   "role": "Stage 2027 - Génération De Scripts De Test Par Ia (h/f)",
-   "location": "Mantes La Jolie"
+  "dc3f1d98bdf2a45087c80940a622a62a": {
+   "id": "dc3f1d98bdf2a45087c80940a622a62a",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Environnement - 6 Mois - Bouvron (n°44)",
+   "location": "Bouvron"
   },
-  "b34d9d9263efd7b88be3e8d900fe3705": {
-   "id": "b34d9d9263efd7b88be3e8d900fe3705",
-   "company": "Airbus Helicopters SAS",
-   "role": "Stage 2027 - Amélioration Des Boucles De Vol Pour Simulateurs D'entrainement (h/f)",
-   "location": "Marseille"
+  "a2e008db300534c8b90b0749936c37e5": {
+   "id": "a2e008db300534c8b90b0749936c37e5",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Ressources Humaines (h/f) - 6 Mois L'hermitage (35)",
+   "location": "L'Hermitage"
   },
-  "08c59b91a99ba6a378de675807b339e9": {
-   "id": "08c59b91a99ba6a378de675807b339e9",
-   "company": "Airbus Atlantic",
-   "role": "Stage 2027 - Stage En Ia & Automatisation Des Processus (all Gender)",
-   "location": "Toulouse"
+  "56d19ca06b2a99e64defabfb0433ee37": {
+   "id": "56d19ca06b2a99e64defabfb0433ee37",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Ressources Humaines (h/f) - 6 Mois Saint-vulbas (01)",
+   "location": "Saint-Vulbas"
   },
-  "6fffa6ab454f5fc2b1c889e3197781ef": {
-   "id": "6fffa6ab454f5fc2b1c889e3197781ef",
-   "company": "Pierre Fabre",
-   "role": "Chargé(e) Marketing Développement - René Furterer - Stage - H/f",
-   "location": "Toulouse"
+  "b5aa2cd94e0f13bbe31215365ed81f37": {
+   "id": "b5aa2cd94e0f13bbe31215365ed81f37",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Environnement (h/f) Laval (53)",
+   "location": "Rennes"
   },
-  "0acfe40f3273c92f746a4c57a4b60c74": {
-   "id": "0acfe40f3273c92f746a4c57a4b60c74",
-   "company": "KKR",
-   "role": "2027 Off-cycle Intern - Private Equity",
+  "d56cbb424e6da4f21d4b84fab1e2d406": {
+   "id": "d56cbb424e6da4f21d4b84fab1e2d406",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Qualité (h/f) Laval (53)",
+   "location": "Rennes"
+  },
+  "43c77e73011085d685ff441208eadace": {
+   "id": "43c77e73011085d685ff441208eadace",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Ingénieur Qualité (h/f) - 6 Mois Roquefort S/soulzon (12)",
+   "location": "Roquefort Sur Soulzon"
+  },
+  "c7878bb1db6bb7b11b4f71f460fec8e1": {
+   "id": "c7878bb1db6bb7b11b4f71f460fec8e1",
+   "company": "lactalisexperience",
+   "role": "Stagiaire (h/f) Commercial Grands Comptes (4/6 Mois) Torcé (35 - Prox. Rennes)",
+   "location": "Torcé"
+  },
+  "812caafef95f15021d0a3de03bb5c7be": {
+   "id": "812caafef95f15021d0a3de03bb5c7be",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Environnement (h/f) - 6 Mois Roquefort S/soulzon (12)",
+   "location": "Roquefort Sur Soulzon"
+  },
+  "5bec1f327b0068c4adcb2579c4c81ed2": {
+   "id": "5bec1f327b0068c4adcb2579c4c81ed2",
+   "company": "lactalisexperience",
+   "role": "Stagiaire (h/f) Qualité Fournisseurs - Laval (53)",
+   "location": "Rennes"
+  },
+  "cd8b0e66d4ad33e435e75d372678acad": {
+   "id": "cd8b0e66d4ad33e435e75d372678acad",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Clients Internationaux Retail H/f 6 Mois Torcé (35)",
+   "location": "Torcé"
+  },
+  "de63b7fb7e6550ce0cc3d9db96b9243f": {
+   "id": "de63b7fb7e6550ce0cc3d9db96b9243f",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Ressources Humaines (h/f) - 6 Mois Larceveau (64)pt)",
+   "location": "Larceveau"
+  },
+  "cd482cb6dd2804ee7384a51f664bd732": {
+   "id": "cd482cb6dd2804ee7384a51f664bd732",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Chargé De Projet Lims H/f - 6 Mois - Laval (53)",
+   "location": "Rennes"
+  },
+  "1acf2a0eeadceffa86bb8a1c13f6cf42": {
+   "id": "1acf2a0eeadceffa86bb8a1c13f6cf42",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Système D'information & Datavisualisation H/f 6 Mois Laval (53)",
+   "location": "Rennes"
+  },
+  "b11569b66f6edc823d5e064b2bb25d13": {
+   "id": "b11569b66f6edc823d5e064b2bb25d13",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Ingénieur Conception Formation Digitale H/f - 6 Mois - Laval (53)",
+   "location": "Rennes"
+  },
+  "214c8e84569ee15f198c14812dc033f6": {
+   "id": "214c8e84569ee15f198c14812dc033f6",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Chargé De Projets Rse - Culture & Engagement Rse H/f - 6 Mois - Laval (53)",
+   "location": "Rennes"
+  },
+  "c78bec65e745d1b9c1dbeb7735cd0042": {
+   "id": "c78bec65e745d1b9c1dbeb7735cd0042",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Acheteur Global Ingrédients Laitiers H/f 6 Mois Laval (53)",
+   "location": "Rennes"
+  },
+  "7f4f227c510f7fb5e7be7ec25f828d47": {
+   "id": "7f4f227c510f7fb5e7be7ec25f828d47",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Chargé D'assurances H/f 6 Mois Laval (53)",
+   "location": "Rennes"
+  },
+  "95b577c448517204d51bf5a57ad37293": {
+   "id": "95b577c448517204d51bf5a57ad37293",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Cash Management H/f 6 Mois Laval (53)",
+   "location": "Rennes"
+  },
+  "de1b1c220f20ff3c5acdf28946011adc": {
+   "id": "de1b1c220f20ff3c5acdf28946011adc",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Acheteur Indirect France H/f 6 Mois Laval (53)",
+   "location": "Rennes"
+  },
+  "d426ed8366254743c35fe4a0431d8a0f": {
+   "id": "d426ed8366254743c35fe4a0431d8a0f",
+   "company": "lactalisexperience",
+   "role": "Stagiaire (h/f) Marketing Scientifique Nutrition Et Formation (6 Mois) Torcé (35)",
+   "location": "Torcé"
+  },
+  "06dfb744a5cfa9bbd407c46a09a9aba6": {
+   "id": "06dfb744a5cfa9bbd407c46a09a9aba6",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Digitalisation & Processus Services Consommateurs H/f - 6 Mois - Laval (53)",
+   "location": "Rennes"
+  },
+  "2d0b5a618c616b1d098548ea21e7ddac": {
+   "id": "2d0b5a618c616b1d098548ea21e7ddac",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Chargé De Projets Rse Csrd - H/f - 6 Mois - Laval (53)",
+   "location": "Rennes"
+  },
+  "83fa96934f4e9dc4b18d61bbad70312b": {
+   "id": "83fa96934f4e9dc4b18d61bbad70312b",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Ingénieur Production (h/f) - 6 Mois Roquefort S/soulzon (12)",
+   "location": "Roquefort S/Soulzon"
+  },
+  "1095d779378d936fc6b12a34f4b4050f": {
+   "id": "1095d779378d936fc6b12a34f4b4050f",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Chef De Projet Process/energies (h/f) - 6 Mois - Proximité Rennes (35)",
+   "location": "Retiers"
+  },
+  "ef57f121649098558d9c6f099bc4c66e": {
+   "id": "ef57f121649098558d9c6f099bc4c66e",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Qualité (h/f) - 4 À 9 Mois Franois (25)",
+   "location": "FrançOis"
+  },
+  "568d928aedb164645b49a23d23074ccf": {
+   "id": "568d928aedb164645b49a23d23074ccf",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Ingénieur Qualité (h/f) - 6 Mois Vallet (44)",
+   "location": "Nantes"
+  },
+  "8058c44bfb4ff2a3f55afd62886df8b2": {
+   "id": "8058c44bfb4ff2a3f55afd62886df8b2",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Assistant Commercial Export (h/f) 6 Mois - Proximité Rennes (35)",
+   "location": "Bourgbarré"
+  },
+  "57319d40b8e5ccf3abde1c5237acf64b": {
+   "id": "57319d40b8e5ccf3abde1c5237acf64b",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Bac+3 Automatisme (h/f) 3 À 6 Mois - Saint-florent-le-vieil (49)",
+   "location": "Saint-Florent-Le-Vieil"
+  },
+  "d56185953fb96c77cf145a3317d1d093": {
+   "id": "d56185953fb96c77cf145a3317d1d093",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Contrôle De Gestion Achats & Projet Si H/f 6 Mois Laval (53)",
+   "location": "Rennes"
+  },
+  "e9320cc304e6782d2bfc73fff2b70baf": {
+   "id": "e9320cc304e6782d2bfc73fff2b70baf",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Ingénieur Logistique Méthodes Et Performance(h/f) - 6 Mois - Laval (53)",
+   "location": "Rennes"
+  },
+  "a7df59d398ecd75616f36ab3b03f57cf": {
+   "id": "a7df59d398ecd75616f36ab3b03f57cf",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Trade Marketing Et Communication (h/f) 6 Mois - Proximité Rennes (35)",
+   "location": "Bourgbarré"
+  },
+  "8060d2cd718652ab2011f3f801469369": {
+   "id": "8060d2cd718652ab2011f3f801469369",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Marketing Digital (h/f) 6 Mois Bourgbarré (35)",
+   "location": "Bourgbarré"
+  },
+  "058f8a515deb3a6f6b36b1958200469f": {
+   "id": "058f8a515deb3a6f6b36b1958200469f",
+   "company": "lactalisexperience",
+   "role": "Alternant Ingénieur Qualité (h/f) - 24 Mois Petit-fayt (59)",
+   "location": "Petit-Fayt"
+  },
+  "987ce4472fc817c28b8d2c2f463aeb28": {
+   "id": "987ce4472fc817c28b8d2c2f463aeb28",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Assistant Chef De Produit (h/f) 6 Mois - Proximité Rennes (35)",
+   "location": "Bourgbarre"
+  },
+  "d9a6ef5f4dd0c7a7e0ee06a4dfabbf68": {
+   "id": "d9a6ef5f4dd0c7a7e0ee06a4dfabbf68",
+   "company": "ARQUUS",
+   "role": "Arquus Alternance - Gestion De Projets Industriels Bac+5 (h/f) Bac +3/4/5 (h/f)",
+   "location": "Nantes"
+  },
+  "d4520bcd32ddb5c5fbb2c507bd220fe7": {
+   "id": "d4520bcd32ddb5c5fbb2c507bd220fe7",
+   "company": "ARQUUS",
+   "role": "Arquus Alternance - Electricien Prototypiste Bac+2/3 (h/f)",
    "location": "Paris"
   },
-  "478b75bbb09a42946758830d5cec7ac0": {
-   "id": "478b75bbb09a42946758830d5cec7ac0",
-   "company": "Sopra Steria UK",
-   "role": "Stage - Chef/fe De Projet - Services Publics - Ile De France",
+  "df5eb648a6a4c07bcd83da80fbd476fc": {
+   "id": "df5eb648a6a4c07bcd83da80fbd476fc",
+   "company": "ENACO",
+   "role": "Alternance - Assistant(e) Administratif(ve)/commercial(e) En Apprentissage H/f",
    "location": "Paris"
   },
-  "9699c3b71d85374368f250429dd45eb3": {
-   "id": "9699c3b71d85374368f250429dd45eb3",
-   "company": "Thales Group",
-   "role": "Stage - Ingenieur Modelisation Drep/das Champs Proches F/h",
+  "87ae412f263847d535d93e1861cacfdb": {
+   "id": "87ae412f263847d535d93e1861cacfdb",
+   "company": "ENACO",
+   "role": "Alternance - Assistant(e) De Direction En Apprentissage H/f",
    "location": "Paris"
   },
-  "c62ffedb74fb2409eb87f87588fdae20": {
-   "id": "c62ffedb74fb2409eb87f87588fdae20",
-   "company": "Thales Group",
-   "role": "Stage Ouvrier - Annotation D'images - F/h",
-   "location": "Mantes La Jolie"
-  },
-  "87c3bfa700b567b435ced19c22bc265a": {
-   "id": "87c3bfa700b567b435ced19c22bc265a",
-   "company": "Thales Group",
-   "role": "Stage - Stagiaire Hse (f/h)",
-   "location": "Paris"
-  },
-  "6351658474473b11cfd5e078cd75f331": {
-   "id": "6351658474473b11cfd5e078cd75f331",
-   "company": "Airbus Operations SAS",
-   "role": "Stage 2027 - Stage En Amélioration De Performance (h/f)",
-   "location": "Toulouse Area"
-  },
-  "5ddc4f99fa45c4cea295d42229b271c4": {
-   "id": "5ddc4f99fa45c4cea295d42229b271c4",
-   "company": "Nestle SA",
-   "role": "Stage Responsable Trade Marketing Enseigne F/h",
-   "location": "Paris"
-  },
-  "98093150b7cd610042e75c89eed9f154": {
-   "id": "98093150b7cd610042e75c89eed9f154",
-   "company": "Nestle Ltd",
-   "role": "Stage Responsable Trade Marketing Enseigne F/h",
-   "location": "Paris"
-  },
-  "03d2c22080f5b1863ab4ef75d3c2973f": {
-   "id": "03d2c22080f5b1863ab4ef75d3c2973f",
-   "company": "Nestle SA",
-   "role": "Stage Ingénieur Performance Énergétique Et Iso 50001 F/h",
+  "e06bd66e9684218a7b0917698d47e0c1": {
+   "id": "e06bd66e9684218a7b0917698d47e0c1",
+   "company": "ENACO",
+   "role": "Alternance - Assistant(e) De Direction/ Opérations En Apprentissage H/f",
    "location": "Paris"
   },
   "09ef2f7e5b7c87b0b1a684695246360b": {
@@ -504,6 +534,12 @@
    "id": "0a4cf8cb7ced1280ea09762927dfb03e",
    "company": "Infobip",
    "role": "Marketing Apprentice",
+   "location": "Paris"
+  },
+  "39f9b9f98fdc2722d9fbd8969a78c487": {
+   "id": "39f9b9f98fdc2722d9fbd8969a78c487",
+   "company": "AXA",
+   "role": "Security Monitoring Analyst Apprenticeship",
    "location": "Paris"
   },
   "b901f15356460d7b9a0a54d8b5b93cf6": {
@@ -740,28 +776,10 @@
    "role": "Arquus Alternance - Méthodes Et Process Bac +4/5 (h/f)",
    "location": "Paris"
   },
-  "d9a6ef5f4dd0c7a7e0ee06a4dfabbf68": {
-   "id": "d9a6ef5f4dd0c7a7e0ee06a4dfabbf68",
-   "company": "ARQUUS",
-   "role": "Arquus Alternance - Gestion De Projets Industriels Bac+5 (h/f) Bac +3/4/5 (h/f)",
-   "location": "Nantes"
-  },
-  "d4520bcd32ddb5c5fbb2c507bd220fe7": {
-   "id": "d4520bcd32ddb5c5fbb2c507bd220fe7",
-   "company": "ARQUUS",
-   "role": "Arquus Alternance - Electricien Prototypiste Bac+2/3 (h/f)",
-   "location": "Paris"
-  },
   "3c5b799fe15a0ef9cd5907907dd377dc": {
    "id": "3c5b799fe15a0ef9cd5907907dd377dc",
    "company": "ARQUUS",
    "role": "Alternance - Qualité R&d - Bac+4/5 (h/f)",
-   "location": "Paris"
-  },
-  "ac9ec17d8dbae1854c49c0b6e2750387": {
-   "id": "ac9ec17d8dbae1854c49c0b6e2750387",
-   "company": "ENACO",
-   "role": "Alternance - Assistant(e) Administratif(ve)/commercial(e) En Apprentissage H/f",
    "location": "Paris"
   },
   "7661a01911d884edef83abcb3ce08ed8": {
@@ -811,12 +829,6 @@
    "company": "Otis",
    "role": "Apprenti Chargé De Missions Rh (h/f)",
    "location": "Nantes"
-  },
-  "3a2f218527281eff3d02adb1fd7d9d40": {
-   "id": "3a2f218527281eff3d02adb1fd7d9d40",
-   "company": "ENACO",
-   "role": "Alternance - Assistant(e) De Direction En Apprentissage H/f",
-   "location": "Paris"
   },
   "38a02c87cb4d4735dda525b6f18fb0b8": {
    "id": "38a02c87cb4d4735dda525b6f18fb0b8",
@@ -956,18 +968,6 @@
    "role": "Alternance – Ingénieur Développement Web - F/h",
    "location": "Paris"
   },
-  "8103f4b1a48f03a2b8413f1ecf806c4c": {
-   "id": "8103f4b1a48f03a2b8413f1ecf806c4c",
-   "company": "Keolis",
-   "role": "Alternance - Data Science F/h",
-   "location": "Paris"
-  },
-  "c19aef325300e6e3e0f23fc46783f2e0": {
-   "id": "c19aef325300e6e3e0f23fc46783f2e0",
-   "company": "OTIS",
-   "role": "Apprenti Technicien Ascensoriste (h/f)",
-   "location": "Paris"
-  },
   "a6989a5cc00ce8d40a69e39c8c796449": {
    "id": "a6989a5cc00ce8d40a69e39c8c796449",
    "company": "QSRP",
@@ -1015,6 +1015,108 @@
    "company": "Ardagh Group",
    "role": "Apprentis Supply And Demand / Adv (h-f)",
    "location": "Marseille"
+  },
+  "e655f2a9ec269045783216f5b47ab73a": {
+   "id": "e655f2a9ec269045783216f5b47ab73a",
+   "company": "Alstom",
+   "role": "Stage Ingénieur Logiciel (h/f) - Modernisation D'une Application Interne",
+   "location": "Paris"
+  },
+  "8a5bcc1d86e1f3baea24b1f79ce9367b": {
+   "id": "8a5bcc1d86e1f3baea24b1f79ce9367b",
+   "company": "Alstom",
+   "role": "Stage - 6 Mois - Ingénieur (h/f) Développement De Simulations Pour Un Système De Maintenance",
+   "location": "Paris"
+  },
+  "f4b190943503b8d1876e85649782dac2": {
+   "id": "f4b190943503b8d1876e85649782dac2",
+   "company": "Alstom",
+   "role": "Stage - 6 Mois - Ingénieur Logiciel (h/f) - Développement D'un Outil De Gestion Des Compétences",
+   "location": "Paris"
+  },
+  "11246a5e911e7a33e096bacb33314fc1": {
+   "id": "11246a5e911e7a33e096bacb33314fc1",
+   "company": "Alstom",
+   "role": "Stage - 6 Mois - Ingénieur Logiciel (h/f) - Modernisation D'une Application Interne",
+   "location": "Paris"
+  },
+  "0b366a9744c229ebcd837ab4e9160a10": {
+   "id": "0b366a9744c229ebcd837ab4e9160a10",
+   "company": "Alstom",
+   "role": "Stage - 6 Mois - Support Outil De Développement Logiciel (h/f)",
+   "location": "Paris"
+  },
+  "8fe52e4658c36bc85b646a3eb8722d6b": {
+   "id": "8fe52e4658c36bc85b646a3eb8722d6b",
+   "company": "THALES",
+   "role": "Stage – Ingénieur Mise En Oeuvre De Capteurs",
+   "location": "Mantes La Jolie"
+  },
+  "35d74c7305742848d35fed775096adc2": {
+   "id": "35d74c7305742848d35fed775096adc2",
+   "company": "THALES",
+   "role": "Stage Ingénieur Ia - F/h",
+   "location": "Marseille"
+  },
+  "c20dffabeb86f0d8d5b21579faf0db68": {
+   "id": "c20dffabeb86f0d8d5b21579faf0db68",
+   "company": "THALES",
+   "role": "Stage – Ingénieur Developpement Et Intégration Asservissement",
+   "location": "Mantes La Jolie"
+  },
+  "13539304d82c09c97d2217c975a24a2a": {
+   "id": "13539304d82c09c97d2217c975a24a2a",
+   "company": "THALES",
+   "role": "Stage - Ingénieur Prototypage D'une Référence De Temps F/h",
+   "location": "Toulouse"
+  },
+  "e8148a0d075792bea70ea332f04adc4d": {
+   "id": "e8148a0d075792bea70ea332f04adc4d",
+   "company": "THALES",
+   "role": "Stage – Ingénieur Etude Et Analyse Des Interférences Gnss - F/h",
+   "location": "Toulouse"
+  },
+  "e3050f6beae36bcba27b79949b404ba2": {
+   "id": "e3050f6beae36bcba27b79949b404ba2",
+   "company": "THALES",
+   "role": "Stage - Ingénieur Analyse Et Traitement De Donnes Gnss - F/h",
+   "location": "Toulouse"
+  },
+  "8c56797b97179502de7f677f3a689243": {
+   "id": "8c56797b97179502de7f677f3a689243",
+   "company": "THALES",
+   "role": "Stage – Ingénieur Traitement Du Signal Et Localisation Pour Station Sol - F/h",
+   "location": "Toulouse"
+  },
+  "2b7d1f8c48db6f03edf39fb0c2b27497": {
+   "id": "2b7d1f8c48db6f03edf39fb0c2b27497",
+   "company": "Arquus",
+   "role": "Arquus - Alternance Conception Génie Mécanique Bac +3/4/5 (h/f)",
+   "location": "Paris"
+  },
+  "82b2f18d8a9de16c2dbf2e967b531bdb": {
+   "id": "82b2f18d8a9de16c2dbf2e967b531bdb",
+   "company": "Alstom",
+   "role": "Stage 6 Mois - Ingénieur.e Logiciel Développement De Solution De Monitoring Et D'observabilité (f/h)",
+   "location": "Paris"
+  },
+  "4378218311f58dc95c2e6311da63e740": {
+   "id": "4378218311f58dc95c2e6311da63e740",
+   "company": "Alstom",
+   "role": "Stage 6 Mois - Ingénieur.e Logiciel - Amélioration D'un Simulateur Et Développement D'une Ihm (f/h)",
+   "location": "Paris"
+  },
+  "92a45183a47110fc6444cf69e2990cdb": {
+   "id": "92a45183a47110fc6444cf69e2990cdb",
+   "company": "Alstom",
+   "role": "Stage 6 Mois - Ingénieur.e Fiabilité, Disponibilité Et Maintenabilité (f/h)",
+   "location": "Paris"
+  },
+  "88eebc8e41df04f2144b6742cf8faddd": {
+   "id": "88eebc8e41df04f2144b6742cf8faddd",
+   "company": "Alstom",
+   "role": "Stage - 6 Mois - Développeur Logiciel Pour Moyens De Tests F/h",
+   "location": "Paris"
   },
   "0e166e9593b8ed4a4da58379317d1c69": {
    "id": "0e166e9593b8ed4a4da58379317d1c69",
@@ -1394,108 +1496,6 @@
    "role": "Stage Ingénieur : Conception Circuits Analogiques: Etude Du Buffer Pour Une Référence De Tension Ultra Précise Et Invariable Dans Le Temps (f/m)",
    "location": "Toulouse"
   },
-  "64779732db4ab146d2e800d96d00645a": {
-   "id": "64779732db4ab146d2e800d96d00645a",
-   "company": "Airbus Helicopters SAS",
-   "role": "Stage 2027 - Stage En Modélisation Mbse Et Simulation Industrielle (h/f)",
-   "location": "Marseille"
-  },
-  "65ce17ad95062396dcdce622a3bb4c99": {
-   "id": "65ce17ad95062396dcdce622a3bb4c99",
-   "company": "Airbus Helicopters SAS",
-   "role": "Stage 2027 - Stage En Ingénierie Des Processus & Documentation Technique (h/f)",
-   "location": "Marseille"
-  },
-  "5fec282bdc4c9aa717f86c0651dd4a8a": {
-   "id": "5fec282bdc4c9aa717f86c0651dd4a8a",
-   "company": "Airbus Operations SAS",
-   "role": "Stage 2027 - Bureau D'études - Sureté Des Systèmes Embarqués (f/h)",
-   "location": "Toulouse"
-  },
-  "4caf35a195ac10b9f90edca5d06b82ab": {
-   "id": "4caf35a195ac10b9f90edca5d06b82ab",
-   "company": "Airbus",
-   "role": "Stage 2027 - Ingénierie Evaluation/modélisation Du Comportement Des Bus Bars En Environnement Électrique Haute Tension (f/h)",
-   "location": "Toulouse"
-  },
-  "3088d7d7cec0940d6ced4460e500a061": {
-   "id": "3088d7d7cec0940d6ced4460e500a061",
-   "company": "Airbus Operations SAS",
-   "role": "Stage 2027- Ingénieur Ventilation & Intégration Thermique Du Système Propulsif : Méthodologie De Convection Naturelle (f/h)",
-   "location": "Toulouse"
-  },
-  "32fc0d1c510c7ededfca18dc5f8c5a4c": {
-   "id": "32fc0d1c510c7ededfca18dc5f8c5a4c",
-   "company": "ALTEREO",
-   "role": "Stage - Technicien En Hydraulique Urbaine H/f",
-   "location": "Nantes"
-  },
-  "e9040e2a5598900781a8b997eda89c86": {
-   "id": "e9040e2a5598900781a8b997eda89c86",
-   "company": "Airbus Helicopters SAS",
-   "role": "Stage 2027 - Ingénieur(e) Matériaux & Procédés - Qualification De Revêtements Organiques (h/f)",
-   "location": "Paris"
-  },
-  "a94d220d522453d966c153c0f6bf58ea": {
-   "id": "a94d220d522453d966c153c0f6bf58ea",
-   "company": "AIRBUS Defence and Space",
-   "role": "Stage 2027 - Développement D'outils D'ingénierie Pilotés Par Ia Pour Metop-sg (h/f)",
-   "location": "Toulouse"
-  },
-  "f250ce97c491849383b2bda5ab78a7bd": {
-   "id": "f250ce97c491849383b2bda5ab78a7bd",
-   "company": "Airbus",
-   "role": "Stage 2027 - Stagiaire En Étude Paramétrique Par Cfd Des Buses D'injection - Système D'extinction Feu (f/h)",
-   "location": "Toulouse"
-  },
-  "a0d87011f985fce4cfaa5e9b40615ae8": {
-   "id": "a0d87011f985fce4cfaa5e9b40615ae8",
-   "company": "Philips Healthcare",
-   "role": "Stage Ingénieur.e R&d – Amélioration D’un Simulateur D’hôpital Virtuel",
-   "location": "Paris"
-  },
-  "4f6721b211b451f957321e9e8f15dd1f": {
-   "id": "4f6721b211b451f957321e9e8f15dd1f",
-   "company": "Philips Healthcare",
-   "role": "Stage Ingénieur.e R&d – Intégration De L’intelligence Artificielle Dans La Conception D’applications Médicales",
-   "location": "Paris"
-  },
-  "64387277d8b015a08c0ba64f472d70f0": {
-   "id": "64387277d8b015a08c0ba64f472d70f0",
-   "company": "RENAULT s.a.s.",
-   "role": "Cs27 - Stage - Bac+5 - Ingénieur Réduction Coûts Alpine A390 (h/f)",
-   "location": "Paris"
-  },
-  "1fb521f19d857aca71f9263311862c60": {
-   "id": "1fb521f19d857aca71f9263311862c60",
-   "company": "Valeo",
-   "role": "Stagiaire Ingénieur Système R&d H/f",
-   "location": "Paris"
-  },
-  "dcd1a5564a1c18fb966c17e899b3e665": {
-   "id": "dcd1a5564a1c18fb966c17e899b3e665",
-   "company": "Eiffage Énergie Systèmes",
-   "role": "Stage Pfe Chargé D'affaires - Génie Electrique F/h",
-   "location": "Nantes"
-  },
-  "31d41b6ff2920a687bc8fd0aeb18ea2b": {
-   "id": "31d41b6ff2920a687bc8fd0aeb18ea2b",
-   "company": "NXP",
-   "role": "Stage Ingénieur : Automatisation De La Validation Pmic Pour La Sécurité Automobile (f/h)",
-   "location": "Toulouse"
-  },
-  "0e8ba51ba56fd43e964f28bd83d46894": {
-   "id": "0e8ba51ba56fd43e964f28bd83d46894",
-   "company": "Airbus Defence and Space",
-   "role": "Stage 2027 - Ingénieur Certification Aéronautique Avions Militaires (all Gender)",
-   "location": "Toulouse"
-  },
-  "6b2dbcaddec38b2b444f8c391419b5ab": {
-   "id": "6b2dbcaddec38b2b444f8c391419b5ab",
-   "company": "Renault Group",
-   "role": "Cs27 Bac+4/5 - Développeur Full Stack Digital & Outils Métiers (h/f)",
-   "location": "Paris"
-  },
   "41c31222477cc3b7046e41e8e98a21fe": {
    "id": "41c31222477cc3b7046e41e8e98a21fe",
    "company": "Pernod Ricard",
@@ -1512,6 +1512,30 @@
    "id": "4473a6a274e85c61d2c313b06ec77af6",
    "company": "lactalisexperience",
    "role": "Alternance Technicien Support Applicatif (h/f) Choisy Le Roi (94)",
+   "location": "Paris"
+  },
+  "5b634f350631ea53d385fa6a1e290f23": {
+   "id": "5b634f350631ea53d385fa6a1e290f23",
+   "company": "Alstom",
+   "role": "Tage Ingénieur Logiciel (h/f) - Développement D'un Outil De Gestion Des Compétences / Habilitations",
+   "location": "Paris"
+  },
+  "a8207819f01c1539e187afc2cf9c9484": {
+   "id": "a8207819f01c1539e187afc2cf9c9484",
+   "company": "Jobgether",
+   "role": "Application Programmer",
+   "location": "France"
+  },
+  "f13af27aef155ba46b3692d5ec5fd68a": {
+   "id": "f13af27aef155ba46b3692d5ec5fd68a",
+   "company": "Alstom",
+   "role": "Stage 6 Mois - Ingénieur.e Développement Outils Ci/cd Et Optimisation Des Nightlys (f/h)",
+   "location": "Recherche Par Lieu"
+  },
+  "3825a7843caeac6e67fc0cb4ac2fc921": {
+   "id": "3825a7843caeac6e67fc0cb4ac2fc921",
+   "company": "STADA",
+   "role": "Ingenieur Support Informatique - Applications Et Systemes (f/h)",
    "location": "Paris"
   },
   "aeed9da42dee3b9d27c15c6e29d53f94": {
@@ -1704,12 +1728,6 @@
    "id": "42daab56e19350a44de5128c4a8761d5",
    "company": "dacia",
    "role": "Cs27 Bac+5 - Développeur Sw Tool (h/f)",
-   "location": "Paris"
-  },
-  "3825a7843caeac6e67fc0cb4ac2fc921": {
-   "id": "3825a7843caeac6e67fc0cb4ac2fc921",
-   "company": "STADA",
-   "role": "Ingenieur Support Informatique - Applications Et Systemes (f/h)",
    "location": "Paris"
   },
   "b0b5245157b0b30b2e9ed67f830cd230": {
@@ -1970,24 +1988,6 @@
    "role": "Software Engineer - Security Features",
    "location": "Paris"
   },
-  "0d162d058d11cd39ecd1b63e0da176fe": {
-   "id": "0d162d058d11cd39ecd1b63e0da176fe",
-   "company": "Jobgether",
-   "role": "Software Engineer - Python/golang - Kubernetes",
-   "location": "France"
-  },
-  "447fe338a6d6426d8227a554740fbe85": {
-   "id": "447fe338a6d6426d8227a554740fbe85",
-   "company": "Jobgether",
-   "role": "Backend Engineer, Core Apis",
-   "location": "France"
-  },
-  "d2f133e4dc6e55a4862400f278444068": {
-   "id": "d2f133e4dc6e55a4862400f278444068",
-   "company": "Thales",
-   "role": "Ingénieur Développement Logiciel Temps Réel",
-   "location": "Mantes La Jolie"
-  },
   "660752182ce7608cea45d77ef4d9a124": {
    "id": "660752182ce7608cea45d77ef4d9a124",
    "company": "Shifttechnology",
@@ -2148,6 +2148,18 @@
    "id": "a0fdec610eeadac79064e3c977955add",
    "company": "IBM",
    "role": "Apprenti(e) AI Engineer – Client Engineering, IBM Technology France - IBM France H/F",
+   "location": "Paris"
+  },
+  "6655d0616dc46f244907af31fc070030": {
+   "id": "6655d0616dc46f244907af31fc070030",
+   "company": "Alstom",
+   "role": "Data Scientist Pour Pièces De Rechange (f/h)",
+   "location": "Paris"
+  },
+  "fc2b8e4995a2a28d76e75360c760d11d": {
+   "id": "fc2b8e4995a2a28d76e75360c760d11d",
+   "company": "Alstom",
+   "role": "Stage 6 Mois - Ingénieur.e Système - Traitement De Données Pour La Détection De Défauts (f/h)",
    "location": "Paris"
   },
   "3c44416938cabf9df8f5482a72da928d": {
@@ -2618,18 +2630,6 @@
    "role": "Mid Data Scientist",
    "location": "France"
   },
-  "d05a57c3bf931b64e07e55d0ceea000c": {
-   "id": "d05a57c3bf931b64e07e55d0ceea000c",
-   "company": "Doctolib GmbH",
-   "role": "Stage - Business Data Analyst (x/f/m) - Janvier 2027",
-   "location": "Paris"
-  },
-  "3ed6bcd951e4e2cd0a9dbf2b17c48dc1": {
-   "id": "3ed6bcd951e4e2cd0a9dbf2b17c48dc1",
-   "company": "dacia",
-   "role": "Cs27 - Bac+5 Stage Deep Reinforcement Learning Pour La Prise De Décision En Conduite Autonome (h/f)",
-   "location": "Paris"
-  },
   "08feceb46a1e48654551665d9da19769": {
    "id": "08feceb46a1e48654551665d9da19769",
    "company": "Kering",
@@ -2864,6 +2864,18 @@
    "role": "Alternance - Comptable Général F/h",
    "location": "Paris"
   },
+  "06fd0b602672bc8e68bbe80462c60f39": {
+   "id": "06fd0b602672bc8e68bbe80462c60f39",
+   "company": "Shiseido",
+   "role": "Stage - Business Analyst - Janvier 2027",
+   "location": "Paris"
+  },
+  "d1f043647341a03a33d96ee4d35edae7": {
+   "id": "d1f043647341a03a33d96ee4d35edae7",
+   "company": "GE HealthCare Technologies",
+   "role": "Analyste Financier Commercial Fbl",
+   "location": "Paris"
+  },
   "a169050231dcddc50e5642de42c7206b": {
    "id": "a169050231dcddc50e5642de42c7206b",
    "company": "SNOP",
@@ -3080,12 +3092,6 @@
    "role": "Business Analyst Trade Finance - H/f",
    "location": "Paris"
   },
-  "06fd0b602672bc8e68bbe80462c60f39": {
-   "id": "06fd0b602672bc8e68bbe80462c60f39",
-   "company": "Shiseido",
-   "role": "Stage - Business Analyst - Janvier 2027",
-   "location": "Paris"
-  },
   "21b17b8dd41e949e4664627fe9cc6857": {
    "id": "21b17b8dd41e949e4664627fe9cc6857",
    "company": "Jobgether",
@@ -3168,6 +3174,12 @@
    "id": "9ef5379fbbb2c459ac1ef5346017b85a",
    "company": "VitalAire Canada Inc",
    "role": "Stage - Business Analyst Finance/rh (h/f)",
+   "location": "Paris"
+  },
+  "aae1007d1859cce42ab101afd5030ca0": {
+   "id": "aae1007d1859cce42ab101afd5030ca0",
+   "company": "AXA",
+   "role": "Auditeur Sinistres Mrh (f/h)",
    "location": "Paris"
   },
   "2783763129bc3f3ad7e2777d16bbf99e": {
@@ -3332,18 +3344,6 @@
    "role": "Stage - Business Analyst - Janvier 2027",
    "location": "Paris"
   },
-  "80316051b25f0ffb63b27c9020d0d7a1": {
-   "id": "80316051b25f0ffb63b27c9020d0d7a1",
-   "company": "Thales",
-   "role": "Business Analyst Supply Chain F/h",
-   "location": "Paris"
-  },
-  "978ae419aa2e721c113a830efd4fee42": {
-   "id": "978ae419aa2e721c113a830efd4fee42",
-   "company": "IIEP-UNESCO",
-   "role": "Grants Management Officer",
-   "location": "Paris"
-  },
   "da4c9c82d7075102af20a79c240d837c": {
    "id": "da4c9c82d7075102af20a79c240d837c",
    "company": "Precision for Medicine",
@@ -3446,11 +3446,227 @@
    "role": "Registered Nurse",
    "location": "France Tower"
   },
+  "576cc2fd75708ff0a188b15788ab6a0f": {
+   "id": "576cc2fd75708ff0a188b15788ab6a0f",
+   "company": "Alstom",
+   "role": "Technicien(ne) De Maintenance Ferroviaire (f/h) Week-end",
+   "location": "Recherche Par Lieu"
+  },
+  "daf8605cb7049c1d72ee3f8de45c0e9f": {
+   "id": "daf8605cb7049c1d72ee3f8de45c0e9f",
+   "company": "Holcim",
+   "role": "Mécanicien Maintenance Industrielle (h/f) - Le Teil",
+   "location": "Viviers"
+  },
+  "cfaac6aed25062a53248fb587fb4f5f0": {
+   "id": "cfaac6aed25062a53248fb587fb4f5f0",
+   "company": "CEMEX",
+   "role": "Electro-mécanicien(ne) - Cdi À Palaiseau",
+   "location": "Paris"
+  },
+  "2603f4cf1aa8636d3cb2e2d2d58a8d70": {
+   "id": "2603f4cf1aa8636d3cb2e2d2d58a8d70",
+   "company": "CEMEX",
+   "role": "Electro-mécanicien(ne) (h/f) - Alpes-maritimes (06) - Cdi",
+   "location": "Nice"
+  },
   "08e07b06758e1edc5136a35015ee7064": {
    "id": "08e07b06758e1edc5136a35015ee7064",
    "company": "Mericalherbs",
    "role": "Technicien De Maintenance H/f",
    "location": "Rennes"
+  },
+  "b6ece3b280fee8eb45338c38ac1d0243": {
+   "id": "b6ece3b280fee8eb45338c38ac1d0243",
+   "company": "Otis Worldwide",
+   "role": "Technicien De Maintenance – Escaliers Mécaniques (h/f)",
+   "location": "St Jean Le Blanc"
+  },
+  "875e8b4f578fd36d4070262dced77fb1": {
+   "id": "875e8b4f578fd36d4070262dced77fb1",
+   "company": "Otis Worldwide",
+   "role": "Technicien De Maintenance (h/f)",
+   "location": "Nice"
+  },
+  "6969bddddd9bb57f319411d8062ece69": {
+   "id": "6969bddddd9bb57f319411d8062ece69",
+   "company": "Eiffage Énergie Systèmes",
+   "role": "Technicien De Maintenance Cvc F/h",
+   "location": "Lyon"
+  },
+  "a929a288a0805af4eadacfe77002599c": {
+   "id": "a929a288a0805af4eadacfe77002599c",
+   "company": "Eiffageconstruction",
+   "role": "Technicien De Maintenance Cvc F/h",
+   "location": "Grenoble"
+  },
+  "ff8954c8524d88b1a810499d735dce74": {
+   "id": "ff8954c8524d88b1a810499d735dce74",
+   "company": "KONE Macedonia",
+   "role": "Technicien Maintenance Ascenseurs H/f À Marsac-sur-l'isle (24)",
+   "location": "Marsac-Sur-L'Isle"
+  },
+  "75d98438a852d40890b28d2e40ee55b6": {
+   "id": "75d98438a852d40890b28d2e40ee55b6",
+   "company": "KONE Macedonia",
+   "role": "Technicien Maintenance Ascenseurs H/f À Colombes (92)",
+   "location": "Paris"
+  },
+  "a944b9843ed11bd4d6aa22b474feff55": {
+   "id": "a944b9843ed11bd4d6aa22b474feff55",
+   "company": "KONE Macedonia",
+   "role": "Technicien Maintenance Ascenseurs H/f À Paris",
+   "location": "Paris"
+  },
+  "01fbd71304b7bbbf69e8e307bdbcb8fa": {
+   "id": "01fbd71304b7bbbf69e8e307bdbcb8fa",
+   "company": "Kone Com Kw",
+   "role": "Technicien Maintenance Ascenseurs H/f Paca",
+   "location": "Lyon"
+  },
+  "6d6ddee513b396cae6863dddeae29c8d": {
+   "id": "6d6ddee513b396cae6863dddeae29c8d",
+   "company": "International Flavors & Fragrances Inc. (IFF)",
+   "role": "Technicien De Maintenance (f/m/d)",
+   "location": "Dange Saint Romain"
+  },
+  "f7087aa76e8c666e09b46ff0620da4ec": {
+   "id": "f7087aa76e8c666e09b46ff0620da4ec",
+   "company": "Airbus SE",
+   "role": "Technicien Essais Sol H/f Super Puma",
+   "location": "Marseille"
+  },
+  "2fd977daf1f7e7c47a57c986a977224f": {
+   "id": "2fd977daf1f7e7c47a57c986a977224f",
+   "company": "Schindler Elevator Ltd",
+   "role": "Technicien De Réparation Exp (h/f) - Lyon",
+   "location": "Lyon"
+  },
+  "f908fe4ee8dbeb36099ecc7fd887a9bc": {
+   "id": "f908fe4ee8dbeb36099ecc7fd887a9bc",
+   "company": "Lyreco Group",
+   "role": "Ppe Maintenance Technician",
+   "location": "Grand Est +1"
+  },
+  "1fee93e7b93c8e6f6792842e6e87ac93": {
+   "id": "1fee93e7b93c8e6f6792842e6e87ac93",
+   "company": "Hotel Chadstone Melbourne MGallery",
+   "role": "Technicien De Maintenance H/f",
+   "location": "Paris"
+  },
+  "f7f233b39df60275d0666e1fa4ef6b37": {
+   "id": "f7f233b39df60275d0666e1fa4ef6b37",
+   "company": "Cockerill Maintenance & Ingenierie",
+   "role": "Technicien Maintenance Mécanique H/f",
+   "location": "Gueugnon"
+  },
+  "9cfafacd142eb64105995bc4530e92dc": {
+   "id": "9cfafacd142eb64105995bc4530e92dc",
+   "company": "Cockerill Maintenance & Ingenierie",
+   "role": "Mécanicien Maintenance Industrielle H/f",
+   "location": "Aix En Provence"
+  },
+  "b7332dc88a348f7328b5ce65af8f5a6a": {
+   "id": "b7332dc88a348f7328b5ce65af8f5a6a",
+   "company": "Cockerill Maintenance & Ingenierie",
+   "role": "Robinetier Nucléaire (mécanicien Grand Déplacement) (h/f)",
+   "location": "Cattenom"
+  },
+  "7df02fff6c15094f2d3c3c05982d07a1": {
+   "id": "7df02fff6c15094f2d3c3c05982d07a1",
+   "company": "Cockerill Maintenance & Ingenierie",
+   "role": "Mécanicien Industriel (chantier)h/f",
+   "location": "Marseille"
+  },
+  "76e435a6fb5ed15953e9aef922862663": {
+   "id": "76e435a6fb5ed15953e9aef922862663",
+   "company": "John Cockerill",
+   "role": "Mécanicien Nucléaire H/f",
+   "location": "Orleans"
+  },
+  "b9731d13eb282ef64219cabbb49b279d": {
+   "id": "b9731d13eb282ef64219cabbb49b279d",
+   "company": "Cockerill Maintenance & Ingenierie",
+   "role": "Mécanicien Réparateur (f/h)",
+   "location": "Gueugnon"
+  },
+  "ff297ff74261a18579d2a64f705b3df3": {
+   "id": "ff297ff74261a18579d2a64f705b3df3",
+   "company": "Arabelle Solutions",
+   "role": "Technicien Mise En Service Turbine H/f",
+   "location": "Paris"
+  },
+  "185c9c717dc5a937df2b2447312fcfa7": {
+   "id": "185c9c717dc5a937df2b2447312fcfa7",
+   "company": "lactalisexperience",
+   "role": "Technicien De Maintenance (h/f) Rodez (12)",
+   "location": "Rodez"
+  },
+  "4ce6378ed1bff53c0ec90c62a700010f": {
+   "id": "4ce6378ed1bff53c0ec90c62a700010f",
+   "company": "lactalisexperience",
+   "role": "Technicien De Maintenance (h/f) Loubressac (46)",
+   "location": "Loubressac"
+  },
+  "b58f4734ab0776152bbe248600effb5d": {
+   "id": "b58f4734ab0776152bbe248600effb5d",
+   "company": "lactalisexperience",
+   "role": "Technicien De Maintenance (h/f) - Le Massegros (48)",
+   "location": "Le Massegros"
+  },
+  "42e7e01398815e882f4ac64369d49bdd": {
+   "id": "42e7e01398815e882f4ac64369d49bdd",
+   "company": "lactalisexperience",
+   "role": "Technicien De Maintenance (h/f) Riom Es Montagnes (15)",
+   "location": "Riom Es Montagnes"
+  },
+  "d24809fa84f1b795504d1e475f7dddea": {
+   "id": "d24809fa84f1b795504d1e475f7dddea",
+   "company": "lactalisexperience",
+   "role": "Technicien De Maintenance (h/f) Clermont De L'oise (60)",
+   "location": "Clermont De L'Oise"
+  },
+  "4eec0f070a0be806d83c6bd662a4ce6a": {
+   "id": "4eec0f070a0be806d83c6bd662a4ce6a",
+   "company": "lactalisexperience",
+   "role": "Technicien De Maintenance H/f Vallet (44)",
+   "location": "Nantes"
+  },
+  "4958c25e2a432fc1be6cd48eaa198e59": {
+   "id": "4958c25e2a432fc1be6cd48eaa198e59",
+   "company": "lactalisexperience",
+   "role": "Technicien De Maintenance H/f Cdd Bayeux (14)",
+   "location": "Caen"
+  },
+  "3858a4affcd89c30aaebd55462a48866": {
+   "id": "3858a4affcd89c30aaebd55462a48866",
+   "company": "lactalisexperience",
+   "role": "Technicien De Maintenance (h/f) Domfront (61)",
+   "location": "Domfront En Poiraie"
+  },
+  "1a2602b1f3d880ea3b5fb89b63808553": {
+   "id": "1a2602b1f3d880ea3b5fb89b63808553",
+   "company": "lactalisexperience",
+   "role": "Technicien De Maintenance Journée H/f Bayeux (14)",
+   "location": "Caen"
+  },
+  "3f008ee92c0300c67e5ff7936fa2e7f7": {
+   "id": "3f008ee92c0300c67e5ff7936fa2e7f7",
+   "company": "lactalisexperience",
+   "role": "Technicien De Maintenance (h/f) Livarot (14)",
+   "location": "Livarot"
+  },
+  "6e696c3a0be1eb8452ed7cd6220cdbde": {
+   "id": "6e696c3a0be1eb8452ed7cd6220cdbde",
+   "company": "lactalisexperience",
+   "role": "Technicien De Maintenance (h/f) Bouvron (44)",
+   "location": "Bouvron"
+  },
+  "52623fb935fbec6942a66a906f08941b": {
+   "id": "52623fb935fbec6942a66a906f08941b",
+   "company": "OTIS",
+   "role": "Technicien De Maintenance (h/f)",
+   "location": "Paris"
   },
   "c9b1c01a104513bc491d00ce0fc989e5": {
    "id": "c9b1c01a104513bc491d00ce0fc989e5",
@@ -3512,12 +3728,6 @@
    "role": "Technicien Maintenance",
    "location": "Grenoble"
   },
-  "408923ec451627cebc5af7cef03cd8fa": {
-   "id": "408923ec451627cebc5af7cef03cd8fa",
-   "company": "OTIS",
-   "role": "Technicien De Maintenance (h/f)",
-   "location": "Paris"
-  },
   "b6fd1407d77b7e39469559399406da80": {
    "id": "b6fd1407d77b7e39469559399406da80",
    "company": "OTIS",
@@ -3535,6 +3745,12 @@
    "company": "Adagio La defense Kleber****",
    "role": "Fr - Agent/technicien De Maintenance (h/f/x)",
    "location": "Paris"
+  },
+  "7b78257960207bc70ec82d7979a224a4": {
+   "id": "7b78257960207bc70ec82d7979a224a4",
+   "company": "Eurofeu - SAcuritA Incendie",
+   "role": "Technicien De Maintenance Extincteurs H/f",
+   "location": "Marseille"
   },
   "ad93bbaf91f8b712dd18168d594b1ea4": {
    "id": "ad93bbaf91f8b712dd18168d594b1ea4",
@@ -3565,12 +3781,6 @@
    "company": "Otis Worldwide",
    "role": "Techncien De Maintenance - Nsa (h/f)",
    "location": "Nice"
-  },
-  "ecb530b400c1a470cf4d1a7a91c9a08d": {
-   "id": "ecb530b400c1a470cf4d1a7a91c9a08d",
-   "company": "Otis Worldwide",
-   "role": "Technicien De Maintenance (h/f)",
-   "location": "Paris"
   },
   "11e48c8f648cf3bef61a431d1b4aefc6": {
    "id": "11e48c8f648cf3bef61a431d1b4aefc6",
@@ -3619,6 +3829,18 @@
    "company": "ALSTOM TRANSPORT SA",
    "role": "Technicien(e) Opérations Maintenance",
    "location": "Recherche Par Lieu"
+  },
+  "f11bbd1467d6608f5b7cd31204f669b6": {
+   "id": "f11bbd1467d6608f5b7cd31204f669b6",
+   "company": "Howmet Aerospace",
+   "role": "Technicien Maintenance",
+   "location": "Paris"
+  },
+  "97288578b0870be96d4da49fd10a4307": {
+   "id": "97288578b0870be96d4da49fd10a4307",
+   "company": "Howmet Aerospace",
+   "role": "Technicien De Maintenance N1",
+   "location": "Toulouse"
   },
   "a7f57e19bf039e9c5bf50328d57fc856": {
    "id": "a7f57e19bf039e9c5bf50328d57fc856",
@@ -3704,239 +3926,107 @@
    "role": "Technicien Maintenance F/h Chaumes-en-retz (44)",
    "location": "Chaumes-En-Retz"
   },
-  "a2a58ce00cd87b829c88094f043f42a4": {
-   "id": "a2a58ce00cd87b829c88094f043f42a4",
-   "company": "Bonduelle",
-   "role": "Electromécanicien (h/f)",
-   "location": "Rechercher Par Code Postal"
-  },
-  "ac3dc9ade5c2c9a521b55fd4f205ece5": {
-   "id": "ac3dc9ade5c2c9a521b55fd4f205ece5",
-   "company": "Sonova Group",
-   "role": "Technicien De Réparation (f/h)",
-   "location": "Lyon"
-  },
-  "a3c92f600118337a072c3fb590e96b35": {
-   "id": "a3c92f600118337a072c3fb590e96b35",
-   "company": "Nestle SA",
-   "role": "Technicien De Maintenance Creully H/f",
-   "location": "Creully"
-  },
-  "517776dba132bec09981ca82f936a84f": {
-   "id": "517776dba132bec09981ca82f936a84f",
-   "company": "Verallia Packaging",
-   "role": "Mécanicien Is H/f",
-   "location": "Lyon"
-  },
-  "5bf5525604a1beb419583df16877f152": {
-   "id": "5bf5525604a1beb419583df16877f152",
-   "company": "Verallia Packaging",
-   "role": "Electromécanicien H/f",
-   "location": "Lyon"
-  },
-  "4e3a76524ebe4a078dcb140dbb769646": {
-   "id": "4e3a76524ebe4a078dcb140dbb769646",
-   "company": "Schindler Group",
-   "role": "Alternance - Technicien De Maintenance (h/f) - Vanves",
+  "05121d9a4e088eba62d067fca78ce7bf": {
+   "id": "05121d9a4e088eba62d067fca78ce7bf",
+   "company": "adidas AG",
+   "role": "Vendeur Polyvalent Adidas (h/f/d) - Cdi 28 Hrs - Flagship Des Champs-elysées",
    "location": "Paris"
   },
-  "9d6328a23138cab2d4d3861d30699599": {
-   "id": "9d6328a23138cab2d4d3861d30699599",
-   "company": "Schindler Group",
-   "role": "Technicien De Maintenance",
+  "dcf67515c842cab53ac8eda0183c21e4": {
+   "id": "dcf67515c842cab53ac8eda0183c21e4",
+   "company": "Shiseido",
+   "role": "Conseiller(ère) Beauté Le Bon Marché - Cdi (h/f)",
    "location": "Paris"
   },
-  "c13d5af0fd3e59d30418867d28464f6a": {
-   "id": "c13d5af0fd3e59d30418867d28464f6a",
-   "company": "Schindler Group",
-   "role": "Alternance - Technicien De Maintenance (h/f) - Villeneuve-la-garenne",
-   "location": "Paris"
-  },
-  "c3a14ea1fdd3958b7c8e481441867a0d": {
-   "id": "c3a14ea1fdd3958b7c8e481441867a0d",
-   "company": "Schindler Group",
-   "role": "Technicien(ne) De Réparation (h/f) - Salon De Provence",
-   "location": "Aix En Provence"
-  },
-  "2a21b61ebf34eac3398563ab14bb1d31": {
-   "id": "2a21b61ebf34eac3398563ab14bb1d31",
-   "company": "Schindler Group",
-   "role": "Technicien Assistance Bureaux De Contrôle (h/f) - Idf",
-   "location": "Paris"
-  },
-  "cb1dc52edb0cb9383a9caf3bbcd4eabd": {
-   "id": "cb1dc52edb0cb9383a9caf3bbcd4eabd",
-   "company": "Schindler Group",
-   "role": "Technicien De Maintenance Référent (h/f) - Aurillac",
-   "location": "Aurillac"
-  },
-  "9492bca7f488e8e45fe98a1356e3d679": {
-   "id": "9492bca7f488e8e45fe98a1356e3d679",
-   "company": "Schindler Group",
-   "role": "Assistant(e) Technique - Marseille",
-   "location": "Marseille"
-  },
-  "9fa27039d6709a4ac771dfc4326cd3eb": {
-   "id": "9fa27039d6709a4ac771dfc4326cd3eb",
-   "company": "Schindler Group",
-   "role": "Technicien De Réparation (h/f) - Vanves",
-   "location": "Paris"
-  },
-  "474f402437d00f291a31a6e74d434431": {
-   "id": "474f402437d00f291a31a6e74d434431",
-   "company": "Schindler Group",
-   "role": "Technicien De Réparation Expert (h/f) - Grenoble",
-   "location": "Grenoble"
-  },
-  "9eaa89728af46d021e91558a7237f1d3": {
-   "id": "9eaa89728af46d021e91558a7237f1d3",
-   "company": "Schindler Group",
-   "role": "Technicien De Réparation (h/f) - Villeneuve-la-garenne",
-   "location": "Paris"
-  },
-  "c8700e9db79f8724255cd8e4ae0822b4": {
-   "id": "c8700e9db79f8724255cd8e4ae0822b4",
-   "company": "Schindler Group",
-   "role": "Technicien De Réparation (h/f) - Idf Sud",
-   "location": "Paris"
-  },
-  "d9982831eec1e410bf8078d41abbc684": {
-   "id": "d9982831eec1e410bf8078d41abbc684",
-   "company": "Coloplast AS",
-   "role": "Laser Maintenance Specialist - Region Europe",
-   "location": "Le Plessis"
-  },
-  "d2099050819888b5ce592758b6f85691": {
-   "id": "d2099050819888b5ce592758b6f85691",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Technicien De Maintenance Point Service Toulouse",
-   "location": "Toulouse"
-  },
-  "23cc90bb12161b09797b1dad7885b926": {
-   "id": "23cc90bb12161b09797b1dad7885b926",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Technicien(ne) De Maintenance Ferroviaire (f/h)",
-   "location": "Paris"
-  },
-  "606556a537a9dfee7a3592631e4d1fc1": {
-   "id": "606556a537a9dfee7a3592631e4d1fc1",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Technicien Opération Maintenance",
-   "location": "Crespin"
-  },
-  "06d8505d1d8163bce4997b174e911e48": {
-   "id": "06d8505d1d8163bce4997b174e911e48",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Agent De Maintenance",
-   "location": "Saint Denis Les Sens"
-  },
-  "c1148c569f183f0c4afd3a610db4507b": {
-   "id": "c1148c569f183f0c4afd3a610db4507b",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Technicien(ne) De Maintenance Ferroviaire (f/h) 1 1",
-   "location": "Crespin"
-  },
-  "95dd7d46d5d06c2743c8c8a2d745fe74": {
-   "id": "95dd7d46d5d06c2743c8c8a2d745fe74",
-   "company": "ALSTOM TRANSPORT SA",
-   "role": "Technicien(ne) De Maintenance Ferroviaire (f/h) 1",
-   "location": "Saint"
-  },
-  "960484e0dfd00ccec5f8cf7423e30a40": {
-   "id": "960484e0dfd00ccec5f8cf7423e30a40",
-   "company": "RTX Corporation",
-   "role": "Technicien(ne) De Maintenance Electronique",
-   "location": "Toulouse"
-  },
-  "eb63a04f77b21d3822f1cbe4c947c027": {
-   "id": "eb63a04f77b21d3822f1cbe4c947c027",
-   "company": "Eiffageconstruction",
-   "role": "Technicien De Maintenance Cvc F/h",
-   "location": "Mignieres"
-  },
-  "9a8f862ae9b2f788255424c39bda0750": {
-   "id": "9a8f862ae9b2f788255424c39bda0750",
-   "company": "Michelin",
-   "role": "Professionnel De Maintenance F/h",
-   "location": "Lyon"
-  },
-  "2d0efaab7f35512c702c7138efb8ae4c": {
-   "id": "2d0efaab7f35512c702c7138efb8ae4c",
-   "company": "GE HealthCare Technologies",
-   "role": "Technicien(ne) De Maintenance - Maintenance Technician",
-   "location": "Paris"
-  },
-  "f77145f0fd591f2d54b44d1a03177622": {
-   "id": "f77145f0fd591f2d54b44d1a03177622",
-   "company": "Atos",
-   "role": "Technicien De Maintenance Électronique (h/f)",
-   "location": "Paris"
-  },
-  "15afbb36c7786d05626d82aa4a4eece9": {
-   "id": "15afbb36c7786d05626d82aa4a4eece9",
-   "company": "ANTAVIA",
-   "role": "Technicien En Electromecanique (h/f)",
-   "location": "Campsas"
-  },
-  "28a89a66d8c2e89bbe850499f647b99c": {
-   "id": "28a89a66d8c2e89bbe850499f647b99c",
-   "company": "AMETEK Inc",
-   "role": "Technicien En Mécanique, Hydraulique Et Trains",
-   "location": "Campsas"
-  },
-  "6733f380cb310cd7c79feb01523fa0a6": {
-   "id": "6733f380cb310cd7c79feb01523fa0a6",
-   "company": "Chubb Fire & Security",
-   "role": "Technicien De Maintenance",
-   "location": "Paris"
-  },
-  "af1f468c9f1439a19dce70222b2de2e5": {
-   "id": "af1f468c9f1439a19dce70222b2de2e5",
-   "company": "AptarGroup",
-   "role": "Electromécanicien Apply Now »",
-   "location": "Chavanod"
-  },
-  "488e890205b06f908dc974f03dfeed7c": {
-   "id": "488e890205b06f908dc974f03dfeed7c",
-   "company": "AptarGroup",
-   "role": "Technicien Maintenance Presses H/f Postuler »",
-   "location": "Le Neubourg"
-  },
-  "9361e14209b8b872f8cb48c6f311001c": {
-   "id": "9361e14209b8b872f8cb48c6f311001c",
-   "company": "AptarGroup",
-   "role": "Technicien De Maintenance Moulage H/f Postuler »",
-   "location": "Tout"
-  },
-  "7bce125fa70725e08d2939a3f994be38": {
-   "id": "7bce125fa70725e08d2939a3f994be38",
-   "company": "AptarGroup",
-   "role": "Technicien De Maintenance 3x8 H/f Postuler »",
-   "location": "Granville"
-  },
-  "522a66a3bc1436ca4e334e94facdbc2c": {
-   "id": "522a66a3bc1436ca4e334e94facdbc2c",
-   "company": "AptarGroup",
-   "role": "Technicien De Maintenance 2x12 H/f Postuler »",
-   "location": "Granville"
-  },
-  "f25686b5832d68f7a80abaac09a405e3": {
-   "id": "f25686b5832d68f7a80abaac09a405e3",
-   "company": "Eiffagemetal",
-   "role": "Technicien De Maintenance Multi Techniques F/h",
-   "location": "Giberville"
-  },
-  "8f4bfc7354bc334e503a3061a04240cb": {
-   "id": "8f4bfc7354bc334e503a3061a04240cb",
+  "c6b1fe255ee896a6bf3320f62dc4a328": {
+   "id": "c6b1fe255ee896a6bf3320f62dc4a328",
    "company": "Mango",
    "role": "Multifunctional Sales Associate",
+   "location": "Bordeaux"
+  },
+  "2c0be751edb61e74cdd39eb4418363f2": {
+   "id": "2c0be751edb61e74cdd39eb4418363f2",
+   "company": "Calvin Klein",
+   "role": "Démonstrateur.rice (m/f/d*) - Tommy Hilfiger & Calvin Klein - Galeries Lafayette Nantes - Stage 2 Mois",
+   "location": "Nantes"
+  },
+  "1d763b3cf7f78caf77c890f14a12c339": {
+   "id": "1d763b3cf7f78caf77c890f14a12c339",
+   "company": "MAISONS DU MONDE FRANCE",
+   "role": "Conseiller(e) De Vente",
+   "location": "Bordeaux"
+  },
+  "35e8f65477c82ff20bef76a74374dda6": {
+   "id": "35e8f65477c82ff20bef76a74374dda6",
+   "company": "The LEGO Group",
+   "role": "Vendeur Caissier Polyvalent H/f 3",
+   "location": "Lille"
+  },
+  "1de98451e8b756bf7ad2f68e22bb6961": {
+   "id": "1de98451e8b756bf7ad2f68e22bb6961",
+   "company": "Estée Lauder Companies",
+   "role": "Cdd - Conseiller.e De Vente - Fragrances - Estée Lauder Companies - Le Marais Paris - 35h H/f/x",
    "location": "Paris"
+  },
+  "7de774e7b026f2ebc819f1c5624c2d93": {
+   "id": "7de774e7b026f2ebc819f1c5624c2d93",
+   "company": "La Casa de las Carcasas",
+   "role": "Vendeur (h/f) - Cdi 24h - La Défense",
+   "location": "Paris"
+  },
+  "0c30d289a546f8cdc2a28f78b4c279ae": {
+   "id": "0c30d289a546f8cdc2a28f78b4c279ae",
+   "company": "lactalisexperience",
+   "role": "Vendeur (h/f) Frangy (74)",
+   "location": "Frangy"
+  },
+  "27572c782b434721ff6839500aee779b": {
+   "id": "27572c782b434721ff6839500aee779b",
+   "company": "Soeur",
+   "role": "Cdi - Premier.e Vendeur.euse 35h (nantes)",
+   "location": "Nantes"
+  },
+  "4938a8abbe549dc6497c6218c1aa1c37": {
+   "id": "4938a8abbe549dc6497c6218c1aa1c37",
+   "company": "Boulanger",
+   "role": "Vendeur Conseil - Cdd H/f",
+   "location": "Annecy"
+  },
+  "f0e2bfacd3bd6b17fbb67190142c3d82": {
+   "id": "f0e2bfacd3bd6b17fbb67190142c3d82",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Conseiller De Vente - Flagship Faubourg (h/f/x)",
+   "location": "Paris"
+  },
+  "d3432b457ce3a82560c3cb467fbb3e3c": {
+   "id": "d3432b457ce3a82560c3cb467fbb3e3c",
+   "company": "Galeries Lafayette",
+   "role": "Vente Renfort Noel - Cdd F/h",
+   "location": "Paris"
+  },
+  "ac48259ede3299b4006c7656d8139758": {
+   "id": "ac48259ede3299b4006c7656d8139758",
+   "company": "ENACO",
+   "role": "Alternance - Conseiller(ère) De Vente En Bijouterie H/f",
+   "location": "Toulouse"
+  },
+  "7ee5d1283f3587dac0b00223c99cfbba": {
+   "id": "7ee5d1283f3587dac0b00223c99cfbba",
+   "company": "LOVISA",
+   "role": "Vendeur(euse) En Cdd 25h",
+   "location": "Lyon"
   },
   "b4f30cd13ef2401f4e1e84e13b7a48d3": {
    "id": "b4f30cd13ef2401f4e1e84e13b7a48d3",
    "company": "Levis Media",
    "role": "Démonstrateur H/f Cdi 24h",
    "location": "Paris"
+  },
+  "7ffe430ba915cc40c83f4068b22f8d0a": {
+   "id": "7ffe430ba915cc40c83f4068b22f8d0a",
+   "company": "Hermès International",
+   "role": "Cdd (mi Novembre - Mi Janvier) Conseiller De Vente H/f - Magasin Du George V",
+   "location": "ÎLe-De-France"
   },
   "f9df46d2a369c9180594e33ff9f37214": {
    "id": "f9df46d2a369c9180594e33ff9f37214",
@@ -3950,6 +4040,12 @@
    "role": "Cdd - Maquilleur/vendeur - Bobbi Brown - Paris - 35h - H/f/x",
    "location": "Paris"
   },
+  "dc073f1cbfcd01ac4443fccc2aa0e878": {
+   "id": "dc073f1cbfcd01ac4443fccc2aa0e878",
+   "company": "Reformation",
+   "role": "Sales Associate, Part-time -le Marais, Paris",
+   "location": "Paris"
+  },
   "b4cb403bdb759e27c13891a2f77611ef": {
    "id": "b4cb403bdb759e27c13891a2f77611ef",
    "company": "Galeries Lafayette",
@@ -3961,6 +4057,12 @@
    "company": "G&F Châtelain",
    "role": "Stage Renfort Hiver - Conseiller.e De Vente Parfums Beauté - Galeries Lafayette Nice H/f/x",
    "location": "Nice"
+  },
+  "a91bd9fe859b943a4f1a39fc5e9a82a9": {
+   "id": "a91bd9fe859b943a4f1a39fc5e9a82a9",
+   "company": "Kiabi",
+   "role": "Conseiller De Vente (h/f) 25h Cdi",
+   "location": "Lyon"
   },
   "02192b71ba6db48d94dd82f6c00713f7": {
    "id": "02192b71ba6db48d94dd82f6c00713f7",
@@ -4004,12 +4106,6 @@
    "role": "Vendeurs Polyvalents H/f, Cdi 24h",
    "location": "Paris"
   },
-  "effb33851dfea378e7eb687695e959b2": {
-   "id": "effb33851dfea378e7eb687695e959b2",
-   "company": "MAISONS DU MONDE FRANCE",
-   "role": "Conseiller(e) De Vente",
-   "location": "Nice"
-  },
   "8eecb392452b654fb5d77c1e7e00fc79": {
    "id": "8eecb392452b654fb5d77c1e7e00fc79",
    "company": "The LEGO Group",
@@ -4038,12 +4134,6 @@
    "id": "2019f909c3a167cba42cca8c39a582e1",
    "company": "SKECHERS USA Inc",
    "role": "Conseiller De Vente H/f",
-   "location": "Paris"
-  },
-  "c6bb0168f3c77d5545db49e4eb59309f": {
-   "id": "c6bb0168f3c77d5545db49e4eb59309f",
-   "company": "LOVISA",
-   "role": "Vendeur(euse) En Cdd 25h",
    "location": "Paris"
   },
   "bd800f1a3af66826a85089085e6228e2": {
@@ -4111,12 +4201,6 @@
    "company": "Boulanger",
    "role": "Vendeur Conseil - Cdi H/f",
    "location": "Annecy"
-  },
-  "55943a43bfc4c0bf9951aaa64d09b830": {
-   "id": "55943a43bfc4c0bf9951aaa64d09b830",
-   "company": "Boulanger",
-   "role": "Vendeur Conseil - Cdd H/f",
-   "location": "Lyon"
   },
   "4cdeb3af019af54239de962f7338e690": {
    "id": "4cdeb3af019af54239de962f7338e690",
@@ -4322,88 +4406,118 @@
    "role": "Cdi - Conseiller De Vente (h/f/x) 35h - Boulogne Billancourt",
    "location": "Paris"
   },
-  "3a2d54b7186ce5a8618d12231c674f31": {
-   "id": "3a2d54b7186ce5a8618d12231c674f31",
-   "company": "Deckers",
-   "role": "Vendeur/se Ugg Galeries Lafayette Haussmann",
+  "06f025b2396e83ba644f16a3d786e72d": {
+   "id": "06f025b2396e83ba644f16a3d786e72d",
+   "company": "adidas AG",
+   "role": "Coordinateur Sports Marketing - Services Aux Partenaires Rugby (h/f/d)",
    "location": "Paris"
   },
-  "842e4ea701e7bb104e9d2a99e78dd768": {
-   "id": "842e4ea701e7bb104e9d2a99e78dd768",
-   "company": "Conforama",
-   "role": "Vendeur Electroménager Electro-loisirs (h/f) - Cdd",
-   "location": "TréVenans"
-  },
-  "55a7f688fb298b4da818d4792bf1e063": {
-   "id": "55a7f688fb298b4da818d4792bf1e063",
-   "company": "Etam",
-   "role": "Vendeur.se \"ville\" - X H/sem - Cdi",
-   "location": "Lyon"
-  },
-  "f96902ec5264687e1e91619e4f8d3331": {
-   "id": "f96902ec5264687e1e91619e4f8d3331",
-   "company": "Galeries Lafayette",
-   "role": "Conseiller De Vente - Anglais - Cdi Temps Plein F/h",
+  "8b34d9ac8ff87de070ca3ed896160798": {
+   "id": "8b34d9ac8ff87de070ca3ed896160798",
+   "company": "Bolton Group S.r.l",
+   "role": "Stagiaire Assistant(e) Chef(fe) De Produit Wc Net - Home Care",
    "location": "Paris"
   },
-  "ef7325b3d55be324cbb69593d72c6af6": {
-   "id": "ef7325b3d55be324cbb69593d72c6af6",
-   "company": "La Casa de las Carcasas",
-   "role": "Vendeur (h/f) - Cdi 20h - Toulouse Alsace Lorraine",
-   "location": "Toulouse"
-  },
-  "f8d3a9ff2b5de8b8f2675030d044dd54": {
-   "id": "f8d3a9ff2b5de8b8f2675030d044dd54",
-   "company": "Nestle SA",
-   "role": "Vendeur (h/f)",
+  "cc94ff729c5056251269bc40f02e9405": {
+   "id": "cc94ff729c5056251269bc40f02e9405",
+   "company": "Shiseido",
+   "role": "Export Operational Marketing Assistant - Us Brands Internship H/f - January 2027",
    "location": "Paris"
   },
-  "974624a535909b8653bee6cb41dd173c": {
-   "id": "974624a535909b8653bee6cb41dd173c",
-   "company": "Skechers",
-   "role": "Conseiller De Vente H/f",
-   "location": "Lyon"
-  },
-  "42a263d7b964782c18302bdfa924866f": {
-   "id": "42a263d7b964782c18302bdfa924866f",
-   "company": "Hermès International",
-   "role": "Cdd - Vendeur(se) H/f - Lyon",
-   "location": "Lyon"
-  },
-  "093c27f09a055b293fc0d148b713b131": {
-   "id": "093c27f09a055b293fc0d148b713b131",
-   "company": "NIKE",
-   "role": "Athlete Nike (vendeur En Magasin) – H / F Cdi 24h",
-   "location": "Lille"
-  },
-  "362402d6171db082d70355c7ffb88e5e": {
-   "id": "362402d6171db082d70355c7ffb88e5e",
-   "company": "NIKE",
-   "role": "Athlete Nike (vendeur En Magasin) – H / F Cdi 12h",
-   "location": "Lille"
-  },
-  "cda22354849c56283cdf9634139164e2": {
-   "id": "cda22354849c56283cdf9634139164e2",
-   "company": "Nike",
-   "role": "Athlete Nike (vendeur & Stockiste En Magasin) – H / F - Cdd 35h",
+  "33894aff83cef9221e59a272d0a5f353": {
+   "id": "33894aff83cef9221e59a272d0a5f353",
+   "company": "Shiseido",
+   "role": "Stage - Assistant(e) Chef De Produit Marketing Opérationnel - Marché France H/f",
    "location": "Paris"
   },
-  "d7e115ccde5d46cc9a6fceed1267b26e": {
-   "id": "d7e115ccde5d46cc9a6fceed1267b26e",
-   "company": "Tommy Hilfiger",
-   "role": "Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Paris Capucines - Cdd 35h",
+  "1c2ec4e860a45b6937fce0b841624010": {
+   "id": "1c2ec4e860a45b6937fce0b841624010",
+   "company": "Shiseido",
+   "role": "Stage - Assistant(e) Trade Marketing - Marché France",
    "location": "Paris"
   },
-  "1168273187477": {
-   "id": "1168273187477",
-   "company": "MAC Cosmetics",
-   "role": "Cdd - Maquilleur / Vendeur - Mac Cosmetics - Velizy 2 35h H/f/x",
+  "dcf9a8b51bd22f9b9d2fd1a6c6c12163": {
+   "id": "dcf9a8b51bd22f9b9d2fd1a6c6c12163",
+   "company": "Shiseido",
+   "role": "Operational Marketing Product Assistant",
    "location": "Paris"
   },
-  "1168273419316": {
-   "id": "1168273419316",
-   "company": "Bobbi Brown",
-   "role": "Cdd 21h/35h - Maquilleur/vendeur - Bobbi Brown - Bon Marché - H/f/x",
+  "9bbea7871a3719dfcd4089baf1a7b76b": {
+   "id": "9bbea7871a3719dfcd4089baf1a7b76b",
+   "company": "Shiseido",
+   "role": "Stage - Assistant Chef De Produit - Marketing Opérationnel Emea H/f - Janvier 2027",
+   "location": "Paris"
+  },
+  "a77c5f6929abb267e55f89f13b429fe7": {
+   "id": "a77c5f6929abb267e55f89f13b429fe7",
+   "company": "Shiseido",
+   "role": "Stage - Assistant Chef De Produit Marketing Développement - Parfums (f/h) - Janvier 2027",
+   "location": "Paris"
+  },
+  "25624b698e26f5f6e0aef2a2584f424d": {
+   "id": "25624b698e26f5f6e0aef2a2584f424d",
+   "company": "Shiseido",
+   "role": "Stage - Assistant Chef De Produit Marketing Développement Maquillage Serge Lutens H/f - Janvier 2027",
+   "location": "Paris"
+  },
+  "cfeea4d037476adb5f48d207bce0b8ba": {
+   "id": "cfeea4d037476adb5f48d207bce0b8ba",
+   "company": "Shiseido",
+   "role": "Stage - Assistant Chef De Produit - Marketing Opérationnel Travel Retail - Fragrances & Soin/make-up",
+   "location": "Paris"
+  },
+  "860ecbcc70293252dcd3a5e8b458af33": {
+   "id": "860ecbcc70293252dcd3a5e8b458af33",
+   "company": "Shiseido",
+   "role": "Stage - Assistant Communication Gallinée H/f - Janvier 2027",
+   "location": "Paris"
+  },
+  "4ffe06afa83bb5b4df3845d846ccddf3": {
+   "id": "4ffe06afa83bb5b4df3845d846ccddf3",
+   "company": "Bottega Veneta France SAS",
+   "role": "Bottega Veneta Cdd Pr Coordinator France & Monaco",
+   "location": "Paris"
+  },
+  "a18a735071b3b535e28d56a47411f5af": {
+   "id": "a18a735071b3b535e28d56a47411f5af",
+   "company": "Fromageries Bel",
+   "role": "Stage - Assistant(e) Chef De Produit France (f/h/x) - Janvier 2027",
+   "location": "Paris"
+  },
+  "590cd612aa3990c930cac44cae3c2983": {
+   "id": "590cd612aa3990c930cac44cae3c2983",
+   "company": "Fromageries Bel",
+   "role": "Stage -assistant(e) Achats - Projets Sous-traitance (f/h/x) - Juillet 2026",
+   "location": "Suresnes"
+  },
+  "906b3f3da2bac09bfb464489fd78231a": {
+   "id": "906b3f3da2bac09bfb464489fd78231a",
+   "company": "Fromageries Bel",
+   "role": "Stage -assistant(e) Achats - Projets Sous-traitance (f/h/x) - Janvier 2027",
+   "location": "Suresnes"
+  },
+  "08a3850276d9fff343950a5830e4fe63": {
+   "id": "08a3850276d9fff343950a5830e4fe63",
+   "company": "Fromageries Bel",
+   "role": "Alternance - Assistant(e) Achats Pommes (f/h/x) - Septembre 2026",
+   "location": "Boué"
+  },
+  "350b3e48af5137de80debd7267b7dad3": {
+   "id": "350b3e48af5137de80debd7267b7dad3",
+   "company": "Estée Lauder",
+   "role": "Global Product Marketing Assistant",
+   "location": "Paris"
+  },
+  "fcca5b3a43baf696edadc7e0c54dfa25": {
+   "id": "fcca5b3a43baf696edadc7e0c54dfa25",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Coordinateur Export (h/f) - 6 Mois Choisy-le-roi (94)",
+   "location": "Paris"
+  },
+  "b93d377ab540c90ad4a3ecbb6cd3e7bd": {
+   "id": "b93d377ab540c90ad4a3ecbb6cd3e7bd",
+   "company": "Sharkninjaoperatingllc",
+   "role": "Executive Assistant",
    "location": "Paris"
   },
   "9978c9e8d7e43c227d45d351daed69af": {
@@ -4532,6 +4646,18 @@
    "role": "Stage Chef De Projet B2b Marketing Fidélisation F/h",
    "location": "Paris"
   },
+  "4d0b820e09a61b059db99a3b7cdaa7a9": {
+   "id": "4d0b820e09a61b059db99a3b7cdaa7a9",
+   "company": "PepsiCo Inc",
+   "role": "Stage - Assistant(e) Coordinateur Litiges Logistiques Mars 2027 H/f",
+   "location": "Paris"
+  },
+  "59cba43e6e48f98cfdf2e0f6d0943fa3": {
+   "id": "59cba43e6e48f98cfdf2e0f6d0943fa3",
+   "company": "PepsiCo Inc",
+   "role": "Stage - Assistant(e) Coordinateur Logistique Mars 2027 H/f",
+   "location": "Paris"
+  },
   "f49234f23924624e76845b14876add37": {
    "id": "f49234f23924624e76845b14876add37",
    "company": "EssilorLuxottica",
@@ -4596,6 +4722,12 @@
    "id": "f200cdab0c39ad14dab4cfe82b01c24f",
    "company": "Diptyque Paris",
    "role": "Stage - Assistant Juridique Droit Des Affaires H/f",
+   "location": "Paris"
+  },
+  "f910d002d3daec099c15a5eff7021723": {
+   "id": "f910d002d3daec099c15a5eff7021723",
+   "company": "AXA",
+   "role": "Stagiaire – Direction Des Achats – Equipe Solutions, Data Et Performance (h",
    "location": "Paris"
   },
   "c0724137b69d264e665dc82df35ec107": {
@@ -4752,138 +4884,6 @@
    "id": "6ab95d847747e0f4404bd9454852c830",
    "company": "Richemont",
    "role": "Boutique Assistant",
-   "location": "Paris"
-  },
-  "f784b0fe296c42f96e45778044dd67dd": {
-   "id": "f784b0fe296c42f96e45778044dd67dd",
-   "company": "Cartier",
-   "role": "Chargé De Coordination Evénements Haute Joaillerie (h/f) Stage Talent Day",
-   "location": "Paris"
-  },
-  "edc41d7e7014d035b6aa31f7bc908a7b": {
-   "id": "edc41d7e7014d035b6aa31f7bc908a7b",
-   "company": "Richemont",
-   "role": "Stagiaire Assistante Chef De Projet Contenus Edition",
-   "location": "Paris"
-  },
-  "724eb0bc2e4a59dad1f93b897f08e047": {
-   "id": "724eb0bc2e4a59dad1f93b897f08e047",
-   "company": "Richemont",
-   "role": "Stage - Assistant(e) Administration Du Personnel",
-   "location": "Paris"
-  },
-  "25b2277ad57e9f3e000c1306ba41067a": {
-   "id": "25b2277ad57e9f3e000c1306ba41067a",
-   "company": "Richemont",
-   "role": "Stagiaire Assistante Chef De Produit Hj",
-   "location": "Paris"
-  },
-  "dfe21e8152afb07e6689718c8156db56": {
-   "id": "dfe21e8152afb07e6689718c8156db56",
-   "company": "Richemont",
-   "role": "Stagiaire Assistante Contenus Editoriaux",
-   "location": "Paris"
-  },
-  "6c631eab7f15e4ecfeb0a10fee2f0ff2": {
-   "id": "6c631eab7f15e4ecfeb0a10fee2f0ff2",
-   "company": "Richemont",
-   "role": "Stagiaire Assistant(e) Approvisionnement",
-   "location": "Paris"
-  },
-  "8af7b07ffb4a14a9af7ef464196a0033": {
-   "id": "8af7b07ffb4a14a9af7ef464196a0033",
-   "company": "Van Cleef & Arpels",
-   "role": "Stage Assistant(e) Marketing Opérationnel Europe (h/f)",
-   "location": "Paris"
-  },
-  "3e5f15f9798dfa83fd8ef3f524746128": {
-   "id": "3e5f15f9798dfa83fd8ef3f524746128",
-   "company": "Richemont",
-   "role": "Stage Assistant(e) Achat Joaillerie (h/f)",
-   "location": "Paris"
-  },
-  "c67d2668d21eda391e9489773ffac050": {
-   "id": "c67d2668d21eda391e9489773ffac050",
-   "company": "Richemont",
-   "role": "Stage - Assistant(e) Visual Merchandising- Janvier 2027 (h/f/x)",
-   "location": "Paris"
-  },
-  "4a765f87e2c4f1a42e3ce03b3016e4cd": {
-   "id": "4a765f87e2c4f1a42e3ce03b3016e4cd",
-   "company": "Richemont",
-   "role": "Stage - Assistant(e) Chef De Projet Evénements & Vip Expérience - Janvier 2027",
-   "location": "Paris"
-  },
-  "18905ae4a25dc28f7e9487cd91b2e7db": {
-   "id": "18905ae4a25dc28f7e9487cd91b2e7db",
-   "company": "Richemont",
-   "role": "Stage - Assistant(e) L&d - Janvier 2027",
-   "location": "Paris"
-  },
-  "e56844385451f5d8714117b0b18ea38b": {
-   "id": "e56844385451f5d8714117b0b18ea38b",
-   "company": "Richemont",
-   "role": "Stage - Assistant(e) Marketing & Merchandising Joaillerie - Janvier 2027",
-   "location": "Paris"
-  },
-  "85b1b3ae6825138658a1c1a255164005": {
-   "id": "85b1b3ae6825138658a1c1a255164005",
-   "company": "Richemont",
-   "role": "Stage - Assistant(e) Marketing & Merchandising Horlogerie - Janvier 2027",
-   "location": "Paris"
-  },
-  "e770201a1782306d6377e82b8d5754d1": {
-   "id": "e770201a1782306d6377e82b8d5754d1",
-   "company": "Richemont",
-   "role": "Stage Assistant(e) Expérience Client – Dev. Cadeaux Client (h/f)",
-   "location": "Paris"
-  },
-  "1f3604e5ec35166f14b66388870d2ec0": {
-   "id": "1f3604e5ec35166f14b66388870d2ec0",
-   "company": "Richemont",
-   "role": "Stage - Assistant(e) Press Showroom - Janvier 2027 (h/f/x)",
-   "location": "Paris"
-  },
-  "f25aeeafa22822ff23779c0515b54e81": {
-   "id": "f25aeeafa22822ff23779c0515b54e81",
-   "company": "Richemont",
-   "role": "Stage - Assistant(e) Marketing & Merchandising Accessoires - Janvier 2027",
-   "location": "Paris"
-  },
-  "fdd1b70963e16444994dd079669a8ba8": {
-   "id": "fdd1b70963e16444994dd079669a8ba8",
-   "company": "Richemont",
-   "role": "Stage - Assistant(e) Collection Merchandising Pap - Janvier 2027 (h/f/x)",
-   "location": "Paris"
-  },
-  "b1b5435b06a02f0cf1051fb09545d1e0": {
-   "id": "b1b5435b06a02f0cf1051fb09545d1e0",
-   "company": "Richemont",
-   "role": "Stagiaire Assistant(e) Coordination Et Production De Contenu Retail & Crm",
-   "location": "Paris"
-  },
-  "551e7310adef340e5433ba773d9034ab": {
-   "id": "551e7310adef340e5433ba773d9034ab",
-   "company": "Van Cleef & Arpels",
-   "role": "Stagiaire Assistant(e) Coordination & Production De Contenus Corporate",
-   "location": "Paris"
-  },
-  "fc6b302484e0cfc35e5cc4a82d7b6223": {
-   "id": "fc6b302484e0cfc35e5cc4a82d7b6223",
-   "company": "SPORTFIVE Global Holding GmbH",
-   "role": "Stage Brand Recommendation Assistant (f/h)",
-   "location": "Paris"
-  },
-  "2e56beefc72419384a448fa203589e51": {
-   "id": "2e56beefc72419384a448fa203589e51",
-   "company": "SPORTFIVE Global Holding GmbH",
-   "role": "Stage Assistant.e Marketing De L'offre / Servicing (f/h)",
-   "location": "Paris"
-  },
-  "2a34810f7b3d5cc3d762130807d976b8": {
-   "id": "2a34810f7b3d5cc3d762130807d976b8",
-   "company": "AptarGroup",
-   "role": "Hrbp Administrator H/f Apply Now »",
    "location": "Paris"
   }
  }
