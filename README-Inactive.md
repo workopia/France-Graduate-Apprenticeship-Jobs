@@ -8054,4 +8054,25 @@
 <tr><td>SPORTFIVE Global Holding GmbH</td><td>Stage Brand Recommendation Assistant (f/h)</td><td>Paris</td><td>2026-10-11</td></tr>
 <tr><td>SPORTFIVE Global Holding GmbH</td><td>Stage Assistant.e Marketing De L'offre / Servicing (f/h)</td><td>Paris</td><td>2026-10-11</td></tr>
 <tr><td>AptarGroup</td><td>Hrbp Administrator H/f Apply Now »</td><td>Paris</td><td>2026-10-11</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Contrôle De Gestion Achats & Projet Si H/f 6 Mois Laval (53)</td><td>Rennes</td><td>2026-10-12</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Logistique Méthodes Et Performance(h/f) - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-10-12</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Trade Marketing Et Communication (h/f) 6 Mois - Proximité Rennes (35)</td><td>Bourgbarré</td><td>2026-10-12</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Marketing Digital (h/f) 6 Mois Bourgbarré (35)</td><td>Bourgbarré</td><td>2026-10-12</td></tr>
+<tr><td>lactalisexperience</td><td>Alternant Ingénieur Qualité (h/f) - 24 Mois Petit-fayt (59)</td><td>Petit-Fayt</td><td>2026-10-12</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant Chef De Produit (h/f) 6 Mois - Proximité Rennes (35)</td><td>Bourgbarre</td><td>2026-10-12</td></tr>
+<tr><td>GSK plc</td><td>Tech Data Analyst (h/f)</td><td>Paris</td><td>2026-10-12</td></tr>
+<tr><td>Jobgether</td><td>Mid Data Scientist</td><td>France</td><td>2026-10-12</td></tr>
+<tr><td>Avanade</td><td>Business Analyst Stream Finance - D365 Erp</td><td>Paris</td><td>2026-10-12</td></tr>
+<tr><td>Avanade</td><td>D365 F&o - Business Analyst Stream Manufacturing</td><td>Paris</td><td>2026-10-12</td></tr>
+<tr><td>Nestle SA</td><td>Stage Business Analyst F/h</td><td>Paris</td><td>2026-10-12</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Stage - Business Analyst - Janvier 2027</td><td>Paris</td><td>2026-10-12</td></tr>
+<tr><td>CRH PLC</td><td>Technicien Maintenance F/h Chaumes-en-retz (44)</td><td>Chaumes-En-Retz</td><td>2026-10-12</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Bordeaux</td><td>2026-10-12</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Annecy</td><td>2026-10-12</td></tr>
+<tr><td>Tumi</td><td>Seller</td><td>Paris</td><td>2026-10-12</td></tr>
+<tr><td>Swarovski Australia</td><td>Cdi - Conseiller De Vente (h/f/x) 35h - Boulogne Billancourt</td><td>Paris</td><td>2026-10-12</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Assistant(e) Commercial(e) F/h</td><td>Lyon</td><td>2026-10-12</td></tr>
+<tr><td>ENACO</td><td>Alternance - Assistant.e Rh En Apprentissage H/f</td><td>Paris</td><td>2026-10-12</td></tr>
+<tr><td>Bolton Group S.r.l</td><td>Stage Assistant(e) Chef(fe) De Produit - Carolin Home Care</td><td>Paris</td><td>2026-10-12</td></tr>
+<tr><td>Richemont</td><td>Boutique Assistant</td><td>Paris</td><td>2026-10-12</td></tr>
 </table>

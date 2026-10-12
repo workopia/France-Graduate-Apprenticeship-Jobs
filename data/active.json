@@ -1,11 +1,41 @@
 {
- "asOf": "2026-10-11",
+ "asOf": "2026-10-12",
  "count": 814,
  "jobs": {
   "540886": {
    "id": "540886",
    "company": "Energy Aspects",
    "role": "Software Engineer",
+   "location": "Paris"
+  },
+  "c6281d754045204c35e3bfb8bc44d203": {
+   "id": "c6281d754045204c35e3bfb8bc44d203",
+   "company": "Davide Campari Milano S.p.A",
+   "role": "Stagiaire Assistant(e) Activation Chr H/f",
+   "location": "Paris"
+  },
+  "b04948980329b90b8150d2c29c0cd3e1": {
+   "id": "b04948980329b90b8150d2c29c0cd3e1",
+   "company": "Coty Inc",
+   "role": "Internship / Global Product Manager Lancaster",
+   "location": "Paris"
+  },
+  "c1ab578408616dd11f6c559f65ba82f7": {
+   "id": "c1ab578408616dd11f6c559f65ba82f7",
+   "company": "Coty Inc",
+   "role": "Internship / Skincare Merchandising",
+   "location": "Paris"
+  },
+  "04cc557ba2f5576770f120d64fabd675": {
+   "id": "04cc557ba2f5576770f120d64fabd675",
+   "company": "Coty Inc",
+   "role": "Retail Media Intern - Europe",
+   "location": "Paris"
+  },
+  "66b0fc1b79d2a3ef415468d7f872df57": {
+   "id": "66b0fc1b79d2a3ef415468d7f872df57",
+   "company": "Coty Inc",
+   "role": "Internship / Fragrance Development Product Manager Assistant - Burberry",
    "location": "Paris"
   },
   "427fd3ff3cadf719ea73d76e7d4abd94": {
@@ -314,6 +344,12 @@
    "role": "Stagiaire Qualité (h/f) Laval (53)",
    "location": "Rennes"
   },
+  "380f395a21913d0f31f7265ba045045b": {
+   "id": "380f395a21913d0f31f7265ba045045b",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Ingénieur Logistique (h/f) - 6 Mois - Laval (53)",
+   "location": "Rennes"
+  },
   "43c77e73011085d685ff441208eadace": {
    "id": "43c77e73011085d685ff441208eadace",
    "company": "lactalisexperience",
@@ -451,42 +487,6 @@
    "company": "lactalisexperience",
    "role": "Stagiaire Bac+3 Automatisme (h/f) 3 À 6 Mois - Saint-florent-le-vieil (49)",
    "location": "Saint-Florent-Le-Vieil"
-  },
-  "d56185953fb96c77cf145a3317d1d093": {
-   "id": "d56185953fb96c77cf145a3317d1d093",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Contrôle De Gestion Achats & Projet Si H/f 6 Mois Laval (53)",
-   "location": "Rennes"
-  },
-  "e9320cc304e6782d2bfc73fff2b70baf": {
-   "id": "e9320cc304e6782d2bfc73fff2b70baf",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Ingénieur Logistique Méthodes Et Performance(h/f) - 6 Mois - Laval (53)",
-   "location": "Rennes"
-  },
-  "a7df59d398ecd75616f36ab3b03f57cf": {
-   "id": "a7df59d398ecd75616f36ab3b03f57cf",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Trade Marketing Et Communication (h/f) 6 Mois - Proximité Rennes (35)",
-   "location": "Bourgbarré"
-  },
-  "8060d2cd718652ab2011f3f801469369": {
-   "id": "8060d2cd718652ab2011f3f801469369",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Marketing Digital (h/f) 6 Mois Bourgbarré (35)",
-   "location": "Bourgbarré"
-  },
-  "058f8a515deb3a6f6b36b1958200469f": {
-   "id": "058f8a515deb3a6f6b36b1958200469f",
-   "company": "lactalisexperience",
-   "role": "Alternant Ingénieur Qualité (h/f) - 24 Mois Petit-fayt (59)",
-   "location": "Petit-Fayt"
-  },
-  "987ce4472fc817c28b8d2c2f463aeb28": {
-   "id": "987ce4472fc817c28b8d2c2f463aeb28",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Assistant Chef De Produit (h/f) 6 Mois - Proximité Rennes (35)",
-   "location": "Bourgbarre"
   },
   "d9a6ef5f4dd0c7a7e0ee06a4dfabbf68": {
    "id": "d9a6ef5f4dd0c7a7e0ee06a4dfabbf68",
@@ -2150,6 +2150,12 @@
    "role": "Apprenti(e) AI Engineer – Client Engineering, IBM Technology France - IBM France H/F",
    "location": "Paris"
   },
+  "d087bdf78a19fbfddc401e7c81f5b0cb": {
+   "id": "d087bdf78a19fbfddc401e7c81f5b0cb",
+   "company": "EY",
+   "role": "Ai Data Engineer H/f",
+   "location": "Fr"
+  },
   "6655d0616dc46f244907af31fc070030": {
    "id": "6655d0616dc46f244907af31fc070030",
    "company": "Alstom",
@@ -2275,6 +2281,12 @@
    "company": "Pierre Fabre",
    "role": "Data Analyst - Stage - H/f",
    "location": "Toulouse"
+  },
+  "af9552f76fa47ef09757975e9cfbeae4": {
+   "id": "af9552f76fa47ef09757975e9cfbeae4",
+   "company": "Harmattan AI",
+   "role": "Computer Vision Engineer - Tracker",
+   "location": "Paris"
   },
   "082ba3df7e9662815b994423232efd53": {
    "id": "082ba3df7e9662815b994423232efd53",
@@ -2618,18 +2630,6 @@
    "role": "Architecte Ia (h/f)",
    "location": "Paris"
   },
-  "026f1a8a98a8815273456877665fc9ee": {
-   "id": "026f1a8a98a8815273456877665fc9ee",
-   "company": "GSK plc",
-   "role": "Tech Data Analyst (h/f)",
-   "location": "Paris"
-  },
-  "3aebc1f6464794c0b593b4741638a30d": {
-   "id": "3aebc1f6464794c0b593b4741638a30d",
-   "company": "Jobgether",
-   "role": "Mid Data Scientist",
-   "location": "France"
-  },
   "08feceb46a1e48654551665d9da19769": {
    "id": "08feceb46a1e48654551665d9da19769",
    "company": "Kering",
@@ -2862,6 +2862,30 @@
    "id": "21825ce583426c651da771f72c981e0d",
    "company": "EssilorLuxottica",
    "role": "Alternance - Comptable Général F/h",
+   "location": "Paris"
+  },
+  "1e8026d91bad3880b51035a76fccc9bf": {
+   "id": "1e8026d91bad3880b51035a76fccc9bf",
+   "company": "Citigroup",
+   "role": "Banking, Corporate Banking - Financial Institutions Group, Full Time Analyst, Paris - France, 2027",
+   "location": "Paris"
+  },
+  "0ac330b46563f0d5d46e19aee2cf3976": {
+   "id": "0ac330b46563f0d5d46e19aee2cf3976",
+   "company": "Avanade",
+   "role": "Business Analyst D365 F&o (bams)",
+   "location": "Paris"
+  },
+  "b38eff4ebffdb24f350e59a540799806": {
+   "id": "b38eff4ebffdb24f350e59a540799806",
+   "company": "Avanade",
+   "role": "D365 F&o - Business Analyst Stream Manufacturing",
+   "location": "Paris"
+  },
+  "9f956c0b00565f315ce9f958ffa944db": {
+   "id": "9f956c0b00565f315ce9f958ffa944db",
+   "company": "Avanade",
+   "role": "Business Analyst Stream Finance - D365 Erp",
    "location": "Paris"
   },
   "06fd0b602672bc8e68bbe80462c60f39": {
@@ -3104,18 +3128,6 @@
    "role": "Associate Partnerships Officer (due Diligence)",
    "location": "Paris"
   },
-  "570b5a4985f38476748bfdb7d813bead": {
-   "id": "570b5a4985f38476748bfdb7d813bead",
-   "company": "Avanade",
-   "role": "Business Analyst Stream Finance - D365 Erp",
-   "location": "Paris"
-  },
-  "4934feb936bb976e2857e816c282e529": {
-   "id": "4934feb936bb976e2857e816c282e529",
-   "company": "Avanade",
-   "role": "D365 F&o - Business Analyst Stream Manufacturing",
-   "location": "Paris"
-  },
   "c4b732cccb9529dfcdd99fdbc2b5cfdc": {
    "id": "c4b732cccb9529dfcdd99fdbc2b5cfdc",
    "company": "NERA Economic Consulting",
@@ -3332,18 +3344,6 @@
    "role": "Stage - Business Analyst - Horlogerie/joaillerie - H/f/x",
    "location": "Paris"
   },
-  "1c6269021fa86e128d7ed8411554f918": {
-   "id": "1c6269021fa86e128d7ed8411554f918",
-   "company": "Nestle SA",
-   "role": "Stage Business Analyst F/h",
-   "location": "Paris"
-  },
-  "fff57ccd6feaed0401aa1a2fe4b485c3": {
-   "id": "fff57ccd6feaed0401aa1a2fe4b485c3",
-   "company": "SHISEIDO CO.,LTD",
-   "role": "Stage - Business Analyst - Janvier 2027",
-   "location": "Paris"
-  },
   "da4c9c82d7075102af20a79c240d837c": {
    "id": "da4c9c82d7075102af20a79c240d837c",
    "company": "Precision for Medicine",
@@ -3445,6 +3445,12 @@
    "company": "6",
    "role": "Registered Nurse",
    "location": "France Tower"
+  },
+  "dbd76c7792a4967d2821d606beb51f17": {
+   "id": "dbd76c7792a4967d2821d606beb51f17",
+   "company": "Guerbet",
+   "role": "Technicien De Maintenance",
+   "location": "Paris"
   },
   "576cc2fd75708ff0a188b15788ab6a0f": {
    "id": "576cc2fd75708ff0a188b15788ab6a0f",
@@ -3920,11 +3926,23 @@
    "role": "Technicien De Maintenance (h/f)",
    "location": "Breuil-Le-Sec"
   },
-  "fd1672f0d8d0bd8d1da4a417db7b9ccf": {
-   "id": "fd1672f0d8d0bd8d1da4a417db7b9ccf",
-   "company": "CRH PLC",
-   "role": "Technicien Maintenance F/h Chaumes-en-retz (44)",
-   "location": "Chaumes-En-Retz"
+  "7449d07bd52ba7bee30bf3dcb1fc5375": {
+   "id": "7449d07bd52ba7bee30bf3dcb1fc5375",
+   "company": "Kiabi",
+   "role": "Job Etudiant - Conseiller(e) De Vente Kiabi Fresnes",
+   "location": "Paris"
+  },
+  "b760d625770b9ffc655b36a58ba363db": {
+   "id": "b760d625770b9ffc655b36a58ba363db",
+   "company": "Mango",
+   "role": "Multifunctional Sales Associate",
+   "location": "Paris"
+  },
+  "185ce1181fb51c58c2a22142bc5209e9": {
+   "id": "185ce1181fb51c58c2a22142bc5209e9",
+   "company": "Kiabi",
+   "role": "Cdi Etudiant 9h - Conseiller(e) De Vente Kiabi Villefranche Sur Saône",
+   "location": "Lyon"
   },
   "05121d9a4e088eba62d067fca78ce7bf": {
    "id": "05121d9a4e088eba62d067fca78ce7bf",
@@ -3932,17 +3950,17 @@
    "role": "Vendeur Polyvalent Adidas (h/f/d) - Cdi 28 Hrs - Flagship Des Champs-elysées",
    "location": "Paris"
   },
+  "9b6569ee32a19995693ef7079b6fefb9": {
+   "id": "9b6569ee32a19995693ef7079b6fefb9",
+   "company": "Boulanger",
+   "role": "Vendeur Conseil - Cdd H/f",
+   "location": "Toulouse"
+  },
   "dcf67515c842cab53ac8eda0183c21e4": {
    "id": "dcf67515c842cab53ac8eda0183c21e4",
    "company": "Shiseido",
    "role": "Conseiller(ère) Beauté Le Bon Marché - Cdi (h/f)",
    "location": "Paris"
-  },
-  "c6b1fe255ee896a6bf3320f62dc4a328": {
-   "id": "c6b1fe255ee896a6bf3320f62dc4a328",
-   "company": "Mango",
-   "role": "Multifunctional Sales Associate",
-   "location": "Bordeaux"
   },
   "2c0be751edb61e74cdd39eb4418363f2": {
    "id": "2c0be751edb61e74cdd39eb4418363f2",
@@ -3985,12 +4003,6 @@
    "company": "Soeur",
    "role": "Cdi - Premier.e Vendeur.euse 35h (nantes)",
    "location": "Nantes"
-  },
-  "4938a8abbe549dc6497c6218c1aa1c37": {
-   "id": "4938a8abbe549dc6497c6218c1aa1c37",
-   "company": "Boulanger",
-   "role": "Vendeur Conseil - Cdd H/f",
-   "location": "Annecy"
   },
   "f0e2bfacd3bd6b17fbb67190142c3d82": {
    "id": "f0e2bfacd3bd6b17fbb67190142c3d82",
@@ -4394,16 +4406,22 @@
    "role": "Vendeur Polyvalent H/f, Cdi 10h",
    "location": "Paris"
   },
-  "d30933ebfa5330eb4b93fecc434aecf2": {
-   "id": "d30933ebfa5330eb4b93fecc434aecf2",
-   "company": "Tumi",
-   "role": "Seller",
+  "b6cb9235060c094a4f8b275bb7cfed2a": {
+   "id": "b6cb9235060c094a4f8b275bb7cfed2a",
+   "company": "Davide Campari Milano S.p.A",
+   "role": "Stage - Assistant(e) Chef De Produits Champagnes Et Vins De Provence (h/f)",
    "location": "Paris"
   },
-  "7600a4609a42945484a5d7d32df438a5": {
-   "id": "7600a4609a42945484a5d7d32df438a5",
-   "company": "Swarovski Australia",
-   "role": "Cdi - Conseiller De Vente (h/f/x) 35h - Boulogne Billancourt",
+  "8662a2e38fdbf75b9b08508232d79d81": {
+   "id": "8662a2e38fdbf75b9b08508232d79d81",
+   "company": "Guerbet",
+   "role": "Assistant Marketing - Alternance",
+   "location": "Paris"
+  },
+  "c5568327bd076a8c07c82984c50d79e7": {
+   "id": "c5568327bd076a8c07c82984c50d79e7",
+   "company": "Guerbet",
+   "role": "Chargé Rh - Alternance",
    "location": "Paris"
   },
   "06f025b2396e83ba644f16a3d786e72d": {
@@ -4664,6 +4682,12 @@
    "role": "Stage - Assistant(e) Chef De Projet Digital F/h",
    "location": "Paris"
   },
+  "92a4edc2f96377538d949bc97d7b9216": {
+   "id": "92a4edc2f96377538d949bc97d7b9216",
+   "company": "Intermarche",
+   "role": "Assistant(e) Administratif(ve)",
+   "location": "GarancièRes"
+  },
   "35e22fd57a0e3362020f3a957c509833": {
    "id": "35e22fd57a0e3362020f3a957c509833",
    "company": "Portalp",
@@ -4860,30 +4884,6 @@
    "id": "eba57110034477833ff02721b037ba03",
    "company": "adidas AG",
    "role": "Stage - Assistant Rh & Recrutement (h/f/d)",
-   "location": "Paris"
-  },
-  "6aa24269af2673448693dc5a9650508f": {
-   "id": "6aa24269af2673448693dc5a9650508f",
-   "company": "Eurofeu - SAcuritA Incendie",
-   "role": "Assistant(e) Commercial(e) F/h",
-   "location": "Lyon"
-  },
-  "0368bbb6c90db547deba462beea32400": {
-   "id": "0368bbb6c90db547deba462beea32400",
-   "company": "ENACO",
-   "role": "Alternance - Assistant.e Rh En Apprentissage H/f",
-   "location": "Paris"
-  },
-  "8e900861fd408389d01ba54f1749f13b": {
-   "id": "8e900861fd408389d01ba54f1749f13b",
-   "company": "Bolton Group S.r.l",
-   "role": "Stage Assistant(e) Chef(fe) De Produit - Carolin Home Care",
-   "location": "Paris"
-  },
-  "6ab95d847747e0f4404bd9454852c830": {
-   "id": "6ab95d847747e0f4404bd9454852c830",
-   "company": "Richemont",
-   "role": "Boutique Assistant",
    "location": "Paris"
   }
  }
