@@ -8075,4 +8075,55 @@
 <tr><td>ENACO</td><td>Alternance - Assistant.e Rh En Apprentissage H/f</td><td>Paris</td><td>2026-10-12</td></tr>
 <tr><td>Bolton Group S.r.l</td><td>Stage Assistant(e) Chef(fe) De Produit - Carolin Home Care</td><td>Paris</td><td>2026-10-12</td></tr>
 <tr><td>Richemont</td><td>Boutique Assistant</td><td>Paris</td><td>2026-10-12</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ressources Humaines (h/f) - 6 Mois Saint-vulbas (01)</td><td>Saint-Vulbas</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Environnement (h/f) Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Qualité (h/f) Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Logistique (h/f) - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Qualité (h/f) - 6 Mois Roquefort S/soulzon (12)</td><td>Roquefort Sur Soulzon</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire (h/f) Commercial Grands Comptes (4/6 Mois) Torcé (35 - Prox. Rennes)</td><td>Torcé</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Environnement (h/f) - 6 Mois Roquefort S/soulzon (12)</td><td>Roquefort Sur Soulzon</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire (h/f) Qualité Fournisseurs - Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Clients Internationaux Retail H/f 6 Mois Torcé (35)</td><td>Torcé</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ressources Humaines (h/f) - 6 Mois Larceveau (64)pt)</td><td>Larceveau</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Chargé De Projet Lims H/f - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Système D'information & Datavisualisation H/f 6 Mois Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Conception Formation Digitale H/f - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Chargé De Projets Rse - Culture & Engagement Rse H/f - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Acheteur Global Ingrédients Laitiers H/f 6 Mois Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Chargé D'assurances H/f 6 Mois Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Cash Management H/f 6 Mois Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Acheteur Indirect France H/f 6 Mois Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire (h/f) Marketing Scientifique Nutrition Et Formation (6 Mois) Torcé (35)</td><td>Torcé</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Digitalisation & Processus Services Consommateurs H/f - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Chargé De Projets Rse Csrd - H/f - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Production (h/f) - 6 Mois Roquefort S/soulzon (12)</td><td>Roquefort S/Soulzon</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Chef De Projet Process/energies (h/f) - 6 Mois - Proximité Rennes (35)</td><td>Retiers</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Qualité (h/f) - 4 À 9 Mois Franois (25)</td><td>FrançOis</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Qualité (h/f) - 6 Mois Vallet (44)</td><td>Nantes</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant Commercial Export (h/f) 6 Mois - Proximité Rennes (35)</td><td>Bourgbarré</td><td>2026-10-13</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Bac+3 Automatisme (h/f) 3 À 6 Mois - Saint-florent-le-vieil (49)</td><td>Saint-Florent-Le-Vieil</td><td>2026-10-13</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+5 - Stagiaire Ingénieur Ia – Outil Aide Safety H/f</td><td>Paris</td><td>2026-10-13</td></tr>
+<tr><td>Valeo</td><td>Stagiaire Ingénieur R&d</td><td>Paris</td><td>2026-10-13</td></tr>
+<tr><td>NXP Semiconductors</td><td>Stage Ingénieur : Conception Circuits Analogiques: Etude Du Buffer Pour Une Référence De Tension Ultra Précise Et Invariable Dans Le Temps (f/m)</td><td>Toulouse</td><td>2026-10-13</td></tr>
+<tr><td>THALES</td><td>Architecte Ia (h/f)</td><td>Paris</td><td>2026-10-13</td></tr>
+<tr><td>Nestle SA</td><td>Technicien Services Généraux F/h</td><td>Orleans</td><td>2026-10-13</td></tr>
+<tr><td>henryschein.es</td><td>Technicien De Maintenance Itinérant H/f</td><td>Paris</td><td>2026-10-13</td></tr>
+<tr><td>Chiesi Farmaucetici S.p.A</td><td>Technicien Méthodes</td><td>La Chaussee St Victor</td><td>2026-10-13</td></tr>
+<tr><td>Marriott International</td><td>Technicien De Maintenance H/f</td><td>Roissy-En-France</td><td>2026-10-13</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Technicien De Maintenance 5x8</td><td>Marcy-L’ÉToile</td><td>2026-10-13</td></tr>
+<tr><td>Michelin Group</td><td>Technicien De Maintenance F / H (cdi) - Montceau-les-mines</td><td>Montceau-Les-Mines</td><td>2026-10-13</td></tr>
+<tr><td>Aubert & Duval</td><td>Technicien De Dépannage Maintenance F/h</td><td>LES ANCIZES</td><td>2026-10-13</td></tr>
+<tr><td>LFB Biomanufacturing</td><td>Tech. Maintenance Process</td><td>Paris</td><td>2026-10-13</td></tr>
+<tr><td>Galeries Lafayette</td><td>Technicien De Maintenance F/h</td><td>Nice</td><td>2026-10-13</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Maintenance - Portes Automatiques (h/f)</td><td>Nantes</td><td>2026-10-13</td></tr>
+<tr><td>Conforama</td><td>Technicien Sav Electroménager Itinérant (h/f)</td><td>Paris</td><td>2026-10-13</td></tr>
+<tr><td>Weldom</td><td>Technicien De Maintenance (h/f)</td><td>Breuil-Le-Sec</td><td>2026-10-13</td></tr>
+<tr><td>Levis Media</td><td>Demonstrateur 35h H/f - Cdd</td><td>Paris</td><td>2026-10-13</td></tr>
+<tr><td>LEGO®</td><td>Vendeur Caissier Polyvalent H/f</td><td>Paris</td><td>2026-10-13</td></tr>
+<tr><td>LEGO® Store</td><td>Vendeur Caissier Polyvalent H/f Cdd 35h</td><td>Bordeaux</td><td>2026-10-13</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdi 25h - Ormesson</td><td>Paris</td><td>2026-10-13</td></tr>
+<tr><td>JYSK</td><td>Responsable De Rayon / Vendeur 35h (h/f)</td><td>Saint</td><td>2026-10-13</td></tr>
+<tr><td>H&M Home</td><td>Vendeurs (f/h) - Cdi 25h / Cdd 35h - H&m Home - Paris</td><td>Paris</td><td>2026-10-13</td></tr>
+<tr><td>Mango</td><td>Vendeur Polyvalent H/f, Cdi 10h</td><td>Paris</td><td>2026-10-13</td></tr>
+<tr><td>adidas AG</td><td>Stage - Assistant Rh & Recrutement (h/f/d)</td><td>Paris</td><td>2026-10-13</td></tr>
 </table>

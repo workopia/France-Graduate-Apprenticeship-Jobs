@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-12",
+ "asOf": "2026-10-13",
  "count": 814,
  "jobs": {
   "540886": {
@@ -7,6 +7,168 @@
    "company": "Energy Aspects",
    "role": "Software Engineer",
    "location": "Paris"
+  },
+  "510c5a6bdd923b8f1a8ac7a9610fb16d": {
+   "id": "510c5a6bdd923b8f1a8ac7a9610fb16d",
+   "company": "Deutsche Bank",
+   "role": "Cross-asset Structured Products Sales Intern (f/m/x)",
+   "location": "Paris"
+  },
+  "ab0517e3aec9539d6fb701664811ffac": {
+   "id": "ab0517e3aec9539d6fb701664811ffac",
+   "company": "Deutsche Bank",
+   "role": "Structured Finance Sales Intern (f/m/x)",
+   "location": "Paris"
+  },
+  "e457e81df2f2a1e1ac6e3bc3dcaa2e9f": {
+   "id": "e457e81df2f2a1e1ac6e3bc3dcaa2e9f",
+   "company": "Deutsche Bank",
+   "role": "Credit Sales Intern France (f/m/x)",
+   "location": "Paris"
+  },
+  "0e95c0fd8150476567382b0ca55200ea": {
+   "id": "0e95c0fd8150476567382b0ca55200ea",
+   "company": "Christie's",
+   "role": "Assistant(e) Bureau De La Présidence - Stage 6 Mois",
+   "location": "Paris"
+  },
+  "953f524971d5cd85fa87f89b3356a27c": {
+   "id": "953f524971d5cd85fa87f89b3356a27c",
+   "company": "Airbus Helicopters SAS",
+   "role": "Stage 2027 - Optimisation De La Certification Des Modifications Systèmes Avioniques (h/f)",
+   "location": "Marseille Area"
+  },
+  "a4b9e3f6d0658573399164e617ad6e4d": {
+   "id": "a4b9e3f6d0658573399164e617ad6e4d",
+   "company": "IIEP-UNESCO",
+   "role": "Internship: Intergovernmental Oceanographic Commission",
+   "location": "Headquarters"
+  },
+  "5c0f7e0bc2b5ce6290eff7d0f1eb24ed": {
+   "id": "5c0f7e0bc2b5ce6290eff7d0f1eb24ed",
+   "company": "IIEP-UNESCO",
+   "role": "Internship: Division Of Internal Oversight Services",
+   "location": "Paris"
+  },
+  "d35dc849447127d64b264e089cd65d7a": {
+   "id": "d35dc849447127d64b264e089cd65d7a",
+   "company": "IIEP-UNESCO",
+   "role": "Internship: Office Of The Director-general",
+   "location": "Headquarters"
+  },
+  "dbae95d218373a4a6959db06ea126281": {
+   "id": "dbae95d218373a4a6959db06ea126281",
+   "company": "Fromageries Bel",
+   "role": "Intership - Inclusive Business & Customer Csr Engagement (m/f/x) - January 2027",
+   "location": "Suresnes"
+  },
+  "f1a57ceab436ad073cc8d26b95387836": {
+   "id": "f1a57ceab436ad073cc8d26b95387836",
+   "company": "Fromageries Bel",
+   "role": "Internship - Pmo / It Governance & Communication (f/m/x) - January 2027",
+   "location": "Suresnes"
+  },
+  "978712d6993eeb37500e39b4d941cd70": {
+   "id": "978712d6993eeb37500e39b4d941cd70",
+   "company": "Fromageries Bel",
+   "role": "Stage - Assistant.e Reporting & Consolidation (h/f/x) - Janvier 2027",
+   "location": "Paris"
+  },
+  "b03a99ab141100e2b5cd386f2505351f": {
+   "id": "b03a99ab141100e2b5cd386f2505351f",
+   "company": "Ipsen Pharma (SAS)",
+   "role": "Stagiaire Pharmacovigilance Et Infomed",
+   "location": "Paris"
+  },
+  "21120d863c73b96063f1b2132bb1635b": {
+   "id": "21120d863c73b96063f1b2132bb1635b",
+   "company": "LEO Pharma",
+   "role": "Alternant H/f - Affaires Médicales",
+   "location": "Paris"
+  },
+  "cad654fc13e66d8d6d55700419c87214": {
+   "id": "cad654fc13e66d8d6d55700419c87214",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Ingénieur Production (h/f) - 6 Mois Condat (15)",
+   "location": "Condat"
+  },
+  "64bcd806cd795deabed9e743ba79cc26": {
+   "id": "64bcd806cd795deabed9e743ba79cc26",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Acheteur Global It H/f 6 Mois Laval (53)",
+   "location": "Rennes"
+  },
+  "117bb093c305718f3935e8eaed568831": {
+   "id": "117bb093c305718f3935e8eaed568831",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Acheteur Packaging France H/f 6 Mois Laval (53)",
+   "location": "Rennes"
+  },
+  "4aba34cda8327b285dceb494bf8ededa": {
+   "id": "4aba34cda8327b285dceb494bf8ededa",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Ingénieur Food Safety Packaging H/f - 6 Mois - Laval (53)",
+   "location": "Rennes"
+  },
+  "bf958caba48e7ca10736282eb7b641b5": {
+   "id": "bf958caba48e7ca10736282eb7b641b5",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Amélioration Continue En Logistique (h/f) - 6 Mois - Béligneux (01)",
+   "location": "Beligneux"
+  },
+  "19c664301e109978ab00e70c23233b93": {
+   "id": "19c664301e109978ab00e70c23233b93",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Bac+2/3 Magasinier (h/f) - 2 À 4 Mois Retiers (35)",
+   "location": "Retiers"
+  },
+  "914c3ae3d6951f29ce79c6d784e27fa8": {
+   "id": "914c3ae3d6951f29ce79c6d784e27fa8",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Assistant Commercial Export Pacio (h/f) Choisy-le-roi (94)",
+   "location": "Paris"
+  },
+  "612fb0917e3b7b69c9c5ab492515963b": {
+   "id": "612fb0917e3b7b69c9c5ab492515963b",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Ingénieur Qualité (h/f) - 6 Mois Frangy (74)",
+   "location": "Frangy"
+  },
+  "799bee7b9751f46e72676e537e1de5eb": {
+   "id": "799bee7b9751f46e72676e537e1de5eb",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Chef De Secteur (h/f) - 6 Mois Toulouse (31)",
+   "location": "Toulouse"
+  },
+  "367aa9165025aaa7db6100bc849e6a14": {
+   "id": "367aa9165025aaa7db6100bc849e6a14",
+   "company": "Groupeonepoint",
+   "role": "Stage De Fin D’études –transformation Dsi-esm",
+   "location": "Paris"
+  },
+  "671b09b7f14cee7744e812b8e31658ee": {
+   "id": "671b09b7f14cee7744e812b8e31658ee",
+   "company": "ARIANE Group SaS",
+   "role": "Stage - Stagiaire Informatique",
+   "location": "Bordeaux"
+  },
+  "5fe119eee75b984a8b1c6aca431095b0": {
+   "id": "5fe119eee75b984a8b1c6aca431095b0",
+   "company": "Sanofi Genzyme",
+   "role": "Stage 6 Mois Procédés Biologiques Et Validation",
+   "location": "Marcy-L’ÉToile"
+  },
+  "81c391c5c0bb93a6c6bf14e09a5234a3": {
+   "id": "81c391c5c0bb93a6c6bf14e09a5234a3",
+   "company": "Sanofi Genzyme",
+   "role": "Stage 6 Mois Communication Scientifique",
+   "location": "Lyon"
+  },
+  "af47d9bfa1cbd18827c1d076b36dfdaa": {
+   "id": "af47d9bfa1cbd18827c1d076b36dfdaa",
+   "company": "Sanofi Genzyme",
+   "role": "Internship 6 Months Global Market Access And Pricing",
+   "location": "Lyon"
   },
   "c6281d754045204c35e3bfb8bc44d203": {
    "id": "c6281d754045204c35e3bfb8bc44d203",
@@ -325,168 +487,6 @@
    "company": "lactalisexperience",
    "role": "Stagiaire Ressources Humaines (h/f) - 6 Mois L'hermitage (35)",
    "location": "L'Hermitage"
-  },
-  "56d19ca06b2a99e64defabfb0433ee37": {
-   "id": "56d19ca06b2a99e64defabfb0433ee37",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Ressources Humaines (h/f) - 6 Mois Saint-vulbas (01)",
-   "location": "Saint-Vulbas"
-  },
-  "b5aa2cd94e0f13bbe31215365ed81f37": {
-   "id": "b5aa2cd94e0f13bbe31215365ed81f37",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Environnement (h/f) Laval (53)",
-   "location": "Rennes"
-  },
-  "d56cbb424e6da4f21d4b84fab1e2d406": {
-   "id": "d56cbb424e6da4f21d4b84fab1e2d406",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Qualité (h/f) Laval (53)",
-   "location": "Rennes"
-  },
-  "380f395a21913d0f31f7265ba045045b": {
-   "id": "380f395a21913d0f31f7265ba045045b",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Ingénieur Logistique (h/f) - 6 Mois - Laval (53)",
-   "location": "Rennes"
-  },
-  "43c77e73011085d685ff441208eadace": {
-   "id": "43c77e73011085d685ff441208eadace",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Ingénieur Qualité (h/f) - 6 Mois Roquefort S/soulzon (12)",
-   "location": "Roquefort Sur Soulzon"
-  },
-  "c7878bb1db6bb7b11b4f71f460fec8e1": {
-   "id": "c7878bb1db6bb7b11b4f71f460fec8e1",
-   "company": "lactalisexperience",
-   "role": "Stagiaire (h/f) Commercial Grands Comptes (4/6 Mois) Torcé (35 - Prox. Rennes)",
-   "location": "Torcé"
-  },
-  "812caafef95f15021d0a3de03bb5c7be": {
-   "id": "812caafef95f15021d0a3de03bb5c7be",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Environnement (h/f) - 6 Mois Roquefort S/soulzon (12)",
-   "location": "Roquefort Sur Soulzon"
-  },
-  "5bec1f327b0068c4adcb2579c4c81ed2": {
-   "id": "5bec1f327b0068c4adcb2579c4c81ed2",
-   "company": "lactalisexperience",
-   "role": "Stagiaire (h/f) Qualité Fournisseurs - Laval (53)",
-   "location": "Rennes"
-  },
-  "cd8b0e66d4ad33e435e75d372678acad": {
-   "id": "cd8b0e66d4ad33e435e75d372678acad",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Clients Internationaux Retail H/f 6 Mois Torcé (35)",
-   "location": "Torcé"
-  },
-  "de63b7fb7e6550ce0cc3d9db96b9243f": {
-   "id": "de63b7fb7e6550ce0cc3d9db96b9243f",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Ressources Humaines (h/f) - 6 Mois Larceveau (64)pt)",
-   "location": "Larceveau"
-  },
-  "cd482cb6dd2804ee7384a51f664bd732": {
-   "id": "cd482cb6dd2804ee7384a51f664bd732",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Chargé De Projet Lims H/f - 6 Mois - Laval (53)",
-   "location": "Rennes"
-  },
-  "1acf2a0eeadceffa86bb8a1c13f6cf42": {
-   "id": "1acf2a0eeadceffa86bb8a1c13f6cf42",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Système D'information & Datavisualisation H/f 6 Mois Laval (53)",
-   "location": "Rennes"
-  },
-  "b11569b66f6edc823d5e064b2bb25d13": {
-   "id": "b11569b66f6edc823d5e064b2bb25d13",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Ingénieur Conception Formation Digitale H/f - 6 Mois - Laval (53)",
-   "location": "Rennes"
-  },
-  "214c8e84569ee15f198c14812dc033f6": {
-   "id": "214c8e84569ee15f198c14812dc033f6",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Chargé De Projets Rse - Culture & Engagement Rse H/f - 6 Mois - Laval (53)",
-   "location": "Rennes"
-  },
-  "c78bec65e745d1b9c1dbeb7735cd0042": {
-   "id": "c78bec65e745d1b9c1dbeb7735cd0042",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Acheteur Global Ingrédients Laitiers H/f 6 Mois Laval (53)",
-   "location": "Rennes"
-  },
-  "7f4f227c510f7fb5e7be7ec25f828d47": {
-   "id": "7f4f227c510f7fb5e7be7ec25f828d47",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Chargé D'assurances H/f 6 Mois Laval (53)",
-   "location": "Rennes"
-  },
-  "95b577c448517204d51bf5a57ad37293": {
-   "id": "95b577c448517204d51bf5a57ad37293",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Cash Management H/f 6 Mois Laval (53)",
-   "location": "Rennes"
-  },
-  "de1b1c220f20ff3c5acdf28946011adc": {
-   "id": "de1b1c220f20ff3c5acdf28946011adc",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Acheteur Indirect France H/f 6 Mois Laval (53)",
-   "location": "Rennes"
-  },
-  "d426ed8366254743c35fe4a0431d8a0f": {
-   "id": "d426ed8366254743c35fe4a0431d8a0f",
-   "company": "lactalisexperience",
-   "role": "Stagiaire (h/f) Marketing Scientifique Nutrition Et Formation (6 Mois) Torcé (35)",
-   "location": "Torcé"
-  },
-  "06dfb744a5cfa9bbd407c46a09a9aba6": {
-   "id": "06dfb744a5cfa9bbd407c46a09a9aba6",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Digitalisation & Processus Services Consommateurs H/f - 6 Mois - Laval (53)",
-   "location": "Rennes"
-  },
-  "2d0b5a618c616b1d098548ea21e7ddac": {
-   "id": "2d0b5a618c616b1d098548ea21e7ddac",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Chargé De Projets Rse Csrd - H/f - 6 Mois - Laval (53)",
-   "location": "Rennes"
-  },
-  "83fa96934f4e9dc4b18d61bbad70312b": {
-   "id": "83fa96934f4e9dc4b18d61bbad70312b",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Ingénieur Production (h/f) - 6 Mois Roquefort S/soulzon (12)",
-   "location": "Roquefort S/Soulzon"
-  },
-  "1095d779378d936fc6b12a34f4b4050f": {
-   "id": "1095d779378d936fc6b12a34f4b4050f",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Chef De Projet Process/energies (h/f) - 6 Mois - Proximité Rennes (35)",
-   "location": "Retiers"
-  },
-  "ef57f121649098558d9c6f099bc4c66e": {
-   "id": "ef57f121649098558d9c6f099bc4c66e",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Qualité (h/f) - 4 À 9 Mois Franois (25)",
-   "location": "FrançOis"
-  },
-  "568d928aedb164645b49a23d23074ccf": {
-   "id": "568d928aedb164645b49a23d23074ccf",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Ingénieur Qualité (h/f) - 6 Mois Vallet (44)",
-   "location": "Nantes"
-  },
-  "8058c44bfb4ff2a3f55afd62886df8b2": {
-   "id": "8058c44bfb4ff2a3f55afd62886df8b2",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Assistant Commercial Export (h/f) 6 Mois - Proximité Rennes (35)",
-   "location": "Bourgbarré"
-  },
-  "57319d40b8e5ccf3abde1c5237acf64b": {
-   "id": "57319d40b8e5ccf3abde1c5237acf64b",
-   "company": "lactalisexperience",
-   "role": "Stagiaire Bac+3 Automatisme (h/f) 3 À 6 Mois - Saint-florent-le-vieil (49)",
-   "location": "Saint-Florent-Le-Vieil"
   },
   "d9a6ef5f4dd0c7a7e0ee06a4dfabbf68": {
    "id": "d9a6ef5f4dd0c7a7e0ee06a4dfabbf68",
@@ -1016,6 +1016,24 @@
    "role": "Apprentis Supply And Demand / Adv (h-f)",
    "location": "Marseille"
   },
+  "3e275048499d58f7a87cd7b70cdc5e02": {
+   "id": "3e275048499d58f7a87cd7b70cdc5e02",
+   "company": "ARIANE Group SaS",
+   "role": "Stage - Ingénieure / Ingénieur Essais Et Modélisation - Influence Des Rayures Sur L'étanchéité Des Joints Toriques Des Liaisons Propulseurs",
+   "location": "Bordeaux"
+  },
+  "106bece121144d62fc51080f37e67331": {
+   "id": "106bece121144d62fc51080f37e67331",
+   "company": "ARIANE Group SaS",
+   "role": "Stage - Technicienne / Technicien D'essais - Protection D’une Installation D’essai Au Vide Vis-à-vis Des Effets Du Dégazage Des Matériaux",
+   "location": "Bordeaux"
+  },
+  "5ffc7d051153d969bc2aee1ba4d6dc72": {
+   "id": "5ffc7d051153d969bc2aee1ba4d6dc72",
+   "company": "ARIANE Group SaS",
+   "role": "Stage- Ingénieure / Ingénieur Informatique Embarqué - Domaine Spatial",
+   "location": "Mantes La Jolie"
+  },
   "e655f2a9ec269045783216f5b47ab73a": {
    "id": "e655f2a9ec269045783216f5b47ab73a",
    "company": "Alstom",
@@ -1477,24 +1495,6 @@
    "company": "Alpine Cars",
    "role": "Alpine Cars - Cs27 - Bac+5 - Ingénieur.e Innovation Automobile, Benchmarking & Ia Générative (f/h)",
    "location": "Paris"
-  },
-  "11ac273bc2391ab576d1b809cdee4adc": {
-   "id": "11ac273bc2391ab576d1b809cdee4adc",
-   "company": "dacia",
-   "role": "Cs27 Bac+5 - Stagiaire Ingénieur Ia – Outil Aide Safety H/f",
-   "location": "Paris"
-  },
-  "51312a6c6ac58abdfce112c7e442922d": {
-   "id": "51312a6c6ac58abdfce112c7e442922d",
-   "company": "Valeo",
-   "role": "Stagiaire Ingénieur R&d",
-   "location": "Paris"
-  },
-  "4813ca3615c95793eb0225a42b9079e0": {
-   "id": "4813ca3615c95793eb0225a42b9079e0",
-   "company": "NXP Semiconductors",
-   "role": "Stage Ingénieur : Conception Circuits Analogiques: Etude Du Buffer Pour Une Référence De Tension Ultra Précise Et Invariable Dans Le Temps (f/m)",
-   "location": "Toulouse"
   },
   "41c31222477cc3b7046e41e8e98a21fe": {
    "id": "41c31222477cc3b7046e41e8e98a21fe",
@@ -2150,6 +2150,12 @@
    "role": "Apprenti(e) AI Engineer – Client Engineering, IBM Technology France - IBM France H/F",
    "location": "Paris"
   },
+  "0c5bd648bcced7e0755dc6d458bf02f6": {
+   "id": "0c5bd648bcced7e0755dc6d458bf02f6",
+   "company": "IISBMS",
+   "role": "Stage 2027 - Ingénieur·e Ia/devtools - Environnement De Développement Automatisé (agentique)",
+   "location": "Paris Area"
+  },
   "d087bdf78a19fbfddc401e7c81f5b0cb": {
    "id": "d087bdf78a19fbfddc401e7c81f5b0cb",
    "company": "EY",
@@ -2622,12 +2628,6 @@
    "id": "ec45850ed452ce4e8daabfd63a744268",
    "company": "Renault Group",
    "role": "Spécialiste Métier Validation, Data & Monitoring Des Services Énergétiques",
-   "location": "Paris"
-  },
-  "4acb2a8424e6965413a5a2bf5e60e320": {
-   "id": "4acb2a8424e6965413a5a2bf5e60e320",
-   "company": "THALES",
-   "role": "Architecte Ia (h/f)",
    "location": "Paris"
   },
   "08feceb46a1e48654551665d9da19769": {
@@ -3446,6 +3446,72 @@
    "role": "Registered Nurse",
    "location": "France Tower"
   },
+  "762c0d4f86a5f7eba461cc96101ff320": {
+   "id": "762c0d4f86a5f7eba461cc96101ff320",
+   "company": "a2matlas-ascenseur.fr",
+   "role": "Technicien De Maintenance (h/f)",
+   "location": "Lelamentin"
+  },
+  "2ae5dffcf266f50da63e8d514b17642c": {
+   "id": "2ae5dffcf266f50da63e8d514b17642c",
+   "company": "35",
+   "role": "Preparateur Et Superviseur D'arret Maintenance Machines Tournantes F/h",
+   "location": "Marseille"
+  },
+  "43d9354e23e2eb44e27ef9616122a02b": {
+   "id": "43d9354e23e2eb44e27ef9616122a02b",
+   "company": "Aubert & Duval",
+   "role": "Technicien De Maintenance (f/h)",
+   "location": "SAINT GEORGES DE MONS"
+  },
+  "2bd12f3d3b209db9ff4e38fe409ea898": {
+   "id": "2bd12f3d3b209db9ff4e38fe409ea898",
+   "company": "Aubert & Duval",
+   "role": "Technicien De Maintenance Services Généraux (f/h)",
+   "location": "France"
+  },
+  "3b8940575825ee947f598ff904d55f59": {
+   "id": "3b8940575825ee947f598ff904d55f59",
+   "company": "Aubert & Duval",
+   "role": "Technicien De Maintenance N 1 F/h",
+   "location": "Toulouse"
+  },
+  "1448a1a4a32a94a44d88594858e4ec3b": {
+   "id": "1448a1a4a32a94a44d88594858e4ec3b",
+   "company": "Aubert & Duval",
+   "role": "Technicien De Maintenance Électricien N1 F/h",
+   "location": "Toulouse"
+  },
+  "930de47df4f8d4ae082cc573dbeafc5e": {
+   "id": "930de47df4f8d4ae082cc573dbeafc5e",
+   "company": "Aubert & Duval",
+   "role": "Technicien Travaux Programmés (f/h)",
+   "location": "France"
+  },
+  "a98d757a86731e8cb15f410828f5a7c2": {
+   "id": "a98d757a86731e8cb15f410828f5a7c2",
+   "company": "Keysight Technologies",
+   "role": "Field Service Engineer",
+   "location": "Paris"
+  },
+  "037742a38831404503e59485f4b615a4": {
+   "id": "037742a38831404503e59485f4b615a4",
+   "company": "Eaton",
+   "role": "Technicien Sav Itinérant F/h",
+   "location": "Paris"
+  },
+  "0437a67485f04bf7fa501ddfe397c164": {
+   "id": "0437a67485f04bf7fa501ddfe397c164",
+   "company": "lactalisexperience",
+   "role": "Technicien De Maintenance (h/f) Réquista (12)",
+   "location": "RéQuista"
+  },
+  "3755d0fd56b0e0fbea2b400c5d5fe4c8": {
+   "id": "3755d0fd56b0e0fbea2b400c5d5fe4c8",
+   "company": "Intermarche",
+   "role": "Technicien De Maintenance Industrielle (h/f)",
+   "location": "Rennes"
+  },
   "dbd76c7792a4967d2821d606beb51f17": {
    "id": "dbd76c7792a4967d2821d606beb51f17",
    "company": "Guerbet",
@@ -3565,6 +3631,12 @@
    "company": "Cockerill Maintenance & Ingenierie",
    "role": "Technicien Maintenance Mécanique H/f",
    "location": "Gueugnon"
+  },
+  "b82561a21ff75c34960f59bf3b6affbc": {
+   "id": "b82561a21ff75c34960f59bf3b6affbc",
+   "company": "Cockerill Maintenance & Ingenierie",
+   "role": "Mécanicien Industriel (f/h)",
+   "location": "Tout"
   },
   "9cfafacd142eb64105995bc4530e92dc": {
    "id": "9cfafacd142eb64105995bc4530e92dc",
@@ -3854,77 +3926,47 @@
    "role": "Technicien De Travaux - Réparation (h/f)",
    "location": "Paris"
   },
-  "cc9f0196b04f17d77c07379eaf62ef4f": {
-   "id": "cc9f0196b04f17d77c07379eaf62ef4f",
-   "company": "Nestle SA",
-   "role": "Technicien Services Généraux F/h",
-   "location": "Orleans"
-  },
-  "f3d9922a01d5009c9c6484015f5aa952": {
-   "id": "f3d9922a01d5009c9c6484015f5aa952",
-   "company": "henryschein.es",
-   "role": "Technicien De Maintenance Itinérant H/f",
+  "2c737755ca14222bb1014d903461a11a": {
+   "id": "2c737755ca14222bb1014d903461a11a",
+   "company": "Estée Lauder",
+   "role": "Cdd - Conseiller De Vente - Jo Malone London Galeries Lafayette Haussmann 35h (h/f)",
    "location": "Paris"
   },
-  "0a1d5b82d69fa95a974f24ce8ccdeb0c": {
-   "id": "0a1d5b82d69fa95a974f24ce8ccdeb0c",
-   "company": "Chiesi Farmaucetici S.p.A",
-   "role": "Technicien Méthodes",
-   "location": "La Chaussee St Victor"
-  },
-  "17893b449559cdc29b331b96ddcb0e0e": {
-   "id": "17893b449559cdc29b331b96ddcb0e0e",
-   "company": "Marriott International",
-   "role": "Technicien De Maintenance H/f",
-   "location": "Roissy-En-France"
-  },
-  "1055f31b62b01e1e07aba9d4f729b776": {
-   "id": "1055f31b62b01e1e07aba9d4f729b776",
-   "company": "Sanofi Genzyme",
-   "role": "Technicien De Maintenance 5x8",
-   "location": "Marcy-L’ÉToile"
-  },
-  "0a36c983566e239d7c16af6550927dd5": {
-   "id": "0a36c983566e239d7c16af6550927dd5",
-   "company": "Michelin Group",
-   "role": "Technicien De Maintenance F / H (cdi) - Montceau-les-mines",
-   "location": "Montceau-Les-Mines"
-  },
-  "f40b595034337fc461200d535e9677ad": {
-   "id": "f40b595034337fc461200d535e9677ad",
-   "company": "Aubert & Duval",
-   "role": "Technicien De Dépannage Maintenance F/h",
-   "location": "LES ANCIZES"
-  },
-  "7f883f5f934e389adb86c3bec0974b5f": {
-   "id": "7f883f5f934e389adb86c3bec0974b5f",
-   "company": "LFB Biomanufacturing",
-   "role": "Tech. Maintenance Process",
+  "e4b89a87e1e28f9ddecbe2e84f7dfaef": {
+   "id": "e4b89a87e1e28f9ddecbe2e84f7dfaef",
+   "company": "Estée Lauder",
+   "role": "Cdd - Maquilleur/vendeur - Bobbi Brown Paris 35h (h/f)",
    "location": "Paris"
   },
-  "92318c4c6003701ab395eb02d5284f91": {
-   "id": "92318c4c6003701ab395eb02d5284f91",
-   "company": "Galeries Lafayette",
-   "role": "Technicien De Maintenance F/h",
-   "location": "Nice"
-  },
-  "727933dabf2bb8827799b8b9dd67a5ed": {
-   "id": "727933dabf2bb8827799b8b9dd67a5ed",
-   "company": "Otis Worldwide",
-   "role": "Technicien De Maintenance - Portes Automatiques (h/f)",
-   "location": "Nantes"
-  },
-  "59411836796be738d8e5644eb9f71a38": {
-   "id": "59411836796be738d8e5644eb9f71a38",
-   "company": "Conforama",
-   "role": "Technicien Sav Electroménager Itinérant (h/f)",
+  "4bc50480519f7faf9a6327ba127b4951": {
+   "id": "4bc50480519f7faf9a6327ba127b4951",
+   "company": "Estée Lauder",
+   "role": "Cdd - 35h Maquilleur/vendeur Mac - Paris Rue De Passy H/f/x",
    "location": "Paris"
   },
-  "4c736e22b14327064cf24fdb7719928f": {
-   "id": "4c736e22b14327064cf24fdb7719928f",
-   "company": "Weldom",
-   "role": "Technicien De Maintenance (h/f)",
-   "location": "Breuil-Le-Sec"
+  "f5590fbbfe21cdba0e53fa466708faac": {
+   "id": "f5590fbbfe21cdba0e53fa466708faac",
+   "company": "Estée Lauder",
+   "role": "Cdd - Maquilleuse / Vendeuse - Mac Cosmetics Aéroville - 35h H/f/x",
+   "location": "Paris"
+  },
+  "ec469a6267da02b0c621785b47e870a0": {
+   "id": "ec469a6267da02b0c621785b47e870a0",
+   "company": "Estée Lauder",
+   "role": "Cdd - Conseiller.e De Vente - Le Labo Paris 35h H/f/x - Magasins Et Department Stores",
+   "location": "Paris"
+  },
+  "db7de19b55f5d65d774abbb84c6832b6": {
+   "id": "db7de19b55f5d65d774abbb84c6832b6",
+   "company": "lactalisexperience",
+   "role": "Vendeur (h/f) Fillinges (74)",
+   "location": "Fillinges"
+  },
+  "82c7f8143927eab6cba7fde58cc3a9e7": {
+   "id": "82c7f8143927eab6cba7fde58cc3a9e7",
+   "company": "Skechers.fi",
+   "role": "Conseiller De Vente H/f",
+   "location": "Lyon"
   },
   "7449d07bd52ba7bee30bf3dcb1fc5375": {
    "id": "7449d07bd52ba7bee30bf3dcb1fc5375",
@@ -4364,47 +4406,11 @@
    "role": "Cdd Démonstrateur H/f 35h",
    "location": "Paris"
   },
-  "1df670f4a3712da77f054dc54cd6071f": {
-   "id": "1df670f4a3712da77f054dc54cd6071f",
-   "company": "Levis Media",
-   "role": "Demonstrateur 35h H/f - Cdd",
-   "location": "Paris"
-  },
-  "edbcadae7f92cf8a9253af1f52337a9d": {
-   "id": "edbcadae7f92cf8a9253af1f52337a9d",
-   "company": "LEGO®",
-   "role": "Vendeur Caissier Polyvalent H/f",
-   "location": "Paris"
-  },
-  "d7bb30224d3cde4b27c4b4380f3580e6": {
-   "id": "d7bb30224d3cde4b27c4b4380f3580e6",
-   "company": "LEGO® Store",
-   "role": "Vendeur Caissier Polyvalent H/f Cdd 35h",
-   "location": "Bordeaux"
-  },
-  "fccba2bba6ed0870debe5c8a24470d58": {
-   "id": "fccba2bba6ed0870debe5c8a24470d58",
-   "company": "H&M",
-   "role": "Vendeurs (f/h) - Cdi 25h - Ormesson",
-   "location": "Paris"
-  },
-  "7c67d7837dceea75b770c5de45564c5a": {
-   "id": "7c67d7837dceea75b770c5de45564c5a",
-   "company": "JYSK",
-   "role": "Responsable De Rayon / Vendeur 35h (h/f)",
-   "location": "Saint"
-  },
-  "7c11c2950e42bcfe20035970642394eb": {
-   "id": "7c11c2950e42bcfe20035970642394eb",
-   "company": "H&M Home",
-   "role": "Vendeurs (f/h) - Cdi 25h / Cdd 35h - H&m Home - Paris",
-   "location": "Paris"
-  },
-  "fde8eb121d95ce75620501120f571f78": {
-   "id": "fde8eb121d95ce75620501120f571f78",
-   "company": "Mango",
-   "role": "Vendeur Polyvalent H/f, Cdi 10h",
-   "location": "Paris"
+  "f26352eeb526a0f3859fbc89c0ef37e8": {
+   "id": "f26352eeb526a0f3859fbc89c0ef37e8",
+   "company": "ARIANE Group SaS",
+   "role": "Stage - Assistante Administrative / Assistant Administratif Dans Le Domaine De La Sûreté",
+   "location": "Vert"
   },
   "b6cb9235060c094a4f8b275bb7cfed2a": {
    "id": "b6cb9235060c094a4f8b275bb7cfed2a",
@@ -4878,12 +4884,6 @@
    "id": "13b05b2d4eae1f8921e0170be71a0491",
    "company": "EssilorLuxottica SA",
    "role": "Stage - Assistant(e) Trade Marketing Luxe & Premium Et Fast Fashion F/h",
-   "location": "Paris"
-  },
-  "eba57110034477833ff02721b037ba03": {
-   "id": "eba57110034477833ff02721b037ba03",
-   "company": "adidas AG",
-   "role": "Stage - Assistant Rh & Recrutement (h/f/d)",
    "location": "Paris"
   }
  }
