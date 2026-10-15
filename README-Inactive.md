@@ -8227,4 +8227,117 @@
 <tr><td>Nestle Ltd</td><td>Stage Assistant Chef De Produit Nescafé Dolce Gusto F/h</td><td>Paris</td><td>2026-10-14</td></tr>
 <tr><td>Fondation Egis</td><td>Stagiaire Bac+4 – Coordinateur Challenge Innovation Climat À La Fondation Egis H/f</td><td>Paris</td><td>2026-10-14</td></tr>
 <tr><td>EssilorLuxottica SA</td><td>Stage - Assistant(e) Trade Marketing Luxe & Premium Et Fast Fashion F/h</td><td>Paris</td><td>2026-10-14</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Stage 2027 - Simulations Numériques Computational Fluid Dynamics D'incendies Au Moyen Du Code Fds (all Gender)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Stage 2027 : Simulations Et Solutions De Protection Pour Impacts Mmod (microméteorites Et Debris) (h/f)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Deutsche Bank</td><td>Rates Flow & Solutions Sales Intern (f/m/x)</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Atos</td><td>Stage - Simulation De Bmc Et Cluster Pour L'administration D'infrastructures Hpc Et Ia R&d (h/f)</td><td>Grenoble</td><td>2026-10-15</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship - Marketing Data Scientist</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Ami Paris</td><td>Stage - Assistant.e Presse Internationale H/f</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Stage - Marketing/ Communication</td><td>Cahors</td><td>2026-10-15</td></tr>
+<tr><td>Deutsche Bank</td><td>Cross-asset Structured Products Sales Intern (f/m/x)</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Deutsche Bank</td><td>Structured Finance Sales Intern (f/m/x)</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Deutsche Bank</td><td>Credit Sales Intern France (f/m/x)</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Christie's</td><td>Assistant(e) Bureau De La Présidence - Stage 6 Mois</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Optimisation De La Certification Des Modifications Systèmes Avioniques (h/f)</td><td>Marseille Area</td><td>2026-10-15</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Intergovernmental Oceanographic Commission</td><td>Headquarters</td><td>2026-10-15</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Division Of Internal Oversight Services</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>IIEP-UNESCO</td><td>Internship: Office Of The Director-general</td><td>Headquarters</td><td>2026-10-15</td></tr>
+<tr><td>Fromageries Bel</td><td>Intership - Inclusive Business & Customer Csr Engagement (m/f/x) - January 2027</td><td>Suresnes</td><td>2026-10-15</td></tr>
+<tr><td>Fromageries Bel</td><td>Internship - Pmo / It Governance & Communication (f/m/x) - January 2027</td><td>Suresnes</td><td>2026-10-15</td></tr>
+<tr><td>Fromageries Bel</td><td>Stage - Assistant.e Reporting & Consolidation (h/f/x) - Janvier 2027</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Ipsen Pharma (SAS)</td><td>Stagiaire Pharmacovigilance Et Infomed</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>LEO Pharma</td><td>Alternant H/f - Affaires Médicales</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Production (h/f) - 6 Mois Condat (15)</td><td>Condat</td><td>2026-10-15</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Acheteur Global It H/f 6 Mois Laval (53)</td><td>Rennes</td><td>2026-10-15</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Acheteur Packaging France H/f 6 Mois Laval (53)</td><td>Rennes</td><td>2026-10-15</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Food Safety Packaging H/f - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-10-15</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Amélioration Continue En Logistique (h/f) - 6 Mois - Béligneux (01)</td><td>Beligneux</td><td>2026-10-15</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Bac+2/3 Magasinier (h/f) - 2 À 4 Mois Retiers (35)</td><td>Retiers</td><td>2026-10-15</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant Commercial Export Pacio (h/f) Choisy-le-roi (94)</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Qualité (h/f) - 6 Mois Frangy (74)</td><td>Frangy</td><td>2026-10-15</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Chef De Secteur (h/f) - 6 Mois Toulouse (31)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Groupeonepoint</td><td>Stage De Fin D’études –transformation Dsi-esm</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>ARIANE Group SaS</td><td>Stage - Stagiaire Informatique</td><td>Bordeaux</td><td>2026-10-15</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois Procédés Biologiques Et Validation</td><td>Marcy-L’ÉToile</td><td>2026-10-15</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois Communication Scientifique</td><td>Lyon</td><td>2026-10-15</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Internship 6 Months Global Market Access And Pricing</td><td>Lyon</td><td>2026-10-15</td></tr>
+<tr><td>Davide Campari Milano S.p.A</td><td>Stagiaire Assistant(e) Activation Chr H/f</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Coty Inc</td><td>Internship / Global Product Manager Lancaster</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Coty Inc</td><td>Internship / Skincare Merchandising</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Coty Inc</td><td>Retail Media Intern - Europe</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Coty Inc</td><td>Internship / Fragrance Development Product Manager Assistant - Burberry</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Stage - Controle De Gestion F/h</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Alstom</td><td>Stagiaire Essais Et Interfaces H/f 1</td><td>Recherche Par Lieu</td><td>2026-10-15</td></tr>
+<tr><td>Alstom</td><td>Stage - 6 Mois - Conception Et Automatisation De Commande Tolérante F/h</td><td>Recherche Par Lieu</td><td>2026-10-15</td></tr>
+<tr><td>Alstom</td><td>Stage - 6 Mois - Stagiaire H/f Travaux Et Opc (h/f)</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Alstom</td><td>Stage - 6 Mois - Automatisation De Compagnes D'essais Cbtc (h/f)</td><td>Recherche Par Lieu</td><td>2026-10-15</td></tr>
+<tr><td>Prysmian Group</td><td>France Marketing & Communication - Apprenticeship</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Honeywell International</td><td>Apprenti Ingénieur – H/f</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Duck Creek Technologies</td><td>Business Analyst I (alternance, Apprentice)</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Kering</td><td>Kering Stage Ingénieur Automatisation It4it & Aiops</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Thales Group</td><td>Stage - Ingénieur Concepteur De Scénarios D'entraînement Vol - H/f</td><td>Bordeaux</td><td>2026-10-15</td></tr>
+<tr><td>Thales Group</td><td>Stage - Ingénieur Filtrage De Kalman Équivariant</td><td>Mantes La Jolie</td><td>2026-10-15</td></tr>
+<tr><td>Thales Group</td><td>Stage - Ingénieur Asservissement - F/h</td><td>Mantes La Jolie</td><td>2026-10-15</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Ingénieur(e) Process & Outils Digitaux (h/f)</td><td>Marseille</td><td>2026-10-15</td></tr>
+<tr><td>NXP Semiconductors</td><td>Stage Ingénieur : Conception Numérique Ip Et Circuit Intégrés (f/h)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>NXP Semiconductors</td><td>Stage Ingénieur : Développement Et Optimisation De Cartes Électroniques Dédiée À La Validation Des Produits Bms (f/h)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>NXP Semiconductors</td><td>Stage Ingénieur : Automatisation De La Génération Et De La Maintenance De Modèles Ams À L’aide De L’ia (f/h)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>NXP Semiconductors</td><td>Stage Ingénieur : Vérification D’architectures D’interconnexion Pour Soc Automobiles (f/h)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>NXP Semiconductors</td><td>Stage Ingénieur : Ia Appliquée À La Sûreté De Fonctionnement (f/h)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>GE Healthcare</td><td>Stage Ingénieur(e) Logiciel Application Médicale</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>ALTEREO</td><td>Stage - Ingénieur En Hydraulique Urbaine H/f</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Sopra Steria</td><td>Stage Ingénieur(e) Business Automation - Lille</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>AVL List GmbH</td><td>Stagiaires Ingénieurs Systèmes H/f</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Atos</td><td>Alternance - Ingénieur Intégrateur Sécurité Pki H/f</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Développement Logiciel Java - F/h</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Coty</td><td>Intern / R&d Packaging Development</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Airbus Atlantic</td><td>Stage 2027 - Ingénieur Structuration Données Techniques (all Gender)</td><td>Nantes</td><td>2026-10-15</td></tr>
+<tr><td>Airbus Defence & Space</td><td>Stage 2027 - Etude Des Outils Pour Modéliser Et Gérer Une Infrastructure It (h/f)​</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Stage 2027 - Stagiaire Technicien Génie Électrique Ou Mécanique</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Testia</td><td>Stage 2027 - Etude Des Outils Pour Modéliser Et Gérer Une Infrastructure It (h/f)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 Ingénieur En Maintenance Aéronautique (h/f)</td><td>Marseille</td><td>2026-10-15</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 - Ingénieur(e) Automatisation Des Bancs De Test Calculateurs Avions (m/f)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Airbus Defence and Space SAS</td><td>Stage 2027 - Stage En Intégration Systèmes & Optimisation Ccs (h/f)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Exotrail</td><td>Ground Software Engineer (h/f)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>KION North America Corporation</td><td>Ingenieur.e Logiciel F/h</td><td>Mantes La Jolie</td><td>2026-10-15</td></tr>
+<tr><td>KION</td><td>Ingenieur.e Logiciel F/h</td><td>Mantes La Jolie</td><td>2026-10-15</td></tr>
+<tr><td>Fortil Group</td><td>Développeur C# (h/f)</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Visiativ</td><td>Développeur(se) C# Solution On Premise - Solidworks F/h</td><td>CharbonnièRes</td><td>2026-10-15</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Data Analyst</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 - Analyse De Données & Intelligence Artificielle Pour La Customisation De La Cabine De La Famille A320 (f/h)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Hitachi Metals</td><td>Artificial Intelligence R&d (high Tech) - Entry Professional</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Padoa</td><td>Développeur Ia Plateforme (stage) F/h</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stage - Analyste De Données (f/h) 1 1 1</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Renault Group</td><td>Spécialiste Métier Validation, Data & Monitoring Des Services Énergétiques</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>THALES</td><td>Analyste Financements Structurés (f/h)</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Sensus Xylem Inc</td><td>Technicien De Maintenance Atelier H / F</td><td>Ennery</td><td>2026-10-15</td></tr>
+<tr><td>Adagio La defense Kleber****</td><td>Fr - Agent/technicien De Maintenance (h/f/x)</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien De Maintenance Extincteurs H/f</td><td>Marseille</td><td>2026-10-15</td></tr>
+<tr><td>JCI</td><td>Technicien Frigoriste Industriel - H/f</td><td>Rennes</td><td>2026-10-15</td></tr>
+<tr><td>Delair</td><td>Pilote Rov - Technicien Sav H/f</td><td>Marseille</td><td>2026-10-15</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien De Maintenance</td><td>Ottmarsheim</td><td>2026-10-15</td></tr>
+<tr><td>Otis Worldwide</td><td>Technicien De Maintenance (h/f) - Nsa</td><td>Bourgoin-Jallieu</td><td>2026-10-15</td></tr>
+<tr><td>Otis Worldwide</td><td>Techncien De Maintenance - Nsa (h/f)</td><td>Nice</td><td>2026-10-15</td></tr>
+<tr><td>KONE Macedonia</td><td>Technicien Maintenance Ascenseurs H/f Pour Rs Ascenseurs À Paris</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>KONE Romania</td><td>Technicien Maintenance Ascenseurs H/f Pour Rs Ascenseurs À Paris</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>KONE Macedonia</td><td>Technicien Maintenance Ascenseurs H/f À Toulouse (31)</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Adagio Paris Opéra</td><td>Fr - Agent/technicien De Maintenance (h/f/x) - Cdd</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Annecy</td><td>2026-10-15</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Bordeaux</td><td>2026-10-15</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur Saisonnier 35 Heures H/f - Chamonix - Boardriders Men</td><td>Annecy</td><td>2026-10-15</td></tr>
+<tr><td>Cultura</td><td>Conseiller De Vente Instruments De Musique</td><td>Nice</td><td>2026-10-15</td></tr>
+<tr><td>Cultura</td><td>Conseiller De Vente Ludo Educatif</td><td>Toulouse</td><td>2026-10-15</td></tr>
+<tr><td>Cultura</td><td>Conseiller De Vente F/h Jeux-jouets</td><td>Bordeaux</td><td>2026-10-15</td></tr>
+<tr><td>Eagle Football Group</td><td>Vendeur Olstore St Exupery (h/f)</td><td>Lyon</td><td>2026-10-15</td></tr>
+<tr><td>LEGO®</td><td>Vendeur Caissier Polyvalent H/f 1</td><td>Lille</td><td>2026-10-15</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Cdd - Vendeur H/f</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) - 35h - Renfort - Outlet Roubaix</td><td>Lille</td><td>2026-10-15</td></tr>
+<tr><td>Disney Enterprises Inc</td><td>Assistant.e Juridique En Alternance</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Kellanova</td><td>Stage Assistant(e) Juridique</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Stage - Assistant(e) Trade Marketing Wearables & Clients Top (h/f)</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Stage - Achats Marketing (h/f)</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Stage - Assistant Brand Marketing Eyezen F/h</td><td>Paris</td><td>2026-10-15</td></tr>
+<tr><td>Nespresso</td><td>Stage Coordinateur E-commerce & Animation Commerciale B To C F/h</td><td>Paris</td><td>2026-10-15</td></tr>
 </table>
