@@ -8868,4 +8868,96 @@
 <tr><td>Fromageries Bel</td><td>Alternance - Assistant(e) Achats Pommes (f/h/x) - Septembre 2026</td><td>Boué</td><td>2026-10-18</td></tr>
 <tr><td>Estée Lauder</td><td>Global Product Marketing Assistant</td><td>Paris</td><td>2026-10-18</td></tr>
 <tr><td>lactalisexperience</td><td>Stagiaire Coordinateur Export (h/f) - 6 Mois Choisy-le-roi (94)</td><td>Paris</td><td>2026-10-18</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois Création Digitale Et Visuelle</td><td>Marcy</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois Amélioration Continue Et Optimisation Des Données</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Stage 4 À 6 Mois Amélioration Continue Et Qualité</td><td>Marcy</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois - Audit Interne R&d Et Médical</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois Affaires Technico-réglementaires</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois Excellence Qualité Qualification Et Validation</td><td>Marcy-L’Etoile</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois Développement De Procédés</td><td>Montpellier</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Internship 6 Months Communication And Project Engagement</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois Automatisation Digitale</td><td>Lyon</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois Prototypage Ia</td><td>Lyon</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Internship 6 Months In Drug Product Development And Delivery</td><td>Marcy L’Etoile</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois Amélioration Continue Contrôle Qualité</td><td>Aramon</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Internship 6 Months Scientific Communication</td><td>Lyon</td><td>2026-10-19</td></tr>
+<tr><td>Sanofi</td><td>Stage 4 À 6 Mois Programmation</td><td>Montpellier</td><td>2026-10-19</td></tr>
+<tr><td>Criteo</td><td>Stage – Campaign Manager Intern / Janvier 2027</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Sécurité &amp; Environnement (h/f) - 6 Mois Retiers (35)</td><td>Retiers</td><td>2026-10-19</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Technicien Packaging Europe (h/f) - 6 Mois Bourgbarré (35)</td><td>Bourgbarré</td><td>2026-10-19</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Système D&#39;information &amp; Datavisualisation 6 Mois H/f Laval (53)</td><td>Rennes</td><td>2026-10-19</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Trade Marketing Et Communication (h/f) 6 Mois - Proximité Rennes (35)</td><td>Bourgbarré</td><td>2026-10-19</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Ingénieur Production (h/f) - 6 Mois Roquefort S/soulzon (12)</td><td>Roquefort-Sous-Soulzon</td><td>2026-10-19</td></tr>
+<tr><td>ARQUUS</td><td>Arquus Alternance - Méthodes Et Process Bac +4/5 (h/f)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>ARQUUS</td><td>Alternance - Qualité R&d - Bac+4/5 (h/f)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Apprenti Développeur Ia Et Automatisation Sav F/h/n</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Forvia</td><td>Investor Relations Associate - Apprentice</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Forvia</td><td>Direct Purchasing Apprentice</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>ARIANE Group SaS</td><td>Stage - Technicienne / Technicien D'essais - Protection D’une Installation D’essai Au Vide Vis-à-vis Des Effets Du Dégazage Des Matériaux</td><td>Bordeaux</td><td>2026-10-19</td></tr>
+<tr><td>ARIANE Group SaS</td><td>Stage- Ingénieure / Ingénieur Informatique Embarqué - Domaine Spatial</td><td>Mantes La Jolie</td><td>2026-10-19</td></tr>
+<tr><td>Alstom</td><td>Stage Ingénieur Logiciel (h/f) - Modernisation D'une Application Interne</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Alstom</td><td>Stage - 6 Mois - Ingénieur (h/f) Développement De Simulations Pour Un Système De Maintenance</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Alstom</td><td>Stage - 6 Mois - Ingénieur Logiciel (h/f) - Développement D'un Outil De Gestion Des Compétences</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Alstom</td><td>Stage - 6 Mois - Ingénieur Logiciel (h/f) - Modernisation D'une Application Interne</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Alstom</td><td>Stage - 6 Mois - Support Outil De Développement Logiciel (h/f)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Mise En Oeuvre De Capteurs</td><td>Mantes La Jolie</td><td>2026-10-19</td></tr>
+<tr><td>THALES</td><td>Stage Ingénieur Ia - F/h</td><td>Marseille</td><td>2026-10-19</td></tr>
+<tr><td>Razer Gold</td><td>Software Engineer</td><td>France</td><td>2026-10-19</td></tr>
+<tr><td>Harmattan AI</td><td>Computer Vision Engineer - Tracker</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>CHANEL</td><td>Stage – Net Zero Data Analyst – Chanel Europe – Janvier 2027 – H/f/x</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Datadog</td><td>Ai Research Scientist - Datadog Ai Research (dair)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Apple</td><td>Ai/ml Engineer - Ai Systems For Security, Sear</td><td>France</td><td>2026-10-19</td></tr>
+<tr><td>TotalEnergies</td><td>Stage- Coordinateur Plan Long Terme - Business Analyst H/f</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Business Analyst - Agile - Transport - Île-de-france</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Ardian</td><td>Growth Funds - Finance Analyst - Cdd (h/f)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Agent De Maintenance H/f/x</td><td>Aix En Provence</td><td>2026-10-19</td></tr>
+<tr><td>THALES</td><td>Technicien Ivvq Mco Optro</td><td>Mantes La Jolie</td><td>2026-10-19</td></tr>
+<tr><td>THALES</td><td>Technicien De Maintenance Equipements Electroniques Et Alimentation Haute Tension H/f</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>THALES</td><td>Technicien Maintenance Des Moyens Industriels-f/h</td><td>Toulouse</td><td>2026-10-19</td></tr>
+<tr><td>CHUBB FIRE & SECURITY</td><td>Technicien De Maintenance Des Systèmes De Sûreté Electronique -secteur 75 Est - 93 Sud - 94 Est H/f</td><td>Bussy Saint Martin</td><td>2026-10-19</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Technicien(ne) De Maintenance Rs</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Rs Maintenance Technician</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Alliance Automotive Group</td><td>Technicien De Maintenance H/f</td><td>ÉGreville</td><td>2026-10-19</td></tr>
+<tr><td>DSI Underground</td><td>Technicien Multitechnique F/h</td><td>Bourges</td><td>2026-10-19</td></tr>
+<tr><td>Testia France</td><td>Testia Sas - Technicien.ne En Contrôle Non Destructif (cnd) – Part145 - (h/f) - Toulouse</td><td>Toulouse</td><td>2026-10-19</td></tr>
+<tr><td>JL</td><td>Technicien De Maintenance / Multi Skilled Maintenance Technician</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Nice</td><td>2026-10-19</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdd 35h</td><td>Bordeaux</td><td>2026-10-19</td></tr>
+<tr><td>Etam</td><td>Vendeur.se Le Mans - 24 H/sem - Cdi</td><td>Rueaudin</td><td>2026-10-19</td></tr>
+<tr><td>Fast Retailing</td><td>Vendeur Polyvalent (h/f) - Cdd Temps Plein - Uniqlo Bordeaux Porte Dijeaux</td><td>Bordeaux</td><td>2026-10-19</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) - 35h - Boulogne</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Cultura / Cultura Group</td><td>Ouverture De Magasin Saint-martin-boulogne (62) - Conseiller De Vente (f/h)</td><td>Lille</td><td>2026-10-19</td></tr>
+<tr><td>The LEGO Group</td><td>Vendeur Caissier Polyvalent H/f</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>The LEGO Group</td><td>Vendeur Caissier Polyvalent H/f Cdd 35h</td><td>Bordeaux</td><td>2026-10-19</td></tr>
+<tr><td>Skechers.fi</td><td>Vendeur H/f Polyvalent</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Burberry</td><td>Temporary Showroom Seller (paris Based) - Temporary Contract</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Samsonite</td><td>Seller</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate / Conseiller De Vente - Nice, Fr</td><td>Nice</td><td>2026-10-19</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Conseiller De Vente - Paris Rue De Rivoli, Fr</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique H/f</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique H/f - Cour Des Matériaux</td><td>Toulouse</td><td>2026-10-19</td></tr>
+<tr><td>La Casa de las Carcasas</td><td>Vendeur (h/f) - Cdi 24h - Merignac</td><td>Bordeaux</td><td>2026-10-19</td></tr>
+<tr><td>Estée Lauder</td><td>Cdd - Conseiller De Vente - Jo Malone London Galeries Lafayette Haussmann 35h (h/f)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Estée Lauder</td><td>Cdd - Maquilleur/vendeur - Bobbi Brown Paris 35h (h/f)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Estée Lauder</td><td>Cdd - 35h Maquilleur/vendeur Mac - Paris Rue De Passy H/f/x</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Estée Lauder</td><td>Cdd - Maquilleuse / Vendeuse - Mac Cosmetics Aéroville - 35h H/f/x</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Estée Lauder</td><td>Cdd - Conseiller.e De Vente - Le Labo Paris 35h H/f/x - Magasins Et Department Stores</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Brico Dépôt</td><td>Conseiller(ère) Vente Et Service Client</td><td>Lyon</td><td>2026-10-19</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente - 25h Cdi H/f/x</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>lactalisexperience</td><td>Vendeur (h/f) Fillinges (74)</td><td>Fillinges</td><td>2026-10-19</td></tr>
+<tr><td>Skechers.fi</td><td>Conseiller De Vente H/f</td><td>Lyon</td><td>2026-10-19</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Alternant(e) Rh (h/f)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Marketing Et Commerce (h/f)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Stratégie Marketing (h/f)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Achats Et Services Généraux (h/f)</td><td>La Plaine-Saint-Denis</td><td>2026-10-19</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Achats (h/f)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Reckitt Benckiser</td><td>Stages - Marketing / Assistant(e) Chef(e) De Produit / Janvier 2027</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Coordinateur Export (h/f) - 6 Mois Choisy-le-roi (94)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Assistant Achat Transport (h/f) - 6 Mois Choisy-le-roi (94)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Kenvue</td><td>Stage - Assistant Ecommerce France H/f</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Coty Inc</td><td>Internship/global Influencer Marketing Assistant</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>Coty Inc</td><td>Internship/trade Marketing Assitant</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>santecie</td><td>Assistant(e) Administratif(ve)</td><td>Lyon</td><td>2026-10-19</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Assistant Achat Transport (h/f) - 6 Mois Choisy-le-roi (94)</td><td>Paris</td><td>2026-10-19</td></tr>
+<tr><td>AXA UK</td><td>Chargé De Projet Pilotage (f/h) - Stage</td><td>Paris</td><td>2026-10-19</td></tr>
 </table>
