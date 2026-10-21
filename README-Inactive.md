@@ -9082,4 +9082,92 @@
 <tr><td>Galileo Global Education</td><td>Alternance - Assistant(e) Ressources Humaines (h/f)</td><td>Paris</td><td>2026-10-20</td></tr>
 <tr><td>Galileo Global Education</td><td>Coordinateur/ Coordinatrice De Pédagogie Et Programme F/h</td><td>Paris</td><td>2026-10-20</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance – Chargé(e) De Missions (h/f)</td><td>Paris</td><td>2026-10-20</td></tr>
+<tr><td>SMBC Group</td><td>Debt Capital Market Fig - Internship</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>SMBC Group</td><td>Intern - Middle-office Credit Analyst - Maritime Structured Finance</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>SMBC Group</td><td>Intern - Front-office Credit Analyst - Maritime Structured Finance</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Arkema France</td><td>Stage Juriste M&a H/f/x</td><td>ÎLe-De-France</td><td>2026-10-21</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage – Génération De Netlists Spice Multi-simulateur – F/h</td><td>Grenoble</td><td>2026-10-21</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage – Amélioration D’un Sous Module D’équipement De Traitements Thermiques - F/h</td><td>Grenoble</td><td>2026-10-21</td></tr>
+<tr><td>Nestle Ltd</td><td>Stage Pilote De Flux International F/h</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Nestle SA</td><td>Vendeur - Stage (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Nestle SA</td><td>Stage Trade Marketing Nescafé Dolce Gusto F/h</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Nestle Ltd</td><td>Stage Pilote De Flux Import Et Prévisionniste Des Ventes F/h</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Nestle SA</td><td>Stage Chargé De Projets Rse F/h</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Nestle SA</td><td>Stage Category Manager Nescafé F/h</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur - Stage (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>NetApp</td><td>Partner Sales Intern</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>NetApp</td><td>Intern</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Reckitt</td><td>Stages - Supply Chain & Achats F/h / Janvier 2027</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Reckitt</td><td>Stages Sales - Category Manager / Janvier 2027</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Reckitt</td><td>Stage Sales - Key Account Manager Pharma / Janvier 2027</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Collection (h/f) 6 Mois - Février 2027</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>EssilorLuxottica</td><td>Stage - Capture Du Mouvement Humain (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>MediaKind</td><td>Video Research Intern (6months Internship)</td><td>Rennes</td><td>2026-10-21</td></tr>
+<tr><td>THALES</td><td>Stage - Hse Product H/f</td><td>Marseille</td><td>2026-10-21</td></tr>
+<tr><td>THALES</td><td>Stage - Evaluations De Nouveaux Outils Documentaires À Base D’ia Agentique - F/h</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>THALES</td><td>Stage - Mesure De La Tenue Au Flux Laser De Caméras Infrarouges - F/h</td><td>Mantes La Jolie</td><td>2026-10-21</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Simulation Radar Pour L'observation De La Terre -f/h</td><td>Toulouse</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Stage - Assistant Administratif Et Commercial H / F</td><td>Lyon</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternant Comptabilité Et Gestion F/h</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Chargé.e De Communication (h/f) - Paris</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Gestion & Finance</td><td>Montpellier</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Chargé.e De Développement Commercial (h/f)</td><td>Lyon</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - E-commerce (h/f)</td><td>Montpellier</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Juriste En Alternance - Paris</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Chef De Projet Marketing Dans La Mode H/f</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Chargé.e De Communication En Alternance - Paris</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>MBA ESG</td><td>Chargé.e De Communication En Alternance - Paris</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Emerald Global Education GmbH</td><td>Juriste En Alternance - Paris</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant(e) Marketing Et Communication En Alternance À Saint-cannat</td><td>Saint-Cannat</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Contrôleur De Gestion - Rennes</td><td>Rennes</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Chargé De Communication En Alternance - Rennes</td><td>Rennes</td><td>2026-10-21</td></tr>
+<tr><td>Emerald Global Education GmbH</td><td>Chargé De Communication En Alternance - Rennes</td><td>Rennes</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Supply Chain En Alternance - Paris</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance En Communication Interne - Rennes</td><td>Rennes</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Chef De Produit Marketing En Alternance - Paris</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Assistant Marketing Et Événementiel - Margaux-cantenac (h/f)</td><td>Margaux-Cantenac</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Chargé(e) De Communication Au Sein Du Service Communication (h/f)</td><td>Lyon</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Chargé.e D'expansion En Alternance (h/f)</td><td>Lyon</td><td>2026-10-21</td></tr>
+<tr><td>Warner Bros. Discovery</td><td>Alternance - Rémunération Et Avantages Sociaux</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Saint Laurent</td><td>Saint Laurent Junior Compensation & Benefits Analyst Apprentice</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Shell Energy UK</td><td>Apprentie Hsse</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Atos SE</td><td>Alternance - Ingénieur Pédagogique En Cyber H/f</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Apprentice - Turnkey Digital Solutions</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>THALES</td><td>Stage - Introduction De L’ia Dans Les Outils Et Ingénierie De Cem - F/h</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Cybersécurité Et Ia – F/h</td><td>Toulouse</td><td>2026-10-21</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Automatisation De Tests Outils Satcom - H/f</td><td>Toulouse</td><td>2026-10-21</td></tr>
+<tr><td>THALES</td><td>Ingénieur Développement Logiciel Traitement Du Signal C++ H/f</td><td>Sophia Antipolis</td><td>2026-10-21</td></tr>
+<tr><td>NEMERA</td><td>Stage – Data Analyst Power Bi - F/h/x</td><td>Lyon</td><td>2026-10-21</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist</td><td>France</td><td>2026-10-21</td></tr>
+<tr><td>Thales Group</td><td>Stage - Ingénieur Ia Générative & Agentique - F/h</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>CHANEL</td><td>Stage – Business Analyst Stocks & Prix (h/f/x) - Mode – Janvier 2027</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Néosoft</td><td>Jdu - Business Analyst Ia Assurance</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>ResMed</td><td>Technicien(ne) Sav</td><td>Lyon</td><td>2026-10-21</td></tr>
+<tr><td>Fromageries Bel</td><td>Agent De Maîtrise Maintenance H/f</td><td>Evron</td><td>2026-10-21</td></tr>
+<tr><td>Vandemoortele NV</td><td>Maintenance Technician</td><td>All</td><td>2026-10-21</td></tr>
+<tr><td>35</td><td>Technicien Maintenance Pfgv</td><td>Grenoble</td><td>2026-10-21</td></tr>
+<tr><td>Keolis</td><td>Ouvrier Maintenance Préventive Metro F/h</td><td>Lille</td><td>2026-10-21</td></tr>
+<tr><td>Keolis</td><td>Technicien Matériel Embarqué</td><td>Mantes La Jolie</td><td>2026-10-21</td></tr>
+<tr><td>Keolis Bordeaux Métropole Mobilités</td><td>Agent Electromécanicien - Infrastructures Voie Et Lac Tramway F/h</td><td>Bordeaux</td><td>2026-10-21</td></tr>
+<tr><td>Keolis</td><td>Technicien Maintenance Bus F/h</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Curatif - Matériel Roulant Tram - (jour) F/h</td><td>Bordeaux</td><td>2026-10-21</td></tr>
+<tr><td>Biofrais</td><td>Vendeur h/f</td><td>Toulouse</td><td>2026-10-21</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Partiel H/f</td><td>Lyon</td><td>2026-10-21</td></tr>
+<tr><td>External Career Site PROSOL</td><td>Vendeur h/f</td><td>Lyon</td><td>2026-10-21</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) 35h - Passy</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) 35h - La Défense</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>IKEA UK</td><td>Vendeur F/h - Cdd - Temps Partiel 25h</td><td>Lille</td><td>2026-10-21</td></tr>
+<tr><td>Soeur</td><td>Cdd - Vendeur.euse 35h (paris)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Supply Chain & Achats Luxe (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant(e) Communication, Graphisme & Community Management (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Lternance - Assistant.e Gouvernant.e (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Mécénat (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Chargé D’événementiel (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Assistant(e) Rh (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Assistant Gestion De Contenu (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant(e) Ressources Humaines (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant(e) Paie & Administration Du Personnel (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant.e Conseiller(ère) En Gestion De Patrimoine (h/f)</td><td>Tours</td><td>2026-10-21</td></tr>
 </table>
