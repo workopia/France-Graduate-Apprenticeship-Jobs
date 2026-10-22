@@ -9336,4 +9336,83 @@
 <tr><td>Galileo Global Education</td><td>Alternance – Chargé De Projets Événementiels & Animations (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance – Assistant Chargé De Communication Sponsoring Sportif (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) De Communication Culturelle (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Thales Group</td><td>Stage - Création D'une Base De Connaissance Radar - F/h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Thales Group</td><td>Stage - Conception D'un Chatbot Documentaire - F / H</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Estée Lauder</td><td>Business Planning & Marketing Operations Intern - Editions Parfums Frederic Malle & Killian Paris</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Estée Lauder</td><td>Business Planning & Marketing Operations Intern - Tom Ford & Balmain Beauty</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Eiffage</td><td>Stage Pfe Technicien(ne) Méthode F/h</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Real Time Executives Inc</td><td>Stage – Utilisation De L’ia En Certification Avionique</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Deutsche Bank</td><td>Fx Risk Management Sales Intern (f/m/x)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>AVL List GmbH</td><td>Lardy Stage Simulation Architecture Véhicule(hf)</td><td>Lardy</td><td>2026-10-22</td></tr>
+<tr><td>home.saxo</td><td>Digital Sales Assistant (intern)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Reckitt Benckiser</td><td>Stage - Brand Trade Marketing (h/f) / Janvier 2027</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage – Industrialisation D’un Procédé Pvd Aln – F/h</td><td>Rousset</td><td>2026-10-22</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage : Développement D’outils D’automatisation Pour Validation De Layout F/h</td><td>Rousset</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Ingénieur Process (h/f) - 6 Mois Vallet (44)</td><td>Nantes</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Outillage Redteam - F/h</td><td>Lille</td><td>2026-10-22</td></tr>
+<tr><td>Eiffagerail</td><td>Stage Chargé De Méthodes Et Innovation F/h</td><td>Saint</td><td>2026-10-22</td></tr>
+<tr><td>Tencent</td><td>Pubg Mobile Marketing Team Intern 107793</td><td>London +1</td><td>2026-10-22</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+5 - Pilotage De La Transformation Digitale (h/f)</td><td>France</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Marketing Project Intern (tiktok Shop) - 2026 Start</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Eu Marketing Project Intern (tiktok Shop) - 2026 Start (bs/ms)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Creator Marketing & Emerging Verticals Project Intern (tiktok Operations) - 2026 Start (bs/ms)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Luxury & Fashion Project Intern (gbs) - 2026 Start (bs/ms)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Fr Marketing Project Intern (tiktok Shop), 2026 Start (bs/ms)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Orange</td><td>Stage - Marketing Produits Et Services - Domaine Vod Et Divertissements F/h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Process (h/f) - 6 Mois Vallet (44)</td><td>Nantes</td><td>2026-10-22</td></tr>
+<tr><td>The Estée Lauder Companies Inc.</td><td>Business Planning & Marketing Operations Intern - Editions Parfums Frederic Malle & Killian Paris</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>The Estée Lauder Companies Inc.</td><td>Business Planning & Marketing Operations Intern - Tom Ford & Balmain Beauty</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027 - Outil De Conception Préalable Pour Drones Multi-site (avant-projet) (h/f)</td><td>Marseille Area</td><td>2026-10-22</td></tr>
+<tr><td>Teledyne e2v</td><td>Stage Qualité & Gestion De Produit – Dispositifs Médicaux / Internship - Product Management Dental Scope</td><td>Grenoble</td><td>2026-10-22</td></tr>
+<tr><td>Guerbet</td><td>Paris Chargé Communication & Marketing Produits Ia Alternance</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>AIRBUS DS GEO SA</td><td>Atr – Internship 2027 – Ai And Structural In -service Repairs</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage - Projet Cdp Stage Ingénieur Développement Logiciel - F/h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Sopra Steria</td><td>Stage Ingénieur(e) R&d - Développement D'un Moteur D'exécution Distribué En Python Et Rust - Spatial - Toulouse</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Soutien Logiciel F/h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Howmet Aerospace</td><td>Technicien Support Informatique H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>GE HealthCare</td><td>Ingénieur(e) Logiciel En Imagerie Médicale (full Stack)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Data Analyst - Pilotage Des Risques Industrialisation Produits - Stage - H/f</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Sonepar Group</td><td>Ai & Performance Analytics Expert</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Onepoint</td><td>Agentic Maker Microsoft (f/h)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Suez Group</td><td>Développement et application de nouvelles méthodes d’analyse des pertes commerciales via l'IA</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Cybersecurity</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Stage - Business Analyst Finance/rh (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>AXA</td><td>Auditeur Sinistres Mrh (f/h)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Schneider Electric</td><td>Stage - Compliance - Risques & Contrôle - H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Clinical Research Associate (Level I or II) - FSP - Paris, Lyon, Bordeaux</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Collins Aerospace</td><td>Technicien(ne) De Maintenance Electronique</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>CHUBB FIRE & SECURITY</td><td>Technicien De Maintenance Systèmes De Sécurité Incendie/ssi H/f</td><td>Limonest</td><td>2026-10-22</td></tr>
+<tr><td>CHUBB FIRE & SECURITY</td><td>Technicien Maintenance Systèmes Sécurité Incendie/ssi H/f H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Draka</td><td>Maintenance Operator</td><td>Amfreville</td><td>2026-10-22</td></tr>
+<tr><td>Prysmian Group</td><td>Maintenance Operator</td><td>Amfreville-La-Mivoie</td><td>2026-10-22</td></tr>
+<tr><td>Grundfos Water Treatment France</td><td>Service Technician</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Barthélémy Manutention</td><td>Technicien(ne) Atelier</td><td>Aix En Provence</td><td>2026-10-22</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Technicien Service Atelier Sur Site Psa (h/f)</td><td>Rennes</td><td>2026-10-22</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Technicien.ne Atelier</td><td>Aix En Provence</td><td>2026-10-22</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Technicien.ne Après-vente</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>STILL</td><td>Technicien.ne Après-vente</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Fenwick-Linde Opérations</td><td>Technicien De Maintenance</td><td>Cenon-Sur-Vienne</td><td>2026-10-22</td></tr>
+<tr><td>Clarke Energy France (Groupe Rehlko)</td><td>Service Engineer</td><td>Aix En Provence</td><td>2026-10-22</td></tr>
+<tr><td>Clarke Energy</td><td>Service Engineer</td><td>Aix En Provence</td><td>2026-10-22</td></tr>
+<tr><td>Rehlko</td><td>Service Engineer</td><td>Aix En Provence</td><td>2026-10-22</td></tr>
+<tr><td>Rehlko</td><td>Technician</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance Journée H/f Bayeux (14)</td><td>Caen</td><td>2026-10-22</td></tr>
+<tr><td>External Career Site PROSOL</td><td>Vendeur h/f</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Bordeaux</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Responsable Accueil/vente En Alternance - Bordeaux</td><td>Bordeaux</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Vendeur(euse) En Alternance À Rennes</td><td>Nantes</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Conseiller De Vente En Alternance - Bordeaux</td><td>Bordeaux</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternant(e) Conseiller( E) De Vente</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Conseiller De Vente - Bordeaux (h/f)</td><td>Bordeaux</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Conseiller Commercial Boutique - Bordeaux (h/f)</td><td>Bordeaux</td><td>2026-10-22</td></tr>
+<tr><td>ESARC Toulouse</td><td>Alternance - Conseiller Commercial - Toulouse (h/f)</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Conseiller Vente & Restauration - Toulouse (h/f)</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance Commercial H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant.e Communication (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant.e Communication Interne (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant.e Marketing International (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance –assistant Data / Web Analytics (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Stratégie Médias (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Emerald Global Education GmbH</td><td>Alternance –assistant Data / Web Analytics (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant Communication (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
 </table>
