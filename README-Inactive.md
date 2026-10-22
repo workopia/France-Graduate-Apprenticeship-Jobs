@@ -9170,4 +9170,170 @@
 <tr><td>Galileo Global Education</td><td>Assistant(e) Ressources Humaines (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
 <tr><td>Galileo Global Education</td><td>Assistant(e) Paie & Administration Du Personnel (h/f)</td><td>Paris</td><td>2026-10-21</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance – Assistant.e Conseiller(ère) En Gestion De Patrimoine (h/f)</td><td>Tours</td><td>2026-10-21</td></tr>
+<tr><td>Christie's</td><td>Assistant(e) Département Design - Stage 6 Mois</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Tencent</td><td>Business Development Intern, Kol Endorsements & Partnerships 107822</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Tencent</td><td>Legal Intern, Cloud 107868</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Account Manager Project Intern (chinese Speaker) (tiktok Shop France) - 2026 Start (bs/ms)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Agency Operations Intern (tiktok Live) - 2027 Start</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Tiktok Shop - Logistics Operations Project Intern (intra-eu) 2027 Start</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>The Estée Lauder Companies Inc.</td><td>Business Planning & Market Operations Intern - Jo Malone London</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>AIRBUS SAS</td><td>Stage 2027 - Stagiaire En Data & Implementation Project Owner A220 Msn Centric (f/h)</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>GE VERNOVA</td><td>Training & Marcomms Intern</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Premium Aerotec</td><td>Stage 2027 - Simplification Des Routines Team Leader Grâce À L'ia (f/h)</td><td>Toulouse Area</td><td>2026-10-22</td></tr>
+<tr><td>Medtronic</td><td>Intern: Graduate( Non-tech)</td><td>Lyon</td><td>2026-10-22</td></tr>
+<tr><td>Airbus SAS</td><td>Stage 2027 Contentieux Et Enquêtes (f/h)</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Stage 2027 - Optimisation Des Conditions De Fabrication Du Procédé Ded (f/h)</td><td>Toulouse Area</td><td>2026-10-22</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Développement Digitalisation Et Industrie 4.0 (h/f)</td><td>Paris Area</td><td>2026-10-22</td></tr>
+<tr><td>AIRBUS SAS</td><td>Stage 2027 Stage Aux Essais En Vol (h/f)</td><td>Toulouse Area</td><td>2026-10-22</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 Industrialisation Assemblage Mécanique (f/h)</td><td>Marseille</td><td>2026-10-22</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Stage 2027 : Stage En Conception & Modularité De Structure Pour Dérivés Militaires (h/f)</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Sanrafaelvet</td><td>Stage 6 Mois - Biostatistique</td><td>Marcy</td><td>2026-10-22</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois – Approvisionnement Matières Et Matériel R&d Vaccin</td><td>Marcy L’Etoile</td><td>2026-10-22</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois - Marketing Digital</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage - Assistant Ingénieur - Procédé De Réparation Pcba F/h</td><td>Etrelles</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage 1,5 Mois Ingénieur "annotation D’images Pour Un Système De Veille Infrarouge" H/f</td><td>Mantes La Jolie</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage - Conception Mécanique F/h</td><td>Mantes La Jolie</td><td>2026-10-22</td></tr>
+<tr><td>AXA UK</td><td>Internship - Investment Strategy And Financial Data Analyst</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Schneider Electric</td><td>Stage – Optimisation Du Routage Des Agents D’intelligence Artificielle - H/f</td><td>Grenoble</td><td>2026-10-22</td></tr>
+<tr><td>Schneider Electric</td><td>Stage – Time Series Foundation Models Pour Optimisation Prédictive - H/f</td><td>Grenoble</td><td>2026-10-22</td></tr>
+<tr><td>Schneider Electric</td><td>Stage – Ia Agentique Pour Détection Et Investigation D’anomalies Industrielles – F/h</td><td>Grenoble</td><td>2026-10-22</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship Tender Desk Officer Intern</td><td>Marseille</td><td>2026-10-22</td></tr>
+<tr><td>Cadence</td><td>Intern Mixed Signal Ip</td><td>Valbonne (Sophia)</td><td>2026-10-22</td></tr>
+<tr><td>Accor</td><td>B2B Marketing & CRM activation Internship (f/m/x)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>TESSAN Inc</td><td>Stage - Développeur/se Fullstack & Mobile (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Anaplan</td><td>It Experience Intern</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>STMicroelectronics</td><td>Internship - Usage Of Arm Helium Technology To Boost Cryptography On Arm Cortex-m Mcus</td><td>Agrate Brianza +1</td><td>2026-10-22</td></tr>
+<tr><td>STMicroelectronics</td><td>Internship - Sw-based Gadgets For Protected Pqc</td><td>Agrate Brianza +1</td><td>2026-10-22</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage - Fiabilisation Des Capacités Mim Pvd Et Qualification D’une Nouvelle Chambre Tin - F/h</td><td>Grenoble</td><td>2026-10-22</td></tr>
+<tr><td>Danone</td><td>Internship – Sustainnability Transformation Intern – January 2027 M/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Schneider Electric</td><td>Stage - Commercial Sustainability F/h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Chargé De Projet Rse Ressources En Eau H/f - 6 Mois - Laval (53)</td><td>Rennes</td><td>2026-10-22</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Chef De Projet Formation Digitale H/f 6 Mois Laval (53)</td><td>Rennes</td><td>2026-10-22</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Chargé De Communication H/f 6 Mois Laval (53)</td><td>Rennes</td><td>2026-10-22</td></tr>
+<tr><td>Estée Lauder</td><td>Business Planning & Market Operations Intern - Make-up</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>SMBC Group</td><td>Front Office Credit Analyst - Internship</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>SMBC Group</td><td>Corporate Banking Division - Front Office Internship</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>SMBC Group</td><td>Global Financial Institutions Group - Internship</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>SMBC Group</td><td>Debt Capital Market Corporate - Internship</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage - Conception Mécanique De Bancs De Test Électroniques - F/h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage- Gestion De Composants Électroniques – F/h</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Sopra Steria</td><td>Stage Ingénieur Gestion De Configuration – Innovation 3dx - Colomiers</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Sopra Steria</td><td>Stage Ingénieur Gestion De Configuration – Innovation Aras - Colomiers</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stagiaire – Ingénieur Automatisation Ia Et Qualimétrie Logicielle (f/h)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Eiffage</td><td>Ingénieur Méthodes D’exécution - Génie Civil - Epr2 – Stage Tfe (f/h)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Eiffage</td><td>Ingénieur Méthodes-travaux - Génie Civil - Epr2 – Stage Tfe (f/h)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Eiffage</td><td>Ingénieur Méthodes - Génie Civil - Epr2 – Stage Tfe (f/h)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Eiffage</td><td>Ingénieur Travaux - Génie Civil - Epr2 – Stage Tfe (f/h)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Airbus Atlantic</td><td>Stage 2027 - Ingénieur Production (all Gender)</td><td>Nantes</td><td>2026-10-22</td></tr>
+<tr><td>Orange</td><td>Stage - Ingénieur Logiciel F/h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Développement Psirt & Mcs - F/h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Sûreté De Fonctionnement – F / H</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Tissium</td><td>Cmc Engineer Intern – Polymer Development M/f/x</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Exploration Des Architectures Radar Du Futur (f/h)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage - Développement Logiciel D'un Module De Simulation Électronique - F/h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Sûreté De Fonctionnement / Mbsda - F/h</td><td>Mantes La Jolie</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Simulation Cem - H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage Ingénieur - Ergonomie Et Safety - H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénierie Fonctionnelle Radar - H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage–ingénieur Développement Simulateur De Charge Utile De Navigation – F/h</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur En Communications Numériques F/h</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Eurofins</td><td>Ingénieur.e Amélioration Continue En Stage</td><td>Nantes</td><td>2026-10-22</td></tr>
+<tr><td>Egis in ANZ</td><td>Stagiaire Ingénieur Hydraulique</td><td>Nantes</td><td>2026-10-22</td></tr>
+<tr><td>Egis Group</td><td>Stagiaire Ingénieur Hydraulique</td><td>Nantes</td><td>2026-10-22</td></tr>
+<tr><td>Criteo</td><td>Devops Engineer Intern</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Développement Logiciel – F/h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Prédistorsion Numérique Pour Amplificateurs Fortes Puissances – F / H</td><td>Bordeaux</td><td>2026-10-22</td></tr>
+<tr><td>THALES</td><td>Stage Ingénieur En Planificiation De Mission - H/f</td><td>Mantes La Jolie</td><td>2026-10-22</td></tr>
+<tr><td>GEHC</td><td>Ingénieur(e) Logiciel En Imagerie Médicale (full Stack)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Ingénieur(e) Logiciel En Imagerie Médicale (full Stack)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+2/3 Stage Technicien Informatique H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Stage 6 Mois – Data Analyst Audit Interne</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Data Scientist - Stage - H/f</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Jobgether</td><td>Ai Research Engineer (kernel & Inference Optimization)</td><td>France</td><td>2026-10-22</td></tr>
+<tr><td>EssenceMediacom</td><td>Stage Data Analyst F/h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Thales Group</td><td>Stage Toulouse - Ingénieur Data Scientist – F/h</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Pierre Fabre</td><td>Data Scientist – Stage - H/f</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Prévision Des Ventes Internationales Et Data Analyst (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Pierre Fabre</td><td>Data Analyst / Performance Groupe - Stage -h/f</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Talan</td><td>Expert Business Analyst Equity Delta One - Sophis (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Talan</td><td>Capital Market _business Analyst Alm Treasury - H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Talan</td><td>Business Analyst Front Office _ Taux Non Linéaires - H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Talan</td><td>Post Trade Business Analyst - H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Western Union</td><td>Junior Aml Compliance Specialist – Paris, France</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Adagio Paris Opéra</td><td>Fr - Agent/technicien De Maintenance Confirmé (h/f/x) - Cdi 38h30</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance Entrepôt Logistique (h/f) Clermont De L&#39;oise (60)</td><td>Clermont De L'Oise</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance (h/f) Loubressac (46)</td><td>Loubressac</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance (h/f) Réquista (12)</td><td>RéQuista</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance (h/f) Vercel (25)</td><td>Vercel</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance Energies (h/f) Clermont De L&#39;oise (60)</td><td>Clermont De L'Oise</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance (h/f) Larceveau (64)</td><td>Larceveau</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance (h/f) Livarot (14)</td><td>Livarot</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance (h/f) Bouvron (44)</td><td>Bouvron</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance (h/f) - Le Massegros (48)</td><td>Le Massegros</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance (h/f) Domfront (61)</td><td>Domfront</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance Atelier Conditionnement (h/f) Clermont De L&#39;oise (60)</td><td>Clermont De L'Oise</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance H/f Vallet (44)</td><td>Nantes</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Alternant Maintenance (h/f) - 12 À 24 Mois Livarot (14)</td><td>Livarot</td><td>2026-10-22</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Nice</td><td>2026-10-22</td></tr>
+<tr><td>Skechers U.S.A.</td><td>Conseiller De Vente H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Nice</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Employé(e) Commercial(e) En Alternance - Toulouse (h/f)</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Vendeur.se Fitness En Alternance - Lyon</td><td>Lyon</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Conseiller Beauté (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Conseiller.ère De Vente En Alternance - Toulouse</td><td>Toulouse</td><td>2026-10-22</td></tr>
+<tr><td>Levi Strauss & Co.</td><td>Vendeu(euse) H/f Temps Plein 35h Cdi Levi's Paris Beaugrenelle</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Calvin Klein</td><td>Conseiller.ère De Vente (m/f/d*) - Calvin Klein - Roubaix - Cdi 35h</td><td>Lille</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Villefontaine - Cdi 35h</td><td>Lyon</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Bordeaux - Cdd 35h</td><td>Bordeaux</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Stage 2 Mois</td><td>Lille</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Cdi 28h</td><td>Lille</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Cdi 7h</td><td>Lille</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Lille - Cdd 35h</td><td>Lille</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - La Baule - Stage Août 2026</td><td>Nantes</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller De Vente (m/f/d*) - Tommy Hilfiger - La Baule - Cdi 35h</td><td>Nantes</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Cannes - Cdd 35h</td><td>Nice</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Cannes - Stage 2 Mois</td><td>Nice</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Beaugrenelle - Cdi Temps Partiel</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Parly 2 - Stage 2 Mois</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Calvin Klein</td><td>Conseiller.ère De Vente - Calvin Klein Underwear - Les 4 Temps / La Défense - Temps Partiel (21h)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Parly 2 - Cdi 21h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Parly 2 - Cdi 10h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller.ère De Vente (m/f/d*) - Tommy Hilfiger - Paris Capucines - Stage 2 Mois</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate Maroquinerie 35h Printemps Vélizy 2</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Vendeur Annecy (h/f) Annecy (74)</td><td>Annecy</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Vendeur (h/f) Frangy (74)</td><td>Frangy</td><td>2026-10-22</td></tr>
+<tr><td>Lactalis Group</td><td>Vendeur (h/f) Fillinges (74)</td><td>Fillinges</td><td>2026-10-22</td></tr>
+<tr><td>External Career Site PROSOL</td><td>Vendeur Frais Et Caisse H/f</td><td>Annecy</td><td>2026-10-22</td></tr>
+<tr><td>La Fee Maraboutee</td><td>Conseiller/ère De Vente Humility</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>IKEA UK</td><td>Vendeur F/h - Cdd Du 23 Novembre Au 13 Décembre - Temps Partiel 25h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) 35h - Galeries Lafayette Bordeaux</td><td>Bordeaux</td><td>2026-10-22</td></tr>
+<tr><td>Swarovski Australia</td><td>Cdi - Conseiller De Vente (h/f/x) - 35h - Printemps Nation</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Balenciaga</td><td>Balenciaga - Cdi Sales Associate Russophone Saint Honoré</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur - 7h (h/f)</td><td>Lyon</td><td>2026-10-22</td></tr>
+<tr><td>Orange</td><td>Conseillère Vendeuse / Conseiller Vendeur</td><td>Nice</td><td>2026-10-22</td></tr>
+<tr><td>My Jewellery</td><td>Conseiller(ère) De Vente Noël (cdd 35h) Lille</td><td>Lille</td><td>2026-10-22</td></tr>
+<tr><td>Salomon</td><td>Conseiller De Ventes H/f 10 H</td><td>Lyon</td><td>2026-10-22</td></tr>
+<tr><td>GroupE MONDIAL TISSUS - GMT SaS</td><td>Vendeur.euse Annemasse</td><td>Annecy</td><td>2026-10-22</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) - 35h - Galeries Lafayette Haussmann</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) - 35h - Printemps Nation</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) - 35h - Centre Commercial Forum Des Halles</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) 35h - Gare Saint Lazare</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) - 35h - Galeries Lafayette Les Champs-elysées</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) 35h - Noisy-le-grand</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Assistant.e Administratif Et Communication H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Adjoint.e De Directeur De Résidence Hôtelière (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Coordinateur.rice Web & Digital (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant.e Pilotage De Projets Web (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance- Coordinateur Transport Logistique Douanes Epr En Alternance F/h</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant.e De Communication (f/h)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Emerald Global Education GmbH</td><td>Alternance – Assistant.e Communication (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Chargé(e) De Ressources Humaines (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant Rh Compensation & Benefits (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Emerald Global Education GmbH</td><td>Alternance – Assistant Communication (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Chef De Projet Marketing En Alternance - Paris</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Chef.fe De Projet Marketing De L’offre H/f</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) Administratif (ve) - (h/f)</td><td>Aix En Provence</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Chargé De Projets Événementiels & Animations (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant Chargé De Communication Sponsoring Sportif (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Assistant(e) De Communication Culturelle (h/f)</td><td>Paris</td><td>2026-10-22</td></tr>
 </table>
