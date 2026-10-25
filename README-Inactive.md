@@ -9559,4 +9559,80 @@
 <tr><td>Galileo Global Education</td><td>Alternance – Assitant.e Administratif (h/f)</td><td>Tours</td><td>2026-10-24</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance – Assistant Brand Content & Communication (h/f)</td><td>Paris</td><td>2026-10-24</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance – Assitant.e Communication (h/f)</td><td>Paris</td><td>2026-10-24</td></tr>
+<tr><td>Thales Group</td><td>Stage - Amélioration D’une Méthode De Tuning De Pilote Automatique Pour Simulateurs D’entraînement Haute-fidélité D’hélicoptère F/h</td><td>Mantes La Jolie</td><td>2026-10-25</td></tr>
+<tr><td>Thales Group</td><td>Stage - Amélioration Ux-ui D’une Ihm D’analyse - F/h</td><td>Orleans</td><td>2026-10-25</td></tr>
+<tr><td>Thales Group</td><td>Stage - Charger D'amélioration Supply Chain - F/h</td><td>Orleans</td><td>2026-10-25</td></tr>
+<tr><td>Thales Group</td><td>Stage - Développement 16apsk Pour Montée En Débit Satcom - F/h</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Thales Group</td><td>Stage - Ia Et Algorithme De Gestion Des Ressources Satellite - F / H</td><td>Cristal</td><td>2026-10-25</td></tr>
+<tr><td>Thales Group</td><td>Stage Pmo - Gmr - H/f</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Schneider Electric</td><td>Stage – Communication & Outils Digitaux – Service Financement - F/h</td><td>Lille</td><td>2026-10-25</td></tr>
+<tr><td>AXA UK</td><td>Risques Opérationnels - Transformation Par L'ia (f/h) - Stage</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Consultant Développement Durable – Impact Environnemental & Financier De L’ia - Colomiers</td><td>Toulouse</td><td>2026-10-25</td></tr>
+<tr><td>OVHcloud</td><td>Roubaix Stage Ai Engineer Hfn 59100</td><td>Lille</td><td>2026-10-25</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Consultant/e Sap - Bl Sap Ara - Lyon</td><td>Lyon</td><td>2026-10-25</td></tr>
+<tr><td>Allianz SE</td><td>Alternance 12 Ou 24 Mois - Chargé(e)de Projets (h/f)</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Nutrikeo</td><td>Stagiaire Communication</td><td>Bordeaux</td><td>2026-10-25</td></tr>
+<tr><td>Orange</td><td>Stage De Chargé De Process Et D'automatisation De Tâche Par L'ia F/h</td><td>Marseille</td><td>2026-10-25</td></tr>
+<tr><td>Orange</td><td>Stage - Modélisation Des Réseaux Durables À Horizon 2040 F/h</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>THALES</td><td>Stage - Chaîne Outillée Agentique Pour Automatisation Des Tests - F/h</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>THALES</td><td>Stage - Algorithme D'évaluation De La Menace - F/h</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>THALES</td><td>Stage - Développement Java D’un Outil De Simulation Aérienne - F/h</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Danone</td><td>Internship – Global Shopper Insights Assistant – January 2027 - (h/f)</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Mars Inc</td><td>Stage Royal Canin - Assistant(e) Marketing Innovation Prospective (h/f/x) - Janvier 2027 - Aimargues - 6 Mois</td><td>Aimargues</td><td>2026-10-25</td></tr>
+<tr><td>Liebherr-Aerospace Toulouse SAS</td><td>Stage - Définition D'une Méthodologie De Revue Du Dossier De Définition Dans Windchill F/h</td><td>Toulouse</td><td>2026-10-25</td></tr>
+<tr><td>VIE-INDIA</td><td>Stage 2027: Amélioration De Procédés D’installation Sur La Fal A350 (h/f)</td><td>Toulouse</td><td>2026-10-25</td></tr>
+<tr><td>IISBMS</td><td>Stage 2027 - Gestion Des Données & Optimisation Des Processus - Implémentation Des Mod Widebody (h/f)</td><td>Toulouse</td><td>2026-10-25</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Ingénieur Production (h/f) - 6 Mois Condat (15)</td><td>Condat</td><td>2026-10-25</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Rpa - Autom (h/f) Laval (53)</td><td>Rennes</td><td>2026-10-25</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Bi Supply Chain (h/f) - 6 Mois Laval (53)</td><td>Rennes</td><td>2026-10-25</td></tr>
+<tr><td>Intersystems</td><td>Sms Apprentice</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Apprenti(e) Commercial Spa (f/h/x)</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Sofitel Paris Le Faubourg</td><td>Apprenti(e) Commercial(e) (h/f/x)</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Apprenti(e) Commercial Spa</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Kering</td><td>Kering Apprentie(e) Talent Acquisition (octobre 2026)</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Ingénieur(e) Développement D’applications Pour La Surveillance De L’espace - Spatial - Toulouse</td><td>Toulouse</td><td>2026-10-25</td></tr>
+<tr><td>THALES</td><td>Ingénieur Développement Logiciel - Traitement Du Signal F/h</td><td>Sophia Antipolis</td><td>2026-10-25</td></tr>
+<tr><td>Airbus UpNext</td><td>Airbus Upnext - Embedded And Application Software Development Engineer (m/f)</td><td>Toulouse Area</td><td>2026-10-25</td></tr>
+<tr><td>Jobgether</td><td>Backend Developer (java/spring Boot)</td><td>France</td><td>2026-10-25</td></tr>
+<tr><td>GE HealthCare UK</td><td>Ingénieur(e) Support / Développeur(se) Logiciel</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Développement Logiciel Temps Réel F.h</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Accenture Australia</td><td>Analyste En Sciences Computationnelles Ia/ml</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Condé Nast</td><td>Financial Accountant H/f - Cdd</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Clinical Research Associate (level I Or Ii) - Fsp - Paris, Lyon, Bordeaux</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance (h/f)</td><td>Fresnes Les Montauban</td><td>2026-10-25</td></tr>
+<tr><td>STMicroelectronics</td><td>Cdd - Technicien De Maintenance Ews - Équipe 3 H/f</td><td>Grenoble</td><td>2026-10-25</td></tr>
+<tr><td>STMicroelectronics</td><td>Cdi - Technicien De Maintenance F/h Diff Eq E</td><td>Rousset</td><td>2026-10-25</td></tr>
+<tr><td>Suez Group</td><td>Technicien de Maintenance Instrumentiste (H/F)</td><td>Neuvillette</td><td>2026-10-25</td></tr>
+<tr><td>Endress+Hauser Group</td><td>Technicien.ne De Maintenance Et Métrologie H/f - 86</td><td>Lyon</td><td>2026-10-25</td></tr>
+<tr><td>ArcelorMittal</td><td>Alternance - Technicien De Maintenance (h/f)</td><td>Bazeilles</td><td>2026-10-25</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien Maintenance Intervention Avancé H/f - Basse Indre</td><td>Basse-Indre</td><td>2026-10-25</td></tr>
+<tr><td>Skechers</td><td>Conseiller De Vente H/f</td><td>Lyon</td><td>2026-10-25</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Lille</td><td>2026-10-25</td></tr>
+<tr><td>Skechers U.S.A.</td><td>Conseiller De Vente H/f</td><td>Lyon</td><td>2026-10-25</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi H/f</td><td>Annecy</td><td>2026-10-25</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd 25h H/f</td><td>Lille</td><td>2026-10-25</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd 35h H/f</td><td>Lille</td><td>2026-10-25</td></tr>
+<tr><td>Legocareersvirginia</td><td>Vendeur Caissier Polyvalent H/f - Cdd Temps Plein 5</td><td>Lille</td><td>2026-10-25</td></tr>
+<tr><td>Legocareersvirginia</td><td>Vendeur Caissier Polyvalent H/f - Cdd Temps Plein 6</td><td>Lille</td><td>2026-10-25</td></tr>
+<tr><td>Legocareersvirginia</td><td>Vendeur Caissier Polyvalent H/f - Cdd Temps Plein 4</td><td>Lille</td><td>2026-10-25</td></tr>
+<tr><td>Nestle SA</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>adidas AG</td><td>Sales Associate</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur - 15 Heures H/f - Paris (75) - Rvca</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Legocareersvirginia</td><td>Vendeur Caissier Polyvalent H/f - Paris La Défense</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Responsable Adjoint(e) De Restaurant (h/f)</td><td>LabèGe</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Assistant De Communication (h/f)</td><td>Nantes</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Rh En Alternance - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Web Marketing Et Communication Digitale En Alternance - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant(e) De Direction En Alternance À Tours</td><td>Azay-Le-Rideau</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Coordinateur D’actions Culturelles F/h</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance Supply Chain - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternant(e) Coordinateur Logistique</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Évènementiel En Alternance - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant De Communication En Alternance - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Chargé Communication Interne En Alternance - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>MBA ESG</td><td>Chargé.e De Communication - Alternance H/f</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Chargé D'accueil / Communication En Alternance - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Responsable Rh En Alternance - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Commercial En Alternance - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Achats En Alternance - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
 </table>
