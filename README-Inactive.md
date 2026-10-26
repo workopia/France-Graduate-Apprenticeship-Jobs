@@ -9635,4 +9635,39 @@
 <tr><td>Galileo Global Education</td><td>Assistant Responsable Rh En Alternance - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
 <tr><td>Galileo Global Education</td><td>Assistant Commercial En Alternance - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
 <tr><td>Galileo Global Education</td><td>Assistant Achats En Alternance - Paris</td><td>Paris</td><td>2026-10-25</td></tr>
+<tr><td>Arthrex Inc</td><td>Associate Sales Representative F/h Paris (intern)</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga - Emea Visual Merchandising Intern - November 2026</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>Kering</td><td>Balenciaga - Rtw Design Intern - November 2026 (f/m)</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>VIE-INDIA</td><td>Stage 2027 – Chargé D'amélioration Continue (f/h)</td><td>Toulouse</td><td>2026-10-26</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Stage Rh - Affaires Sociales</td><td>Nantes</td><td>2026-10-26</td></tr>
+<tr><td>Philips</td><td>Stage Spécialiste Clinique Irm (h/f) (janvier 2027 / Stage 6 Mois)</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>VIE-INDIA</td><td>Stage 2027 - Support Client - Intelligence Artificielle & Développement Web Full-stack (f/h)</td><td>Toulouse</td><td>2026-10-26</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Outils Avancés Pour L'analyse D'incendie Sur Hélicoptères (f/h)</td><td>Marseille Area</td><td>2026-10-26</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Production : Amélioration De La Performance (f/h)</td><td>Marseille</td><td>2026-10-26</td></tr>
+<tr><td>VIE-INDIA</td><td>Stage 2027 -stage Be Sur La Circularité Et Le Recyclage Des Pièces Métalliques Des Rotors (h/f)</td><td>Marseille</td><td>2026-10-26</td></tr>
+<tr><td>VIE-INDIA</td><td>Stage 2027 - Optimisation Des Processus Et Outils Du Quotidien (all Gender)</td><td>Nantes</td><td>2026-10-26</td></tr>
+<tr><td>VIE-INDIA</td><td>Stage 2027 - Application De L’intelligence Artificielle Au Marketing (f/h)</td><td>Toulouse Area</td><td>2026-10-26</td></tr>
+<tr><td>AXA UK</td><td>Internship - M365 Power Platform, Data And Ai Intern</td><td>Matignon</td><td>2026-10-26</td></tr>
+<tr><td>Thales Group</td><td>Stage - Développement Simulation De Mer 3d Multi-spectrale - F/h</td><td>Mantes La Jolie</td><td>2026-10-26</td></tr>
+<tr><td>Veepee Ad</td><td>Stage - Développeur(euse) Ia Générative (h/f/x) - Janvier 2027</td><td>Saint</td><td>2026-10-26</td></tr>
+<tr><td>Jobgether</td><td>Data & Insights</td><td>France</td><td>2026-10-26</td></tr>
+<tr><td>Groupeonepoint</td><td>Comptable Confirmé.e F/h</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>Groupeonepoint</td><td>Comptable Back-up / Gestion Factor & Support Trésorerie F/h</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>synste.no</td><td>Business Analyst – Financial Services - Paris (m/f/x)</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>STMicroelectronics</td><td>Cdi - Technicien De Maintenance Gravure Eq E F/h</td><td>Rousset</td><td>2026-10-26</td></tr>
+<tr><td>STMicroelectronics</td><td>Technicien Automation & Amhs H/f Equipe Nuit</td><td>Rousset</td><td>2026-10-26</td></tr>
+<tr><td>STMicroelectronics</td><td>Cdi - Technicien De Maintenance F/h En Journée</td><td>Rousset</td><td>2026-10-26</td></tr>
+<tr><td>STMicroelectronics</td><td>Technicien De Maintenance Etch – Équipe De Wek End F/h</td><td>France</td><td>2026-10-26</td></tr>
+<tr><td>STMicroelectronics</td><td>Technicien De Maintenance Etch – Équipe Matin / Après‑midi (f/h)</td><td>Rousset</td><td>2026-10-26</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Partiel H/f</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>TransPerfect</td><td>Sales Associate</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdi 16h/8h - Villebon Sur Yvette</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>LHH</td><td>Lhh Careers - Assistant.e De Direction</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant(e) De Direction En Alternance À Gardanne</td><td>Aix En Provence</td><td>2026-10-26</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Assistant.e De Direction - Toulouse (h/f)</td><td>Toulouse</td><td>2026-10-26</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Assistant Chef De Projet Marketing (h/f)</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant Chef De Projet Communication En Alternance - Paris</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance - Assistant De Gestion - Aix-en-provence (h/f)</td><td>Aix En Provence</td><td>2026-10-26</td></tr>
+<tr><td>Galileo Global Education</td><td>Assistant.e Juridique En Alternance - Paris</td><td>Paris</td><td>2026-10-26</td></tr>
 </table>
