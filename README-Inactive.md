@@ -9670,4 +9670,81 @@
 <tr><td>Galileo Global Education</td><td>Assistant Chef De Projet Communication En Alternance - Paris</td><td>Paris</td><td>2026-10-26</td></tr>
 <tr><td>Galileo Global Education</td><td>Alternance - Assistant De Gestion - Aix-en-provence (h/f)</td><td>Aix En Provence</td><td>2026-10-26</td></tr>
 <tr><td>Galileo Global Education</td><td>Assistant.e Juridique En Alternance - Paris</td><td>Paris</td><td>2026-10-26</td></tr>
+<tr><td>Accenture</td><td>Stagiaire Analyste – Customer Reinvention Advisory - Crm, Cx & Ia (f/h)</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Accenture</td><td>Consultant Solutions Ia & Automatisation En Stage - F/h Paris</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Estée Lauder</td><td>Strategic Projects Intern - Fragrance</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Energy, Transport & Manufacturing</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Transport, Manufacturing & Retail</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Stage 2027 - Analyse D'un Nouvel Outil De Planification Et Potentiel De L'ia (spatial) H/f</td><td>Toulouse Area</td><td>2026-10-27</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Stage 2027 - Rh - Support Aux Projets Rh / Hrbp (h/f)</td><td>Mantes La Jolie</td><td>2026-10-27</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Atr – Internship 2027 - Type Rating Practical Training Test Bench And Associated Material</td><td>Toulouse</td><td>2026-10-27</td></tr>
+<tr><td>Liebherr-Aerospace Toulouse SAS</td><td>Stage - Capitalisation Et Développement Des Standards Techniques F/h</td><td>Toulouse</td><td>2026-10-27</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Stage - Optimisation Des Essais De Réception Des Machines Tournantes F/h</td><td>Toulouse</td><td>2026-10-27</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 1 Mois Douane Monde</td><td>Lyon</td><td>2026-10-27</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois Assurance Qualité Produits</td><td>Tours</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage - Développement D'algorithmes De Détection D’évènements Pour L’analyse Par Canaux Auxiliaires F/h</td><td>Marseille</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage - Innovation Ia Et Validation, Vérification Et Qualification F/h</td><td>Orleans</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage Ouvrier - Annotation D'images - F/h</td><td>Mantes La Jolie</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage - Optimisation Des Attaques Par Canaux Auxiliaires Sur Des Processeurs Complexes F/h</td><td>Marseille</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage -- Conception D’un Banc D’évaluation Des Fuites Par Canaux Auxiliaires Sur Fpga F/h</td><td>Marseille</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage - Modélisation De Performances F/h</td><td>Orleans</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage - Développement D'outils De Pentest F/h</td><td>Orleans</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage - Data/ia Appliquée Au Plm F/h</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage Bts - Méthodes Industrialisation - F/h</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Pernod Ricard Winemakers</td><td>Cloud And Infrastructure Intern - Paris - January 2027</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Centumtns</td><td>Stage Logiciel : Interfaçage De Microphones Mems Sur Stm32 H/f</td><td>Lyon</td><td>2026-10-27</td></tr>
+<tr><td>CENTUM T&S</td><td>Stage Électronique : Emulateur De Batterie H/f</td><td>Lyon</td><td>2026-10-27</td></tr>
+<tr><td>Deepki</td><td>Chargé.e De Marketing &amp; Communication H/f - Stage</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Orange</td><td>Stage – Chargé De Communication/marketing F/h</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Wabtec Corporation</td><td>Stagiaire Achats</td><td>Amiens</td><td>2026-10-27</td></tr>
+<tr><td>Westinghouse Air Brake Technologies</td><td>Stagiaire Achats</td><td>Amiens</td><td>2026-10-27</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Atr – Internship 2027 - Stage En Performance De La Relation Client Fal Atr</td><td>Toulouse Area</td><td>2026-10-27</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Editorial Content Creator Internship</td><td>Toulouse</td><td>2026-10-27</td></tr>
+<tr><td>John Deere</td><td>Stagiaire Performance Industrielle - Lean & Amélioration Continue (f/h)</td><td>Fleury Les Aubrais Cedex</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage - Simulation D'un Élément Rayonnant À Double Motif - F/h</td><td>Mantes La Jolie</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage - Support Fonctionnel Enterprise Content Management – H/f</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Mango</td><td>Becario/intern Stores</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Danone</td><td>Internship - Global Feed Sustainable Sourcing - January - (h/f)</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Mars</td><td>Stage Royal Canin - Assistant(e) Marketing Innovation Prospective (h/f/x) - Janvier 2027 - Aimargues - 6 Mois</td><td>Aimargues</td><td>2026-10-27</td></tr>
+<tr><td>Visa</td><td>Consulting & Analytics Intern</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Siemens</td><td>Stage - Évaluation de GitLab pour les modèles de simulation h/f - Strategic Student Program</td><td>Lyon</td><td>2026-10-27</td></tr>
+<tr><td>Siemens</td><td>Stage - Visualisation 3D Automatique (C++ / IA) h/f - Strategic Student Program</td><td>Lyon</td><td>2026-10-27</td></tr>
+<tr><td>Siemens</td><td>Stage - Visualisation 3D Automatique (C++ / IA) f/h - Strategic Student Program</td><td>Lyon</td><td>2026-10-27</td></tr>
+<tr><td>Siemens</td><td>Stage - Évaluation de GitLab pour les modèles de simulation f/h - Strategic Student Program</td><td>Lyon</td><td>2026-10-27</td></tr>
+<tr><td>Suez Group</td><td>Stage - Ingénieur Marketing (H/F)</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>BMW Group</td><td>Stagiaire,communication Corporate &amp; Rse-stage-alternant-(f/h)</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stage Icc - 6 Mois - Ingénieur Pmo H/f</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>TotalEnergies</td><td>Alternance - Etudes Commerciales, Pricing Et Marketing H/f</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>padoa</td><td>Alternance Design/market</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Intersystems</td><td>Sms Apprenti/e</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>ArianeGroup</td><td>Stage - Ingénieur / Ingénieure Sauvegarde En Vol - Estimation De La Marge Lors D'un Essai</td><td>Mantes La Jolie</td><td>2026-10-27</td></tr>
+<tr><td>academiespatiale.fr</td><td>Stage - Ingénieure / Ingénieur Commercial</td><td>Mantes La Jolie</td><td>2026-10-27</td></tr>
+<tr><td>ArianeGroup</td><td>Stage - Ingénieure / Ingénieur Modélisation De La Récupération D'un Étage Lanceur Réutilisable Par Catch Tower</td><td>Mantes La Jolie</td><td>2026-10-27</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer (enterprise Experience, Backend)</td><td>France</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Ia Générative & Agentique - F/h</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage - L’ia Dans Les Pratiques D’ingénierie - F/h</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>THALES</td><td>Stage - Développement Et Industrialisation De L'ia Pour La Formation - F/h</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>(interim) Compensation & Benefits & Hr Data Analyst</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Groupeonepoint</td><td>Comptable Fournisseurs Expérimenté.e F/h</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>FAAC Entrance Solutions France</td><td>Technicien De Maintenance H/f</td><td>Marseille</td><td>2026-10-27</td></tr>
+<tr><td>Lfb Usa</td><td>Technicien De Maintenance Utilités H/f</td><td>Lille</td><td>2026-10-27</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Électromécanicien (h/f) - Activité Eau</td><td>Toulouse</td><td>2026-10-27</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance H/f (journée)</td><td>Cornillé</td><td>2026-10-27</td></tr>
+<tr><td>STMicroelectronics</td><td>Technicien De Maintenance Etch – Équipe De Nuit (f/h)</td><td>Rousset</td><td>2026-10-27</td></tr>
+<tr><td>STMicroelectronics</td><td>Technicien Automation & Amhs H/f Equipe Week-end</td><td>Rousset</td><td>2026-10-27</td></tr>
+<tr><td>STMicroelectronics</td><td>Cdi - Technicien Equipe Maintenance Photo - Equipe D - H/f</td><td>Rousset</td><td>2026-10-27</td></tr>
+<tr><td>STMicroelectronics</td><td>Cdi - Technicien Equipe Maintenance Photo - Equipe E - H/f</td><td>Rousset</td><td>2026-10-27</td></tr>
+<tr><td>STMicroelectronics</td><td>Cdi - Technicien De Maintenance F/m</td><td>Rousset</td><td>2026-10-27</td></tr>
+<tr><td>STMicroelectronics</td><td>Cdi - Technicien De Maintenance Gravure Eq D F/h</td><td>Rousset</td><td>2026-10-27</td></tr>
+<tr><td>STMicroelectronics</td><td>Cdi - Technicien De Maintenance Gravure Eq C F/h</td><td>Rousset</td><td>2026-10-27</td></tr>
+<tr><td>Biofrais</td><td>Vendeur h/f</td><td>Lille</td><td>2026-10-27</td></tr>
+<tr><td>Pandora Jewellery</td><td>Conseiller De Vente H/f - Cdd 30h - Les Ulis</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Conseiller De Vente (m/f/d*) - Tommy Hilfiger - La Baule - Cdd 35h</td><td>Nantes</td><td>2026-10-27</td></tr>
+<tr><td>Kiabi</td><td>Conseiller(e) De Mode</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Reckitt</td><td>Stages - Marketing / Assistant(e) Chef(e) De Produit / Janvier 2027</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Aliaxis</td><td>Assistant.e Siv</td><td>Fr</td><td>2026-10-27</td></tr>
+<tr><td>Novy svet prace LHH / lhh.cz</td><td>Assistant.e De Direction</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>Sedgwick</td><td>Assistant(e) Administratif(ve) De Gestionnaire De Sinistres - Bilingue - F/h</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Stage - Assistant.e Marketing Partenariats & Marques F/h</td><td>Paris</td><td>2026-10-27</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Stage - Assistant.e Marketing Omnisports F/h</td><td>Paris</td><td>2026-10-27</td></tr>
 </table>
