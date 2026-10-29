@@ -9846,4 +9846,103 @@
 <tr><td>Orange</td><td>Coordinateur De Projet(s) F/h</td><td>Paris</td><td>2026-10-28</td></tr>
 <tr><td>Nestle Ltd</td><td>Stage Gestionnaire Logistique Et Transport F/h</td><td>Paris</td><td>2026-10-28</td></tr>
 <tr><td>Nestle SA</td><td>Stage Chargé De Projet Relations Presse & Évènements F/h</td><td>Paris</td><td>2026-10-28</td></tr>
+<tr><td>Suez Group</td><td>Stage en Développement Trade & Export Finance H/F</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Boardriders Inc</td><td>Stage - Assistant(e) Marketing - Quiksilver</td><td>Europe</td><td>2026-10-29</td></tr>
+<tr><td>Wheely</td><td>Operations Intern</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Butler Intern</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Culinary Intern - Nonos & Comestibles</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Food & Beverage Intern - Banqueting</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Food & Beverage Intern - Butterfly Pastry Shop</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Concierge Intern</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Food & Beverage Intern - Bar Les Ambassadeurs</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Food & Beverage Ambassador Intern</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Food & Beverage Intern - Jardin D'hiver</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Finance Intern</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Butler Service Center Intern</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Food & Beverage Intern - Room Service</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Food & Beverage Intern - Nonos & Comestibles</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Housekeeping Intern</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Pastry Intern</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Retail Boutique Intern</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Sommelier/sommelière Intern</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Sales Intern</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Artefact</td><td>Sustainability Intern - Paris</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Stagiaire Assistant(e) Marketing Digital (janvier À Juillet 2027) (h/f)</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Ipsen</td><td>Stagiaire Contrôle Interne / Finance Internal Control Support (6 Months From January 2027)</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Airbus SAS</td><td>Stage 2027 Développement D'une Méthode Et D'un Outil De Suivi Du Poids Des Aéronefs H/f</td><td>Toulouse Area</td><td>2026-10-29</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027 - Support Au Pilotage De Projet - Performance Et Montée En Cadence (all Gender)</td><td>Nantes</td><td>2026-10-29</td></tr>
+<tr><td>Givaudan</td><td>Stage Marketing Ventes Cp</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>CHANEL</td><td>Stagiaire – Ingénieur.e Transformation Supply Chain – Parfums Beauté - Janvier 2027 - H/f/x</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Stage 6 Mois Support Qualité Laboratoire Physico Chimie</td><td>Lyon</td><td>2026-10-29</td></tr>
+<tr><td>GE Vernova</td><td>Fp&a Finance Internship</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Eiffage Génie Civil</td><td>Stage En Ia Et Sirh</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Orange</td><td>Stage De Développement De Solution Basée Sur L'ia F/h</td><td>Montpellier</td><td>2026-10-29</td></tr>
+<tr><td>Orange</td><td>Stagiaire En Communication Interne À La Direction Energie D'orange France F/h</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Orange</td><td>Stage - Chargé D'etudes Marketing - Qualitatives Et Quantitatives - Excellence Client F/h</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Stage 6 Mois Développement Procédés Fermentation Bactérienne</td><td>Marcy-L’ÉToile</td><td>2026-10-29</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Stage 6 Mois Affaires Pharmaceutiques</td><td>Lyon</td><td>2026-10-29</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027 - Pilotage Dashbaord Aog (h/f)</td><td>Marseille Area</td><td>2026-10-29</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Stage En Ia Sur La 3dexp (h/f)</td><td>Marseille</td><td>2026-10-29</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027 - Intelligence Artificielle Ah Operation(h/f)</td><td>Marseille</td><td>2026-10-29</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027 - Amélioration Continue Et Transformation Business / Support Militaire (h/f)</td><td>Marseille</td><td>2026-10-29</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027 - Modélisation D'un Système De Débrayage Pour Transmission H/f</td><td>Marseille</td><td>2026-10-29</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027 - Support Ingénieur Chiffrage (all Gender)</td><td>Nantes</td><td>2026-10-29</td></tr>
+<tr><td>Schneider Electric</td><td>Stage - Développement Et Validation De Méthodologies Arc-flash Ac/dc - F/h</td><td>Grenoble</td><td>2026-10-29</td></tr>
+<tr><td>Airi Quideer</td><td>Stage - Siège Social - Contrôle De Gestion Corporate H/f</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Genesis Energy</td><td>Apprenticeship - Python/ Azure Cloud Developer F/m</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Technip Energies</td><td>Apprenticeship - Business Ethics & Compliance Specialist - F/m</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>THALES</td><td>Stage - Intégration Hw F/h</td><td>Mantes La Jolie</td><td>2026-10-29</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Ia Générative Et Agents Intelligents Pour L'ingénierie Logicielle - F/h</td><td>Bordeaux</td><td>2026-10-29</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Méthodes Solutions Ia - H/f</td><td>Bordeaux</td><td>2026-10-29</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Intégration Multi-capteurs Ais / Ads-b / Gnss - Supervision Et Détection D’anomalies – F/h</td><td>Toulouse</td><td>2026-10-29</td></tr>
+<tr><td>THALES</td><td>Stage– Technicien Electronique – F/h</td><td>Toulouse</td><td>2026-10-29</td></tr>
+<tr><td>Testia</td><td>Technical Support Customer Line Sa - Delivery Center H/f</td><td>Toulouse</td><td>2026-10-29</td></tr>
+<tr><td>AIRBUS SAS</td><td>Stage 2027 - Expert En Analyse De Données Pour La Cabine D'achat Après-vente (f/h)</td><td>Toulouse</td><td>2026-10-29</td></tr>
+<tr><td>Nestlé</td><td>Stage Assistant Data Analyst Media & Insights F/h</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Jobgether</td><td>Artificial Intelligence (ai) Technician</td><td>France</td><td>2026-10-29</td></tr>
+<tr><td>Jobgether</td><td>Welsh Language Specialist - Freelance Ai Trainer Project</td><td>France</td><td>2026-10-29</td></tr>
+<tr><td>Kering</td><td>Kering Stage Data Analytics Ecommerce</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Stage - Siège Social - Data Analyst Sustainability H/f</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Proton</td><td>It Engineer</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Pierre Fabre</td><td>Data Analyst - Stage - H/f</td><td>Toulouse</td><td>2026-10-29</td></tr>
+<tr><td>Jobgether</td><td>Coding Specialist (fluent In Dutch) - Freelance Ai Trainer Project</td><td>France</td><td>2026-10-29</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Cybersecurity</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Marsh</td><td>Conseiller Spécialisé Construction</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Vestas</td><td>Service Technician Châteauroux</td><td>ChâTeauroux</td><td>2026-10-29</td></tr>
+<tr><td>OTIS</td><td>Technicien De Maintenance (h/f)</td><td>24 Rue Jean Baptiste Corot</td><td>2026-10-29</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance H/f</td><td>Barbezieux</td><td>2026-10-29</td></tr>
+<tr><td>Holcim</td><td>Electricien Industriel (h/f) - Le Teil</td><td>Viviers</td><td>2026-10-29</td></tr>
+<tr><td>Adagio Paris Opéra</td><td>Fr - Agent/technicien De Maintenance Confirmé (h/f/x) - Cdi 38h30</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Prosol</td><td>Technicien De Maintenance (h/f)</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Vandemoortele NV</td><td>Maintenance Technician</td><td>Neuville-Sur-Sarthe</td><td>2026-10-29</td></tr>
+<tr><td>Chanel</td><td>Cdd – Technicien De Maintenance – Parfums Beauté – H/f/x</td><td>Le Meux</td><td>2026-10-29</td></tr>
+<tr><td>Alstom</td><td>Technicien De Réparations F/h</td><td>Aix En Provence</td><td>2026-10-29</td></tr>
+<tr><td>fenwick-linde.fr</td><td>Technicien.ne Service Atelier</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Annecy</td><td>2026-10-29</td></tr>
+<tr><td>External Career Site PROSOL</td><td>Vendeur h/f</td><td>Nantes</td><td>2026-10-29</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente - 25h Cdi H/f/x</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Partiel H/f</td><td>Nantes</td><td>2026-10-29</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Lille</td><td>2026-10-29</td></tr>
+<tr><td>Soeur</td><td>Cdd - Vendeur.euse 35h (paris)</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Pandora Jewellery</td><td>Noël Conseiller De Vente H/f - Les Ulis</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Pandora Jewellery</td><td>Noël Conseiller De Vente H/f - Noisy</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Pandora Jewellery</td><td>Noël Conseiller De Vente H/f - Lyon Saint Genis</td><td>Lyon Saint Genis</td><td>2026-10-29</td></tr>
+<tr><td>Pandora Jewellery</td><td>Noël Conseiller De Vente H/f - Reims Cormontreuil</td><td>Reims Cormontreuil</td><td>2026-10-29</td></tr>
+<tr><td>Pandora Jewellery</td><td>Noël Conseiller De Vente H/f - Rosny</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Pandora Jewellery</td><td>Noël Conseiller De Vente H/f - La Défense</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Pandora Jewellery</td><td>Noël Conseiller De Vente H/f - Paris</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Pandora Jewellery</td><td>Noël Conseiller De Vente H/f - Mundolsheim - Cora</td><td>Strasbourg</td><td>2026-10-29</td></tr>
+<tr><td>Pandora Jewellery</td><td>Noël Conseiller De Vente H/f - Bordeaux Sainte-catherine</td><td>Bordeaux</td><td>2026-10-29</td></tr>
+<tr><td>Pandora Jewellery</td><td>Noël Conseiller De Vente H/f - Bordeaux Lac</td><td>Bordeaux</td><td>2026-10-29</td></tr>
+<tr><td>Mandarin Oriental Hotel Group</td><td>Assistant(e) Responsable Stewarding</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Ayvens Group</td><td>Chargé D'évènementiel En Alternance</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Orange</td><td>Stage - Chargée De Projet Junior En Automatisation Et Pilotage De Portefeuille F/h</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>White & Case</td><td>Legal Assistant - International Arbitration</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Lindt & Sprungli</td><td>Adjoint(e) Responsable De Magasin (h/f) - Cdi - One Nation Paris</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Fraikin Group</td><td>Assistant(e ) Administratif(ve) Adv H/f</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Louis Vuitton</td><td>Stage - Assistant.e Coordinateur.trice Équipe Visuel Merchandising - Jan 2027</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Louis Vuitton</td><td>Stage - Assistant.e Retail Marketing (f/h) – Janvier 2027</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Paris Society</td><td>Stage - Assistant(e) Coordinateur Rp, Event & Membership</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Accor</td><td>STAGE - Assistant(e) Coordinateur RP, Event & Membership</td><td>Paris</td><td>2026-10-29</td></tr>
+<tr><td>Ami Paris</td><td>Stage - Assistant.e Showroom Presse H/f</td><td>Paris</td><td>2026-10-29</td></tr>
 </table>
