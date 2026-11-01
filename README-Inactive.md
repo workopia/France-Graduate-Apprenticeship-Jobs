@@ -10143,4 +10143,58 @@
 <tr><td>Hermès</td><td>Stage - Assistant Chef De Projet Infrastructure (h/f)</td><td>Paris</td><td>2026-10-31</td></tr>
 <tr><td>Hermès International</td><td>Stage - Assistant Chef De Projet Infrastructure (h/f)</td><td>Paris</td><td>2026-10-31</td></tr>
 <tr><td>Suez Group</td><td>Alternance - Chargé de ressources humaines (recrutement / formation) H/F</td><td>Paris</td><td>2026-10-31</td></tr>
+<tr><td>BOUCHERON S.A.S.</td><td>Boucheron - Stage International Assistant Retail Operations Intern</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Kering</td><td>Balenciaga - Rtw Design Intern - November 2026 (f/m)</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Firmenich</td><td>Marketing Intern Ffe</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Estée Lauder</td><td>Brand & Consumer Facing Intern</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Estée Lauder</td><td>Global Packaging Engineer Assistant Intern</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Estée Lauder</td><td>Graphic & Product Design Assistant Intern</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Estée Lauder</td><td>Analytical Development Lab Engineer Assistant Intern</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Ardian</td><td>Private Equity Real Estate Stage - Mars 2027 I Paris (m/f)</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Intermarche</td><td>Stage - Chargé De Développement Offre Régionale & Pme H/f</td><td>Vert</td><td>2026-11-01</td></tr>
+<tr><td>British American Tobacco Ltd</td><td>Stagiaire Trade Marketing</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>THALES</td><td>Stage - S3ns - Ingénieur Data (h/f)</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>FactSet</td><td>Client Solutions Associate (internship) - France Feb 2027</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+5 - Stage Mise Au Point Thermal Management Pour Véhicules Électriques (h/f)</td><td>Lardy</td><td>2026-11-01</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+5 - Stage Decision-making For Lane Changing Maneuvers Under Uncertainty In Automated Driving Systems (h/f)</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>SHISEIDO CO.,LTD</td><td>Alternance - Image Production Fragrances H/f - Asap</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Chef De Projet Marketing Digital H/f 6 Mois Paris (75)</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Accenture</td><td>Consultant Data/ia En Stage - F/h Paris</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Boardriders Inc</td><td>Stagiaire Assistant Commercial F/h - Kokolo</td><td>France</td><td>2026-11-01</td></tr>
+<tr><td>Orange</td><td>Stage Ingénieur Radiocommunication – Identification Et Caractérisation De La Congestion Réseau</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Thales Group</td><td>Stage - Ingénieur Simulation Et Optimisation D’antennes Satellitaires – F/h</td><td>Toulouse</td><td>2026-11-01</td></tr>
+<tr><td>BlaBlaCar</td><td>Confirmed Backend Engineer - Care</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Stage 2027 - Ingénieur(e) En Analyse De Données - Amélioration De La Performance Industrielle (f/h)</td><td>Toulouse</td><td>2026-11-01</td></tr>
+<tr><td>AIRBUS SAS</td><td>Stage 2027 - Operations Iot Et Analyse Prédictive (f/h)</td><td>Toulouse</td><td>2026-11-01</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Alternance - Comptable Général F/h</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Sopra Steria</td><td>Stage -business Analyst Paiement / Monétique-services Financiers - Paris</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>OTIS</td><td>Technicien De Maintenance (h/f)</td><td>Bordeaux</td><td>2026-11-01</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Mécanicien Industriel (f/h)</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne Traitement Du Gaz</td><td>Marseille</td><td>2026-11-01</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne Opérationnel Réfractaire (jour)</td><td>Marseille</td><td>2026-11-01</td></tr>
+<tr><td>GEHC</td><td>Alternance H/f – Ingénieur De Maintenance Echographie (toulouse)</td><td>Toulouse</td><td>2026-11-01</td></tr>
+<tr><td>Keolis Bordeaux Métropole Mobilités</td><td>Agent Electromécanicien - Infrastructures Voie Et Lac Tramway F/h</td><td>Bordeaux</td><td>2026-11-01</td></tr>
+<tr><td>Keolis Bordeaux Métropole Mobilités</td><td>Agent De Maintenance Curatif - Matériel Roulant Tram - (jour) F/h</td><td>Bordeaux</td><td>2026-11-01</td></tr>
+<tr><td>Keolis Bordeaux Métropole</td><td>Agent Electrotechnicien : Infrastructures Électriques Tramway F/h</td><td>Bordeaux</td><td>2026-11-01</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Matériel Roulant Bus H/f</td><td>Bordeaux</td><td>2026-11-01</td></tr>
+<tr><td>Keolis</td><td>Agent De Maintenance Equipements Industriels</td><td>OrléAns</td><td>2026-11-01</td></tr>
+<tr><td>Cargill</td><td>Technicien.ne de maintenance mécanique- H/F</td><td>Rennes</td><td>2026-11-01</td></tr>
+<tr><td>Cargill</td><td>Technicien.e EIA</td><td>Rennes</td><td>2026-11-01</td></tr>
+<tr><td>Holcim</td><td>Agent De Maintenance Mécanique H/f - Cdi (st Pierre La Cour 53)</td><td>Saint Pierre La Cour</td><td>2026-11-01</td></tr>
+<tr><td>Grand Frais</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Partiel H/f</td><td>Annecy</td><td>2026-11-01</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur - 35h H/f - Chamonix (74) - Boardriders Men</td><td>Annecy</td><td>2026-11-01</td></tr>
+<tr><td>LOVISA</td><td>Vendeur(euse) En Cdd 25h</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdi 25h - La Teste De Buch</td><td>Bordeaux</td><td>2026-11-01</td></tr>
+<tr><td>Lovehoney Group</td><td>Employé(e) De Vente</td><td>Toulouse</td><td>2026-11-01</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Conseiller De Vente - Lyon, Fr</td><td>Lyon</td><td>2026-11-01</td></tr>
+<tr><td>Chanel</td><td>Cdi - Conseiller De Vente - Galeries Lafayette Haussmann H/f</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Beyond Yoga</td><td>Cdd 28h Vendeur F/h Levi's - Saint-lazare</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Salomon</td><td>Conseiller De Ventes H/f 35h</td><td>Pont Ste Marie</td><td>2026-11-01</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Stagiaire Commercial Évènementiel Et Marketing (h/f/x)</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Accor</td><td>Stagiaire commercial évènementiel et marketing (H/F/X)</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Columbia Records</td><td>Assistant.e Marketing Digital Filtr F/h/nb - Stage</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Eurofins Scientific</td><td>Assistant Administratif Et Relation Client En Cdd (h/f)</td><td>Nantes</td><td>2026-11-01</td></tr>
+<tr><td>Guerbet</td><td>Villepinte Assistant Marketing Alternance</td><td>Paris</td><td>2026-11-01</td></tr>
 </table>
