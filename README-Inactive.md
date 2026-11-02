@@ -10197,4 +10197,13 @@
 <tr><td>Columbia Records</td><td>Assistant.e Marketing Digital Filtr F/h/nb - Stage</td><td>Paris</td><td>2026-11-01</td></tr>
 <tr><td>Eurofins Scientific</td><td>Assistant Administratif Et Relation Client En Cdd (h/f)</td><td>Nantes</td><td>2026-11-01</td></tr>
 <tr><td>Guerbet</td><td>Villepinte Assistant Marketing Alternance</td><td>Paris</td><td>2026-11-01</td></tr>
+<tr><td>Kering</td><td>Balenciaga - Wholesale Intern - January 2027 (f/h)</td><td>Paris</td><td>2026-11-02</td></tr>
+<tr><td>Kering</td><td>Kering Stagiaire Douane & Fiscalite Indirecte - Juillet 2027 (stage)</td><td>Paris</td><td>2026-11-02</td></tr>
+<tr><td>Kering</td><td>Balenciaga - Content & Copywriting Intern - March 2027 (f/m)</td><td>Paris</td><td>2026-11-02</td></tr>
+<tr><td>Kering</td><td>Kering Stagiaire Fiscalité Corporate / Prix De Transfert - Juillet 2027 (stage)</td><td>Paris</td><td>2026-11-02</td></tr>
+<tr><td>Alstom</td><td>Stage 6 Mois - Ingénieur.e Système - Traitement De Données Pour La Détection De Défauts (f/h)</td><td>Paris</td><td>2026-11-02</td></tr>
+<tr><td>Forvis Mazars</td><td>Stagiaire Collaborateur(trice) Expertise Comptable Junior - Janvier 2027 (h/f)</td><td>Paris</td><td>2026-11-02</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien De Maintenance</td><td>Bruyeres-Sur-Oise</td><td>2026-11-02</td></tr>
+<tr><td>Cultura / Cultura Group</td><td>Conseiller De Vente Librairie F/h</td><td>Toulouse</td><td>2026-11-02</td></tr>
+<tr><td>Kering</td><td>Balenciaga – Stagiaire Achat Tissus De Collection– Février 2027 (f/h)</td><td>Paris</td><td>2026-11-02</td></tr>
 </table>

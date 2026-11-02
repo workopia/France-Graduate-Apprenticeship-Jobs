@@ -1,11 +1,41 @@
 {
- "asOf": "2026-11-01",
+ "asOf": "2026-11-02",
  "count": 858,
  "jobs": {
   "540886": {
    "id": "540886",
    "company": "Energy Aspects",
    "role": "Software Engineer",
+   "location": "Paris"
+  },
+  "71e0758c77c92a8f4bd6cc64fd69abb7": {
+   "id": "71e0758c77c92a8f4bd6cc64fd69abb7",
+   "company": "THALES",
+   "role": "Stage – Monitoring Innovant De Modèles D’ia – F/h",
+   "location": "Marseille"
+  },
+  "9944d7d6f01371db211baba03dcec294": {
+   "id": "9944d7d6f01371db211baba03dcec294",
+   "company": "L'Oréal",
+   "role": "6-month Internship - Starting January 2027 – Industrial Quality & Data Intern– Master's ½ - €1700/month",
+   "location": "Paris"
+  },
+  "f212945d12288fbe5ddfefae21b94d43": {
+   "id": "f212945d12288fbe5ddfefae21b94d43",
+   "company": "L'Oréal S.A.",
+   "role": "6-month Internship - Starting January 2027 – Digital Project Intern Low-code – Master's ½ - €1700/month aulnay-sous-bois, France",
+   "location": "Paris"
+  },
+  "40472691dfe1d76a3baee5f963733a5e": {
+   "id": "40472691dfe1d76a3baee5f963733a5e",
+   "company": "L'Oréal S.A.",
+   "role": "6-month Internship - Starting January 2027 – Industrial Quality & Data Intern– Master's ½ - €1700/month aulnay-sous-bois, France",
+   "location": "Paris"
+  },
+  "606ae8afe2c820400cacd705d135d0d5": {
+   "id": "606ae8afe2c820400cacd705d135d0d5",
+   "company": "Siemens AG",
+   "role": "Stage - Agentic Ai Workflows For Simulation F/m - Strategic Student Program",
    "location": "Paris"
   },
   "3fd66d2bf380b82a48c7efeac8eecd44": {
@@ -296,12 +326,6 @@
    "role": "Stage - Advanced tank sloshing Modeling f/m - Strategic Student Program",
    "location": "Lyon"
   },
-  "606ae8afe2c820400cacd705d135d0d5": {
-   "id": "606ae8afe2c820400cacd705d135d0d5",
-   "company": "Siemens",
-   "role": "Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program",
-   "location": "Paris"
-  },
   "136dddbf21f26478e7c17754077e860a": {
    "id": "136dddbf21f26478e7c17754077e860a",
    "company": "lactalisexperience",
@@ -462,30 +486,6 @@
    "id": "e65f6555e3c600f40f25058ae18026b5",
    "company": "BALENCIAGA S.A.S.",
    "role": "Balenciaga - Sales Merchandising Lg Intern - Janvier 2027 (f/m)",
-   "location": "Paris"
-  },
-  "53367fbf49f37fbd64185270f15ddc09": {
-   "id": "53367fbf49f37fbd64185270f15ddc09",
-   "company": "Kering",
-   "role": "Balenciaga - Wholesale Intern - January 2027 (f/h)",
-   "location": "Paris"
-  },
-  "9ad043dadba658f56431e772186c94ea": {
-   "id": "9ad043dadba658f56431e772186c94ea",
-   "company": "Kering",
-   "role": "Kering Stagiaire Douane & Fiscalite Indirecte - Juillet 2027 (stage)",
-   "location": "Paris"
-  },
-  "3834bf8eada1ce26e4e46ccf8dbeedd4": {
-   "id": "3834bf8eada1ce26e4e46ccf8dbeedd4",
-   "company": "Kering",
-   "role": "Balenciaga - Content & Copywriting Intern - March 2027 (f/m)",
-   "location": "Paris"
-  },
-  "ba6ac571047e0625aa96effbb6c14718": {
-   "id": "ba6ac571047e0625aa96effbb6c14718",
-   "company": "Kering",
-   "role": "Kering Stagiaire Fiscalité Corporate / Prix De Transfert - Juillet 2027 (stage)",
    "location": "Paris"
   },
   "f9133fdfd39cd4451abf6d800d8bf293": {
@@ -2270,6 +2270,12 @@
    "role": "Data Analyst Expérimenté F/h",
    "location": "Paris"
   },
+  "4f0145420cd8b404357f82f8f9e3c661": {
+   "id": "4f0145420cd8b404357f82f8f9e3c661",
+   "company": "Rexel",
+   "role": "Charge(e) De Projets / Data Analyst Cdd - Paris 17ème H/f",
+   "location": "Paris"
+  },
   "6b2bffe27d65503f665532024c96c490": {
    "id": "6b2bffe27d65503f665532024c96c490",
    "company": "Airbus SE",
@@ -2720,12 +2726,6 @@
    "role": "Data Scientist Pour Pièces De Rechange (f/h)",
    "location": "Paris"
   },
-  "fc2b8e4995a2a28d76e75360c760d11d": {
-   "id": "fc2b8e4995a2a28d76e75360c760d11d",
-   "company": "Alstom",
-   "role": "Stage 6 Mois - Ingénieur.e Système - Traitement De Données Pour La Détection De Défauts (f/h)",
-   "location": "Paris"
-  },
   "17cb0be8e33ea74a5bd49d81aed60d1a": {
    "id": "17cb0be8e33ea74a5bd49d81aed60d1a",
    "company": "Kenvue (Rogaine brand)",
@@ -2954,12 +2954,6 @@
    "role": "Stagiaire De Césure En Audit Financier - 2027 (h/f)",
    "location": "Paris"
   },
-  "d76ef9cb5868ff2ed4751c92cbec7512": {
-   "id": "d76ef9cb5868ff2ed4751c92cbec7512",
-   "company": "Forvis Mazars",
-   "role": "Stagiaire Collaborateur(trice) Expertise Comptable Junior - Janvier 2027 (h/f)",
-   "location": "Paris"
-  },
   "84023ad1e442646887e01094e766feb4": {
    "id": "84023ad1e442646887e01094e766feb4",
    "company": "Amazon Commercial Services Pty Ltd - F47",
@@ -2976,6 +2970,12 @@
    "id": "2a3e76864e5b195d8b9e7af2c958a7b7",
    "company": "Amazon Commercial Services Pty Ltd - F47",
    "role": "Business Analyst Intern (6 months) - 2027",
+   "location": "Paris"
+  },
+  "89817247207cf96f9d1335fdfe5a2ae3": {
+   "id": "89817247207cf96f9d1335fdfe5a2ae3",
+   "company": "Brinks",
+   "role": "Alternance - Business Analyst H/f",
    "location": "Paris"
   },
   "fe9d616bcc78bebf07de6ab254bda83f": {
@@ -3710,6 +3710,12 @@
    "role": "Infirmier(ère) Développement Pn",
    "location": "Yffiniac"
   },
+  "fd50b79585d8b7b729eb4d6fc83cfbc4": {
+   "id": "fd50b79585d8b7b729eb4d6fc83cfbc4",
+   "company": "Brinks",
+   "role": "Technicien De Maintenance Niveau 2",
+   "location": "Fra"
+  },
   "8bffce60c2b8d12d75a53952677b9593": {
    "id": "8bffce60c2b8d12d75a53952677b9593",
    "company": "Rosewood Hotels & Resorts",
@@ -4184,11 +4190,11 @@
    "role": "Technicien De Maintenance Courants Faibles Vidéoprotection - Contrôle D'accès - Intrusion F/h",
    "location": "Saint"
   },
-  "e5deba470ae316936ca04ca5b7f0d804": {
-   "id": "e5deba470ae316936ca04ca5b7f0d804",
-   "company": "ArcelorMittal",
-   "role": "Technicien De Maintenance",
-   "location": "Bruyeres-Sur-Oise"
+  "cb725dce7d4c04aa6a5876c02c34b620": {
+   "id": "cb725dce7d4c04aa6a5876c02c34b620",
+   "company": "Capri",
+   "role": "Seasonal Sales Associate 30h Novembre/janv",
+   "location": "Paris"
   },
   "5373c47c04e6a281b2bd8b4a53c6b8e9": {
    "id": "5373c47c04e6a281b2bd8b4a53c6b8e9",
@@ -4664,11 +4670,11 @@
    "role": "Cdi - Conseiller De Vente (f/h/x) 8h - Centre Commercial Forum Des Halles",
    "location": "Paris"
   },
-  "13d4227d4d79d28edb063488e9ff0ca7": {
-   "id": "13d4227d4d79d28edb063488e9ff0ca7",
-   "company": "Cultura / Cultura Group",
-   "role": "Conseiller De Vente Librairie F/h",
-   "location": "Toulouse"
+  "c76ba27f2df65bcb8b29c8588002f56e": {
+   "id": "c76ba27f2df65bcb8b29c8588002f56e",
+   "company": "Brinks",
+   "role": "Assistant(e) Commercial Et Adv H/f",
+   "location": "Fra"
   },
   "0351ebbb53343abd064278342de6f71c": {
    "id": "0351ebbb53343abd064278342de6f71c",
@@ -5142,12 +5148,6 @@
    "id": "09dfcb7a126e6d0522ae8f337c22724e",
    "company": "Shiseido",
    "role": "Stage - Assistant(e) Pr & Influence Shiseido Emea H/f - Janvier 2027",
-   "location": "Paris"
-  },
-  "3db48b964cacd42249693510988cdc57": {
-   "id": "3db48b964cacd42249693510988cdc57",
-   "company": "Kering",
-   "role": "Balenciaga – Stagiaire Achat Tissus De Collection– Février 2027 (f/h)",
    "location": "Paris"
   }
  }
