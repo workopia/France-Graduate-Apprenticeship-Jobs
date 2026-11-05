@@ -10388,4 +10388,87 @@
 <tr><td>Chubb Fire & Security</td><td>Assistante Administrative D'agence</td><td>Paris</td><td>2026-11-04</td></tr>
 <tr><td>Hilton Worldwide</td><td>Marketing Coordinator</td><td>Paris</td><td>2026-11-04</td></tr>
 <tr><td>Hilton</td><td>Marketing Coordinator</td><td>Paris</td><td>2026-11-04</td></tr>
+<tr><td>Energy Aspects</td><td>Software Engineer</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>THALES</td><td>Stage Ouvrier - Annotation D'images - F/h</td><td>Mantes La Jolie</td><td>2026-11-05</td></tr>
+<tr><td>Airbus SE</td><td>Atr - Internship – Supply Chain Disruption & Obsolescence Anticipation Engineer</td><td>Toulouse</td><td>2026-11-05</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Production (h/f) - 12 Mois Roquefort S/soulzon (12)</td><td>Roquefort S/Soulzon</td><td>2026-11-05</td></tr>
+<tr><td>Johnson & Johnson</td><td>Stagiaire - Er/lr H/f</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>AXA UK</td><td>Assistant En Support Commercial Et Client (f/h) - Stage</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>SCOR</td><td>Sustainable Investment Intern</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>SCOR</td><td>Esg Data Analysis And Modelling Internship</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>SCOR</td><td>Investment Reporting Intern</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>SCOR</td><td>Corporate Affairs Legal Intern</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>SCOR</td><td>Graphic Design & Communications Intern</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>SCOR</td><td>P&c Performance Data Assistant Intern</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stage (6 Mois) - Maintenance Gmao H/f</td><td>Ornans</td><td>2026-11-05</td></tr>
+<tr><td>SCOR</td><td>Investor Relations Intern</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>SCOR</td><td>Strategic Insight Intern</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>SCOR</td><td>Sustainable Insurance Internship</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Commercialisation Department - Ventures And Finance Office</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Director General's Cabinet - Protocol Office</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Infrastructure Department - Propulsion Tests And Services</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Strategy Department - Strategy, Sustainability, And Strategic Foresight Tracks</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The P120/p160c Team - Rocket Propulsion Indicators And Applications Of Energetic Materials</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The External Relations Department</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Legal Services Department - Institutional Law Division</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Space Safety Programme Coordination Office</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>THALES</td><td>Stage – Monitoring Innovant De Modèles D’ia – F/h</td><td>Marseille</td><td>2026-11-05</td></tr>
+<tr><td>L'Oréal</td><td>6-month Internship - Starting January 2027 – Industrial Quality & Data Intern– Master's ½ - €1700/month</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>L'Oréal S.A.</td><td>6-month Internship - Starting January 2027 – Digital Project Intern Low-code – Master's ½ - €1700/month aulnay-sous-bois, France</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>L'Oréal S.A.</td><td>6-month Internship - Starting January 2027 – Industrial Quality & Data Intern– Master's ½ - €1700/month aulnay-sous-bois, France</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Siemens AG</td><td>Stage - Agentic Ai Workflows For Simulation F/m - Strategic Student Program</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Petit Forestier Group</td><td>Apprenti Carrossier</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Kering</td><td>Saint Laurent Apprenti(e) Hr Operations Siège (h/f)</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Thales Group</td><td>Stage - Ingénieur Traitement Numérique Du Signal - Communications Optiques Par Satellite - F/h</td><td>Toulouse</td><td>2026-11-05</td></tr>
+<tr><td>Eiffage</td><td>Stage Ingénieur·e Ia - H/f</td><td>Bordeaux</td><td>2026-11-05</td></tr>
+<tr><td>THALES</td><td>Stage Ingénieur - Traitement Du Signal Multistatique Mimo - H/f</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Automatisation Agentique D’analyse Statique De Code C – F/h</td><td>Toulouse</td><td>2026-11-05</td></tr>
+<tr><td>Acteon Group</td><td>Engineering Intern - Moorings</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Acteon Group</td><td>Engineering Intern - Risers</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Acteon Group</td><td>Engineering Intern - Hydrodynamics</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Conception Système Automatique F/h</td><td>Mantes La Jolie</td><td>2026-11-05</td></tr>
+<tr><td>THALES</td><td>Stage - Ingenieur De Développement F/h</td><td>Marseille</td><td>2026-11-05</td></tr>
+<tr><td>Jobgether</td><td>Microservices Engineer</td><td>France</td><td>2026-11-05</td></tr>
+<tr><td>Onepoint</td><td>Ai-native Developer F/h</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Data Analyst</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+5 - Stage Data Scientist (h/f)</td><td>Lardy</td><td>2026-11-05</td></tr>
+<tr><td>dacia</td><td>Cvj : Cs27 Bac+5 Data Scientist - Système Stockage D’énergie (h/f)</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Siemens</td><td>Stage Ingénieur Développement - Solutions IA F/H</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>AIRBUS SAS</td><td>Stage 2027 Data Analytics Pour L'optimisation Des Coûts Dans Les Achats D'aérostructures (h/f)</td><td>Toulouse</td><td>2026-11-05</td></tr>
+<tr><td>Nestle SA</td><td>Stage Business Analyst Marketing F/h</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>ASDIA</td><td>Infirmier(ère) Développement Pn</td><td>Yffiniac</td><td>2026-11-05</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance (h/f)</td><td>163 Ave Georges Clemenceau</td><td>2026-11-05</td></tr>
+<tr><td>Eiffagemetal</td><td>Electromécanicien (h/f)</td><td>Avesnes-Sur-Helpe</td><td>2026-11-05</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Agent/technicien De Maintenance (h/f/x)</td><td>Bordeaux</td><td>2026-11-05</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Préventive, Saint-geoges-sur-arnon (36)</td><td>Saint-Geoges-Sur-Arnon</td><td>2026-11-05</td></tr>
+<tr><td>RATP</td><td>Electricien / Electromécanicien, Mainteneur Des Façades De Quai H/f (infras / Ct Ecv)</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance F/h</td><td>Marseille</td><td>2026-11-05</td></tr>
+<tr><td>Eiffagemetal</td><td>Technicien Essais, Mise En Service Et Maintenance F/h</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Technicien Utilités Propres</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Vandemoortele NV</td><td>Agent Technique De Maintenance</td><td>Neuville-Sur-Sarthe</td><td>2026-11-05</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Technicien Multitechnique H/f</td><td>HéSingue</td><td>2026-11-05</td></tr>
+<tr><td>perdigon-ascenseur.fr</td><td>Technicien De Maintenance (h/f)</td><td>Aigueblanches</td><td>2026-11-05</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance H/f</td><td>Barbezieux</td><td>2026-11-05</td></tr>
+<tr><td>Eiffagemetal</td><td>Technicien De Maintenance Électricité/cvc - Site Fixe F/h</td><td>Bourgoin-Jallieu</td><td>2026-11-05</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance - Courant Fort F/h</td><td>Orleans</td><td>2026-11-05</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne De Préparation Maintenance Electrique</td><td>Marseille</td><td>2026-11-05</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien Analyseur F/h</td><td>Lyon</td><td>2026-11-05</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Biofrais</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Lyon</td><td>2026-11-05</td></tr>
+<tr><td>External Career Site PROSOL</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) - Galeries Lafayette Toulouse</td><td>Toulouse</td><td>2026-11-05</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) - Blagnac</td><td>Toulouse</td><td>2026-11-05</td></tr>
+<tr><td>Cultura / Cultura Group</td><td>Conseiller De Vente (h/f) - 35h</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique H/f - Menuiserie</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique H/f - Cour Des Matériaux</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Vendeur(se) Conseil - Saint Nazaire</td><td>Nantes</td><td>2026-11-05</td></tr>
+<tr><td>Aloyoga Inc</td><td>Sales Associate (full Time) - Cannes</td><td>Nice</td><td>2026-11-05</td></tr>
+<tr><td>Egis in ANZ</td><td>Stagiaire Bac+4 – Coordinateur De Projet Innovation Climat À La Fondation Egis H/f</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Egis Group</td><td>Stagiaire Bac+4 – Coordinateur De Projet Innovation Climat À La Fondation Egis H/f</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>THALES</td><td>Assistant(e) De Direction Stratégie & Marketing</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>ALTAVIA</td><td>Assistant Ressources Humaines F/h Alternance</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Galeries Lafayette</td><td>Stage - Assistant Marketing Opérationnel - 6 Mois - Janvier 2027 F/h</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>Orange</td><td>Stage - Chef De Projet Formation Junior F/h</td><td>Paris</td><td>2026-11-05</td></tr>
+<tr><td>TFS HealthScience</td><td>Project Management Associate (pma)</td><td>Paris</td><td>2026-11-05</td></tr>
 </table>
