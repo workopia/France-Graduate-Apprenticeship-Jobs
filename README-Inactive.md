@@ -10657,4 +10657,45 @@
 <tr><td>Hermès</td><td>Cdi - Coordinateur Logistique Amont (h/f) - Hermès Distribution France</td><td>ÎLe-De-France</td><td>2026-11-07</td></tr>
 <tr><td>Shiseido</td><td>Stage - Assistant(e) Trade Marketing France - Shiseido Brand</td><td>Paris</td><td>2026-11-07</td></tr>
 <tr><td>Estée Lauder</td><td>Global Hr Assistant</td><td>Paris</td><td>2026-11-07</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Chargé(e) De Développement, Promotion Et Animation Touristique (h/f) - 6 Mois - Roquefort-</td><td>Roquefort-Sur-Soulzon</td><td>2026-11-08</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire Qualité (h/f) - 6 Mois Laval (53)</td><td>Rennes</td><td>2026-11-08</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois Communication Interne Et Digital Content</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Chargé(e) De Développement, Promotion Et Animation Touristique (h/f) - 6 Mois - Roquefort-</td><td>Roquefort-Sur-Soulzon</td><td>2026-11-08</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Qualité (h/f) - 6 Mois Laval (53)</td><td>Rennes</td><td>2026-11-08</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Charge(e) Ressources Humaines / Stage</td><td>Tours</td><td>2026-11-08</td></tr>
+<tr><td>Legrand</td><td>Stage - Systèmes D'information H/f</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Electra</td><td>Marketing Crm Engagement Intern 🇪🇺</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>SiPearl</td><td>[internship] Compilers, Libs And Tools Internship</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Airbus Atlantic</td><td>Snr 2027 - Optimisation Des Flux (all Gender)</td><td>Nantes</td><td>2026-11-08</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Stage 2027 Legal Fusions & Acquisitions Et Affaires Corporate (h/f)</td><td>Toulouse</td><td>2026-11-08</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Cybersecurity & Ai Trust</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Atos</td><td>Alternance - Ingénieur Pédagogique En Cyber H/f</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Simulation Mécanique Des Assemblages Vissés – F/h</td><td>Toulouse</td><td>2026-11-08</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Conception Mécanique & Banc D’essais Thermiques – F/h</td><td>Toulouse</td><td>2026-11-08</td></tr>
+<tr><td>THALES</td><td>Stage - Développeur Logiciel Fie (f/h)</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Shifttechnology</td><td>Junior Backend Developer, C# .net - Paris</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Roche</td><td>Stagiaire – Stratégie De Génération De Donnée (f/m/d)</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Data Scientist Big Data & Intelligence Artificielle (h/f)</td><td>LabèGe</td><td>2026-11-08</td></tr>
+<tr><td>Airbus Defence and Space</td><td>Stage 2027 - Data Scientist Ia Et Fouille De Données - Information Warfare(f/h)</td><td>Paris Area</td><td>2026-11-08</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship - Cio, Data & Ai Advisory</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Galileo Global Education</td><td>Alternance – Comptable Mandant (h/f)</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Talan</td><td>Business Analyst Capital Market Front Office - H/f</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Suez Group</td><td>Electromécanicien H/F</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne De Maintenance Electrotechnique Automatisme (jour)</td><td>Marseille</td><td>2026-11-08</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Mécanicien Industriel (f/h)</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Rio Mécanicien Journée H/f</td><td>Rion Des Landes</td><td>2026-11-08</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Electromecanicien (h/f) À Charmes (88)</td><td>Charmes</td><td>2026-11-08</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Nucléaire F/h</td><td>La Hague</td><td>2026-11-08</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>External Career Site PROSOL</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Grand Frais</td><td>Vendeur h/f</td><td>Nice</td><td>2026-11-08</td></tr>
+<tr><td>Cultura / Cultura Group</td><td>Conseiller(e) De Vente F/h</td><td>Toulouse</td><td>2026-11-08</td></tr>
+<tr><td>Dim</td><td>Conseiller(e) De Vente H/f Roubaix - Cdd</td><td>Lille</td><td>2026-11-08</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente - Cdi 35h H/f/x</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Kiabi</td><td>_conseiller De Vente Evolutif (h/f/nb)</td><td>Bourgogne</td><td>2026-11-08</td></tr>
+<tr><td>santecie</td><td>Assistant(e) Administratif(ve)</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Egis in ANZ</td><td>Stage 3a - Planification Et Pilotage Des Essais - Métro Ligne 18</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Egis Group</td><td>Stage 3a - Planification Et Pilotage Des Essais - Métro Ligne 18</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Ami Paris</td><td>Stage - Assistant.e Marketing 360 H/f</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Louis Vuitton</td><td>stage – Assistant.e Chef.fe De Projet Supply Chain (f/h)</td><td>Paris</td><td>2026-11-08</td></tr>
 </table>
