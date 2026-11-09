@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-08",
- "count": 868,
+ "asOf": "2026-11-09",
+ "count": 866,
  "jobs": {
   "7dd3b83ec6ec2c7e2a85e48da5ea24b2": {
    "id": "7dd3b83ec6ec2c7e2a85e48da5ea24b2",
@@ -1634,6 +1634,12 @@
    "role": "Ingénieur Développement Logiciel – Alspa Ingenierie Controcad (h/f)",
    "location": "Paris"
   },
+  "fc78adb00dc821f17f082b508215b881": {
+   "id": "fc78adb00dc821f17f082b508215b881",
+   "company": "Mistral AI",
+   "role": "Software Engineer, Frontend",
+   "location": "Paris"
+  },
   "104e9d808a2cae7c6674f7a837dfaaf2": {
    "id": "104e9d808a2cae7c6674f7a837dfaaf2",
    "company": "Orange",
@@ -1735,6 +1741,18 @@
    "company": "Jobgether",
    "role": "Backend Engineer, Solving",
    "location": "France"
+  },
+  "8ccd73b88414e0f3fa3ac2e3e65f00b4": {
+   "id": "8ccd73b88414e0f3fa3ac2e3e65f00b4",
+   "company": "Mistral AI",
+   "role": "Software Engineer (golang), Managed K8s",
+   "location": "Paris"
+  },
+  "49d54f0c557367ce2d0af1c2df89ef50": {
+   "id": "49d54f0c557367ce2d0af1c2df89ef50",
+   "company": "Mistral AI",
+   "role": "Software Engineer (golang), Serverless Containers",
+   "location": "Paris"
   },
   "ef127df5f95806797de6cb58f13dd94a": {
    "id": "ef127df5f95806797de6cb58f13dd94a",
@@ -1982,28 +2000,16 @@
    "role": "Embedded Software Development Engineer (f/m)",
    "location": "Toulouse"
   },
-  "ccaad61e6fd1ee7ab7d10918d075885d": {
-   "id": "ccaad61e6fd1ee7ab7d10918d075885d",
-   "company": "Jobgether",
-   "role": "Software Engineer/c Developer-pgd",
-   "location": "France"
-  },
-  "ae7c5fcab85434670e2eb54d5e63050a": {
-   "id": "ae7c5fcab85434670e2eb54d5e63050a",
-   "company": "Legrand",
-   "role": "Developpeur Backend",
-   "location": "Paris"
-  },
-  "1da1d133b9bae332b2f4f429b1fcf9a1": {
-   "id": "1da1d133b9bae332b2f4f429b1fcf9a1",
-   "company": "Jobgether",
-   "role": "Backend Engineer, Mta",
-   "location": "France"
-  },
   "6ba32a343a255e29ee8cda5cbfb49029": {
    "id": "6ba32a343a255e29ee8cda5cbfb49029",
    "company": "Richemont",
    "role": "Stagiaire Hr Data Analyst",
+   "location": "Paris"
+  },
+  "e640fcdb124df7e2ab5c2140e5e235ba": {
+   "id": "e640fcdb124df7e2ab5c2140e5e235ba",
+   "company": "Mistral AI",
+   "role": "Ai Scientist Intern - (internship, Masters Or Phd)",
    "location": "Paris"
   },
   "007dc0e1ef94b2d6d19343ea56167cb2": {
@@ -2113,12 +2119,6 @@
    "company": "P&G",
    "role": "Analysis & Insights Internship (stagiaire Data Analyst)",
    "location": "Paris"
-  },
-  "2ed20ee59b8f435c72df0458d1358cc5": {
-   "id": "2ed20ee59b8f435c72df0458d1358cc5",
-   "company": "Boston Consulting Group",
-   "role": "Forward Deployed Ai Scientist, Internship, France - Bcg X",
-   "location": "France"
   },
   "fb30a177cc82c94f2837c826a4c410b9": {
    "id": "fb30a177cc82c94f2837c826a4c410b9",
@@ -2270,12 +2270,6 @@
    "role": "Alternant Analyste De Donnees Et Support Digital (h/f)",
    "location": "Paris"
   },
-  "4dfef9e6b94382065213641c5366949f": {
-   "id": "4dfef9e6b94382065213641c5366949f",
-   "company": "Goldcar Spain S.L",
-   "role": "Alternant(e) Data Analyst / Pilotage & Performance",
-   "location": "Paris"
-  },
   "a0fdec610eeadac79064e3c977955add": {
    "id": "a0fdec610eeadac79064e3c977955add",
    "company": "IBM",
@@ -2413,6 +2407,12 @@
    "company": "Sopra Steria",
    "role": "Data Analyst - Colomiers",
    "location": "Toulouse"
+  },
+  "814883264151eb86562ff8f58b8e380b": {
+   "id": "814883264151eb86562ff8f58b8e380b",
+   "company": "Mistral AI",
+   "role": "Ai Scientist, Agentic Cad (ai4engineering)",
+   "location": "Paris"
   },
   "d853f9c986ebd175eafda942e530f361": {
    "id": "d853f9c986ebd175eafda942e530f361",
@@ -2756,12 +2756,6 @@
    "role": "Stage - Performance & Analytics Management (f/m)",
    "location": "Marseille"
   },
-  "bfd5adca3bfe9f460968616484cb0626": {
-   "id": "bfd5adca3bfe9f460968616484cb0626",
-   "company": "AIRBUS DS GEO SA",
-   "role": "Stage 2027 - Data & Performance Industrielle - Outil D'aide À L'analyse Des Temps De Test De Production (h/f)",
-   "location": "Toulouse"
-  },
   "dcb705df906d98f09bb9963f575ad1a3": {
    "id": "dcb705df906d98f09bb9963f575ad1a3",
    "company": "Sia Partners",
@@ -2942,16 +2936,16 @@
    "role": "Finance Business Analyst Internship - January 2027",
    "location": "Paris"
   },
-  "bef0d39d29bc1e370c864c6423422874": {
-   "id": "bef0d39d29bc1e370c864c6423422874",
-   "company": "Pernod Ricard",
-   "role": "Business Analyst Intern - Rtd - January 2027",
-   "location": "Paris"
-  },
   "5ea485eadb7a7eb749265aae5a69b8d6": {
    "id": "5ea485eadb7a7eb749265aae5a69b8d6",
    "company": "Pernod Ricard",
    "role": "Global Innovation & Business Analyst Intern - January 2027",
+   "location": "Paris"
+  },
+  "bef0d39d29bc1e370c864c6423422874": {
+   "id": "bef0d39d29bc1e370c864c6423422874",
+   "company": "Pernod Ricard",
+   "role": "Business Analyst Intern - Rtd - January 2027",
    "location": "Paris"
   },
   "ad7808beff4ced3de4c9d95a9171e705": {
@@ -3764,10 +3758,16 @@
    "role": "Cra (paris, Lyon & Nantes)",
    "location": "Paris"
   },
-  "5ffe6699aeb505d86e6a6bb6cf796cf5": {
-   "id": "5ffe6699aeb505d86e6a6bb6cf796cf5",
-   "company": "Syneos Health",
-   "role": "Cra I In Oncology - Sponsor Dedicated - Based In Paris Area",
+  "4fd523a9c641aecd355ca75b297738b9": {
+   "id": "4fd523a9c641aecd355ca75b297738b9",
+   "company": "ArcelorMittal",
+   "role": "Technicien.ne Maintenance Exécution (jour)",
+   "location": "Marseille"
+  },
+  "f7ad6411f7a935322e1d3932494b9853": {
+   "id": "f7ad6411f7a935322e1d3932494b9853",
+   "company": "Digital Realty",
+   "role": "Implementation Services Technician",
    "location": "Paris"
   },
   "485fff5e4451f01f8bbd374e9364f11f": {
@@ -4238,17 +4238,11 @@
    "role": "Technicien De Maintenance (h/f) Bouvron (44)",
    "location": "Bouvron"
   },
-  "7e7deac3cfaf1b4452a10ca64198accb": {
-   "id": "7e7deac3cfaf1b4452a10ca64198accb",
-   "company": "lactalisexperience",
-   "role": "Technicien De Maintenance Journée (h/f) Saint Florent Le Vieil (49)",
-   "location": "Saint Florent Le Vieil"
-  },
-  "ff3cee5f9bd203de08a236332645d92e": {
-   "id": "ff3cee5f9bd203de08a236332645d92e",
-   "company": "Keolis",
-   "role": "Mécanicien Bus - Pl Expert F/h",
-   "location": "Lyon"
+  "3fb2542b630079fa3333e36434fdda94": {
+   "id": "3fb2542b630079fa3333e36434fdda94",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Temporary Sales Associate",
+   "location": "Douains"
   },
   "e143edb9375cffd62a54c096d5febac8": {
    "id": "e143edb9375cffd62a54c096d5febac8",
@@ -4397,6 +4391,12 @@
   "ceebe15860a3840b446b1464ef6b352c": {
    "id": "ceebe15860a3840b446b1464ef6b352c",
    "company": "Tumi",
+   "role": "Seller",
+   "location": "Paris"
+  },
+  "b51f44e1bebae39c4798c55fbc908981": {
+   "id": "b51f44e1bebae39c4798c55fbc908981",
+   "company": "Samsonite",
    "role": "Seller",
    "location": "Paris"
   },
@@ -4718,18 +4718,6 @@
    "role": "Vendeur h/f",
    "location": "Paris"
   },
-  "381cd231da0ff0f5d2a782b719e18e1a": {
-   "id": "381cd231da0ff0f5d2a782b719e18e1a",
-   "company": "Primark",
-   "role": "Vendeur Polyvalent - Cdi 12h",
-   "location": "Toulouse"
-  },
-  "f9fa61b642259bbebb26140d02efce02": {
-   "id": "f9fa61b642259bbebb26140d02efce02",
-   "company": "Primark",
-   "role": "Vendeur Polyvalent - Cdi 25h",
-   "location": "Toulouse"
-  },
   "6446dec3178feb2c291a5d4244440581": {
    "id": "6446dec3178feb2c291a5d4244440581",
    "company": "santecie",
@@ -4872,6 +4860,12 @@
    "id": "4f5609012aa2dc5ff04338e28afbf4a0",
    "company": "Mango",
    "role": "Responsable Adjoint/e // Cdi 35h",
+   "location": "Paris"
+  },
+  "ff3379286697a284578ef249c4207eea": {
+   "id": "ff3379286697a284578ef249c4207eea",
+   "company": "Mistral AI",
+   "role": "Executive Assistant To Vp, Cloud & Vp, Product",
    "location": "Paris"
   },
   "799aaa1697169546b619279dd7a77c7d": {
@@ -5202,12 +5196,6 @@
    "id": "81cc5d5288e689974c612978f6d6f01a",
    "company": "THALES",
    "role": "Stage - Assistant(e) De Service - F/h",
-   "location": "Paris"
-  },
-  "80cf772f5ca48570ec0d9533278a89c3": {
-   "id": "80cf772f5ca48570ec0d9533278a89c3",
-   "company": "Orange",
-   "role": "Stagiaire Chef De Projet",
    "location": "Paris"
   }
  }

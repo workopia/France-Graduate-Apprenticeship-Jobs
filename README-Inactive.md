@@ -10698,4 +10698,16 @@
 <tr><td>Egis Group</td><td>Stage 3a - Planification Et Pilotage Des Essais - Métro Ligne 18</td><td>Paris</td><td>2026-11-08</td></tr>
 <tr><td>Ami Paris</td><td>Stage - Assistant.e Marketing 360 H/f</td><td>Paris</td><td>2026-11-08</td></tr>
 <tr><td>Louis Vuitton</td><td>stage – Assistant.e Chef.fe De Projet Supply Chain (f/h)</td><td>Paris</td><td>2026-11-08</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer/c Developer-pgd</td><td>France</td><td>2026-11-09</td></tr>
+<tr><td>Legrand</td><td>Developpeur Backend</td><td>Paris</td><td>2026-11-09</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer, Mta</td><td>France</td><td>2026-11-09</td></tr>
+<tr><td>Boston Consulting Group</td><td>Forward Deployed Ai Scientist, Internship, France - Bcg X</td><td>France</td><td>2026-11-09</td></tr>
+<tr><td>Goldcar Spain S.L</td><td>Alternant(e) Data Analyst / Pilotage & Performance</td><td>Paris</td><td>2026-11-09</td></tr>
+<tr><td>AIRBUS DS GEO SA</td><td>Stage 2027 - Data & Performance Industrielle - Outil D'aide À L'analyse Des Temps De Test De Production (h/f)</td><td>Toulouse</td><td>2026-11-09</td></tr>
+<tr><td>Syneos Health</td><td>Cra I In Oncology - Sponsor Dedicated - Based In Paris Area</td><td>Paris</td><td>2026-11-09</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance Journée (h/f) Saint Florent Le Vieil (49)</td><td>Saint Florent Le Vieil</td><td>2026-11-09</td></tr>
+<tr><td>Keolis</td><td>Mécanicien Bus - Pl Expert F/h</td><td>Lyon</td><td>2026-11-09</td></tr>
+<tr><td>Primark</td><td>Vendeur Polyvalent - Cdi 12h</td><td>Toulouse</td><td>2026-11-09</td></tr>
+<tr><td>Primark</td><td>Vendeur Polyvalent - Cdi 25h</td><td>Toulouse</td><td>2026-11-09</td></tr>
+<tr><td>Orange</td><td>Stagiaire Chef De Projet</td><td>Paris</td><td>2026-11-09</td></tr>
 </table>
