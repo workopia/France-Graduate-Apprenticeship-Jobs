@@ -10710,4 +10710,39 @@
 <tr><td>Primark</td><td>Vendeur Polyvalent - Cdi 12h</td><td>Toulouse</td><td>2026-11-09</td></tr>
 <tr><td>Primark</td><td>Vendeur Polyvalent - Cdi 25h</td><td>Toulouse</td><td>2026-11-09</td></tr>
 <tr><td>Orange</td><td>Stagiaire Chef De Projet</td><td>Paris</td><td>2026-11-09</td></tr>
+<tr><td>AXA UK</td><td>Chargé De Projet Marketing Automation (f/h) - Stage</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Accor</td><td>Brand Strategy & Marketing Assistant, Novotel ENA – Internship</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Sopra Steria</td><td>Stage Démonstrateur Scada / Smart Factory - Colomiers</td><td>Toulouse</td><td>2026-11-10</td></tr>
+<tr><td>Danone</td><td>Internship - User Experience Europe - February/march - (h/f)</td><td>Paris-Saclay</td><td>2026-11-10</td></tr>
+<tr><td>Danone</td><td>Internship - D&amp;a Master Data Global Team Intern - January 2027 - (h/f)</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Danone</td><td>Internship - Anti-trust - January 2027 (m/f)</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>dacia</td><td>Cs27 - Bac+3/4 - Comptable Bac+3/4 (h/f)</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Accenture</td><td>Consultant Stagiaire It M&a (h/f)</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Forvia</td><td>Legal Intern</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Lilly</td><td>Stage - Associé(e) Marketing Consumer Et Digital – F/h</td><td>France</td><td>2026-11-10</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Apprenti(e) Rams Engineer (f/m)</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Airbus</td><td>Embedded Software Development Engineer (f/m)</td><td>Toulouse</td><td>2026-11-10</td></tr>
+<tr><td>AXA UK</td><td>Datascientist - Actuaire (f/h) - Stage</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>THALES</td><td>Stage - Intégration De L’ia Dans Les Méthodes De Travail De L’ingénierie Système - F / H</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Galileo Global Education</td><td>Data Analyst H/f</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Razer Inc.</td><td>Ai Engineer, Multimodal Systems</td><td>France</td><td>2026-11-10</td></tr>
+<tr><td>Sartorius</td><td>Stage - Performance & Analytics Management (f/m)</td><td>Marseille</td><td>2026-11-10</td></tr>
+<tr><td>why LLP</td><td>Accounting & Tax Advisor</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Assistant Cra (paris, Lyon & Nantes)</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Cra (paris, Lyon & Nantes)</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>PPD (Thermo Fisher)</td><td>Cra (paris, Lyon & Nantes)</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Électromécanicien (h/f)</td><td>Nice</td><td>2026-11-10</td></tr>
+<tr><td>Holcim</td><td>Mécanicien Maintenance Industrielle (h/f) - Bouc Bel Air</td><td>Aix En Provence</td><td>2026-11-10</td></tr>
+<tr><td>Holcim</td><td>Mécanicien Engins - Périmètre Var</td><td>Var</td><td>2026-11-10</td></tr>
+<tr><td>Holcim</td><td>Technicien De Maintenance H/f - Cdd - Var 1</td><td>Var</td><td>2026-11-10</td></tr>
+<tr><td>Emerson</td><td>Technicien Services Spécialiste Débitmètrie Ultra-son</td><td>Aix En Provence</td><td>2026-11-10</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance (h/f) Bouvron (44)</td><td>France</td><td>2026-11-10</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance Journée (h/f) Saint Florent Le Vieil (49)</td><td>Saint Florent Le Vieil</td><td>2026-11-10</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance (h/f) Bouvron (44)</td><td>Bouvron</td><td>2026-11-10</td></tr>
+<tr><td>Throwbackpacks</td><td>Conseiller.ère De Vente - Stage</td><td>Serris</td><td>2026-11-10</td></tr>
+<tr><td>Grand Frais</td><td>Vendeur h/f</td><td>Lyon</td><td>2026-11-10</td></tr>
+<tr><td>IKEA</td><td>Vendeur F/h - Cdd 4 Mois - Temps Plein</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage - Assistant(e) Press Showroom - Janvier 2027 (h/f/x)</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>THALES</td><td>Stage - Assistant(e) De Service - F/h</td><td>Paris</td><td>2026-11-10</td></tr>
 </table>
