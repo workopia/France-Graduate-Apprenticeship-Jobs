@@ -10745,4 +10745,107 @@
 <tr><td>laboulangeriedumarche.fr</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-10</td></tr>
 <tr><td>Richemont Australia Pty Ltd</td><td>Stage - Assistant(e) Press Showroom - Janvier 2027 (h/f/x)</td><td>Paris</td><td>2026-11-10</td></tr>
 <tr><td>THALES</td><td>Stage - Assistant(e) De Service - F/h</td><td>Paris</td><td>2026-11-10</td></tr>
+<tr><td>Uber</td><td>2027 Sales Intern, Paris</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Attaché De Presse Institutionnelle Internationale (h/f)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Tiffany</td><td>Internship - Europe Media Coordinator (f/m)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois Support Qualité</td><td>Montpellier</td><td>2026-11-11</td></tr>
+<tr><td>Nestle Ltd</td><td>Stagiaire (h/f)</td><td>France</td><td>2026-11-11</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage - Génération Par Ia De Composants Rf Passifs F/h</td><td>Grenoble</td><td>2026-11-11</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage - Optimisation De La Cellule Pcm En Techno 18nm Fd_soi F/h</td><td>Grenoble</td><td>2026-11-11</td></tr>
+<tr><td>Kering</td><td>Kering Clienteling & Client Engagement Intern (stage)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga - Global Retail Performance Intern - January 2027 (f/m)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Kering</td><td>Boucheron - Stage - Stagiaire Web Content & Quality Content F/h/x</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Kering</td><td>Kering Stagiaire Chargé(e) De Projets Gestion Des Process O2c Et Audits</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Stagiaire En Digital Marketing & Communication (h/f)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Accor</td><td>Stagiaire en digital Marketing & Communication (H/F)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stagiaire Joaillerie H/f</td><td>Lyon</td><td>2026-11-11</td></tr>
+<tr><td>Chanel</td><td>Stage – Assistant(e) Sûreté/sécurité Veille Internationale (h/f/x) – Mode – Janvier 2027</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Estée Lauder</td><td>Global Digital And E-commerce Assistant Intern</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Testia</td><td>Stage 2027 - Développement De Matériaux Composites (all Gender)</td><td>Nantes</td><td>2026-11-11</td></tr>
+<tr><td>FUGA</td><td>Stage – Chargé(e) De Marketing Digital, Acquisition &amp; Crm (h/f)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>David Zwirner</td><td>Museum & Institutional Partnerships Intern</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>AXA UK</td><td>Internship - Flood Nat Cat Analyst - March 2027</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>THALES</td><td>Stage - Création D’un Espace Collaboratif Sharepoint - F/h</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Mitsubishi UFJ Financial Group</td><td>6 Month Internship – Global Market, Fx Sales Desk – January 2027</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>HSBC</td><td>Stage en Vente/Sales - Clients Corporates (f/m/d)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>AXA UK</td><td>Internship - Data & Actuary Cat Nat</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Testia</td><td>Snr 2027 - Modélisation Prototypage 3 Dimensions (all Gender)</td><td>Nantes</td><td>2026-11-11</td></tr>
+<tr><td>Orange</td><td>Stage - Self-distillation On-policy Pour Des Modèles De Langage Spécialisés En Télécommunications F/h</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Ivq - Ia - Défense & Sécurité - Le Plessis Robinson</td><td>Le Plessis</td><td>2026-11-11</td></tr>
+<tr><td>Provident Label Group</td><td>Chef.fe De Projet Stratégie & Communication Corporate F/h/nb - Stage</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>TotalEnergies</td><td>Stage - Caractérisation Tribologique De Graisses Et Analyse De Surface - H/f</td><td>Solaize</td><td>2026-11-11</td></tr>
+<tr><td>Intermarche</td><td>Stage - Chargé De Communication H/f</td><td>Argentre</td><td>2026-11-11</td></tr>
+<tr><td>Novo Nordisk AS</td><td>Business Analyst Apprentice</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>HP</td><td>Apprenti-e Chef-fe De Produit - Impression H/f</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Alternance - Projeteur Débutant Etudes D'exécution Signalisation Dis Tis H/f 1</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Apprenti(e) Technicien(ne) En Recherche Et Développement H/f</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Novartis</td><td>App - Charge De Developpement Des Competences</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Danone</td><td>Aprenticeship - Hrbp - October 2026 Or January 2027 - (h/f)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Ia Générative & Systèmes Embarqués Aéronautiques - F/h</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Automatisation De Tests & Réseaux Radio - F/h</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Ia Générative & Agents Ia Pour L’ingénierie Logicielle - F/h</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Ia Générative Appliquée Aux Réseaux 4g/5g - F/h</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Embedded Software Development Engineer (f/m)</td><td>Toulouse</td><td>2026-11-11</td></tr>
+<tr><td>Thales Group</td><td>Stage - Application Des Llms À L'automatisation De Tests 4g/5g - F/h</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Valeo SA</td><td>Ai Engineer</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>OpenAI</td><td>Applied Ai Engineer, Digital Natives</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Traitement De Données Spatiales - Nappes D'hydrocarbure En Milieu Maritime – F/h</td><td>Toulouse</td><td>2026-11-11</td></tr>
+<tr><td>THALES</td><td>Stage Ingénieur - Développement D’outils Ia Générative - H/f</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>Contrôle De Gestion Industriel Et Data Analyste (h/f) - Stage</td><td>Lyon</td><td>2026-11-11</td></tr>
+<tr><td>Airbus Helicopters SAS</td><td>Stage 2027 - Analyse Des Données Business Et Politique Commerciale (h/f)</td><td>Marseille</td><td>2026-11-11</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Déploiement D’agents Ia En Environnement Contraint - F/h</td><td>Cholet 2</td><td>2026-11-11</td></tr>
+<tr><td>EssilorLuxottica</td><td>Stage - Ingénieur/data Scientist (h/f)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Talan</td><td>Business Analyst Risque De Marché - H/f</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Talan</td><td>Business Analyst Trade Finance - H/f</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Sopra Steria UK</td><td>Stage - Business Analyst - Agile - Transport - Île-de-france</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Avanade</td><td>D365 Erp F&o - Business Analyst Stream Supply Chain Management</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Comptable Général Confirmé (f/h)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Holcim</td><td>Technicien De Maintenance H/f - Cdd - Var</td><td>Var</td><td>2026-11-11</td></tr>
+<tr><td>Kone Corporation</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Lille</td><td>2026-11-11</td></tr>
+<tr><td>Sopra Steria</td><td>Junior Technicien Maintenance Aéronautique - Colomiers</td><td>Toulouse</td><td>2026-11-11</td></tr>
+<tr><td>Amazon</td><td>Technicien.ne de maintenance industrielle (H/F), RME</td><td>Illiers-Combray</td><td>2026-11-11</td></tr>
+<tr><td>Amazon</td><td>Ingénieur projet maintenance industrielle / Expert Maintenance Support et développement (H/F)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Technicien De Maintenance Ssi H/f - Secteur 60/80</td><td>Boves</td><td>2026-11-11</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Technicien De Maintenance</td><td>Boves</td><td>2026-11-11</td></tr>
+<tr><td>Howmet International</td><td>Technicien(ne) De Maintenance</td><td>Caen</td><td>2026-11-11</td></tr>
+<tr><td>Ecolab</td><td>Technicien(ne) De Maintenance Preventive Itinérant(e)</td><td>Bernin</td><td>2026-11-11</td></tr>
+<tr><td>Louis Vuitton</td><td>Technicien.ne De Maintenance F/h</td><td>Malissard</td><td>2026-11-11</td></tr>
+<tr><td>GE HealthCare UK</td><td>Cdi Technicien Repair/harvest H/f</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance Industrielle H/f</td><td>Roullet St Estephe</td><td>2026-11-11</td></tr>
+<tr><td>Henry Schein</td><td>Technicien De Maintenance Itinérant H/f</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance Référent F/h</td><td>Briec</td><td>2026-11-11</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne Instrumentiste Et Analyse Gaz (jour)</td><td>Marseille</td><td>2026-11-11</td></tr>
+<tr><td>ArcelorMittal</td><td>(cdi) Mécanicien.ne De Zone</td><td>Saint-ChéLy-D'Apcher</td><td>2026-11-11</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne Planificateur.trice De Maintenance</td><td>Marseille</td><td>2026-11-11</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne Métrologue En Mécanique</td><td>Marseille</td><td>2026-11-11</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne De Préparation Electrique - Jour</td><td>Marseille</td><td>2026-11-11</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne De Preparation Mécanique</td><td>Marseille</td><td>2026-11-11</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance H/f (journée)</td><td>Cornillé</td><td>2026-11-11</td></tr>
+<tr><td>Linamar Corp.</td><td>Maintenance Technician</td><td>Diors</td><td>2026-11-11</td></tr>
+<tr><td>Linamar Corp.</td><td>Technicien De Maintenance (h/f)</td><td>Montfaucon</td><td>2026-11-11</td></tr>
+<tr><td>Suez Group</td><td>Technicien de Maintenance (H/F)</td><td>Neuvillette</td><td>2026-11-11</td></tr>
+<tr><td>Sonova</td><td>Technicien De Réparation (f/h)</td><td>Lyon</td><td>2026-11-11</td></tr>
+<tr><td>Brinks</td><td>Technicien De Maintenance Niveau 2</td><td>Fra</td><td>2026-11-11</td></tr>
+<tr><td>Rosewood Hotels & Resorts</td><td>Technicien De Maintenance De Nuit H/f</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Throwbackpacks</td><td>Conseiller.ère De Vente - Stage</td><td>Tommy Hilfiger Paris</td><td>2026-11-11</td></tr>
+<tr><td>Maisons du Monde</td><td>Conseiller(e) De Vente</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Biofrais</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Throwbackpacks</td><td>Conseiller.ère De Vente - Calvin Klein Underwear - Cagnes-sur-mer - Cdd 35h</td><td>Nice</td><td>2026-11-11</td></tr>
+<tr><td>Skechers U.S.A.</td><td>Conseiller De Vente H/f</td><td>Lyon</td><td>2026-11-11</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Partiel H/f</td><td>Annecy</td><td>2026-11-11</td></tr>
+<tr><td>Kiabi</td><td>Cdd Conseiller De Vente (h/f/nb)</td><td>France</td><td>2026-11-11</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) 35h - Paris</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate (20hrs Cdd) / Conseiller De Vente - Nice, Fr</td><td>Nice</td><td>2026-11-11</td></tr>
+<tr><td>Boardriders Inc</td><td>Vendeur - 20h - H/f - Saint Laurent Du Var - Boardriders</td><td>Nice</td><td>2026-11-11</td></tr>
+<tr><td>Legocareersvirginia</td><td>Vendeur Caissier Polyvalent H/f - Paris La Défense - Cdd 35h</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Conforama</td><td>Vendeur Electroménager Electro-loisirs (h/f) Cdi</td><td>Bordeaux</td><td>2026-11-11</td></tr>
+<tr><td>GRAINDEMALICE</td><td>Conseiller De Vente H/f</td><td>Lyon</td><td>2026-11-11</td></tr>
+<tr><td>Estée Lauder</td><td>Cdd 21h - Conseiller.e De Vente - Frédéric Malle - Marais - H/f/x</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Galeries Lafayette</td><td>Louis Pion Conseiller De Vente - Cdd 24h Fenouillet F/h</td><td>Toulouse</td><td>2026-11-11</td></tr>
+<tr><td>Hermès</td><td>Stage - Assistant Chef De Projet Développement Produit It</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Chef De Projet Développement Produit It</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>BEAUMARLY</td><td>Chargé Rh H/f - Administration Du Personnel &amp; Paie - Stage</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Stage Sales / Event (6 Mois) / Début 2027 (jan / Mars)</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Chnetwork</td><td>Stage - Assistant Chargé De Projet Data & Amélioration Continue</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Scaleway</td><td>Production Logistics Coordinator</td><td>Paris</td><td>2026-11-11</td></tr>
 </table>
