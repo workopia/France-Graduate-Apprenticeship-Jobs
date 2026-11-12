@@ -10848,4 +10848,46 @@
 <tr><td>Sofitel Sydney Wentworth</td><td>Stage Sales / Event (6 Mois) / Début 2027 (jan / Mars)</td><td>Paris</td><td>2026-11-11</td></tr>
 <tr><td>Chnetwork</td><td>Stage - Assistant Chargé De Projet Data & Amélioration Continue</td><td>Paris</td><td>2026-11-11</td></tr>
 <tr><td>Scaleway</td><td>Production Logistics Coordinator</td><td>Paris</td><td>2026-11-11</td></tr>
+<tr><td>Orange</td><td>Stage Intégrateur Datasphere Et Initiative Ia F/h</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Orange</td><td>Digital Marketing Engagement F/h</td><td>Saint</td><td>2026-11-12</td></tr>
+<tr><td>Pfizer</td><td>Integrated Insights & Strategy (iis) France - Stage 6 Mois</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Testia</td><td>Stage 2027 - Rework Electric Centre - Déploiement D'un Groupe De Production Sur Nouveau Site (h/f)</td><td>Toulouse Area</td><td>2026-11-12</td></tr>
+<tr><td>Thenewyorktimes</td><td>News Assistant, Intern</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Hogan Lovells</td><td>Stagiaire Soar – Droit Spatial Et Droit Des Télécommunications</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>THALES</td><td>Stage Ouvrier - Annotation D'images - F/h</td><td>Mantes La Jolie</td><td>2026-11-12</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Equipier(e) Agile Dans Un Contexte Multi-applications - Energie & Télécom - Rennes</td><td>Rennes</td><td>2026-11-12</td></tr>
+<tr><td>Testia</td><td>Stagiaire Service Achat Chez Airbus Atlantic Composites Sas</td><td>Salaunes</td><td>2026-11-12</td></tr>
+<tr><td>Testia</td><td>Stage 2027 - Stagiaire En Réparation Avionique Et Data Management (f/h)</td><td>Toulouse</td><td>2026-11-12</td></tr>
+<tr><td>SCOR</td><td>Actuarial Internship – Pricing And Experience Analysis In L&h Reinsurance</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Consultant/e Sap - Bl Sap Ara - Lyon</td><td>Lyon</td><td>2026-11-12</td></tr>
+<tr><td>Avanade</td><td>Stagiaire Modern Workplace Optimisation</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Tiffany 2</td><td>Internship - Public Relations - France Netherlands Belgium Monaco (f/m)</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Danone</td><td>Internship - Global Marketing Content Developer - Paris - March 2027 - (h/f)</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Danone</td><td>Internship - Internal Auditor– March 2027 - (h/f)</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Valeo Service</td><td>Stage – Chargé(e) De Communication & Marketing (h/f) / Internship – Communication & Marketing Officer (m/f)</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac +5 - Stage - Technicien De Condition De Travail (h/f)</td><td>Mantes La Jolie</td><td>2026-11-12</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stage - 6 Mois - Ingénieur Travaux Et Opc H/f</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>AXA</td><td>Security Monitoring Analyst Apprenticeship</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Forvia</td><td>Data Engineer Governance Apprentice</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Harmattan AI</td><td>Software Engineer - Mission Execution</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Thales Group</td><td>Stage - Ingénieur Ia & Sap – H/f</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Intelligence Artificielle Pour La Capitalisation Des Données D'offres- H/f</td><td>Sophia Antipolis</td><td>2026-11-12</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Stage 2027-l’intelligence Artificielle Pour Amélioration De La Performance Opérationnelle(all Gender)</td><td>Saint Nazaire Area</td><td>2026-11-12</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Cybersécurité – Ia Générative & Soc - F/h</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>dacia</td><td>Cs27 - Bac+5 Stage Deep Reinforcement Learning Pour La Prise De Décision En Conduite Autonome (h/f)</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Pierre Fabre</td><td>Ingénieur Applications Data & Analyse Prédictives - Stage - H/f</td><td>Toulouse</td><td>2026-11-12</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Stage 2027- Analyse De Non Conformité De Design & D’architecture Grâce À L'intelligence Artificielle</td><td>Toulouse Area</td><td>2026-11-12</td></tr>
+<tr><td>Ekimetrics</td><td>Stage Ia/ml Engineer 100% R&d - Agentic Ai</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>International Flavors & Fragrances Inc. (IFF)</td><td>Data Scientist - Scent</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Thales Group</td><td>Talent Acquisition Hr Data Analyst - F/h</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Sopra Steria UK</td><td>Stage Business Analyst - Maintenance - Aéroline - Ile-de-france</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Holcim</td><td>Technicien De Maintenance H/f - Nimes St Cezaire (30) 1</td><td>Nimes St Cezaire</td><td>2026-11-12</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Partiel H/f</td><td>Annecy</td><td>2026-11-12</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente - 25h Cdi H/f/x</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Toulouse</td><td>2026-11-12</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdi 16h/8h - Villebon Sur Yvette</td><td>Paris</td><td>2026-11-12</td></tr>
+<tr><td>IKEA</td><td>Vendeur F/h - Cdd - Temps Partiel 25h</td><td>Nice</td><td>2026-11-12</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027 - Reponsable Projet Flux Logistique Et Financier (h/f)</td><td>Marseille Area</td><td>2026-11-12</td></tr>
+<tr><td>STADA</td><td>Coordinateur Supply Chain - Approvisionnement Site Exploitant Pharma (f/h)</td><td>France</td><td>2026-11-12</td></tr>
 </table>
