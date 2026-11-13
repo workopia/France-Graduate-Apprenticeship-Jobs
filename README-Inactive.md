@@ -10890,4 +10890,41 @@
 <tr><td>IKEA</td><td>Vendeur F/h - Cdd - Temps Partiel 25h</td><td>Nice</td><td>2026-11-12</td></tr>
 <tr><td>Airbus SE</td><td>Stage 2027 - Reponsable Projet Flux Logistique Et Financier (h/f)</td><td>Marseille Area</td><td>2026-11-12</td></tr>
 <tr><td>STADA</td><td>Coordinateur Supply Chain - Approvisionnement Site Exploitant Pharma (f/h)</td><td>France</td><td>2026-11-12</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Stage Kpi Performance Industrielle F/h</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>TotalEnergies</td><td>Stage - Digitalisation Finance Afrique - H/f</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>TotalEnergies</td><td>Stage - Chargé De Transformation Digitale & Projet Ia H/f</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>Alstom</td><td>Stage - 6 Mois - Documentaliste Ia - Projet Construction Métro H/f</td><td>Toulouse</td><td>2026-11-13</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus - Stage Bac+5 - Essais Et Simulation Numérique (h/f)</td><td>Versailles Satory +1</td><td>2026-11-13</td></tr>
+<tr><td>Cockerill Maintenance & Ingenierie</td><td>Arquus - Stage Bac+5 - Influence Des Géométries Perforées Sur La Tenue Balistique (h/f)</td><td>Versailles Satory</td><td>2026-11-13</td></tr>
+<tr><td>DuPont Sustainable Solutions</td><td>Alternance / Stage - Chargé(e) De Marketing B2b (h/f)</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>Orange</td><td>Stagiaire Chargé D'ia Générative En Formation F/h</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>Exotrail</td><td>Embedded Software Engineer (f/h)</td><td>Toulouse</td><td>2026-11-13</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Ia Générative Appliquée À L’ivvq - F/h</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>AXA UK</td><td>Data Scientist / Ml Engineer (f/h) Stage</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>Heineken International BV</td><td>Stage - Project Analyst - Data &amp; Ai H/f - Rueil-malmaison (92)</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>Heineken International BV</td><td>Stage - Data Analyst H/f - Rueil Malmaison (92)</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>Sia Partners</td><td>Applied Ai Engineer</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>THALES</td><td>Stage – Cellule Data, Kpis & Reporting – H/f</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stage - 6 Mois - Icc Ai And Machine Learning Engineer H/f</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>G&F Châtelain</td><td>Stage - Analyste Private Equity - Chanel</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Électromécanicien (h/f)</td><td>Strasbourg +1</td><td>2026-11-13</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance Cvc F/h</td><td>Lyon</td><td>2026-11-13</td></tr>
+<tr><td>Siemens AG</td><td>Technicien De Maintenance Ssi Nucléaire – Cnpe Flamanville H/f</td><td>Cherbourg-Octeville</td><td>2026-11-13</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Snr 2027 - Maintenance Industrielle (all Gender)</td><td>Nantes</td><td>2026-11-13</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Technicien De Maintenance (f/h/x)</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>Sectoralarmfrance</td><td>Technicien De Maintenance À Distance H/f</td><td>Rennes</td><td>2026-11-13</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Technicien(ne) De Maintenance Preventive Itinérant(e)</td><td>Rhone</td><td>2026-11-13</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Agent De Maintenance H/f/x</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance - Escaliers Mécaniques (h/f)</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>Petit Forestier</td><td>Electrotechnicien H/f</td><td>Bordeaux</td><td>2026-11-13</td></tr>
+<tr><td>Suez Group</td><td>Technicien de Maintenance Instrumentiste (H/F)</td><td>Neuvillette</td><td>2026-11-13</td></tr>
+<tr><td>Linamar Corp.</td><td>Technicien De Maintenance (f/h)</td><td>Laigneville</td><td>2026-11-13</td></tr>
+<tr><td>Eiffageconstruction</td><td>Technicien De Maintenance Electricité H/f</td><td>Grenoble</td><td>2026-11-13</td></tr>
+<tr><td>Eiffagemetal</td><td>Technicien De Maintenance Multi Technique F/h</td><td>Orleans</td><td>2026-11-13</td></tr>
+<tr><td>Throwbackpacks</td><td>Conseiller.ère De Vente - Calvin Klein Underwear - Cagnes-sur-mer - Cdd 21h</td><td>Nice</td><td>2026-11-13</td></tr>
+<tr><td>VFC Corporation</td><td>Demonstrateur (h/f) - Vans - Cdi 28h - Paris Citadium Caumartin</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>Amex GBT (Travel HR Portal)</td><td>Meeting Planner</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Juriste Droit Des Affaires (h/f)</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Stage - Coordinateur De Projets - Medtech F/h</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>unilever.fr</td><td>Assistant(e) Chef(fe) De Produit/trade Marketing</td><td>Paris</td><td>2026-11-13</td></tr>
 </table>
