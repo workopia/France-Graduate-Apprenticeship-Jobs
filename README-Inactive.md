@@ -10927,4 +10927,60 @@
 <tr><td>Hermès International</td><td>Stage - Assistant Juriste Droit Des Affaires (h/f)</td><td>Paris</td><td>2026-11-13</td></tr>
 <tr><td>EssilorLuxottica SA</td><td>Stage - Coordinateur De Projets - Medtech F/h</td><td>Paris</td><td>2026-11-13</td></tr>
 <tr><td>unilever.fr</td><td>Assistant(e) Chef(fe) De Produit/trade Marketing</td><td>Paris</td><td>2026-11-13</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+4/5 - Stage - Data / Optimisation De La Cartographie Des Flux (h/f)</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage - Rh Mobilité Internantionale F/h</td><td>Rousset +1</td><td>2026-11-14</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage - Conception D'ip Numériques / Soc - F/h</td><td>Grenoble</td><td>2026-11-14</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage – Traitement D’images Meb Pour La Caractérisation De Filtres Colorés (pixels) – H/f</td><td>Grenoble</td><td>2026-11-14</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage - Outils De Couverture De Code F/h</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage - Développement Logiciel Uwb Mac - F/h</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Chanel (Australia) Pty Ltd</td><td>Internship – Learning & Development – Chanel Europe – January 2027 – M/f/d</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>CFM</td><td>Internship - Time Series Foundation Models For Forecasting</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Pysae</td><td>Internal Communication Intern (h/f)</td><td>Rennes</td><td>2026-11-14</td></tr>
+<tr><td>SKF Group</td><td>Stage Méthodes Et Performance Industrielle (f/h)</td><td>Marseille</td><td>2026-11-14</td></tr>
+<tr><td>Sanofi UK</td><td>Stage 6 Mois Mathématiques Appliquées Et Modélisation</td><td>Marcy L’Etoile</td><td>2026-11-14</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Stage - Amélioration Continue Gmao</td><td>Grenoble</td><td>2026-11-14</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Fpga & Traitement Du Signal Satcom Dvb-s2x - F/h</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Ivvq Assistant - H/f</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Sopra Steria UK</td><td>Stage Ingénieur(e) R&d - Développement D'un Moteur D'exécution Distribué En Python Et Rust - Spatial - Toulouse</td><td>Toulouse</td><td>2026-11-14</td></tr>
+<tr><td>Atos</td><td>Ingénieur Validation Software R&d Hpc (f/h)</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Jobgether</td><td>Biology Specialist - Freelance Ai Trainer Project</td><td>France</td><td>2026-11-14</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027 - Stage En Analyse De Données Et Digitalisation (h/f)</td><td>Toulouse</td><td>2026-11-14</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Ia / Llm – Innovation Identité & Sécurité Numérique - F/h</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>AXA UK</td><td>Chargé D'études Actuarielles/data Analyst (f/h) - Stage</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>THALES</td><td>Stage – Analyste De Données – H/f</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>dacia</td><td>Cs27 - Bac+5 - Data Scientist - Évaluation Et Déploiement De Modèles Multimodaux Pour Des Cas D’usage Industriels</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Naturactive</td><td>Bio-informaticien(ne) / Data Scientist - Stage - H/f</td><td>Toulouse</td><td>2026-11-14</td></tr>
+<tr><td>NXP</td><td>Computer Vision & Robotics Ai Software Engineer</td><td>Sophia</td><td>2026-11-14</td></tr>
+<tr><td>Orange</td><td>Stage Data Analyste F/h</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>THALES</td><td>Stage - Analyste Data It & Asset Management - F/h</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Orange</td><td>Data Scientist – Prédiction Et Explicabilité Du Churn F/h</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Analyste Financier Commercial Fbl</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>SNOP</td><td>Comptable Fournisseurs (h-f)</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Nestle SA</td><td>Stage Business Analyste Web F/h</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Airbus Operations SAS</td><td>Business Analyst For Sap Logistics (d/f/m)</td><td>Toulouse</td><td>2026-11-14</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Banking, Corporate Banking - Financial Institutions Group, Full Time Analyst, Paris - France, 2027</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Stage - Business Analyst F/h</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Forvis Mazars UK</td><td>Stage De Fin D’études (6 Mois) – Analyste Corporate Finance M&a - Début 2027 - H/f</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>ICON Clinical Research, LP</td><td>Ihcra</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance Industrielle H/f</td><td>Heudebouville</td><td>2026-11-14</td></tr>
+<tr><td>Soitec</td><td>Technicien.ne Maintenance</td><td>Le Bourget-Du-Lac</td><td>2026-11-14</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Ht F/h</td><td>Grenoble</td><td>2026-11-14</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Cvc F/h</td><td>Lyon</td><td>2026-11-14</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Grand Frais</td><td>Vendeur h/f</td><td>Annecy</td><td>2026-11-14</td></tr>
+<tr><td>External Career Site PROSOL</td><td>Vendeur h/f</td><td>Toulouse</td><td>2026-11-14</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent/e // Cdi 35h</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Cultura / Cultura Group</td><td>Conseiller De Vente Musique Video Gaming (f/h)</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Capri</td><td>Seasonal Sales Associate 30h Novembre/janv</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Kiabi</td><td>Cdd Conseiller De Vente - Kiabi Villebon (h/f/nb) - 35h</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Mango</td><td>Vendeur/euse Polyvalent Cdd 35h</td><td>Nice</td><td>2026-11-14</td></tr>
+<tr><td>IKEA UK</td><td>Vendeur F/h - Cdd 3 Mois - Temps Plein</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>BOARDRIDERS</td><td>Vendeur - 20h - H/f - Saint Laurent Du Var - Boardriders</td><td>Nice</td><td>2026-11-14</td></tr>
+<tr><td>Cultura / Cultura Group</td><td>Conseiller De Vente Livres (f/h)</td><td>Lyon</td><td>2026-11-14</td></tr>
+<tr><td>Orange</td><td>Conseillère Vendeuse / Conseiller Vendeur</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Kenvue (Rogaine brand)</td><td>Assistant(e) Chef De Produit Marketing Le Petit Marseillais (h/f)</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Suez Group</td><td>Assistant(e) Administrative (F/H)</td><td>Marseille</td><td>2026-11-14</td></tr>
+<tr><td>Mars Inc</td><td>Assistant(e) De Direction F/h/x</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Hermès</td><td>Stage - Assistant Juriste Droit Des Affaires (h/f)</td><td>Paris</td><td>2026-11-14</td></tr>
 </table>
