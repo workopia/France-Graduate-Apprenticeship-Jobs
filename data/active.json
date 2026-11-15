@@ -1,11 +1,47 @@
 {
- "asOf": "2026-11-14",
- "count": 874,
+ "asOf": "2026-11-15",
+ "count": 875,
  "jobs": {
+  "488dd8b1c0578d3688ec234204a636cf": {
+   "id": "488dd8b1c0578d3688ec234204a636cf",
+   "company": "SCOR",
+   "role": "Salesforce Proxy Product Owner Intern",
+   "location": "Paris"
+  },
+  "fb1467ce236823781eff1f068fc357f8": {
+   "id": "fb1467ce236823781eff1f068fc357f8",
+   "company": "Hermès International",
+   "role": "Stage - Assistant Projets Vitrines Et Animations H/f",
+   "location": "Paris"
+  },
   "d79f2414fa211322f5640781f4dcc41e": {
    "id": "d79f2414fa211322f5640781f4dcc41e",
-   "company": "Tiffany",
+   "company": "Tiffany 2",
    "role": "Internship - Media Coordinator Fnbm (f/m)",
+   "location": "Paris"
+  },
+  "2fd349e685e904a24bc4cf16bfabd7a6": {
+   "id": "2fd349e685e904a24bc4cf16bfabd7a6",
+   "company": "Tencent",
+   "role": "Legal Intern, Cloud 107868",
+   "location": "Paris"
+  },
+  "48ed953186710849088e22f9e5c2cb5e": {
+   "id": "48ed953186710849088e22f9e5c2cb5e",
+   "company": "Veesion",
+   "role": "Sales Development Representative Fr / Es / It F/m / Internship",
+   "location": "Paris"
+  },
+  "8c8bfb8e90c1c82083ea3da972f3ef8a": {
+   "id": "8c8bfb8e90c1c82083ea3da972f3ef8a",
+   "company": "Sia Partners",
+   "role": "Final Year Internship Consultant - Transport, Manufacturing & Retail",
+   "location": "Paris"
+  },
+  "da634c9b9906d53ee5f0a3daabb06ca2": {
+   "id": "da634c9b9906d53ee5f0a3daabb06ca2",
+   "company": "Sia Partners",
+   "role": "Final Year Internship Consultant - Energy, Transport & Manufacturing",
    "location": "Paris"
   },
   "8bc3e14ae4d9b0f78ac6bcbc750dfd6c": {
@@ -25,6 +61,12 @@
    "company": "CFM",
    "role": "Memory-augmented Llms For Financial Text - Internship",
    "location": "Paris"
+  },
+  "bcaf7a209e81816297ba33fba9b9bd8b": {
+   "id": "bcaf7a209e81816297ba33fba9b9bd8b",
+   "company": "Danone",
+   "role": "Internship – Compliance Data Analyst - March 2027 (m/f)",
+   "location": "Paris +1"
   },
   "d550c972512cbec10abc80ff1ccf609b": {
    "id": "d550c972512cbec10abc80ff1ccf609b",
@@ -85,6 +127,12 @@
    "company": "Sopra Steria",
    "role": "Stage - Développement D’agents Ia Pour La Vérification Et Validation De Logiciels Critiques - Industrie - Toulouse",
    "location": "Toulouse"
+  },
+  "6abcbf8c0cadaf8f4cc5f581846bb506": {
+   "id": "6abcbf8c0cadaf8f4cc5f581846bb506",
+   "company": "Amazon",
+   "role": "Operations Intern - Région Centre - Start Date 2027",
+   "location": "Orleans"
   },
   "4717f7d96e2b847abecf2e2e43e1189c": {
    "id": "4717f7d96e2b847abecf2e2e43e1189c",
@@ -434,52 +482,16 @@
    "role": "Internship : Flight Test Anomaly Report (raev) Management Process",
    "location": "Toulouse +1"
   },
-  "135966fbd505bd40a456564fe0869fab": {
-   "id": "135966fbd505bd40a456564fe0869fab",
-   "company": "Sopra Steria",
-   "role": "Stage Consultant(e) Fonctionnel(le) - Aéronautique - Bordeaux",
-   "location": "Bordeaux"
-  },
-  "6d38b42471d0622c8830c5e19d33c1d5": {
-   "id": "6d38b42471d0622c8830c5e19d33c1d5",
-   "company": "Ardian",
-   "role": "Fund Finance Private Credit Stage - Janvier 2027 I Paris (m/f)",
+  "e79bf7f11b5fd7c356798144d1b3ef54": {
+   "id": "e79bf7f11b5fd7c356798144d1b3ef54",
+   "company": "Veesion",
+   "role": "Sales Development Representative Fr / Es / It F/m / Apprenticeship",
    "location": "Paris"
   },
-  "bc15d81645b473084a254bc37f1f42d5": {
-   "id": "bc15d81645b473084a254bc37f1f42d5",
-   "company": "Bosch Rexroth",
-   "role": "Stagiaire Développeur Full Stack F/h",
-   "location": "Lyon"
-  },
-  "3a73f047953d29812851ed9491fa47df": {
-   "id": "3a73f047953d29812851ed9491fa47df",
-   "company": "Kpler",
-   "role": "Product Analyst Intern – Price & Transaction",
-   "location": "Paris"
-  },
-  "2070ca050d56317e0e7fe76e571659f4": {
-   "id": "2070ca050d56317e0e7fe76e571659f4",
-   "company": "Artefact",
-   "role": "Intern - E-retail Consultant - Paris",
-   "location": "Paris"
-  },
-  "aee0c8f06e6b84494a2e13547d1f2b7a": {
-   "id": "aee0c8f06e6b84494a2e13547d1f2b7a",
-   "company": "Procter & Gamble (P&G)",
-   "role": "Strategic Finance Internship",
-   "location": "Paris"
-  },
-  "22e8014d6176a469e548239b73e49cc5": {
-   "id": "22e8014d6176a469e548239b73e49cc5",
-   "company": "Electra",
-   "role": "Supply Chain &amp; Logistics Intern",
-   "location": "Paris"
-  },
-  "7dd3b83ec6ec2c7e2a85e48da5ea24b2": {
-   "id": "7dd3b83ec6ec2c7e2a85e48da5ea24b2",
-   "company": "Edgewell Personal Care France",
-   "role": "Stage De Category Manager Enseignes & Trade Marketing Wilkinson H/f",
+  "95a5ba53a897aadea162e5abe89af4f3": {
+   "id": "95a5ba53a897aadea162e5abe89af4f3",
+   "company": "Malt",
+   "role": "Apprentice - Indirect Procurement (january 2027)",
    "location": "Paris"
   },
   "889c780142b71b99b978292e3ebdc299": {
@@ -948,18 +960,6 @@
    "id": "09ef2f7e5b7c87b0b1a684695246360b",
    "company": "Atos",
    "role": "Apprenti(e) Ingenieur Communication Prs International",
-   "location": "Paris"
-  },
-  "dfefb9e1a74e7ad5c9eca10375f1f512": {
-   "id": "dfefb9e1a74e7ad5c9eca10375f1f512",
-   "company": "Avantor",
-   "role": "Apprentice",
-   "location": "Paris"
-  },
-  "0a4cf8cb7ced1280ea09762927dfb03e": {
-   "id": "0a4cf8cb7ced1280ea09762927dfb03e",
-   "company": "Infobip",
-   "role": "Marketing Apprentice",
    "location": "Paris"
   },
   "3615d29b5b49a49f4991e4e575ae43cf": {
@@ -2312,6 +2312,18 @@
    "role": "Stage - Ingénieur(e) Techniques Avancées En Deep Learning / Ia En Imagerie 3d",
    "location": "Paris"
   },
+  "2e88b5cbd26bb3ab866bdfcb33fa34a8": {
+   "id": "2e88b5cbd26bb3ab866bdfcb33fa34a8",
+   "company": "Sia Partners",
+   "role": "Applied Ai Engineer",
+   "location": "Paris"
+  },
+  "4ab7b33e35d03fe68ea2cc567ea22341": {
+   "id": "4ab7b33e35d03fe68ea2cc567ea22341",
+   "company": "Schneider Electric",
+   "role": "Stage Bac+5 – Ingénieur Ia / Data – Développement D’un Assistant Ia Pour Le Chiffrage De Projets Industriels",
+   "location": "Paris"
+  },
   "2fcd54e8837176786f11511c271734bb": {
    "id": "2fcd54e8837176786f11511c271734bb",
    "company": "Orange",
@@ -2768,18 +2780,6 @@
    "role": "Stage - Ingénieur Ia / Machine Learning - F/h",
    "location": "Paris"
   },
-  "ac85884bd12692992f20feabbbff24ae": {
-   "id": "ac85884bd12692992f20feabbbff24ae",
-   "company": "Orange",
-   "role": "Stage Data Analyst – Estimation Et Prédiction De La Qualité D'expérience Client F/h",
-   "location": "Paris"
-  },
-  "859722aa5400e564023963ab0c923c7b": {
-   "id": "859722aa5400e564023963ab0c923c7b",
-   "company": "Orange",
-   "role": "Stage - Evaluation Ia Responsable Et Observabilité Des Agents Ia F/h",
-   "location": "Paris"
-  },
   "432a66ed3636c32b3c0b3a154429953e": {
    "id": "432a66ed3636c32b3c0b3a154429953e",
    "company": "Veolia Environnement SA",
@@ -3210,6 +3210,12 @@
    "id": "7b273d5563f8e272d3298e2d435c5fdf",
    "company": "IBM",
    "role": "Apprenti(e) Consultant - Transformation des Systèmes d'Information - Finance - Supply Chain - IBM France - H/F",
+   "location": "Paris"
+  },
+  "ceb4dca20765d8450a41db005a8b380b": {
+   "id": "ceb4dca20765d8450a41db005a8b380b",
+   "company": "Allianz SE",
+   "role": "Business Analyst (h/f) Stage",
    "location": "Paris"
   },
   "ae9e9a7420e8797851a2d18297d4a6ba": {
@@ -3686,15 +3692,15 @@
    "role": "Business Analyst Stream Finance - D365 Erp",
    "location": "Paris"
   },
-  "06fd0b602672bc8e68bbe80462c60f39": {
-   "id": "06fd0b602672bc8e68bbe80462c60f39",
-   "company": "Shiseido",
-   "role": "Stage - Business Analyst - Janvier 2027",
-   "location": "Paris"
-  },
   "f382d86f50e627fd46a6786945462210": {
    "id": "f382d86f50e627fd46a6786945462210",
    "company": "PPD (Thermo Fisher)",
+   "role": "Clinical Research Associate Intern",
+   "location": "Paris"
+  },
+  "b8697c0b960a15df1b44e49193b7c04f": {
+   "id": "b8697c0b960a15df1b44e49193b7c04f",
+   "company": "Thermo Fisher Scientific",
    "role": "Clinical Research Associate Intern",
    "location": "Paris"
   },
@@ -3806,11 +3812,23 @@
    "role": "Registered Nurse - Rn",
    "location": "Aurora On France"
   },
+  "9a1a25354148cfbea89b2631cbe6b935": {
+   "id": "9a1a25354148cfbea89b2631cbe6b935",
+   "company": "Orange",
+   "role": "Ingénieur De Production Et Maintenance Téléport F/h",
+   "location": "Seine"
+  },
   "fc11b409f4c3ae300609ab6bb8416440": {
    "id": "fc11b409f4c3ae300609ab6bb8416440",
    "company": "Eiffage Énergie Systèmes",
    "role": "Electromécanicien F/h",
    "location": "Bordeaux"
+  },
+  "32e05e5ffb33a96c1ca2d7eebe5b3445": {
+   "id": "32e05e5ffb33a96c1ca2d7eebe5b3445",
+   "company": "Intermarche",
+   "role": "Technicien De Maintenance H/f",
+   "location": "Vert"
   },
   "0cd5e91c2be2cd468029653710e93d88": {
    "id": "0cd5e91c2be2cd468029653710e93d88",
@@ -3823,6 +3841,12 @@
    "company": "Pierre Fabre Laboratories",
    "role": "Technicien De Maintenance Industrie Pharmaceutique - Technicien Production- Cdi - H/f",
    "location": "Loiret +1"
+  },
+  "e500020fc215e9f328697e3ce4f3b68a": {
+   "id": "e500020fc215e9f328697e3ce4f3b68a",
+   "company": "Suez Group",
+   "role": "Electromécanicien H/F",
+   "location": "Saint Leonard"
   },
   "8b78cc33a413132e26c526b876a9c1b3": {
    "id": "8b78cc33a413132e26c526b876a9c1b3",
@@ -3877,12 +3901,6 @@
    "company": "Veolia Environnement SA",
    "role": "Électromécanicien",
    "location": "Annet"
-  },
-  "30a48ceb3e95e0da8d6f9c5bd202effc": {
-   "id": "30a48ceb3e95e0da8d6f9c5bd202effc",
-   "company": "Intermarche",
-   "role": "Technicien De Maintenance H/f",
-   "location": "ÉToile"
   },
   "7fb722c875e8dbc6aed90b7295e9ed3c": {
    "id": "7fb722c875e8dbc6aed90b7295e9ed3c",
@@ -4202,12 +4220,6 @@
    "role": "Technicien Maintenance Systèmes De Sécurité Incendie- Dép 15 Et 63 F/h",
    "location": "Aurillac +2"
   },
-  "cd968886743fb5dc3fd9213c36f24063": {
-   "id": "cd968886743fb5dc3fd9213c36f24063",
-   "company": "Suez Group",
-   "role": "Electromécanicien H/F",
-   "location": "VERSON"
-  },
   "9256a0102be2bad7f849f9113f88238a": {
    "id": "9256a0102be2bad7f849f9113f88238a",
    "company": "Eiffage Énergie Systèmes",
@@ -4280,11 +4292,35 @@
    "role": "Technicien.ne Atelier",
    "location": "Toulouse"
   },
-  "7e661a0d98c4cf8e8d17439356216142": {
-   "id": "7e661a0d98c4cf8e8d17439356216142",
-   "company": "Charles River Laboratories Inc",
-   "role": "Technicien De Maintenance - F/h - Cdi",
-   "location": "ChâTillon-Sur-Chalaronne"
+  "a9ef1991c5288cd7c963bbb31669c4fc": {
+   "id": "a9ef1991c5288cd7c963bbb31669c4fc",
+   "company": "Swarovski Australia",
+   "role": "Cdi - Conseiller De Vente (h/f/x) - 35h - Printemps Nation",
+   "location": "Paris"
+  },
+  "3ea8660ae26103bcb81a33fd78200786": {
+   "id": "3ea8660ae26103bcb81a33fd78200786",
+   "company": "Mango",
+   "role": "Multifunctional Sales Associate",
+   "location": "Lyon"
+  },
+  "ab9f129ad448a16c4b002d575101b661": {
+   "id": "ab9f129ad448a16c4b002d575101b661",
+   "company": "Boulanger",
+   "role": "Vendeur Conseil - Cdd Temps Plein H/f",
+   "location": "Paris"
+  },
+  "c6f9ad53ac8710c8e01cc28beee53fdb": {
+   "id": "c6f9ad53ac8710c8e01cc28beee53fdb",
+   "company": "Boulanger",
+   "role": "Vendeur Conseil - Cdd 35h H/f",
+   "location": "Lyon"
+  },
+  "a2eacbf565007e5efef27d673f7f568e": {
+   "id": "a2eacbf565007e5efef27d673f7f568e",
+   "company": "fresh.",
+   "role": "Vendeur h/f",
+   "location": "Toulouse"
   },
   "63c8e4fb897c682d6091cd501471f0b9": {
    "id": "63c8e4fb897c682d6091cd501471f0b9",
@@ -4298,6 +4334,18 @@
    "role": "Vendeur Polyvalent Adidas (h/f/d) - Cdi 28 Hrs - Flagship Des Champs-elysées",
    "location": "Paris"
   },
+  "2657b241333ff342c78db1453a0a9e39": {
+   "id": "2657b241333ff342c78db1453a0a9e39",
+   "company": "Boulanger",
+   "role": "Vendeur Conseil - Cdi H/f",
+   "location": "Lyon"
+  },
+  "5eb2f9238f4796ada8c056e81bf5fd04": {
+   "id": "5eb2f9238f4796ada8c056e81bf5fd04",
+   "company": "Safran",
+   "role": "Stage - Sales Associate (h/f)",
+   "location": "Paris"
+  },
   "a4e01361e0321c47a777d533177f7861": {
    "id": "a4e01361e0321c47a777d533177f7861",
    "company": "Kiabi",
@@ -4309,12 +4357,6 @@
    "company": "Capri",
    "role": "Printemps Velizy 2 Sales Associate Accessories",
    "location": "Versailles +1"
-  },
-  "173c9c8b83c0743bc95a9be7febea855": {
-   "id": "173c9c8b83c0743bc95a9be7febea855",
-   "company": "Mango",
-   "role": "Multifunctional Sales Associate",
-   "location": "Bordeaux"
   },
   "94eb7f4fd46c976c1a7ef76f697cd891": {
    "id": "94eb7f4fd46c976c1a7ef76f697cd891",
@@ -4471,12 +4513,6 @@
    "company": "H&M",
    "role": "Conseiller(ère) De Vente - 8h Cdi H/f/x",
    "location": "Bordeaux"
-  },
-  "e083edf34f6930b1cd4b19c307a85fd5": {
-   "id": "e083edf34f6930b1cd4b19c307a85fd5",
-   "company": "Boulanger",
-   "role": "Vendeur Conseil - Cdi H/f",
-   "location": "Paris"
   },
   "fad532be4181d338b80100c07d4d566b": {
    "id": "fad532be4181d338b80100c07d4d566b",
@@ -4736,46 +4772,34 @@
    "role": "Sales Associate - Vendeur (h/f) - Cdd 30h - The North Face - Villefontaine (38)",
    "location": "Lyon"
   },
-  "6a95a00927e80f5dca0f1b0faefe6287": {
-   "id": "6a95a00927e80f5dca0f1b0faefe6287",
-   "company": "The North Face",
-   "role": "Sales Associate - Vendeur (h/f) Cdd 35h- The North Face - Villefontaine",
-   "location": "Lyon"
+  "5522e2d6eae5261ee0843ebceb557553": {
+   "id": "5522e2d6eae5261ee0843ebceb557553",
+   "company": "Elivie",
+   "role": "Assistant(e) Administratif(ve)",
+   "location": "Strasbourg"
   },
-  "3e5b14ab5816408a4c5db738abff3640": {
-   "id": "3e5b14ab5816408a4c5db738abff3640",
-   "company": "H&M",
-   "role": "Conseiller(ère) De Vente - 35h Cdi H/f/x",
+  "e183ff0714e577f65937a66158168f43": {
+   "id": "e183ff0714e577f65937a66158168f43",
+   "company": "Thales Group",
+   "role": "Pmo",
    "location": "Paris"
   },
-  "5fc3e216e769adfabdd3c6f8dd177d28": {
-   "id": "5fc3e216e769adfabdd3c6f8dd177d28",
-   "company": "Kiabi",
-   "role": "Conseiller(e) De Mode Kiabi Annemasse Cdi",
-   "location": "Annecy"
+  "91f953047d21b462176bfab777348dcc": {
+   "id": "91f953047d21b462176bfab777348dcc",
+   "company": "Hermès International",
+   "role": "Stage – Assistant Chef De Projet Marketing Opérationnel Et Communication – Puiforcat (h/f)",
+   "location": "Paris"
   },
-  "a7a9fcb60527b2b62767a2b423854b8f": {
-   "id": "a7a9fcb60527b2b62767a2b423854b8f",
-   "company": "GRAINDEMALICE",
-   "role": "Conseiller De Vente Boutique Nomade H/f",
-   "location": "Lille"
-  },
-  "ec6a8043979dbd96004cb4750c0ba40a": {
-   "id": "ec6a8043979dbd96004cb4750c0ba40a",
-   "company": "Soeur",
-   "role": "Cdd - Vendeur.euse 35h - Paris (la Vallée Village)",
+  "da538a8624ea270bf80bfa04281f05d6": {
+   "id": "da538a8624ea270bf80bfa04281f05d6",
+   "company": "Dentsu",
+   "role": "Stage – Assistant Chef De Projet Rh & Relations Ecoles H/f (6 Mois)",
    "location": "Paris"
   },
   "748834d87ec59d914789cbaaa60b4697": {
    "id": "748834d87ec59d914789cbaaa60b4697",
    "company": "VitalAire Canada Inc",
    "role": "Seppic - Stage - Assistant Juridique - Droit Des Contrats H/f",
-   "location": "Paris"
-  },
-  "8dc71231a50cf44477e635135049b70f": {
-   "id": "8dc71231a50cf44477e635135049b70f",
-   "company": "Thales Group",
-   "role": "Pmo",
    "location": "Paris"
   },
   "9ab4ca95288186cd223af61e37377915": {
@@ -5227,24 +5251,6 @@
    "company": "Ami Paris",
    "role": "Stage - Assistant.e Media, Digital & Marketing H/f",
    "location": "Paris"
-  },
-  "7fd67f130076ad9da9c783a271f6df09": {
-   "id": "7fd67f130076ad9da9c783a271f6df09",
-   "company": "THALES",
-   "role": "Stage - Assistant Chef De Projets - Systèmes De Communications Militaires - F/h",
-   "location": "Paris"
-  },
-  "13514bbe58e7bd70e6a80bae73dc97a8": {
-   "id": "13514bbe58e7bd70e6a80bae73dc97a8",
-   "company": "Melia",
-   "role": "Stagiaire Assistant(e) Marketing & Communication H/f - Operation Center France",
-   "location": "Paris"
-  },
-  "59b395bb3f47bbf2883021d34da8090f": {
-   "id": "59b395bb3f47bbf2883021d34da8090f",
-   "company": "GEA",
-   "role": "Assistante De Direction",
-   "location": "Chateau"
   }
  }
 }

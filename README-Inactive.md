@@ -10983,4 +10983,31 @@
 <tr><td>Suez Group</td><td>Assistant(e) Administrative (F/H)</td><td>Marseille</td><td>2026-11-14</td></tr>
 <tr><td>Mars Inc</td><td>Assistant(e) De Direction F/h/x</td><td>Paris</td><td>2026-11-14</td></tr>
 <tr><td>Hermès</td><td>Stage - Assistant Juriste Droit Des Affaires (h/f)</td><td>Paris</td><td>2026-11-14</td></tr>
+<tr><td>Sopra Steria</td><td>Stage Consultant(e) Fonctionnel(le) - Aéronautique - Bordeaux</td><td>Bordeaux</td><td>2026-11-15</td></tr>
+<tr><td>Ardian</td><td>Fund Finance Private Credit Stage - Janvier 2027 I Paris (m/f)</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Bosch Rexroth</td><td>Stagiaire Développeur Full Stack F/h</td><td>Lyon</td><td>2026-11-15</td></tr>
+<tr><td>Kpler</td><td>Product Analyst Intern – Price & Transaction</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Artefact</td><td>Intern - E-retail Consultant - Paris</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Procter & Gamble (P&G)</td><td>Strategic Finance Internship</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Electra</td><td>Supply Chain &amp; Logistics Intern</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Edgewell Personal Care France</td><td>Stage De Category Manager Enseignes & Trade Marketing Wilkinson H/f</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Avantor</td><td>Apprentice</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Infobip</td><td>Marketing Apprentice</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Orange</td><td>Stage Data Analyst – Estimation Et Prédiction De La Qualité D'expérience Client F/h</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Orange</td><td>Stage - Evaluation Ia Responsable Et Observabilité Des Agents Ia F/h</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Shiseido</td><td>Stage - Business Analyst - Janvier 2027</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance H/f</td><td>ÉToile</td><td>2026-11-15</td></tr>
+<tr><td>Suez Group</td><td>Electromécanicien H/F</td><td>VERSON</td><td>2026-11-15</td></tr>
+<tr><td>Charles River Laboratories Inc</td><td>Technicien De Maintenance - F/h - Cdi</td><td>ChâTillon-Sur-Chalaronne</td><td>2026-11-15</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Bordeaux</td><td>2026-11-15</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdi H/f</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>The North Face</td><td>Sales Associate - Vendeur (h/f) Cdd 35h- The North Face - Villefontaine</td><td>Lyon</td><td>2026-11-15</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente - 35h Cdi H/f/x</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Kiabi</td><td>Conseiller(e) De Mode Kiabi Annemasse Cdi</td><td>Annecy</td><td>2026-11-15</td></tr>
+<tr><td>GRAINDEMALICE</td><td>Conseiller De Vente Boutique Nomade H/f</td><td>Lille</td><td>2026-11-15</td></tr>
+<tr><td>Soeur</td><td>Cdd - Vendeur.euse 35h - Paris (la Vallée Village)</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Thales Group</td><td>Pmo</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>THALES</td><td>Stage - Assistant Chef De Projets - Systèmes De Communications Militaires - F/h</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>Melia</td><td>Stagiaire Assistant(e) Marketing & Communication H/f - Operation Center France</td><td>Paris</td><td>2026-11-15</td></tr>
+<tr><td>GEA</td><td>Assistante De Direction</td><td>Chateau</td><td>2026-11-15</td></tr>
 </table>
