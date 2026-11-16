@@ -11010,4 +11010,12 @@
 <tr><td>THALES</td><td>Stage - Assistant Chef De Projets - Systèmes De Communications Militaires - F/h</td><td>Paris</td><td>2026-11-15</td></tr>
 <tr><td>Melia</td><td>Stagiaire Assistant(e) Marketing & Communication H/f - Operation Center France</td><td>Paris</td><td>2026-11-15</td></tr>
 <tr><td>GEA</td><td>Assistante De Direction</td><td>Chateau</td><td>2026-11-15</td></tr>
+<tr><td>Atos</td><td>Apprenti(e) Ingenieur Communication Prs International</td><td>Paris</td><td>2026-11-16</td></tr>
+<tr><td>Jobgether</td><td>German Audio Evaluations Specialist - Freelance Ai Trainer Project</td><td>France</td><td>2026-11-16</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Ia / Machine Learning - F/h</td><td>Paris</td><td>2026-11-16</td></tr>
+<tr><td>Forvis Mazars</td><td>Stagiaire De Fin D'études Auditeur Financier Economie Sociale, Solidaire Et Secteur Public Junior - 2027 H/f</td><td>Paris</td><td>2026-11-16</td></tr>
+<tr><td>Forvis Mazars UK</td><td>Stagiaire De Césure En Audit Financier - 2027 (h/f)</td><td>Paris</td><td>2026-11-16</td></tr>
+<tr><td>Suez Group</td><td>Electromécanicien H/F</td><td>Saint Leonard</td><td>2026-11-16</td></tr>
+<tr><td>KION North America Corporation</td><td>Technicien.ne Atelier</td><td>Toulouse</td><td>2026-11-16</td></tr>
+<tr><td>The North Face</td><td>Sales Associate - Vendeur (h/f) - Cdd 30h - The North Face - Villefontaine (38)</td><td>Lyon</td><td>2026-11-16</td></tr>
 </table>
