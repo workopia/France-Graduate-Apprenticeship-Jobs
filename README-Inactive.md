@@ -11018,4 +11018,18 @@
 <tr><td>Suez Group</td><td>Electromécanicien H/F</td><td>Saint Leonard</td><td>2026-11-16</td></tr>
 <tr><td>KION North America Corporation</td><td>Technicien.ne Atelier</td><td>Toulouse</td><td>2026-11-16</td></tr>
 <tr><td>The North Face</td><td>Sales Associate - Vendeur (h/f) - Cdd 30h - The North Face - Villefontaine (38)</td><td>Lyon</td><td>2026-11-16</td></tr>
+<tr><td>Papernest</td><td>Business Strategy Analyst Internship - Paris</td><td>Paris</td><td>2026-11-17</td></tr>
+<tr><td>Papernest</td><td>Offer Strategy And Performance Analyst Intern - B2c Operations- Paris</td><td>Paris</td><td>2026-11-17</td></tr>
+<tr><td>Sanofi</td><td>Stage 6 Mois Droit De L’environnement</td><td>Paris</td><td>2026-11-17</td></tr>
+<tr><td>Testia</td><td>Internship : Flight Test Anomaly Report (raev) Management Process</td><td>Toulouse +1</td><td>2026-11-17</td></tr>
+<tr><td>Valeo SA</td><td>Software Engineer</td><td>Paris</td><td>2026-11-17</td></tr>
+<tr><td>Eurofins Biologie Médicale</td><td>Ingénieur Développement Logiciel & Ia (f/h)</td><td>Paris</td><td>2026-11-17</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance H/f (matin/après-midi)</td><td>Cornillé</td><td>2026-11-17</td></tr>
+<tr><td>Testia</td><td>Snr 2027 - Technicien De Maintenance (all Gender)</td><td>Nantes</td><td>2026-11-17</td></tr>
+<tr><td>Testia</td><td>Snr 2027 - Maintenance Industrielle (all Gender)</td><td>Nantes</td><td>2026-11-17</td></tr>
+<tr><td>Murfy</td><td>Formation Technicien Electroménager - Permis B Obligatoire H/f</td><td>Paris</td><td>2026-11-17</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Technicien De Maintenance Ssi H/f - Secteur Lille</td><td>Lille</td><td>2026-11-17</td></tr>
+<tr><td>Biofrais</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-17</td></tr>
+<tr><td>Accor</td><td>Stagiaire Chef de Projets Events - (H/F/NB)</td><td>Paris</td><td>2026-11-17</td></tr>
+<tr><td>Ami Paris</td><td>Stage - Assistant.e Media, Digital & Marketing H/f</td><td>Paris</td><td>2026-11-17</td></tr>
 </table>

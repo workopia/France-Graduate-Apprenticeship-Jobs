@@ -1,7 +1,31 @@
 {
- "asOf": "2026-11-16",
+ "asOf": "2026-11-17",
  "count": 873,
  "jobs": {
+  "113fc775223915060abe76ef8351e55c": {
+   "id": "113fc775223915060abe76ef8351e55c",
+   "company": "BOUYGUES CONSTRUCTION IT SNC",
+   "role": "Stagiaire Conduite De Travaux",
+   "location": "France"
+  },
+  "1dcadf4ebdf2b4d4bda87414e109a5db": {
+   "id": "1dcadf4ebdf2b4d4bda87414e109a5db",
+   "company": "lactalisexperience",
+   "role": "Stagiaire (h/f) Commercial Grands Comptes (4/6 Mois) Torcé (35 - Prox. Rennes)",
+   "location": "Torcé"
+  },
+  "5a67517dd66db14d8cadae444eb83db1": {
+   "id": "5a67517dd66db14d8cadae444eb83db1",
+   "company": "Orange",
+   "role": "Stage – Développeur : Api Et Connectivité H/f",
+   "location": "Sevigne"
+  },
+  "6c454dad464e33d19525f8809c50a34a": {
+   "id": "6c454dad464e33d19525f8809c50a34a",
+   "company": "Intermarche",
+   "role": "Stage - Chargé De Communication Et Publicité H/f",
+   "location": "Vert"
+  },
   "488dd8b1c0578d3688ec234204a636cf": {
    "id": "488dd8b1c0578d3688ec234204a636cf",
    "company": "SCOR",
@@ -457,30 +481,6 @@
    "company": "Papernest",
    "role": "Financial Planning & Analysis Intern",
    "location": "Paris"
-  },
-  "20d163c0d5ce0cf0cfea5bd690e1f998": {
-   "id": "20d163c0d5ce0cf0cfea5bd690e1f998",
-   "company": "Papernest",
-   "role": "Business Strategy Analyst Internship - Paris",
-   "location": "Paris"
-  },
-  "c8eee1e9808b269dd317fdd005ad9e3d": {
-   "id": "c8eee1e9808b269dd317fdd005ad9e3d",
-   "company": "Papernest",
-   "role": "Offer Strategy And Performance Analyst Intern - B2c Operations- Paris",
-   "location": "Paris"
-  },
-  "b093b9d1b65c3696af282619a0cd363e": {
-   "id": "b093b9d1b65c3696af282619a0cd363e",
-   "company": "Sanofi",
-   "role": "Stage 6 Mois Droit De L’environnement",
-   "location": "Paris"
-  },
-  "d606b650004b80ae1bdc71c749a1dcb3": {
-   "id": "d606b650004b80ae1bdc71c749a1dcb3",
-   "company": "Testia",
-   "role": "Internship : Flight Test Anomaly Report (raev) Management Process",
-   "location": "Toulouse +1"
   },
   "933b5a88b8fe48dcb8f80406682be4c2": {
    "id": "933b5a88b8fe48dcb8f80406682be4c2",
@@ -1514,6 +1514,18 @@
    "role": "Alternance support de proximite IT (H/F)",
    "location": "Paris"
   },
+  "ba4eb5fd90a70301fe86b92779cedc52": {
+   "id": "ba4eb5fd90a70301fe86b92779cedc52",
+   "company": "AXA UK",
+   "role": "Stage - Software Engineer (f/h)",
+   "location": "Paris"
+  },
+  "0c2a3a4bbe7cba5ec2bd7ec2cf3fe183": {
+   "id": "0c2a3a4bbe7cba5ec2bd7ec2cf3fe183",
+   "company": "Amadeus Hospitality",
+   "role": "Software Development Engineer - C++",
+   "location": "Nice +1"
+  },
   "2a56bebd7c97c9b3ad1c7319efb3668d": {
    "id": "2a56bebd7c97c9b3ad1c7319efb3668d",
    "company": "dacia",
@@ -1981,18 +1993,6 @@
    "company": "Jobgether",
    "role": "Backend Engineer",
    "location": "France"
-  },
-  "7ca073745c642a03de5d2c3a0a7b7880": {
-   "id": "7ca073745c642a03de5d2c3a0a7b7880",
-   "company": "Valeo SA",
-   "role": "Software Engineer",
-   "location": "Paris"
-  },
-  "ad65959f7cf047505a1d316a1397f9a6": {
-   "id": "ad65959f7cf047505a1d316a1397f9a6",
-   "company": "Eurofins Biologie Médicale",
-   "role": "Ingénieur Développement Logiciel & Ia (f/h)",
-   "location": "Paris"
   },
   "f93997f15081929bdcd2271021782288": {
    "id": "f93997f15081929bdcd2271021782288",
@@ -2984,16 +2984,16 @@
    "role": "Finance Business Analyst Internship - January 2027",
    "location": "Paris"
   },
-  "5ea485eadb7a7eb749265aae5a69b8d6": {
-   "id": "5ea485eadb7a7eb749265aae5a69b8d6",
-   "company": "Pernod Ricard",
-   "role": "Global Innovation & Business Analyst Intern - January 2027",
-   "location": "Paris"
-  },
   "bef0d39d29bc1e370c864c6423422874": {
    "id": "bef0d39d29bc1e370c864c6423422874",
    "company": "Pernod Ricard",
    "role": "Business Analyst Intern - Rtd - January 2027",
+   "location": "Paris"
+  },
+  "5ea485eadb7a7eb749265aae5a69b8d6": {
+   "id": "5ea485eadb7a7eb749265aae5a69b8d6",
+   "company": "Pernod Ricard",
+   "role": "Global Innovation & Business Analyst Intern - January 2027",
    "location": "Paris"
   },
   "ad7808beff4ced3de4c9d95a9171e705": {
@@ -3800,6 +3800,36 @@
    "role": "Registered Nurse - Rn",
    "location": "Aurora On France"
   },
+  "fc91bdba489217c7548cb23ca2b18067": {
+   "id": "fc91bdba489217c7548cb23ca2b18067",
+   "company": "Veolia Environnement SA",
+   "role": "Technicien Multitechniques H/f",
+   "location": "Lyon"
+  },
+  "48918e868e5a14bec07cda9a9015d53a": {
+   "id": "48918e868e5a14bec07cda9a9015d53a",
+   "company": "Intermarche",
+   "role": "Technicien Méthodes Maintenance (h/f)",
+   "location": "Charmes"
+  },
+  "ae4562a87494043b78c001970b7f46dc": {
+   "id": "ae4562a87494043b78c001970b7f46dc",
+   "company": "Veolia Environnement SA",
+   "role": "Technicien Usines Exploitation (h/f)",
+   "location": "Nevers"
+  },
+  "afdf38b4de1296dc3cc5bb6a59cbd992": {
+   "id": "afdf38b4de1296dc3cc5bb6a59cbd992",
+   "company": "Bosch Rexroth",
+   "role": "Technicien De Maintenance Chauffage Froid - Courbevoie - F/h/n",
+   "location": "Paris"
+  },
+  "772f68efc01fbc34bfaa38e527231b1e": {
+   "id": "772f68efc01fbc34bfaa38e527231b1e",
+   "company": "Intermarche",
+   "role": "Technicien De Maintenance H/f (matin/après-midi)",
+   "location": "Cornillé"
+  },
   "7ab44a34e52e27379158e43ed4685de6": {
    "id": "7ab44a34e52e27379158e43ed4685de6",
    "company": "STMicroelectronics",
@@ -4034,12 +4064,6 @@
    "role": "Technicien De Maintenance Industrielle F/h",
    "location": "Le Grand"
   },
-  "1fd9f72778ab353f6f02066abf7fc0e6": {
-   "id": "1fd9f72778ab353f6f02066abf7fc0e6",
-   "company": "Intermarche",
-   "role": "Technicien De Maintenance H/f (matin/après-midi)",
-   "location": "Cornillé"
-  },
   "ee78330c172de181af1a21ef181cfbd4": {
    "id": "ee78330c172de181af1a21ef181cfbd4",
    "company": "Pierre Fabre Laboratories",
@@ -4256,29 +4280,11 @@
    "role": "Technicien Maintenance Ascenseurs H/f",
    "location": "Lyon"
   },
-  "5bb55579b8196494d840633e22776b43": {
-   "id": "5bb55579b8196494d840633e22776b43",
-   "company": "Testia",
-   "role": "Snr 2027 - Technicien De Maintenance (all Gender)",
-   "location": "Nantes"
-  },
-  "859bf22f03a3db8468cdd49dd1f3f211": {
-   "id": "859bf22f03a3db8468cdd49dd1f3f211",
-   "company": "Testia",
-   "role": "Snr 2027 - Maintenance Industrielle (all Gender)",
-   "location": "Nantes"
-  },
-  "f845ac00a6223c97f6e8ba714b9a1099": {
-   "id": "f845ac00a6223c97f6e8ba714b9a1099",
-   "company": "Murfy",
-   "role": "Formation Technicien Electroménager - Permis B Obligatoire H/f",
+  "a74ed67ddda00cfb22e0ad0cef9e1869": {
+   "id": "a74ed67ddda00cfb22e0ad0cef9e1869",
+   "company": "Biofrais",
+   "role": "Vendeur h/f",
    "location": "Paris"
-  },
-  "568c16bbd303e1d2d17ea0b8f7c83ef0": {
-   "id": "568c16bbd303e1d2d17ea0b8f7c83ef0",
-   "company": "Chubb Fire & Security",
-   "role": "Technicien De Maintenance Ssi H/f - Secteur Lille",
-   "location": "Lille"
   },
   "5728d26f967ffc2119d5a2a233efd6a7": {
    "id": "5728d26f967ffc2119d5a2a233efd6a7",
@@ -4469,12 +4475,6 @@
   "5809714154bbfb406edfad8dc1ed24e4": {
    "id": "5809714154bbfb406edfad8dc1ed24e4",
    "company": "laboulangeriedumarche.fr",
-   "role": "Vendeur h/f",
-   "location": "Paris"
-  },
-  "26e460fd4b5bb500d14ad2f0b9783f84": {
-   "id": "26e460fd4b5bb500d14ad2f0b9783f84",
-   "company": "Biofrais",
    "role": "Vendeur h/f",
    "location": "Paris"
   },
@@ -4759,6 +4759,18 @@
    "company": "Nestle SA",
    "role": "Vendeur (h/f)",
    "location": "Paris"
+  },
+  "3f1ad89d019fc122642009fbad35da8d": {
+   "id": "3f1ad89d019fc122642009fbad35da8d",
+   "company": "Reckitt",
+   "role": "Cdd - Coordinateur Transport (f/h)",
+   "location": "Paris"
+  },
+  "cc3c90db8f64f8f1390c6ff74896855e": {
+   "id": "cc3c90db8f64f8f1390c6ff74896855e",
+   "company": "Reckitt Benckiser",
+   "role": "Cdd - Coordinateur Transport (f/h)",
+   "location": "France"
   },
   "5522e2d6eae5261ee0843ebceb557553": {
    "id": "5522e2d6eae5261ee0843ebceb557553",
@@ -5226,18 +5238,6 @@
    "id": "8ff473523908e06709ea46358c7f8cb2",
    "company": "Sofitel Sydney Wentworth",
    "role": "Stagiaire Chef De Projets Events - (h/f/nb)",
-   "location": "Paris"
-  },
-  "0895476474ae1feeb27bfde0f6f40e24": {
-   "id": "0895476474ae1feeb27bfde0f6f40e24",
-   "company": "Accor",
-   "role": "Stagiaire Chef de Projets Events - (H/F/NB)",
-   "location": "Paris"
-  },
-  "e2772b4450bff3069eb35627fa1b4010": {
-   "id": "e2772b4450bff3069eb35627fa1b4010",
-   "company": "Ami Paris",
-   "role": "Stage - Assistant.e Media, Digital & Marketing H/f",
    "location": "Paris"
   }
  }
