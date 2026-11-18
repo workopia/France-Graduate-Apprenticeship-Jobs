@@ -11032,4 +11032,44 @@
 <tr><td>Biofrais</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-17</td></tr>
 <tr><td>Accor</td><td>Stagiaire Chef de Projets Events - (H/F/NB)</td><td>Paris</td><td>2026-11-17</td></tr>
 <tr><td>Ami Paris</td><td>Stage - Assistant.e Media, Digital & Marketing H/f</td><td>Paris</td><td>2026-11-17</td></tr>
+<tr><td>Viridien</td><td>Geoscientist Reservoir Intern</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Diptyque Paris</td><td>Stage - Assistant Stratégie & Business Performance H/f</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>TikTok</td><td>Commerce Project Intern (gbs) - 2027 Start</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Stage Communication & Rse H/f</td><td>Courbevoie +1</td><td>2026-11-18</td></tr>
+<tr><td>TotalEnergies OneTech</td><td>Internship – Ai & Automation For Engineering M/f</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Danone</td><td>Internship - Front-office Intern – January 2027 - (h/f)</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+5 - Stage Développement D'outils D'analyse Acoustique (h/f)</td><td>Lardy</td><td>2026-11-18</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+5 - Pilotage De L'industrialisation Et Qualité (h/f)</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+5 - Stage - Intégration Et Métier Architecture Plateforme (h/f)</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Pernod Ricard Winemakers</td><td>Tech Proximity Intern</td><td>Marseille</td><td>2026-11-18</td></tr>
+<tr><td>Papernest</td><td>Strategy & Operations Analyst Intern - Paris</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Papernest</td><td>Financial Planning & Analysis Intern</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Ia Générative & Développement Logiciel Embarqué – F/h</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Ivvq - F/h</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer</td><td>France</td><td>2026-11-18</td></tr>
+<tr><td>Syngenta Group</td><td>Alternant Analyste De Donnees Et Support Digital (h/f)</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027- Data Analyst & Ai - Corporate Audit (h/f)</td><td>Toulouse</td><td>2026-11-18</td></tr>
+<tr><td>GE HealthCare UK</td><td>Stage – Data Analysis & Power Bi</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Converteo</td><td>Ai Engineer - H/f - Cdi</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Sia</td><td>Final Year Internship Consultant In Financial Transformation</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Talan</td><td>Business Analyst Front Office _ Taux Non Linéaires - H/f</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Talan</td><td>Expert Business Analyst Equity Delta One - Sophis (h/f)</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Talan</td><td>Capital Market _business Analyst Alm Treasury - H/f</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Talan</td><td>Post Trade Business Analyst - H/f</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Avanade</td><td>Business Analyst D365 F&o (bams)</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Avanade</td><td>D365 F&o - Business Analyst Stream Manufacturing</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Avanade</td><td>Business Analyst Stream Finance - D365 Erp</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien Instrumentiste H/f</td><td>Serquigny</td><td>2026-11-18</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Électricité F/h</td><td>Orleans</td><td>2026-11-18</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance Production H/f</td><td>Saint</td><td>2026-11-18</td></tr>
+<tr><td>Hydro</td><td>Technicien.ne De Maintenance (h/f)</td><td>ChâTeauroux</td><td>2026-11-18</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage – Amélioration Continue Maintenancef/h</td><td>Grenoble</td><td>2026-11-18</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Technicien Sav Sprinkler - Paca (h/f)</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>KONE Croatia</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Lyon</td><td>2026-11-18</td></tr>
+<tr><td>Grand Frais</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur Frais Et Caisse H/f</td><td>Nice</td><td>2026-11-18</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Skechers</td><td>Conseiller De Vente H/f</td><td>Lyon</td><td>2026-11-18</td></tr>
+<tr><td>Nestle SA</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Stagiaire Chef De Projets Events - (h/f/nb)</td><td>Paris</td><td>2026-11-18</td></tr>
 </table>
