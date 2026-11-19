@@ -11072,4 +11072,87 @@
 <tr><td>Skechers</td><td>Conseiller De Vente H/f</td><td>Lyon</td><td>2026-11-18</td></tr>
 <tr><td>Nestle SA</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-11-18</td></tr>
 <tr><td>Sofitel Sydney Wentworth</td><td>Stagiaire Chef De Projets Events - (h/f/nb)</td><td>Paris</td><td>2026-11-18</td></tr>
+<tr><td>STADA</td><td>Apprentice Or Intern - Marketing - Specialties</td><td>Issy Les Moulineaux +1</td><td>2026-11-19</td></tr>
+<tr><td>MEDTRONIC</td><td>Intern: Graduate( Non-tech)</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>FAURECIA SERVICES GroupE</td><td>Legal Intern</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>SCOR</td><td>Group Accounting & Reporting Standards Intern</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>SCOR</td><td>Internship - It & Architecture Brain</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>SCOR</td><td>Corporate Sustainability Intern</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship - Marketing Data Scientist</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire Ingénieur Production (h/f) - 6 Mois Roquefort S/soulzon (12)</td><td>Roquefort S/Soulzon</td><td>2026-11-19</td></tr>
+<tr><td>Mistral AI</td><td>Internship - Hr People Ops Emea</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>THALES</td><td>Stage - Brasage Et Soudage De Pièces Complexes – H/f</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>IQVIA Holdings</td><td>Country Site Activation Internship - 6 Months</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>EDF Trading</td><td>Short-term Analyst Intern</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>NTT Communications</td><td>Hr P&c Pmo Intern – France & Luxembourg F/h</td><td>Paris +1</td><td>2026-11-19</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Stage 2027 - Stage D’ingénierie En Simulation Numérique / Propulsion Spatiale (f/h)</td><td>Toulouse Area</td><td>2026-11-19</td></tr>
+<tr><td>JYSK</td><td>Stagiaire (h/f)</td><td>Saint</td><td>2026-11-19</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage - Conception Et Prototypage D'ip Numériques/soc - F/h</td><td>Grenoble</td><td>2026-11-19</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage - Amélioration Des Méthodes De Caractérisation Optique F/h</td><td>Tours</td><td>2026-11-19</td></tr>
+<tr><td>Balenciaga</td><td>Balenciaga - Supply And Distribution Planner Rtw Intern - March 2027 (f/m)</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>CMA CGM Group</td><td>Group Tax Intern Apprentice</td><td>Marseille</td><td>2026-11-19</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Media Legal Assistant (f/m/x)</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Economic Studies Analyst Intern</td><td>Marseille +1</td><td>2026-11-19</td></tr>
+<tr><td>CMA CGM Group</td><td>Intern</td><td>Marseille</td><td>2026-11-19</td></tr>
+<tr><td>CEVA Logistics</td><td>Internship - Project Manager (sport Events) - Lead Logistics (la Défense)</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>CMA CGM Group</td><td>Internship - Ai Engagement & Adoption Intern (m/f)</td><td>Marseille</td><td>2026-11-19</td></tr>
+<tr><td>ENACO</td><td>Alternance - Assistant(e) De Direction/ Opérations En Apprentissage H/f</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Développement Logiciel Et Ia – F / H</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>E80 Group</td><td>Lgv Software Programmer - Grans</td><td>Grans</td><td>2026-11-19</td></tr>
+<tr><td>Exotrail</td><td>Ground Software Engineer (m/f)</td><td>Toulouse</td><td>2026-11-19</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Intégration Logiciel F.h</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>ATEME</td><td>Stage De Fin D'études - Ingénieur(e) Logiciel Go Python Aws</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>Thales Group</td><td>Ingénieur Logiciel - Traitements Radar - Systèmes Critiques Temps Réel (hf)</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+5 - Assistant Product Owner & Data Analyst (h/f)</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+5 – Ingénieur Ia Agentique & Maintenance Prédictive (h/f)</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>Orange</td><td>Chargé D'analyse De Données F/h</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>EY</td><td>Data Analyst Expérimenté F/h</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>Rexel</td><td>Charge(e) De Projets / Data Analyst Cdd - Paris 17ème H/f</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027 - Agentic Ai For Platforms Automation (f/h)</td><td>Toulouse Area</td><td>2026-11-19</td></tr>
+<tr><td>Talan</td><td>Business Analyst Financements Structurés -h/f</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>Citigroup</td><td>Banking, Corporate Banking - Financial Institutions Group, Full Time Analyst, Paris - France, 2027</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Technicien De Maintenance Industrie Pharmaceutique - Technicien Production- Cdi - H/f</td><td>Loiret +1</td><td>2026-11-19</td></tr>
+<tr><td>Suez Group</td><td>Electromécanicien H/F</td><td>VERSON</td><td>2026-11-19</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Strasbourg +1</td><td>2026-11-19</td></tr>
+<tr><td>Lactalis Group</td><td>Chef D&#39;equipe Maintenance (h/f) Annecy Le Vieux (74)</td><td>Annecy +1</td><td>2026-11-19</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance (h/f) Laval (53)</td><td>Rennes</td><td>2026-11-19</td></tr>
+<tr><td>Petit Forestier</td><td>Mécanicien Pl-vl H/f</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>Suntory Beverage & Food</td><td>Maintenance Technician</td><td>Lyon</td><td>2026-11-19</td></tr>
+<tr><td>Suntory Beverage & Food France</td><td>Maintenance Technician</td><td>Donnery</td><td>2026-11-19</td></tr>
+<tr><td>Eiffage</td><td>Technicien De Maintenance Multi-techniques F/h</td><td>Saint</td><td>2026-11-19</td></tr>
+<tr><td>Sopra Steria</td><td>Technicien/ne En Automatisme Et Maintenance Systèmes - Industrie - Gramat</td><td>Gramat</td><td>2026-11-19</td></tr>
+<tr><td>Roche Holding AG</td><td>Chargé D'installation (f/h/d)</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Electrotechnicien (h/f)</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>RATP Infrastructures</td><td>Electricien / Electromécanicien Mainteneur En Signalisation Ferroviaire (h/f) (infras/ct)</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>KONE Croatia</td><td>Technicien Maintenance Ascenseurs H/f À Toulouse (31) Pour Paca Ascenseurs</td><td>Toulouse</td><td>2026-11-19</td></tr>
+<tr><td>KONE Croatia</td><td>Technicien Maintenance Ascenseurs H/f À Aix-en-provence (13) Pour Paca Ascenseurs</td><td>Aix En Provence</td><td>2026-11-19</td></tr>
+<tr><td>Digital Realty Trust, Inc.</td><td>Implementation Services Technician</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne Maintenance Exécution (jour)</td><td>Marseille</td><td>2026-11-19</td></tr>
+<tr><td>Schindler Group</td><td>Technicien Agence Service (h/f) - Site Permanents</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>Schindler Group</td><td>Technicien(ne) De Réparation (h/f) - Marseille</td><td>Marseille</td><td>2026-11-19</td></tr>
+<tr><td>lactalisexperience</td><td>Maintenance Mechanic</td><td>France</td><td>2026-11-19</td></tr>
+<tr><td>Forvia</td><td>Stagiaire Maintenance H/f</td><td>Caligny Techno</td><td>2026-11-19</td></tr>
+<tr><td>Forvia</td><td>Stagiaire Méthodes Maintenance H/f</td><td>Caligny Techno</td><td>2026-11-19</td></tr>
+<tr><td>Orange</td><td>Chargée De Maintenance/ Chargé De Maintenance</td><td>Saint</td><td>2026-11-19</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance (h/f)</td><td>28/32 Rue De Berthollet - Rue Du GéNéRal De Gaulle</td><td>2026-11-19</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne Spécialiste Contrôles Règlementaires</td><td>Marseille</td><td>2026-11-19</td></tr>
+<tr><td>ArcelorMittal</td><td>Technicien.ne De Maintenance D'exécution</td><td>Marseille</td><td>2026-11-19</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Technicien(ne) Maintenance Industrielle Junior H/f</td><td>La Rochelle</td><td>2026-11-19</td></tr>
+<tr><td>Siemens AG</td><td>Technicien De Maintenance Ssi Nucléaire – Grands Déplacements H/f</td><td>France</td><td>2026-11-19</td></tr>
+<tr><td>Siemens AG</td><td>Technicien Maintenance Systèmes De Sécurité Incendie- Dép 15 Et 63 F/h</td><td>Aurillac +2</td><td>2026-11-19</td></tr>
+<tr><td>Grand Frais</td><td>Vendeur h/f</td><td>Annecy</td><td>2026-11-19</td></tr>
+<tr><td>Gianni Versace</td><td>Cdd 35h (shop Sales Associate) - Galeries Lafayette Accesoires</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Lyon</td><td>2026-11-19</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd H/f</td><td>Bordeaux</td><td>2026-11-19</td></tr>
+<tr><td>Maisons du Monde</td><td>Conseiller(e) De Vente</td><td>Bordeaux</td><td>2026-11-19</td></tr>
+<tr><td>Throwbackpacks</td><td>Conseiller.ère De Vente - Stage</td><td>Sur</td><td>2026-11-19</td></tr>
+<tr><td>Skechers U.S.A.</td><td>Conseiller De Vente H/f</td><td>Lyon</td><td>2026-11-19</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Annecy</td><td>2026-11-19</td></tr>
+<tr><td>Nike</td><td>Athlete Nike (vendeur.se En Magasin) – H / F Cdd 35h</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>VF Corporation</td><td>Sales Associate - Vendeur (h/f) - Cdd 30h - The North Face - Villefontaine (38)</td><td>Lyon</td><td>2026-11-19</td></tr>
+<tr><td>VF Corporation</td><td>Sales Associate - Vendeur (h/f) Cdd 35h- The North Face - Villefontaine</td><td>Lyon</td><td>2026-11-19</td></tr>
+<tr><td>Holcim</td><td>Coordinateur Exploitation Et Logistique H/f</td><td>Longeault</td><td>2026-11-19</td></tr>
+<tr><td>Shiseido</td><td>Stage - Assistant Chef De Produit Marketing Développement - Shiseido Parfums H/f</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>Mars</td><td>Assistant(e) De Direction F/h/x</td><td>Paris</td><td>2026-11-19</td></tr>
+<tr><td>La Fee Maraboutee</td><td>Assistant/e Adv</td><td>Lyon</td><td>2026-11-19</td></tr>
 </table>
