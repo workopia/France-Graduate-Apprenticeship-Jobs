@@ -11155,4 +11155,60 @@
 <tr><td>Shiseido</td><td>Stage - Assistant Chef De Produit Marketing Développement - Shiseido Parfums H/f</td><td>Paris</td><td>2026-11-19</td></tr>
 <tr><td>Mars</td><td>Assistant(e) De Direction F/h/x</td><td>Paris</td><td>2026-11-19</td></tr>
 <tr><td>La Fee Maraboutee</td><td>Assistant/e Adv</td><td>Lyon</td><td>2026-11-19</td></tr>
+<tr><td>MEDTRONIC</td><td>Intern: Graduate( Non-tech)</td><td>Lyon</td><td>2026-11-20</td></tr>
+<tr><td>Edftrading</td><td>Quantitative Analyst Intern</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Stagiaire Butler F/h/x</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Adobe Inc.</td><td>2027 Intern - Solutions Consulting</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Développement D’agents Ia Pour La Vérification Et Validation De Logiciels Critiques - Industrie - Toulouse</td><td>Toulouse</td><td>2026-11-20</td></tr>
+<tr><td>Amazon</td><td>Operations Intern - Région Centre - Start Date 2027</td><td>Orleans</td><td>2026-11-20</td></tr>
+<tr><td>Doctolib GmbH</td><td>Stage - Développement Commercial Et Performance Hospitalière (x/f/m) - Janvier 2027</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Sia Partners</td><td>Stage De Fin D'études - Cybersecurity & Ai Trust</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Danone</td><td>Internship - Communication &amp; Engagement Intern, Data Literacy Program - February - (h/f)</td><td>Gif-Sur-Yvette +1</td><td>2026-11-20</td></tr>
+<tr><td>FAURECIA SERVICES GroupE</td><td>Strategy & Marketing Intern</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Bureau Veritas</td><td>Internship - Naval Architecture Engineer, Grain Shift Modelling (f/m)</td><td>Nantes</td><td>2026-11-20</td></tr>
+<tr><td>Bureau Veritas</td><td>Internship - Fatigue Analysis Engineer, Offshore Units (f/m)</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Bureau Veritas</td><td>Internship - Software Developer, Technical Report Generation (f/m)</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Bureau Veritas</td><td>Internship - Structural Analysis Engineer, Container Ship Torsion (f/m)</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Bureau Veritas</td><td>Internship - Engineering Tools Developer, Naval Structures (f/m)</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Bureau Veritas</td><td>Internship - Digital Business Analyst (f/m)</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Bureau Veritas</td><td>Internship - Thermal Analysis Engineer, Subsea Power Cables (f/m)</td><td>Nantes</td><td>2026-11-20</td></tr>
+<tr><td>Bureau Veritas</td><td>Internship - Cfd Hydrodynamics Engineer (f/m)</td><td>Nantes</td><td>2026-11-20</td></tr>
+<tr><td>Bureau Veritas</td><td>Internship - Structural Fatigue Analysis Of Container Ships (f/m)</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Balenciaga</td><td>Balenciaga - E-business Projects & Operation Intern – March 2027 (f/m)</td><td>Paris +1</td><td>2026-11-20</td></tr>
+<tr><td>Airbnb</td><td>Market Associate Intern, Experiences</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Airbnb</td><td>Marketing & Crm Intern, Experiences</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+5 – Stagiaire Ai Agent & Data Automation Engineer (h/f)</td><td>Boulogne Billancourt +1</td><td>2026-11-20</td></tr>
+<tr><td>Ferrero LADM</td><td>Stage - Ingénieur Amélioration Continue (h/f/x)</td><td>Villers Ecalles</td><td>2026-11-20</td></tr>
+<tr><td>ArianeGroup</td><td>Stage -ingénieure / Ingénieur - Outils De Modélisation / Data Analyse Appliqués À L'ingénierie Des Coûts</td><td>Mantes La Jolie</td><td>2026-11-20</td></tr>
+<tr><td>STADA</td><td>Ingenieur Support Informatique - Applications Et Systemes (f/h)</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Data Analytics Et Déploiement - F/h</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Sopra Steria</td><td>Data Analyst - Colomiers</td><td>Toulouse</td><td>2026-11-20</td></tr>
+<tr><td>Mistral AI</td><td>Engineering & Ai Opportunities</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Mistral AI</td><td>Ai Scientist, Agentic Cad (ai4engineering)</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Schneider Electric</td><td>Stage - Data & Analytics Appliquées Au Dd - H/f</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027 + Customer Services Data Analytics</td><td>Toulouse</td><td>2026-11-20</td></tr>
+<tr><td>Alstom</td><td>Stage - 6 Mois - Analyste Des Opérations Financières F/h</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance - Escaliers Mécaniques (h/f)</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Ingénieur De Maintenance H/f</td><td>Tremblay</td><td>2026-11-20</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Électromécanicien (h/f)</td><td>Mitry</td><td>2026-11-20</td></tr>
+<tr><td>fenwick-linde.fr</td><td>Technicien De Maintenance - Evin Malmaison</td><td>Evin</td><td>2026-11-20</td></tr>
+<tr><td>fenwick-linde.fr</td><td>Technicien De Maintenance - Castelnau D'estretefonds (31260)</td><td>Castelnau D'Estretefonds</td><td>2026-11-20</td></tr>
+<tr><td>Dematic Inc</td><td>Technicien De Maintenance - Evin Malmaison</td><td>Evin</td><td>2026-11-20</td></tr>
+<tr><td>Dematic Inc</td><td>Technicien De Maintenance - Castelnau D'estretefonds (31260)</td><td>Castelnau D'Estretefonds</td><td>2026-11-20</td></tr>
+<tr><td>Dematic Inc</td><td>Technicien De Maintenance - Castelnaud D'estretefonds (31260)</td><td>Castelnau D'Estretefonds</td><td>2026-11-20</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Electromécanicien (h/f)</td><td>Morillon</td><td>2026-11-20</td></tr>
+<tr><td>Sofitel</td><td>Responsable Technique (h/f/x)</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Technicien De Maintenance Industrielle F/h</td><td>Le Grand</td><td>2026-11-20</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Agent De Maintenance Polyvalent</td><td>CorrèZe</td><td>2026-11-20</td></tr>
+<tr><td>John Cockerill Services France Sud</td><td>Usineur (tourneur/fraiseur) Chantier H/f</td><td>Marseille</td><td>2026-11-20</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance H/f Sainte Cécile (50)</td><td>France</td><td>2026-11-20</td></tr>
+<tr><td>Gianni Versace</td><td>Cdd 35h (shop Sales Associate) - Galeries Lafayette Accesoires</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Biofrais</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Nestle Ltd</td><td>Vendeur (h/f)</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Swarovski Australia</td><td>Stage - Conseiller De Vente (h/f/x) 35h- Gare De L'est</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Nike</td><td>Athlete Nike (vendeur En Magasin) – H / F Cdd 30h</td><td>Bordeaux</td><td>2026-11-20</td></tr>
+<tr><td>Soeur</td><td>Stage – Assistant(e) Showroom Et Coordination</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>THALES</td><td>Assistant(e) D'equipe (f/h)</td><td>Paris</td><td>2026-11-20</td></tr>
 </table>
