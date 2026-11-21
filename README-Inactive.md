@@ -11211,4 +11211,52 @@
 <tr><td>Nike</td><td>Athlete Nike (vendeur En Magasin) – H / F Cdd 30h</td><td>Bordeaux</td><td>2026-11-20</td></tr>
 <tr><td>Soeur</td><td>Stage – Assistant(e) Showroom Et Coordination</td><td>Paris</td><td>2026-11-20</td></tr>
 <tr><td>THALES</td><td>Assistant(e) D'equipe (f/h)</td><td>Paris</td><td>2026-11-20</td></tr>
+<tr><td>Centumtns</td><td>Stage Logiciel : Interfaçage De Microphones Mems Sur Stm32 H/f</td><td>Lyon</td><td>2026-11-21</td></tr>
+<tr><td>Legrand</td><td>Stage - Charge De Commerce International H/f</td><td>Limoges +2</td><td>2026-11-21</td></tr>
+<tr><td>CFM</td><td>Internal Control & Compliance - Internship</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>CFM</td><td>Memory-augmented Llms For Financial Text - Internship</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Danone</td><td>Internship – Compliance Data Analyst - March 2027 (m/f)</td><td>Paris +1</td><td>2026-11-21</td></tr>
+<tr><td>Boucheron</td><td>Boucheron - Stage - Website Quality & Content Intern F/h/x</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage – Automatisation De La Génération Des Codes Sources Pour Le Développement Des Pcells – F/h</td><td>Grenoble</td><td>2026-11-21</td></tr>
+<tr><td>Thales Group</td><td>Stage - Etude Et Conception D’une Capacité D’observabilité Boîte-noire Pour Des Applications Ia Compilées En Wasm (h/f)</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Egis in ANZ</td><td>Ai Change Management Intern - F/m</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Egis Group</td><td>Ai Change Management Intern - F/m</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Deliveroo</td><td>Retail & Specialist - Intern</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>dacia</td><td>Ap26 - Bac+5 - Pilote Qualité Et Processus (h/f)</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Orange</td><td>Stagiaire Ingénieur Si Événementiel F/h</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Airbus</td><td>Stage 2027 - Développeur / Ingénieur Ia Pour Les Rh (h/f)</td><td>Toulouse</td><td>2026-11-21</td></tr>
+<tr><td>Jobgether</td><td>Application Programmer</td><td>France</td><td>2026-11-21</td></tr>
+<tr><td>Alstom</td><td>Stage 6 Mois - Ingénieur.e Développement Outils Ci/cd Et Optimisation Des Nightlys (f/h)</td><td>Recherche Par Lieu</td><td>2026-11-21</td></tr>
+<tr><td>Orange</td><td>Developer Data Ia (f/h) F/h</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Orange</td><td>Stage Ingénieur Modélisation Hybride Hétérogène (physique/ml) Pour La Prédiction De La Qos F/h</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Data Analyst - Stage (h/f)</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Jobgether</td><td>Counter-strike 2 Expert Data Scientist</td><td>France</td><td>2026-11-21</td></tr>
+<tr><td>Testia</td><td>Business Data Analyst H/f</td><td>Toulouse</td><td>2026-11-21</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Stage - Business & Data Analyst - Achats Europe H/f</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>ChapsVision</td><td>Stage Data Scientist Ia - Agentic Rag Over Heterogeneous Data Sources</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Jobgether</td><td>Applied Ai Engineer</td><td>France</td><td>2026-11-21</td></tr>
+<tr><td>Jobgether</td><td>Ai Research Engineer (agentic Reinforcement Learning)</td><td>France</td><td>2026-11-21</td></tr>
+<tr><td>Eni</td><td>Data Scientist/ai Engineer</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Accenture Australia</td><td>Analyste Ecosystem Resale Enablement F/h</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Hermès</td><td>Stage - Assistant Business Analyst H/f</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Schneider Electric</td><td>Technicien Maintenance Itinérant Hta-bt - F/h</td><td>Bouches</td><td>2026-11-21</td></tr>
+<tr><td>Eiffageconstruction</td><td>Techn. Maintenance Et Réseau</td><td>Lille</td><td>2026-11-21</td></tr>
+<tr><td>Carrier</td><td>Technico Commercial Service Nord-est France H/f</td><td>Lille</td><td>2026-11-21</td></tr>
+<tr><td>Tetra Pak</td><td>Future Talent - Maintenance Engineer - Paris Or Orleans</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Tetra Pak</td><td>Future Talent - Maintenance Engineer</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Tetra Pak</td><td>Technicienne / Technicien De Maintenance (f/h)</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>lactalisexperience</td><td>Chef D'equipe Maintenance (h/f) Annecy Le Vieux (74)</td><td>Annecy +1</td><td>2026-11-21</td></tr>
+<tr><td>CRH plc</td><td>Technicien Maintenance F/h (44)</td><td>France</td><td>2026-11-21</td></tr>
+<tr><td>Ratpgroup</td><td>Chargé De Maintenance Des Trains - Contremaitre Visiteur (mrf) H/f</td><td>Lyby</td><td>2026-11-21</td></tr>
+<tr><td>fenwick-linde.fr</td><td>Technicien De Maintenance - Castelnaud D'estretefonds (31260)</td><td>Castelnau D'Estretefonds +1</td><td>2026-11-21</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Bordeaux</td><td>2026-11-21</td></tr>
+<tr><td>Biofrais</td><td>Vendeur h/f</td><td>Nantes</td><td>2026-11-21</td></tr>
+<tr><td>Chanel</td><td>Cdi - Conseiller De Vente - 19 Cambon H/f</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Bricoman</td><td>Vendeur Technique H/f - Menuiserie</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>Kiabi</td><td>_conseiller De Vente (h/f/nb) Portet Sur Garonne 2 Semaines</td><td>Toulouse</td><td>2026-11-21</td></tr>
+<tr><td>Reformation</td><td>Temporary Sales Associate, Part Time - Le Marais, Paris</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>SYCLEF V2.0</td><td>Assistant Administratif H/f - Sofi Rhone Alpes</td><td>Lyon</td><td>2026-11-21</td></tr>
+<tr><td>Lactalis Group</td><td>Employé Administratif Cdd 6 Mois (h/f) Laval (53)</td><td>Rennes</td><td>2026-11-21</td></tr>
+<tr><td>Louis Vuitton</td><td>Stage – Assistant.e Chef.fe De Projet Junior – Supply Chain Industrielle - F/h</td><td>Paris</td><td>2026-11-21</td></tr>
+<tr><td>lactalisexperience</td><td>Employé Administratif Cdd 6 Mois (h/f) Laval (53)</td><td>Rennes</td><td>2026-11-21</td></tr>
 </table>
