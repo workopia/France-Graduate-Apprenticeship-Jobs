@@ -11259,4 +11259,61 @@
 <tr><td>Lactalis Group</td><td>Employé Administratif Cdd 6 Mois (h/f) Laval (53)</td><td>Rennes</td><td>2026-11-21</td></tr>
 <tr><td>Louis Vuitton</td><td>Stage – Assistant.e Chef.fe De Projet Junior – Supply Chain Industrielle - F/h</td><td>Paris</td><td>2026-11-21</td></tr>
 <tr><td>lactalisexperience</td><td>Employé Administratif Cdd 6 Mois (h/f) Laval (53)</td><td>Rennes</td><td>2026-11-21</td></tr>
+<tr><td>Intermarche</td><td>Stage - Chargé De Communication Et Publicité H/f</td><td>Vert</td><td>2026-11-22</td></tr>
+<tr><td>Talan</td><td>Talan – Consultant Stagiaire It De Fin D'études – Assurance & Santé (h/f)</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Développeur(se) Full Stack Java - Aeroline - Toulouse</td><td>Toulouse</td><td>2026-11-22</td></tr>
+<tr><td>AbbVie</td><td>Motion Designer Intern</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Danone</td><td>Internship - Design Engineering/data Science - January 2027 - (m/f)</td><td>Rueil Malmaison +1</td><td>2026-11-22</td></tr>
+<tr><td>Danone</td><td>Internship - Quality &amp; Food Safety Data Analytics &amp; Digitalization - February 2027 - (w/m)</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>SCOR</td><td>Salesforce Proxy Product Owner Intern</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Hermès International</td><td>Stage - Assistant Projets Vitrines Et Animations H/f</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Tiffany 2</td><td>Internship - Media Coordinator Fnbm (f/m)</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Tencent</td><td>Legal Intern, Cloud 107868</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Veesion</td><td>Sales Development Representative Fr / Es / It F/m / Internship</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Transport, Manufacturing & Retail</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Energy, Transport & Manufacturing</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Airbus SE</td><td>Stage 2027 - Ingénieur Méthodes & Digitalisation – Intégration Propulsion Fal (h/f)</td><td>Toulouse</td><td>2026-11-22</td></tr>
+<tr><td>THALES</td><td>Ingénieur Développement Logiciel Temps-réel - Ada & C F.h</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Alstom</td><td>Tage Ingénieur Logiciel (h/f) - Développement D'un Outil De Gestion Des Compétences / Habilitations</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>P&G</td><td>Analysis & Insights Internship (stagiaire Data Analyst)</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Intelligence Artificielle & Pilotage De La Performance En Ingénierie - Industrie - Le Plessis Robinson</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Google</td><td>Software Engineer Iii, Ai/ml, Youtube</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Safran</td><td>Stage - Deep Learning Scientist (h/f)</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Testia</td><td>Stage 2027 - Stage En Business & Digital Analyst – Maintenance Program Optimisation (h/f)</td><td>Toulouse</td><td>2026-11-22</td></tr>
+<tr><td>Pernod Ricard Winemakers</td><td>Data Intelligence Specialist</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Stagiaire Controleur Financier</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance (h/f)</td><td>32 Rue Henri Martin</td><td>2026-11-22</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Technicien Électromécanique/ Électrotechnique (h/f)</td><td>Nice</td><td>2026-11-22</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Technicien De Maintenance (h/f)</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Électromécanicien</td><td>Annet</td><td>2026-11-22</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Agent Qualifié De Maintenance Industrielle F/h</td><td>VéNestanville</td><td>2026-11-22</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance H/f Sainte Cécile (50)</td><td>Sainte-CéCile</td><td>2026-11-22</td></tr>
+<tr><td>Suez Group</td><td>Technicien maintenance analyseur – H/F</td><td>Grenoble</td><td>2026-11-22</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Technicien De Maintenance Électrotechnique F/h</td><td>Mignieres</td><td>2026-11-22</td></tr>
+<tr><td>Sector Alarm France</td><td>Conseiller Technique À Distance H/f</td><td>Rennes</td><td>2026-11-22</td></tr>
+<tr><td>Grand Frais</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdi 25h - Arcueil</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Boulanger</td><td>Vendeur Conseil - Cdd Temps Plein H/f</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>External Career Site PROSOL</td><td>Vendeur h/f</td><td>Annecy</td><td>2026-11-22</td></tr>
+<tr><td>The North Face</td><td>Sales Associate - Vendeur (h/f) - Cdi 17h - The North Face - Lyon</td><td>Lyon</td><td>2026-11-22</td></tr>
+<tr><td>Dim</td><td>Conseiller(e) De Vente H/f Cdd 35h One Nation</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Capri</td><td>Cdd 35h (shop Sales Associate) - Galeries Lafayette Accesoires</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>LOVISA</td><td>Vendeur(euse) En Cdi 19h</td><td>Nice</td><td>2026-11-22</td></tr>
+<tr><td>Forward Global</td><td>Stage - Chargé De Projet Événementiel (h/f)</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga – Stagiaire Gestion Des Achats Des Composants Rtw – Février 2027 (f/h)</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>BALENCIAGA S.A.S.</td><td>Balenciaga - Stagiaire Gestion Des Achats Composant Couture - Février 2027 (f/h)</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Orange</td><td>Stage - Assistant.e Marketing Sosh Mobile</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Louis Vuitton</td><td>Stage – Assistant.e Paid Search (f/h) – Jan 2027</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Beyond Yoga</td><td>Hr Assistant - Stage De 6 Mois</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Ami Paris</td><td>Stage - Assistant.e Achats Et Développements Composants H/f</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Louis Vuitton</td><td>Stage - Gestion De Projets Et Développement De Produits Home & Lifestyle (f/h) - Mars 2027</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Louis Vuitton</td><td>Stage – Assistant.e Chef.fe De Projet Events/art De La Table & Hospitality (h/f) – Mars 2027</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Brinks</td><td>Assistant(e) Commercial Et Adv H/f</td><td>Fra</td><td>2026-11-22</td></tr>
+<tr><td>IDEMIA</td><td>Executive Assistant</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>lactalisexperience</td><td>Agent Logistique (h/f) L'hermitage (35)</td><td>L'Hermitage</td><td>2026-11-22</td></tr>
+<tr><td>Orange</td><td>Stage Assistant Et Animation Digitale F/h</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Arkema France</td><td>Gestionnaire Administratif - H/f/x</td><td>Lyon</td><td>2026-11-22</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Assistante De Direction (f/h)</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Stage Acheteur Direct France H/f</td><td>Paris</td><td>2026-11-22</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Assistant Administration Des Ventes Grands Comptes (h/f)</td><td>Rouen</td><td>2026-11-22</td></tr>
 </table>
