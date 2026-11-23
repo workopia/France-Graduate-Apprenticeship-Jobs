@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-22",
- "count": 882,
+ "asOf": "2026-11-23",
+ "count": 881,
  "jobs": {
   "06317e8d3ec16dde9954ba21cb2f610d": {
    "id": "06317e8d3ec16dde9954ba21cb2f610d",
@@ -3078,12 +3078,6 @@
    "id": "63596d71cb986dedafa2884883c1308f",
    "company": "Forvis Mazars",
    "role": "Stagiaire Consultant Erp Transformation - Janvier 2027 (h/f)",
-   "location": "Paris"
-  },
-  "c64d3c771a59cad917bdc83e2ef98eec": {
-   "id": "c64d3c771a59cad917bdc83e2ef98eec",
-   "company": "BlaBlaCar",
-   "role": "Strategy & Business Analyst Intern",
    "location": "Paris"
   },
   "84023ad1e442646887e01094e766feb4": {

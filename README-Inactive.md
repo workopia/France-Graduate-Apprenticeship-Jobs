@@ -11316,4 +11316,5 @@
 <tr><td>Veolia Environnement SA</td><td>Assistante De Direction (f/h)</td><td>Paris</td><td>2026-11-22</td></tr>
 <tr><td>VitalAire Canada Inc</td><td>Stage Acheteur Direct France H/f</td><td>Paris</td><td>2026-11-22</td></tr>
 <tr><td>Veolia Environnement SA</td><td>Assistant Administration Des Ventes Grands Comptes (h/f)</td><td>Rouen</td><td>2026-11-22</td></tr>
+<tr><td>BlaBlaCar</td><td>Strategy & Business Analyst Intern</td><td>Paris</td><td>2026-11-23</td></tr>
 </table>

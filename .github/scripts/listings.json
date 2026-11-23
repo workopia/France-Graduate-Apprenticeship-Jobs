@@ -9,11 +9,11 @@
   "site_slug": "france",
   "lang": "fr",
   "site_live": true,
-  "as_of": "2026-11-22",
+  "as_of": "2026-11-23",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 10886,
-  "generated_at": "2026-11-22T00:50:29.645Z"
+  "country_live_total": 10872,
+  "generated_at": "2026-11-23T00:58:04.660Z"
  },
  "categories": [
   {
@@ -8792,23 +8792,6 @@
    "date_posted": "2026-09-25T07:35:58.546Z",
    "active": true,
    "url": "https://workopia.io/jobs/63596d71cb986dedafa2884883c1308f",
-   "category": "finance",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": "€1,600/mo",
-   "id": "c64d3c771a59cad917bdc83e2ef98eec",
-   "source": "Workopia",
-   "company_name": "BlaBlaCar",
-   "company_hi_slug": "blablacar",
-   "title": "Strategy & Business Analyst Intern",
-   "location": "Paris",
-   "skills": "Strong analytical and , Excellent communicatio",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-23T09:13:08.619Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/c64d3c771a59cad917bdc83e2ef98eec",
    "category": "finance",
    "tier": "Intern"
   },
