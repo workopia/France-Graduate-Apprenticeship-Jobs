@@ -11317,4 +11317,31 @@
 <tr><td>VitalAire Canada Inc</td><td>Stage Acheteur Direct France H/f</td><td>Paris</td><td>2026-11-22</td></tr>
 <tr><td>Veolia Environnement SA</td><td>Assistant Administration Des Ventes Grands Comptes (h/f)</td><td>Rouen</td><td>2026-11-22</td></tr>
 <tr><td>BlaBlaCar</td><td>Strategy & Business Analyst Intern</td><td>Paris</td><td>2026-11-23</td></tr>
+<tr><td>BOUYGUES CONSTRUCTION IT SNC</td><td>Stagiaire Conduite De Travaux</td><td>France</td><td>2026-11-24</td></tr>
+<tr><td>lactalisexperience</td><td>Stagiaire (h/f) Commercial Grands Comptes (4/6 Mois) Torcé (35 - Prox. Rennes)</td><td>Torcé</td><td>2026-11-24</td></tr>
+<tr><td>Givaudan</td><td>Formulation Intern</td><td>Pomacle</td><td>2026-11-24</td></tr>
+<tr><td>Orange</td><td>Stage – Développeur : Api Et Connectivité H/f</td><td>Sevigne</td><td>2026-11-24</td></tr>
+<tr><td>Schneider Electric</td><td>Stage – Construction D’analytics De Contrôle Des Données – F/h</td><td>Ennery</td><td>2026-11-24</td></tr>
+<tr><td>ENACO</td><td>Alternance - Assistant(e) De Direction En Apprentissage H/f</td><td>Paris</td><td>2026-11-24</td></tr>
+<tr><td>Procter & Gamble (P&G)</td><td>Analysis & Insights Internship (stagiaire Data Analyst)</td><td>Paris</td><td>2026-11-24</td></tr>
+<tr><td>Greenly</td><td>Ai Content Engineer</td><td>Paris</td><td>2026-11-24</td></tr>
+<tr><td>Pierre Fabre</td><td>Data Analyst Finance – Epm & Bi - Stage - H/f</td><td>Toulouse</td><td>2026-11-24</td></tr>
+<tr><td>Big Mamma Group</td><td>Comptable International (h/f)</td><td>Paris</td><td>2026-11-24</td></tr>
+<tr><td>Vestas</td><td>Service Technician Fruges</td><td>Fruges</td><td>2026-11-24</td></tr>
+<tr><td>Murfy</td><td>Reconversion - Réparateur Electroménager F/h</td><td>Marseille</td><td>2026-11-24</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance H/f</td><td>Vert</td><td>2026-11-24</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance Industrielle H/f</td><td>Roullet St Estephe</td><td>2026-11-24</td></tr>
+<tr><td>Danaher</td><td>Field Service Engineer ( Ingénieur Service Clients) D/f/m</td><td>Paris</td><td>2026-11-24</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Cdd - Technicien Exploitation Assainissement H/f</td><td>Paris</td><td>2026-11-24</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Technicien Maintenance Ascenseurs H/f À Marseille (13)</td><td>Marseille</td><td>2026-11-24</td></tr>
+<tr><td>Testia</td><td>H/f Opérateur Maintenance Outillages</td><td>Bordeaux Area +1</td><td>2026-11-24</td></tr>
+<tr><td>Mango</td><td>Multifunctional Sales Associate</td><td>Paris</td><td>2026-11-24</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur h/f</td><td>Lille</td><td>2026-11-24</td></tr>
+<tr><td>fresh.</td><td>Vendeur h/f</td><td>Toulouse</td><td>2026-11-24</td></tr>
+<tr><td>Samsonite</td><td>Seller</td><td>Paris</td><td>2026-11-24</td></tr>
+<tr><td>The North Face</td><td>Sales Associate - Vendeur (h/f) - Cdd 20h - The North Face - Lyon</td><td>Lyon</td><td>2026-11-24</td></tr>
+<tr><td>THALES</td><td>Stage - Coordinateur Lot Expédition - F/h</td><td>Cholet 2</td><td>2026-11-24</td></tr>
+<tr><td>Egis Group</td><td>Stagiaire Bac+4 – Coordinateur De Projet Innovation Climat À La Fondation Egis H/f</td><td>Paris</td><td>2026-11-24</td></tr>
+<tr><td>Egis in ANZ</td><td>Stagiaire Bac+4 – Coordinateur De Projet Innovation Climat À La Fondation Egis H/f</td><td>Paris</td><td>2026-11-24</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Assistant Technico Administratif H/f</td><td>Aix En Provence</td><td>2026-11-24</td></tr>
 </table>
