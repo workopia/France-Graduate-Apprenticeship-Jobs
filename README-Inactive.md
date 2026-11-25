@@ -11344,4 +11344,67 @@
 <tr><td>Egis Group</td><td>Stagiaire Bac+4 – Coordinateur De Projet Innovation Climat À La Fondation Egis H/f</td><td>Paris</td><td>2026-11-24</td></tr>
 <tr><td>Egis in ANZ</td><td>Stagiaire Bac+4 – Coordinateur De Projet Innovation Climat À La Fondation Egis H/f</td><td>Paris</td><td>2026-11-24</td></tr>
 <tr><td>Veolia Environnement SA</td><td>Assistant Technico Administratif H/f</td><td>Aix En Provence</td><td>2026-11-24</td></tr>
+<tr><td>Accor</td><td>Chief of Staff Intern – Design, Technical Services & Innovation — Internship F/M/X</td><td>Issy-Les-Moulineaux +1</td><td>2026-11-25</td></tr>
+<tr><td>Kepler Cheuvreux</td><td>Internship - Equity Research Analyst Autos &amp; Utilities</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Dev Audio Hiflow</td><td>Stagiaire Finance</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Gameloft Brisbane</td><td>M&a Analyst Intern - Janvier (6 Mois)</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Balenciaga</td><td>Balenciaga - Client Experience & Events Intern - January 2027 (f/m)</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Stage Ressources Humaines (à Partir De Janvier 2027 - 6 Mois) (h/f)</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Danone</td><td>Internship - Dairy Innovation Pipeline Manger - January (h/f)</td><td>Limonest +1</td><td>2026-11-25</td></tr>
+<tr><td>Papernest</td><td>Revenue Growth Strategist Intern</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Lactalis Group</td><td>Stagiaire (h/f) Commercial Grands Comptes (4/6 Mois) Torcé (35 - Prox. Rennes)</td><td>France</td><td>2026-11-25</td></tr>
+<tr><td>Renault Group</td><td>Ap26 - Bac+5 - Apprentissage Ingénieur Traitement De Surface H/f</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>THALES</td><td>Stage - Intégration De L’ia Pour Le Développement Fpga - H/f</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Sia Partners</td><td>Stage De Fin D'études - Cybersecurity Software Engineer</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Forvis Mazars UK</td><td>Analyste Junior - Forward Deployed Software Engineer -2026 - H/f</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>THALES</td><td>Ingénieur Développement Logiciel Temps Réel F.h</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>dacia</td><td>Cs27 Bac+5 - Stage - Data Scientist (h/f)</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Bertrandt Group</td><td>Stage - Développement En Ia Appliquée Au Powertrain (h/f)</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>THALES</td><td>Stage Data Analyst - F/h</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>THALES</td><td>Stage Ingénieur - Ergonomie - Ux Assistée Par Ia - F/h</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>AXA UK</td><td>Data Scientist Actuaire (f/h) - Stage</td><td>Marseille +1</td><td>2026-11-25</td></tr>
+<tr><td>AXA UK</td><td>Stage Ingénieur Automatisation Et Ia</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Sonepar Group</td><td>Cybersecurity Iam Engineer</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>AXA UK</td><td>Stage Mars 2027 - Data Analyst (f/h)</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Orange</td><td>Stage Data Analyst Spécialisé Outils Llm F/h</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Orange</td><td>Stage - Chargé D'analyse De Données F/h</td><td>Toulouse</td><td>2026-11-25</td></tr>
+<tr><td>Saint Laurent</td><td>Saint Laurent Stagiaire Ww Retail Omnichannel Business Analyst</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Forvis Mazars</td><td>Stagiaire Consultant Erp Transformation - Janvier 2027 (h/f)</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Talan</td><td>Business Analyst Risque De Marché - H/f</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Talan</td><td>Business Analyst Trade Finance - H/f</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>AFRY</td><td>Stage - Conseil En Stratégie - Energie</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>THALES</td><td>Comptable Clients H/f</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Comptable Général.e Et Fiscal.e Confirmé.e (f/h)</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Technicien En Stations D’épuration Et Postes De Relèvement (assainissement) H/f</td><td>Saint</td><td>2026-11-25</td></tr>
+<tr><td>Amazon</td><td>Technicien de Maintenance M/F</td><td>Derval</td><td>2026-11-25</td></tr>
+<tr><td>Suez Group</td><td>Technicien assainissement - H/F</td><td>Brie Comte Robert</td><td>2026-11-25</td></tr>
+<tr><td>Suez Group</td><td>Electromécanicien H/F</td><td>Trappes</td><td>2026-11-25</td></tr>
+<tr><td>Suez Group</td><td>Technicien de Maintenance électromécanique H/F</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>FAAC Group</td><td>Technicien De Maintenance Itinérant H/f</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Technicien Multitechniques H/f</td><td>Lyon</td><td>2026-11-25</td></tr>
+<tr><td>Fortil Group</td><td>Technicien Maintenance Fluides (h/f)</td><td>Bordeaux</td><td>2026-11-25</td></tr>
+<tr><td>Fortil Group</td><td>Technicien Maintenance Cta/cvc (h/f)</td><td>Bordeaux</td><td>2026-11-25</td></tr>
+<tr><td>Intermarche</td><td>Technicien Méthodes Maintenance (h/f)</td><td>Charmes</td><td>2026-11-25</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Technicien Usines Exploitation (h/f)</td><td>Nevers</td><td>2026-11-25</td></tr>
+<tr><td>Bosch Rexroth</td><td>Technicien De Maintenance Chauffage Froid - Courbevoie - F/h/n</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Intermarche</td><td>Technicien De Maintenance H/f (matin/après-midi)</td><td>Cornillé</td><td>2026-11-25</td></tr>
+<tr><td>STMicroelectronics</td><td>Cdi - Technicien Maintenance Cvd/pvd F/h - Equipe De Nuit</td><td>Rousset</td><td>2026-11-25</td></tr>
+<tr><td>Orange</td><td>Ingénieur De Production Et Maintenance Téléport F/h</td><td>Seine</td><td>2026-11-25</td></tr>
+<tr><td>Eiffage Énergie Systèmes</td><td>Electromécanicien F/h</td><td>Bordeaux</td><td>2026-11-25</td></tr>
+<tr><td>Cultura / Cultura Group</td><td>Conseiller(e) De Vente Pce</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>fresh.</td><td>Vendeur h/f</td><td>Nantes</td><td>2026-11-25</td></tr>
+<tr><td>laboulangeriedumarche.fr</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>External Career Site PROSOL</td><td>Vendeur h/f</td><td>Lyon</td><td>2026-11-25</td></tr>
+<tr><td>Grand Frais</td><td>Vendeur h/f</td><td>Lyon</td><td>2026-11-25</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdd 35h - Parly</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente - 25h Cdi H/f/x</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>VF Corporation</td><td>Sales Associate - Vendeur (h/f) - Cdd 20h - The North Face - Lyon</td><td>Lyon</td><td>2026-11-25</td></tr>
+<tr><td>VF Corporation</td><td>Sales Associate - Vendeur (h/f) - Cdi 17h - The North Face - Lyon</td><td>Lyon</td><td>2026-11-25</td></tr>
+<tr><td>Cultura / Cultura Group</td><td>Conseiller De Vente Loisirs Créatifs</td><td>Bordeaux</td><td>2026-11-25</td></tr>
+<tr><td>Tumi</td><td>Seller</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Orange</td><td>Stage De Chargé-e De Projet Dans Le Domaine De La Sécurité & Sûreté</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Givaudan</td><td>Assistant(e) Services Généraux</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Mango</td><td>Responsable Adjoint/e // Cdi 35h</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Mistral AI</td><td>Executive Assistant To Vp, Cloud & Vp, Product</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Ami Paris</td><td>Stage - Assistant.e Achats Matières H/f</td><td>Paris</td><td>2026-11-25</td></tr>
 </table>
