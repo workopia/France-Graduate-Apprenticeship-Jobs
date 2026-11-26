@@ -11407,4 +11407,44 @@
 <tr><td>Mango</td><td>Responsable Adjoint/e // Cdi 35h</td><td>Paris</td><td>2026-11-25</td></tr>
 <tr><td>Mistral AI</td><td>Executive Assistant To Vp, Cloud & Vp, Product</td><td>Paris</td><td>2026-11-25</td></tr>
 <tr><td>Ami Paris</td><td>Stage - Assistant.e Achats Matières H/f</td><td>Paris</td><td>2026-11-25</td></tr>
+<tr><td>Wheely</td><td>Operations Intern</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>The Estée Lauder Companies Inc.</td><td>EMEA Earned & Owned Media Assistant Intern</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>ANINE BING</td><td>Credit Control Intern</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>SALESFORCE</td><td>Intern, Futureforce University Recruiting</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>Medtronic PLC</td><td>Intern: Graduate( Non-tech)</td><td>Lyon</td><td>2026-11-26</td></tr>
+<tr><td>Euronext</td><td>Quant Analyst Intern</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>Seppic Inc</td><td>Internship - Seppic - Market Analysis Intern - Pharmaceutical Excipients M/f</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>Scaleway</td><td>R&d Intern - Machine Learning</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Stage 2027 - Développeur D'applications (f/h)</td><td>Toulouse Area</td><td>2026-11-26</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Ia Engineer H/f</td><td>Saint</td><td>2026-11-26</td></tr>
+<tr><td>STMicroelectronics</td><td>Cdi - Ingénieur(e) Data Scientist F/h</td><td>Rousset</td><td>2026-11-26</td></tr>
+<tr><td>Jobgether</td><td>Ai Developer</td><td>France</td><td>2026-11-26</td></tr>
+<tr><td>Jobgether</td><td>Ai Automation Specialist For Podcast Production (longform, Shorts, Social Media)</td><td>France</td><td>2026-11-26</td></tr>
+<tr><td>Forvis Mazars UK</td><td>Analyste Junior Corporate Finance M&a - Paris - 2027 H/f</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>Nemera</td><td>Technicien De Maintenance Industrielle - F/h/x</td><td>Lyon</td><td>2026-11-26</td></tr>
+<tr><td>Thales Group</td><td>Technicien Maintenance Industrielle - F/h</td><td>Toulouse</td><td>2026-11-26</td></tr>
+<tr><td>Henry Schein</td><td>Technicien De Maintenance Itinérant</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>Otis</td><td>Technicien De Travaux - Modernisation (h/f)</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>Rockwool AS</td><td>Technicien Expert Domaine Parc Roulant</td><td>Saint ÉLoy</td><td>2026-11-26</td></tr>
+<tr><td>ARIANE Group SaS</td><td>Stage - Technicienne / Technicien Méthodes Maintenance</td><td>Bordeaux</td><td>2026-11-26</td></tr>
+<tr><td>RESMED PTY</td><td>Technicien(ne) Sav</td><td>Lyon</td><td>2026-11-26</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Technicien De Maintenance Industrie Pharmaceutique - Technicien Production- Cdi - H/f</td><td>Loiret (45)</td><td>2026-11-26</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Technicien De Maintenance</td><td>Loiret</td><td>2026-11-26</td></tr>
+<tr><td>Pierre Fabre</td><td>Technicien De Maintenance Industrie Pharmaceutique - Conditionnement - Cdi - H/f</td><td>Loiret</td><td>2026-11-26</td></tr>
+<tr><td>Pierre Fabre Laboratories</td><td>Technicien Magasin De Maintenance</td><td>Loiret</td><td>2026-11-26</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Technicien Maintenance Ascenseurs H/f</td><td>Lyon +1</td><td>2026-11-26</td></tr>
+<tr><td>Seppic Inc</td><td>Technicien Maintenance Analyse Instrumentation F/h</td><td>Marseille</td><td>2026-11-26</td></tr>
+<tr><td>Chubb Corp</td><td>Technicien(ne) De Maintenance Systèmes De Sécurité Incendie /ssi</td><td>Lille</td><td>2026-11-26</td></tr>
+<tr><td>Keolis</td><td>Technicien Matériel Embarqué F/h</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>Orange</td><td>Stage - Technicien Service Client Owf F/h</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Conseiller(e) De Vente</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>La Casa de las Carcasas</td><td>Vendeur Renfort Noël (h/f) - Cdd 20h - Rosny Sous Bois</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>La Casa de las Carcasas</td><td>Vendeur Renfort Noël - Cdd 20h - Villeneuve La Garenne</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>Soeur</td><td>Cdd - Vendeur.euse 35h (paris)</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>H&M</td><td>Vendeurs (f/h) - Cdi 25h - Chambourcy</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>santecie</td><td>Assistant(e) Administratif(ve)</td><td>Toulouse</td><td>2026-11-26</td></tr>
+<tr><td>dacia</td><td>Cs27 - Bac+5 Assistant Marketing Communication International (h/f)</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>Louis Vuitton</td><td>Stage – Assistant.e Chargé.e De Ressources Humaines & Talent Acquisition Campus (f/h) – Juillet 2027</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>JDE Peet's</td><td>Stage - Assistant(e) Ressources Humaines / L’or - Senseo – Tassimo</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>Dim</td><td>Chargé(e) De Projets E-commerce (h/f) - Stage 6 Mois</td><td>Paris</td><td>2026-11-26</td></tr>
 </table>
