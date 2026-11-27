@@ -11447,4 +11447,51 @@
 <tr><td>Louis Vuitton</td><td>Stage – Assistant.e Chargé.e De Ressources Humaines & Talent Acquisition Campus (f/h) – Juillet 2027</td><td>Paris</td><td>2026-11-26</td></tr>
 <tr><td>JDE Peet's</td><td>Stage - Assistant(e) Ressources Humaines / L’or - Senseo – Tassimo</td><td>Paris</td><td>2026-11-26</td></tr>
 <tr><td>Dim</td><td>Chargé(e) De Projets E-commerce (h/f) - Stage 6 Mois</td><td>Paris</td><td>2026-11-26</td></tr>
+<tr><td>Forvis Mazars UK</td><td>Stagiaire - Expertise Comptable – Lille – Janvier 2027 H/f</td><td>Lille</td><td>2026-11-27</td></tr>
+<tr><td>Givaudan</td><td>Pricing Internship</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage - Modélisation Multi-échelle D’un Réacteur D’épitaxie Cvd F/h</td><td>Grenoble</td><td>2026-11-27</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage - Management Des Projets D’intelligence Artificielle H/f</td><td>Grenoble</td><td>2026-11-27</td></tr>
+<tr><td>STMicroelectronics</td><td>Stage - Automatisation Du Développement De Tests Industriels Avec L’ia F/h</td><td>Grenoble</td><td>2026-11-27</td></tr>
+<tr><td>Estée Lauder</td><td>Emea Earned & Owned Media Assistant Intern</td><td>Neuilly Sur Seine +1</td><td>2026-11-27</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Hr & Transformation</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Consultant/e Sap - Bl Sap Ara - Lyon</td><td>Lyon +1</td><td>2026-11-27</td></tr>
+<tr><td>Danone</td><td>Internship - Hr Intern General Secretary Functions - January 2027 - (m/f)</td><td>Paris +1</td><td>2026-11-27</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Stage - Logistique (h/f)</td><td>Gervais</td><td>2026-11-27</td></tr>
+<tr><td>Ardian</td><td>Private Equity-co-investment Stage - Juillet 2027 / Paris (m/f)</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>Thales Group</td><td>Stage – Développement D'écrans De Cockpit Nouvelle Génération – F/h</td><td>Grenoble</td><td>2026-11-27</td></tr>
+<tr><td>Thales Group</td><td>Stagiaire Droit Résolution Des Litiges Et Contentieux</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>GE Vernova</td><td>Stage - Simulation Numérique Multiphysique - Disjoncteur Haute Tension F/h</td><td>Lyon</td><td>2026-11-27</td></tr>
+<tr><td>ARQUUS</td><td>Arquus Alternance - Electricien Prototypiste Bac+2/3 (h/f)</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>ENACO</td><td>Alternance - Assistant(e) Administratif(ve)/commercial(e) En Apprentissage H/f</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>QSRP</td><td>Legal Analyst (apprentissage)</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>Murex</td><td>Software Engineer C++</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>dacia</td><td>Cs27 Stage Bac+5 Développement Logiciel Pour Réaliser Des Mesures Eis D’une Batterie Haute Tension Dans Le Calculateur Bms (h/f)</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stage - 6 Mois - Ingénierie Développement Logiciel - Outil De Gesiton Des Compétences F/h</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>Orange</td><td>Data Scientist F/h</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>NXP USA INC.</td><td>Junior Agentic Ai Software Engineer</td><td>Sophia</td><td>2026-11-27</td></tr>
+<tr><td>SCOR</td><td>Stage - Validation De Modèles D’intelligence Artificielle</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Stage - Explainable Ai (xai) For Industrial Applications: Literature Review And Implementation On Real Use Cases - H/f</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>THALES</td><td>Data Analyst Expérimenté (h/f)</td><td>Lyon</td><td>2026-11-27</td></tr>
+<tr><td>THALES</td><td>Ingénieur Ia Générative Et Plateformes Agentiques (f/h)</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>Valeo Service</td><td>Stage - Ingénieur(e) R&d – Ia Pour Véhicules Autonomes (f/h)</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>Forvis Mazars UK</td><td>Auditeur Financier Junior - Lille - Décembre 2026 (h/f)</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>AstraZeneca</td><td>Attaché De Recherche Clinique Oncologie (h/f)</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Technicien De Maintenance H/f</td><td>Tremblay</td><td>2026-11-27</td></tr>
+<tr><td>KONE GmbH</td><td>Technicien Maintenance Portes Automatiques H/f</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance (h/f)</td><td>1 Rue A Pommery</td><td>2026-11-27</td></tr>
+<tr><td>Siemens AG</td><td>Technicien Maintenance En Systèmes De Sécurité Incendie F/h</td><td>Lyon - Auvergne-RhôNe-Alpes - France +2</td><td>2026-11-27</td></tr>
+<tr><td>Keolis</td><td>Mainteneur Voie Ferrée F/h 1</td><td>Dijon +1</td><td>2026-11-27</td></tr>
+<tr><td>lactalisexperience</td><td>Technicien De Maintenance Industrielle (h/f) Châteaubourg (35)</td><td>Rennes</td><td>2026-11-27</td></tr>
+<tr><td>HARTMANN</td><td>Technicien Méthodes De Maintenance (h/f)</td><td>Liepvre</td><td>2026-11-27</td></tr>
+<tr><td>Alstom</td><td>Mecanicien De Maintenance Engins Ferroviaire (h/f)</td><td>Mignieres</td><td>2026-11-27</td></tr>
+<tr><td>Vestas</td><td>Service Technician Niort</td><td>Niort +1</td><td>2026-11-27</td></tr>
+<tr><td>Arjo AB</td><td>Technicien De Maintenance Préventive H/f - Nouvelle-aquitaine</td><td>Bordeaux +1</td><td>2026-11-27</td></tr>
+<tr><td>Amazon</td><td>Technicien Maintenance (H/F)</td><td>Satolas-Et-Bonce</td><td>2026-11-27</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Stage - Spécialiste Maintenabilité F/h</td><td>Bulle +1</td><td>2026-11-27</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Technicien Service Atelier (h/f), Engins Tp - Cdi - Taverny 95</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>Senior Bird Bellows</td><td>Technicien Maintenance H/f</td><td>Fossé</td><td>2026-11-27</td></tr>
+<tr><td>Grand Frais</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>fresh.</td><td>Vendeur h/f</td><td>Toulouse</td><td>2026-11-27</td></tr>
+<tr><td>Valeor</td><td>Directeur De Magasin Adjoint H/f</td><td>AäSgard Quimper</td><td>2026-11-27</td></tr>
+<tr><td>Bricks Team</td><td>Assistant·e Marketing &amp; Communication (stage)</td><td>Paris</td><td>2026-11-27</td></tr>
 </table>
