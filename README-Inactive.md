@@ -11494,4 +11494,83 @@
 <tr><td>fresh.</td><td>Vendeur h/f</td><td>Toulouse</td><td>2026-11-27</td></tr>
 <tr><td>Valeor</td><td>Directeur De Magasin Adjoint H/f</td><td>AäSgard Quimper</td><td>2026-11-27</td></tr>
 <tr><td>Bricks Team</td><td>Assistant·e Marketing &amp; Communication (stage)</td><td>Paris</td><td>2026-11-27</td></tr>
+<tr><td>Centumtns</td><td>Stage Logiciel : Interfaçage De Microphones Mems Sur Stm32 H/f</td><td>Lyon</td><td>2026-11-28</td></tr>
+<tr><td>Allianz SE</td><td>Internship - Macro Data Intern (w/m)</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>MEDTRONIC</td><td>Intern: Graduate( Non-tech)</td><td>Lyon</td><td>2026-11-28</td></tr>
+<tr><td>Parkline Inc</td><td>Supply Chain Intern</td><td>AndréZieux +1</td><td>2026-11-28</td></tr>
+<tr><td>Thales Group</td><td>Stage – Évaluation De La Performance Humaine À L’usage De Fonctions Avancées De Cockpit – F/h</td><td>Bordeaux</td><td>2026-11-28</td></tr>
+<tr><td>Thales Group</td><td>Stage - Fablab Mécanique - F/h</td><td>Mantes La Jolie</td><td>2026-11-28</td></tr>
+<tr><td>Thales Group</td><td>Stage - Intelligence Artificielle Et Transformation Industrielle - F/h</td><td>Mantes La Jolie</td><td>2026-11-28</td></tr>
+<tr><td>Thales Group</td><td>Stage - Simulateur Aérothermique - F/h</td><td>Mantes La Jolie</td><td>2026-11-28</td></tr>
+<tr><td>GE Vernova</td><td>Stagiaire</td><td>Bourogne</td><td>2026-11-28</td></tr>
+<tr><td>OTB S.p.A</td><td>Shoes Designer Intern - March 2027</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Herbert Smith Freehills</td><td>Stagiaire Énergie Et Infrastructure - 1er Semestre 2027 (publiciste)</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Herbert Smith Freehills</td><td>Stagiaire Corporate - 1er Semestre 2028</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>BNY</td><td>Internship Program - 2027 - (paris, France)</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Nomura</td><td>Portfolio Risk and Risk Governance Internship</td><td>London +1</td><td>2026-11-28</td></tr>
+<tr><td>Mistral AI</td><td>AI Scientist Internship</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>createyourowncareer</td><td>Events And Public Relations Internship – 6 Months (m/f/d)</td><td>Neuilly Sur Seine +1</td><td>2026-11-28</td></tr>
+<tr><td>Airbnb</td><td>Brand Marketing Intern, France</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>EPI Company SE</td><td>Field Marketing &amp; Events Intern (6 Months) - Paris</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Scaleway</td><td>Administrative Customer Care Officer - Internship</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>ARQUUS</td><td>Arquus Alternance - Gestion De Projets Industriels Bac+5 (h/f) Bac +3/4/5 (h/f)</td><td>Nantes</td><td>2026-11-28</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Fabrication Additive Et Jumeau Numérique -f/h</td><td>Toulouse</td><td>2026-11-28</td></tr>
+<tr><td>THALES</td><td>Stage – Ingénieur Maintenance Électronique & Moyens De Test – F/h</td><td>Mantes La Jolie</td><td>2026-11-28</td></tr>
+<tr><td>ChapsVision</td><td>Alternance Ml Software Engineer</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>AXA UK</td><td>Stage - Software Engineer (f/h)</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Synechron</td><td>C++ Software Engineer – Devops & Ci/cd - Paris</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Labelium</td><td>Stage Fe - Software Engineer Full Stack (h-f)</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>THALES</td><td>Stage - Ingénieur Optimisation Algorithmique Sous Java 25 - F/h</td><td>Toulouse</td><td>2026-11-28</td></tr>
+<tr><td>Artefact</td><td>Ai Applied Engineer</td><td>Capital Tower</td><td>2026-11-28</td></tr>
+<tr><td>Thales Group</td><td>Data Analyst - Support Service Client Europe (f/h)</td><td>Toulouse</td><td>2026-11-28</td></tr>
+<tr><td>Thales Group</td><td>Stage – Ingénieur De Recherche Détection De Backdoors Dans Les Grands Modèles De Langage (h/f)</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Hemeria</td><td>Stage: Évaluation Et Intégration D’algorithmes De Détection Et Suivi D’objets Par Deep Learning (f/h)</td><td>16000 AngoulêMe</td><td>2026-11-28</td></tr>
+<tr><td>Sopra Steria</td><td>Stage De Fin D’étude – Ingénieur(e) Ia/ml – Prototypage D’un Modèle De Reconnaissance Vocale Des Communications Radio (aéronautique)</td><td>Le Plessis</td><td>2026-11-28</td></tr>
+<tr><td>Mistral AI</td><td>Ai Scientist - Agentic Engineering</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Mistral AI</td><td>Research Engineer - Tokenizer & Protocols</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Accenture</td><td>Stage - Ingénieur Digital Foundations – Cloud, Software Engineering & Agentic Ai</td><td>Paris +1</td><td>2026-11-28</td></tr>
+<tr><td>CMA CGM Group</td><td>Stage - Data Scientist - Agentic Ai & Deep Learning (projet Rafa)</td><td>Marseille</td><td>2026-11-28</td></tr>
+<tr><td>Siemens AG</td><td>Stage - Agentic Ai & Virtual Validation Workflow For Automotive Electronics F/m - Strategic Student Program</td><td>Toulouse +2</td><td>2026-11-28</td></tr>
+<tr><td>Shifttechnology</td><td>Data Scientist - France</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Bureau Veritas</td><td>Data Analyste / Data Analyst - Stage (f-h-x)</td><td>Marseille</td><td>2026-11-28</td></tr>
+<tr><td>Groupe OPEN</td><td>Ingénieur Ia (h/f)</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Jobgether</td><td>Ai Creator (contract)</td><td>France</td><td>2026-11-28</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Ai Integrations</td><td>France</td><td>2026-11-28</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+5 - Data Analyst Ia/cfd (h/f)</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>dacia</td><td>Cs27 - Stage - Bac+5 - Ingénieur Data Prestations Clients (h/f)</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Forvis Mazars UK</td><td>Stagiaire De Fin D'études Ingénieur Analyste Financier Transaction Services -2027 H/f</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Sopra Steria</td><td>Stage - Business Analyst - Tests De Systèmes - Air Traffic Management - Toulouse</td><td>Toulouse</td><td>2026-11-28</td></tr>
+<tr><td>Orange</td><td>Business Analyst Salesforce F/h</td><td>Toulouse</td><td>2026-11-28</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Clinical Research Associate Intern</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Ebenezer</td><td>Registered Nurse - Rn</td><td>Aurora On France</td><td>2026-11-28</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance (h/f)</td><td>Bordeaux</td><td>2026-11-28</td></tr>
+<tr><td>Testia</td><td>Stage 2027 – Ia & Machine Learning : Données Techniques De Maintenance (h/f)</td><td>Toulouse Area</td><td>2026-11-28</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Technicien Maintenance Ascenseurs H/f À Montpellier (34)</td><td>Montpellier +1</td><td>2026-11-28</td></tr>
+<tr><td>HARTMANN</td><td>Liepvre Technicien Méthodes De Maintenance (hf) 68 68660</td><td>LièVre</td><td>2026-11-28</td></tr>
+<tr><td>Boulanger</td><td>Technicien Itinérant En Électroménager H/f Royan</td><td>Royan +1</td><td>2026-11-28</td></tr>
+<tr><td>Nordex SE</td><td>Technicien De Maintenance Préventive, Bapaume, Pas-de-calais (62)</td><td>Bapaume</td><td>2026-11-28</td></tr>
+<tr><td>Lactalis Group</td><td>Technicien De Maintenance Industrielle (h/f) Châteaubourg (35)</td><td>Rennes</td><td>2026-11-28</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Électromécanicien H/f</td><td>Sillery</td><td>2026-11-28</td></tr>
+<tr><td>Eurofeu - SAcuritA Incendie</td><td>Technicien Multi-services Incendie H/f</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Électromécanicien Itinérant Sur Groupes Électrogènes H/f</td><td>Dagneux</td><td>2026-11-28</td></tr>
+<tr><td>Henry Schein</td><td>Technicien De Maintenance Itinérant H/f</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Ingénieur De Maintenance H/f</td><td>Marseille</td><td>2026-11-28</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance - Escaliers Mécaniques (h/f)</td><td>32 Ave Marc Sagnier</td><td>2026-11-28</td></tr>
+<tr><td>NSA</td><td>Technicien De Maintenance (h/f) - Nsa</td><td>BOURGOIN JALLIEU</td><td>2026-11-28</td></tr>
+<tr><td>Otis</td><td>Technicien De Maintenance - Escaliers Mécaniques</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Eiffage</td><td>Technicien De Maintenance Cvc - Site Fixe F/h</td><td>Lyon</td><td>2026-11-28</td></tr>
+<tr><td>Grand Frais</td><td>Vendeur h/f</td><td>Bordeaux</td><td>2026-11-28</td></tr>
+<tr><td>External Career Site PROSOL</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Biofrais</td><td>Vendeur h/f</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Skechers U.S.A.</td><td>Conseiller De Vente H/f</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Soeur</td><td>Cdi - Vendeur.euse 35h (lyon Village)</td><td>Lyon</td><td>2026-11-28</td></tr>
+<tr><td>LOVISA</td><td>Vendeur(euse) En Cdi 25h</td><td>Nantes</td><td>2026-11-28</td></tr>
+<tr><td>The Estée Lauder Companies Inc.</td><td>CDD 35H - Conseiller de vente - Edition de Parfums Frédéric Malle - Printemps Haussmann H/F</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>La Fee Maraboutee</td><td>Conseiller/ère De Vente</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Yves Saint Laurent SAS</td><td>Saint Laurent Stage Assistant Marketing</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Chef De Projet Événements Haute Joaillerie (h/f) Stage</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Chanel</td><td>Stage - Chargé(e) De Suivi Des Projets Image Thématiques Mode Spécialisé En Contrats Et Droits Audiovisuels Et Éditions (h/f/x) - Mode – Mars 2027</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Audencia</td><td>Assistant(e) Pôle Concours Paris (h/f) Cdd</td><td>Paris-Saint-Ouen</td><td>2026-11-28</td></tr>
+<tr><td>Mama Shelter</td><td>Stagiaire Chef De Projets Evenementiels (h/f/nb) - Janvier 2027</td><td>Paris</td><td>2026-11-28</td></tr>
+<tr><td>Accor</td><td>STAGIAIRE CHEF DE PROJETS EVENEMENTIELS (H/F/NB) - JANVIER 2027</td><td>Paris</td><td>2026-11-28</td></tr>
 </table>
